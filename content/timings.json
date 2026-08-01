@@ -1,0 +1,272 @@
+{
+  "semester": "spring2026",
+  "classMinutes": 75,
+  "meetings": {
+    "2026-04-16-ai-safety": [
+      {
+        "index": 0,
+        "label": "Round 1: What Is Alignment?",
+        "plannedSeconds": 600,
+        "actualSeconds": 745,
+        "medianStudentSeconds": 663,
+        "completions": 7,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 1,
+        "label": "Round 1: Share Out",
+        "plannedSeconds": 600,
+        "actualSeconds": 534,
+        "medianStudentSeconds": 548,
+        "completions": 7,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 2,
+        "label": "Round 2: The Anthropic Dilemma",
+        "plannedSeconds": 600,
+        "actualSeconds": 513,
+        "medianStudentSeconds": 518,
+        "completions": 8,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 3,
+        "label": "Round 2: Share Out",
+        "plannedSeconds": 600,
+        "actualSeconds": 716,
+        "medianStudentSeconds": 710,
+        "completions": 7,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 4,
+        "label": "Round 3: Government and AI",
+        "plannedSeconds": 600,
+        "actualSeconds": 725,
+        "medianStudentSeconds": 765,
+        "completions": 8,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 5,
+        "label": "Round 3: Share Out",
+        "plannedSeconds": 600,
+        "actualSeconds": 1037,
+        "medianStudentSeconds": 794,
+        "completions": 8,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 6,
+        "label": "Round 4: Who Decides?",
+        "plannedSeconds": 600,
+        "actualSeconds": 1,
+        "medianStudentSeconds": 7,
+        "completions": 3,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 7,
+        "label": "Round 4: Share Out",
+        "plannedSeconds": 600,
+        "actualSeconds": 3,
+        "medianStudentSeconds": null,
+        "completions": 0,
+        "note": "",
+        "reliable": false
+      }
+    ],
+    "2026-03-10-neurons-and-networks": [
+      {
+        "index": 0,
+        "label": "Explore: Single Neuron",
+        "plannedSeconds": 600,
+        "actualSeconds": 601,
+        "medianStudentSeconds": 464,
+        "completions": 9,
+        "note": "",
+        "reliable": true
+      },
+      {
+        "index": 1,
+        "label": "Explore: Digit Network",
+        "plannedSeconds": 900,
+        "actualSeconds": 940,
+        "medianStudentSeconds": 867,
+        "completions": 9,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 2,
+        "label": "Discussion: What Did You Notice?",
+        "plannedSeconds": 300,
+        "actualSeconds": 16,
+        "medianStudentSeconds": 49,
+        "completions": 7,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 3,
+        "label": "Generate Questions",
+        "plannedSeconds": 300,
+        "actualSeconds": 342,
+        "medianStudentSeconds": 185,
+        "completions": 7,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 4,
+        "label": "Question Review",
+        "plannedSeconds": 300,
+        "actualSeconds": 232,
+        "medianStudentSeconds": 239,
+        "completions": 7,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 5,
+        "label": "Investigate",
+        "plannedSeconds": 720,
+        "actualSeconds": 763,
+        "medianStudentSeconds": 719,
+        "completions": 9,
+        "note": "",
+        "reliable": true
+      },
+      {
+        "index": 6,
+        "label": "Explain & Learn",
+        "plannedSeconds": 720,
+        "actualSeconds": 638,
+        "medianStudentSeconds": 626,
+        "completions": 9,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 7,
+        "label": "Share Out",
+        "plannedSeconds": 480,
+        "actualSeconds": 675,
+        "medianStudentSeconds": 373,
+        "completions": 6,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 8,
+        "label": "Wrap-Up",
+        "plannedSeconds": 180,
+        "actualSeconds": 2,
+        "medianStudentSeconds": 23,
+        "completions": 7,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 9,
+        "label": "Feedback",
+        "plannedSeconds": 300,
+        "actualSeconds": 259,
+        "medianStudentSeconds": 57,
+        "completions": 7,
+        "note": "",
+        "reliable": false
+      }
+    ],
+    "2026-03-03-study-guide-lab": [
+      {
+        "index": 0,
+        "label": "AI Learning Strategies",
+        "plannedSeconds": 900,
+        "actualSeconds": 597,
+        "medianStudentSeconds": 469,
+        "completions": 10,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 1,
+        "label": "Strategy Review",
+        "plannedSeconds": 300,
+        "actualSeconds": 1282,
+        "medianStudentSeconds": 843,
+        "completions": 10,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 2,
+        "label": "Class Discussion",
+        "plannedSeconds": 300,
+        "actualSeconds": 4,
+        "medianStudentSeconds": 10,
+        "completions": 10,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 3,
+        "label": "Practice Testing",
+        "plannedSeconds": 900,
+        "actualSeconds": 1110,
+        "medianStudentSeconds": 1074,
+        "completions": 10,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 4,
+        "label": "Practice Testing: Share Out",
+        "plannedSeconds": 600,
+        "actualSeconds": 469,
+        "medianStudentSeconds": 202,
+        "completions": 10,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 5,
+        "label": "Build a Study Aid",
+        "plannedSeconds": 900,
+        "actualSeconds": 875,
+        "medianStudentSeconds": 879,
+        "completions": 9,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 6,
+        "label": "Build a Study Aid: Share Out",
+        "plannedSeconds": 600,
+        "actualSeconds": 121,
+        "medianStudentSeconds": 114,
+        "completions": 10,
+        "note": "",
+        "reliable": false
+      },
+      {
+        "index": 7,
+        "label": "Feedback",
+        "plannedSeconds": 300,
+        "actualSeconds": 1149,
+        "medianStudentSeconds": 141,
+        "completions": 10,
+        "note": "",
+        "reliable": false
+      }
+    ]
+  }
+}
