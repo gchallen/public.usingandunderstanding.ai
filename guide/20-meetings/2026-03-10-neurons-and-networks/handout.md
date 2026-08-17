@@ -38,12 +38,6 @@ The tool below lets you experiment with a single neuron. Try adjusting the slide
 
 > **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 **Things to try:**
 - Use the preset challenges (AND gate, OR gate) — can you figure out what the neuron needs to do?
 - What happens when you change the activation function? How does it change the neuron's behavior?
@@ -60,12 +54,6 @@ Now let's see what happens when you connect many neurons together. The network b
 
 > **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 **Things to try:**
 - Draw a few digits and see if the network classifies them correctly. What digits does it struggle with?
 - Try the "Train" mode — watch the connections change color and thickness as the network learns from examples. Notice how the green and orange connections match the single neuron you just explored.
@@ -78,7 +66,7 @@ Now let's see what happens when you connect many neurons together. The network b
 
 #### Quick Check-In
 
-Geoff will ask a few of you to share something you noticed or something that surprised you during the exploration.
+Your instructor will ask a few of you to share something you noticed or something that surprised you during the exploration.
 
 ### Stage 4: Generate Questions
 
@@ -148,19 +136,7 @@ With your new partner, pick one of the questions above to investigate. Use the d
 
 > **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 > **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **What did you find?**
 

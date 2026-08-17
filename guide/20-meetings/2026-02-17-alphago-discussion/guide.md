@@ -100,7 +100,7 @@ _Class reconvenes to share observations_
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: Anthropomorphization
 
@@ -138,7 +138,7 @@ _Class reconvenes to share observations_
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 5: Round 3: The Mirror
 
@@ -176,7 +176,7 @@ _Class reconvenes to share observations_
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 7: Round 4: Collaboration
 
@@ -216,7 +216,7 @@ _Class reconvenes to share observations_
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 9: Wrap-Up
 

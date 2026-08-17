@@ -88,7 +88,7 @@ _Class reconvenes to share observations_
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: AI in Your Pocket
 
@@ -130,7 +130,7 @@ _Class reconvenes to share observations_
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 5: Round 3: The Specialist vs. the Generalist
 
@@ -162,17 +162,17 @@ _Expected response: What did you and your partner discuss? Generalist or special
 
 **Timing:** planned 10m
 
-_Class reconvenes; Geoff wraps the meeting_
+_Class reconvenes; your instructor wraps the meeting_
 
 > **Facilitation notes**
 >
-> This share-out is the meeting's wrap-up. Ask 2-3 pairs to share what they discussed in Round 3, then Geoff synthesizes across all three directions: "You started with efficiency (MoE), moved to access (local models), then to focus (specialization). All three are still narrow AI: systems that do specific things well. But some companies are pursuing something bigger: AGI. We'll close the loop on that next week in the Human Flourishing discussion, where it lands alongside the biggest question of all: what does it mean for humans to flourish in a world with increasingly capable AI?"
+> This share-out is the meeting's wrap-up. Ask 2-3 pairs to share what they discussed in Round 3, then your instructor synthesizes across all three directions: "You started with efficiency (MoE), moved to access (local models), then to focus (specialization). All three are still narrow AI: systems that do specific things well. But some companies are pursuing something bigger: AGI. We'll close the loop on that next week in the Human Flourishing discussion, where it lands alongside the biggest question of all: what does it mean for humans to flourish in a world with increasingly capable AI?"
 > 
 > Forward look: "Thursday is your first Final Project Workshop. You'll be building something with AI. Keep today's discussion in mind: the tools you're using represent one set of choices about how AI should work. There are others."
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 7: Feedback
 

@@ -72,7 +72,7 @@ Reopen your tool and keep going. If you can't find your previous session, just s
 - **Re-describe when stuck.** If a chat is going sideways, stop and start over describing the whole thing fresh.
 - **Aim for showable, not perfect.** In about 55 minutes, you'll show this to a few classmates. Make sure it runs.
 
-Geoff will give a two-minute warning before demo time. Plan to be at a state where you can walk someone through your project by then.
+Your instructor will give a two-minute warning before demo time. Plan to be at a state where you can walk someone through your project by then.
 
 ### Stage 2: Show Your Neighbor
 

@@ -61,7 +61,7 @@ On Tuesday you used AI to analyze data, create visualizations, and present findi
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: What's Actually Happening
 
@@ -93,7 +93,7 @@ Lowrey offers a framework: are you a horse (permanently displaced by a better te
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 5: Round 3: Horse or Coal?
 
@@ -119,7 +119,7 @@ Lowrey's framework: horses were replaced by tractors and never adapted. Coal was
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 7: Round 4: Who Decides?
 
@@ -151,4 +151,4 @@ Thompson's Block employees had no say in Dorsey's decision to fire them. Lowrey 
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.

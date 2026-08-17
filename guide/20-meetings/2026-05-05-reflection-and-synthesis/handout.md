@@ -60,7 +60,7 @@ Then go forward, not backward. **What does flourishing alongside AI actually loo
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: What This Course Got Right
 
@@ -94,7 +94,7 @@ Then push to the bet underneath: *what about the design* made it work? That is t
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 5: Round 3: What Should Change
 
@@ -128,4 +128,4 @@ The hardest and most useful question: **what did the course never talk about tha
 
 #### Share Out and Close
 
-Geoff will ask a few pairs to share what they discussed, then close the semester.
+Your instructor will ask a few pairs to share what they discussed, then close the semester.

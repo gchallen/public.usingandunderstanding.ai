@@ -69,7 +69,7 @@ You can reference both articles during the discussion:
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 > **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
 
@@ -117,7 +117,7 @@ You can reference both articles during the discussion:
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 > **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
 
@@ -165,7 +165,7 @@ You can reference both articles during the discussion:
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 > **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
 

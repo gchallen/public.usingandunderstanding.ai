@@ -34,7 +34,7 @@ First day introductions through AI-themed discussions
 
 ### AI Perspectives Rounds
 
-Find a partner for each question. Introduce yourself (name, major/year) and discuss for about 10 minutes, then find someone new when Geoff signals.
+Find a partner for each question. Introduce yourself (name, major/year) and discuss for about 10 minutes, then find someone new when your instructor signals.
 
 #### The Questions
 

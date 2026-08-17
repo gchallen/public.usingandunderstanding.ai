@@ -65,7 +65,7 @@ The New Yorker article describes Anthropic's "soul doc," an internal document th
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: The Anthropic Dilemma
 
@@ -99,7 +99,7 @@ Dwarkesh Patel argues both sides have a point: the government can't let a privat
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 5: Round 3: Government and AI
 
@@ -129,7 +129,7 @@ Outside OpenAI's headquarters, protesters wrote on the sidewalk in chalk: "Stand
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 7: Round 4: Who Decides?
 
@@ -161,7 +161,7 @@ Dwarkesh argues that within 20 years, most government and military labor could b
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 9: Feedback
 

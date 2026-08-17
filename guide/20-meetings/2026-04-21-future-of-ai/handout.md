@@ -50,7 +50,7 @@ This is a fundamentally different approach from "just make it bigger." Instead o
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: AI in Your Pocket
 
@@ -80,7 +80,7 @@ It also changes the economics: cloud AI costs money per query, and companies can
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 5: Round 3: The Specialist vs. the Generalist
 
@@ -108,7 +108,7 @@ This raises a question: is the future one AI that does everything, or many AIs t
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 7: Feedback
 

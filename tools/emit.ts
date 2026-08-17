@@ -97,6 +97,19 @@ interface EmitContext {
  * useful to an adopter. Anything that needed a login, or belonged to that one
  * offering, loses the link and keeps its text.
  */
+/**
+ * The course names its instructor in student-facing prose, which is right for
+ * the course and wrong for a kit. An adopter photocopying a handout should not
+ * be handing their students a page about someone who is not in the room.
+ */
+function deNameInstructor(markdown: string): string {
+  return markdown
+    .replace(/\bGeoff will\b/g, "Your instructor will")
+    .replace(/\bwhen Geoff signals\b/g, "when your instructor signals")
+    .replace(/\bGeoff's\b/g, "your instructor's")
+    .replace(/\bGeoff\b/g, "your instructor");
+}
+
 function rewriteSiteLinks(markdown: string, readings: Map<string, ReadingCitation>): string {
   return markdown.replace(/\[([^\]]+)\]\((\/[^)\s]*)\)/g, (_whole, text: string, href: string) => {
     const path = href.split("#")[0] ?? "";
@@ -193,6 +206,12 @@ function studentCapture(block: ContentBlock, pattern: PatternId): string {
       ].join("\n");
     case "role-discussion":
       return ["**Where did your group disagree?**", "", lines(5)].join("\n");
+    // Demos and external tools are not collection points. A student opens
+    // something; nothing is handed in, and ruled lines under them read as a
+    // question that has been missed.
+    case "demos":
+    case "external-tool":
+      return "";
     default:
       return block.type === "preparation-chat" ? "" : lines(3);
   }
@@ -240,12 +259,14 @@ function emitBlock(block: ContentBlock, ctx: EmitContext): string[] {
   switch (block.type) {
     case "markdown":
       return [
-        rewriteSiteLinks(
-          demoteHeadings(
-            dropDuplicateHeading(block.content.trim(), ctx.stageLabel),
-            ctx.headingBase
-          ),
-          ctx.readings
+        deNameInstructor(
+          rewriteSiteLinks(
+            demoteHeadings(
+              dropDuplicateHeading(block.content.trim(), ctx.stageLabel),
+              ctx.headingBase
+            ),
+            ctx.readings
+          )
         ),
       ];
 
@@ -337,14 +358,14 @@ function emitStage(stage: StageDefinition, index: number, ctx: EmitContext): str
   // `transition` is never shown to students on the web; it is a one-line summary
   // of what changes here, which is exactly what a paper stage header wants.
   if (ctx.variant === "instructor" && stage.transition) {
-    out.push(`_${stage.transition}_`, "");
+    out.push(`_${deNameInstructor(stage.transition)}_`, "");
   }
 
   if (ctx.variant === "instructor" && stage.facilitationNotes) {
     out.push(
       "> **Facilitation notes**",
       ">",
-      ...stage.facilitationNotes
+      ...deNameInstructor(stage.facilitationNotes)
         .trim()
         .split("\n")
         .map((l) => `> ${l}`),
@@ -411,7 +432,14 @@ export function emitMeeting(
   }
 
   if (variant === "instructor" && meeting.facilitationOverview) {
-    out.push("## Facilitation overview", "", meeting.facilitationOverview.trim(), "", "---", "");
+    out.push(
+      "## Facilitation overview",
+      "",
+      deNameInstructor(meeting.facilitationOverview.trim()),
+      "",
+      "---",
+      ""
+    );
   }
 
   const intro = meeting.intro.flatMap((b) => emitBlockSpaced(b, ctx));

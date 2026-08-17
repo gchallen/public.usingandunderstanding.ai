@@ -118,7 +118,7 @@ _Class reconvenes to share observations_
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 > **On paper: Card Sort.** The AI read every response and proposed discussion questions. Sort the cards and pick the ones worth reading aloud.
 >
@@ -168,7 +168,7 @@ _Class reconvenes to share observations_
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 > **On paper: Card Sort.** The AI read every response and proposed discussion questions. Sort the cards and pick the ones worth reading aloud.
 >
@@ -218,7 +218,7 @@ _Class reconvenes to share observations_
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 > **On paper: Card Sort.** The AI read every response and proposed discussion questions. Sort the cards and pick the ones worth reading aloud.
 >

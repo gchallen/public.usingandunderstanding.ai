@@ -28,7 +28,7 @@ Today you'll explore this space directly, discover relationships that surprise y
 2. **Question generation** (individual): Write down what surprises you and what questions it raises
 3. **Group discussion** (pairs): Share discoveries with a partner
 4. **Agent-guided interaction** (small groups): Discuss your observations with an AI facilitator to deepen your understanding
-5. **Class synthesis**: Geoff connects themes from across the room
+5. **Class synthesis**: your instructor connects themes from across the room
 
 ---
 
@@ -49,12 +49,6 @@ Use the embedding explorer below to investigate how AI represents meaning. Try t
 Don't worry about understanding the math. Focus on building intuitions: what patterns do you notice in how the model organizes meaning?
 
 > **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Stage 2: What Surprised You?
 
@@ -112,7 +106,7 @@ This stage uses **agent-guided interaction**: instead of writing a summary, your
 
 #### Class Discussion
 
-Geoff will draw on your observations and group conversations to connect themes across the room.
+Your instructor will draw on your observations and group conversations to connect themes across the room.
 
 Some questions to consider:
 - If AI represents meaning as geometry, is that "understanding" or just pattern storage?

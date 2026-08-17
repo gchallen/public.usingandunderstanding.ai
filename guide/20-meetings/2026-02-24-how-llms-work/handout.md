@@ -32,12 +32,6 @@ The tool below lets you see this process in action. Type a sentence and the mode
 
 > **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 #### Temperature
 
 So the model assigns a probability to every possible next word. But when it's time to actually pick one, how does it decide? That's where **temperature** comes in.
@@ -47,12 +41,6 @@ At low temperature, the model almost always picks its top prediction — the "sa
 The tool below sends the same prompt to the model at two different temperatures so you can compare the results side by side.
 
 > **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Things to notice:**
 - Does the model always have one clear "best" prediction, or are there cases where several options seem equally likely?
@@ -74,12 +62,6 @@ The Markov Babbler below builds a simple model from a piece of text. It reads th
 The walkthrough will show you exactly how this works step by step. Pay attention to what the model can and can't do — it will help you think about what makes LLMs different.
 
 > **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Things to notice:**
 - How does the output compare to what the LLM generated? What's similar? What's different?

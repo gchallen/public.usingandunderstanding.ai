@@ -123,7 +123,7 @@ _Class shares initial observations_
 
 #### Quick Check-In
 
-Geoff will ask a few of you to share something you noticed or something that surprised you during the exploration.
+Your instructor will ask a few of you to share something you noticed or something that surprised you during the exploration.
 
 ### Stage 4: Generate Questions
 

@@ -156,7 +156,7 @@ Create a share link to your AI conversation and submit your best artifacts.
 
 **Artifacts** are anything AI helped you create: charts, graphs, tables, reports, interactive visualizations, data summaries. Screenshot them, download them, or paste links to Claude artifacts or ChatGPT canvas outputs.
 
-Your artifacts and conversation links may be shared publicly as examples of AI-assisted data analysis. Let Geoff know if you'd prefer yours not be shared.
+Your artifacts and conversation links may be shared publicly as examples of AI-assisted data analysis. Let your instructor know if you'd prefer yours not be shared.
 
 **Your findings:**
 
@@ -178,7 +178,7 @@ _Class reviews visualizations_
 
 #### Gallery
 
-Let's see what everyone found. Geoff will show artifacts and ask a few students to walk us through their analysis.
+Let's see what everyone found. Your instructor will show artifacts and ask a few students to walk us through their analysis.
 
 > **On paper: Gallery Walk.** Half the class walks while half act as docents, then swap.
 >

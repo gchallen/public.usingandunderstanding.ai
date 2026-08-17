@@ -63,7 +63,7 @@ Quentin, a 15-year-old in the teen chatbots article, says chatbots are "literall
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: Real Enough to Matter
 
@@ -95,7 +95,7 @@ In the teen chatbots article, Sophia turned to fictional chatbot crushes after h
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 5: Round 3: Acting on Your Behalf
 
@@ -123,7 +123,7 @@ These are different from AI companions. A companion keeps you company. An agent 
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 7: Round 4: Who's Responsible?
 
@@ -155,4 +155,4 @@ The bots weren't designed to be harmful. They were designed to keep users engage
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.

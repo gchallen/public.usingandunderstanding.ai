@@ -42,12 +42,6 @@ The tool below generates a real response from each training stage for the same p
 
 > **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 ### Stage 2: Discussion: What Did You Notice?
 
 ### Stage 3: Explore: Be the Preference Rater
@@ -61,12 +55,6 @@ Companies like OpenAI and Anthropic train their AI assistants using **human feed
 Now it's your turn. The tool below generates two responses to the same prompt, each optimized for a different value. Pick which response you think is better, then see what value each was optimized for. Try several rounds with your partner and discuss where you agree and disagree.
 
 > **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Stage 4: Discussion: What Is 'Good' AI?
 

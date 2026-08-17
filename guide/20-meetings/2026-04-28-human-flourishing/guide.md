@@ -114,7 +114,7 @@ _Class reconvenes to share observations_
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: The Economy We Want
 
@@ -158,7 +158,7 @@ _Class reconvenes to share observations_
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 5: Round 3: AGI and What Makes Us Human
 
@@ -198,7 +198,7 @@ Sam Altman says AGI is coming and will fix the climate, establish space colonies
 
 **Timing:** planned 10m
 
-_Class reconvenes; Geoff closes the AGI loop and the semester arc_
+_Class reconvenes; your instructor closes the AGI loop and the semester arc_
 
 > **Facilitation notes**
 >
@@ -212,7 +212,7 @@ _Class reconvenes; Geoff closes the AGI loop and the semester arc_
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 7: Feedback
 

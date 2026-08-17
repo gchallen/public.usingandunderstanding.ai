@@ -10,9 +10,13 @@ Handouts are generated from the meeting definition, never written by hand. The m
 ## Run it
 
 ```bash
+cd tools && bun install          # first time only
 bun run handout                  # every meeting
 bun run handout <meeting-slug>   # one meeting
 ```
+
+The scripts live in `tools/`, not at the repository root. Running `bun run
+handout` from the root fails with `Script not found`.
 
 Output lands in `guide/20-meetings/<slug>/`:
 
@@ -25,21 +29,35 @@ The student handout omits anything marked instructor-only, omits facilitation no
 
 If you find yourself wanting to put something in the student handout that is not in the meeting definition, put it in the meeting definition.
 
-## If the build fails
+## What the generator does not check
 
-The generator refuses to emit a meeting that references a substitution pattern with no chapter written for it. This is intentional: a handout that points a reader at a procedure they cannot look up is worse than one that says nothing.
+It checks nothing. There is no validation and no error path, so it exits 0 on
+work that is silently wrong. Verify these yourself after generating:
 
-Either write the chapter in `content/patterns/`, or change the block so it maps to an existing pattern.
+- **A `reading-link` slug with no matching file in `readings/`** emits the slug
+  with its hyphens turned into spaces and no link. It looks like a citation and
+  is not one.
+- **A `preparation-chat` or `group-chat` slug with no prompt file** still emits
+  the full paper callout, telling an instructor to print criteria that do not
+  exist.
+- **A substitution pattern with no chapter** in `guide/10-patterns/` still emits
+  "See the X chapter for the full procedure." Nothing reads that directory.
+- **A `question-board` whose id matches no `question-entry`** emits a card-sort
+  callout for a collection that never happened.
+- **`group.size` above 4** prints only four name blanks.
+
+An earlier version of this file claimed the generator refused the third of
+these. It does not.
 
 ## Printing
 
-Markdown is the source. For paper, either render it with whatever Markdown-to-PDF tool the instructor already uses, or run:
+Markdown is the source, and the kit ships no PDF step. Render it with whatever
+Markdown-to-PDF tool the instructor already uses, or paste into a document and
+print from there. Writing space is escaped underscores, so it survives any
+renderer.
 
-```bash
-bun run handout:pdf
-```
-
-Handouts are designed to photocopy as-is. Do not add a cover page; class time is short and a cover page costs a page per student.
+Do not add a cover page; class time is short and a cover page costs a page per
+student.
 
 ## After generating
 

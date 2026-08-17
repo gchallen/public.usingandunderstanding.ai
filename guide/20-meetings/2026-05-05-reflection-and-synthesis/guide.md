@@ -115,7 +115,7 @@ _Class reconvenes to share what shifted_
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: What This Course Got Right
 
@@ -163,7 +163,7 @@ _Class reconvenes to surface what worked_
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 5: Round 3: What Should Change
 
@@ -201,7 +201,7 @@ The hardest and most useful question: **what did the course never talk about tha
 
 **Timing:** planned 10m
 
-_Class reconvenes; Geoff closes the semester_
+_Class reconvenes; your instructor closes the semester_
 
 > **Facilitation notes**
 >
@@ -219,4 +219,4 @@ _Class reconvenes; Geoff closes the semester_
 
 #### Share Out and Close
 
-Geoff will ask a few pairs to share what they discussed, then close the semester.
+Your instructor will ask a few pairs to share what they discussed, then close the semester.

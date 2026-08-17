@@ -65,7 +65,7 @@ To get data centers running fast, companies are turning to fossil fuels. Sam Alt
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: Who Pays?
 
@@ -107,7 +107,7 @@ But the physical infrastructure is only one layer of hidden human cost. AI syste
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 5: Round 3: Whose Work?
 
@@ -137,7 +137,7 @@ Meanwhile, Dario Amodei wrote an internal memo in 2021 acknowledging that AI cou
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 7: Round 4: Who Decides?
 
@@ -181,7 +181,7 @@ Local communities are fighting data center construction because it's the one tan
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 9: Wrap-Up
 

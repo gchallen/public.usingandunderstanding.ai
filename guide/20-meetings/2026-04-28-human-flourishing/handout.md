@@ -67,7 +67,7 @@ Sun's deeper claim is that voice itself comes from "the specificity of a life." 
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: The Economy We Want
 
@@ -99,7 +99,7 @@ Shroff is not so sure. The dot-com crash *did* leave fiber-optic cables that las
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 5: Round 3: AGI and What Makes Us Human
 
@@ -133,7 +133,7 @@ Sam Altman says AGI is coming and will fix the climate, establish space colonies
 
 #### Share Out
 
-Geoff will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 7: Feedback
 
