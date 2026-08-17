@@ -123,6 +123,10 @@ Open the site builder your instructor named and start a new project. Describe wh
 
 When your site is working, publish it. The builder will give you a public URL. You'll submit it below.
 
+> **On paper: External Tools.** The original showed enrolled students a promo code for a paid site builder, from a deal that cannot be handed on. Pick a builder for the whole class and check its free tier the week you teach.
+>
+> _Replaces the `replit-promo-code` step. See the External Tools chapter for the full procedure._
+
 > **On paper: Gallery Walk.** No URL to collect; the work is shown in person.
 >
 > _Replaces the `link-submission` step. See the Gallery Walk chapter for the full procedure._

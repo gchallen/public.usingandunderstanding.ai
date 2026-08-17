@@ -1,6 +1,6 @@
 ---
 id: external-tool
-title: External Tool
+title: External Tools
 covers:
   - replit-promo-code
 ---

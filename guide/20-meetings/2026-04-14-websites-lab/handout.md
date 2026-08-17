@@ -80,6 +80,12 @@ Open the site builder your instructor named and start a new project. Describe wh
 
 When your site is working, publish it. The builder will give you a public URL. You'll submit it below.
 
+> **External Tools.** Your instructor will tell you how to get access.
+
+<div class="rule"></div>
+<div class="rule"></div>
+<div class="rule"></div>
+
 > **Gallery Walk.** Leave your work open on your device. Half the room walks while half explain, then swap.
 
 **Gallery log**

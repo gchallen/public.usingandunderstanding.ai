@@ -5,7 +5,7 @@ import type { ContentBlock } from "../content/types";
  * the website was doing on the class's behalf that a paper course has to do some
  * other way.
  *
- * The five patterns are the analog procedures. They are written by hand in
+ * The six patterns are the analog procedures. They are written by hand in
  * `guide/10-patterns/`; this file only says which block maps to
  * which, so a guide can link a stage to the procedure that replaces it.
  */
@@ -124,7 +124,7 @@ export const BLOCK_HANDLING: Record<ContentBlock["type"], BlockHandling> = {
   // Third-party dependencies.
   "replit-promo-code": sub(
     "external-tool",
-    "A per-institution arrangement that cannot be exported. See the external tools table."
+    "The original showed enrolled students a promo code for a paid site builder, from a deal that cannot be handed on. Pick a builder for the whole class and check its free tier the week you teach."
   ),
 };
 

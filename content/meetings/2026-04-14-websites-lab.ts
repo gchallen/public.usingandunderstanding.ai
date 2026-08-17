@@ -133,6 +133,14 @@ Open the site builder your instructor named and start a new project. Describe wh
 When your site is working, publish it. The builder will give you a public URL. You'll submit it below.`,
           },
           {
+            // Kept so the guide raises External Tool at the point in the stage
+            // where the tool choice actually bites. The kit never renders this
+            // block's contents; the substitution table turns it into a pointer
+            // at the chapter.
+            type: "enrolled-only",
+            content: [{ type: "replit-promo-code" }],
+          },
+          {
             type: "link-submission",
             id: "websites-lab-submission",
             kind: "basic",
