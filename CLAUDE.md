@@ -26,7 +26,7 @@ Do not start editing until you know 1, 2, and 3.
 
 Every activity in this course exists at three levels. Ask which one applies before proposing a design.
 
-**Paper only.** Cards, a whiteboard, a photocopier. Every meeting works this way. The five patterns in `guide/10-patterns/` are the procedures. This is the floor, and it is a real floor: the original instructor's own AI facilitator was instructed to push students toward talking face to face, so the paper version of a group discussion is often the stated goal with the scaffolding removed.
+**Paper only.** Cards, a whiteboard, a photocopier. Every meeting works this way. The six patterns in `guide/10-patterns/` are the procedures. This is the floor, and it is a real floor: the original instructor's own AI facilitator was instructed to push students toward talking face to face, so the paper version of a group discussion is often the stated goal with the scaffolding removed.
 
 **Any chatbot.** The prompts in `content/prompts/` are self-contained system prompts. A student with ChatGPT or Claude can run a preparation chat by pasting one in. A group can run a facilitated discussion the same way. This tier is usually better than paper for preparation work and about equal for in-class discussion.
 

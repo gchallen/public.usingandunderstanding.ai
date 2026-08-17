@@ -12,38 +12,32 @@ None of that is the course, though. The software was scaffolding around a set of
 
 ## What is in here
 
-**The patterns.** Five procedures that replace what the software was doing, using cards, a whiteboard, and a photocopier. This is the part worth reading first, and the part most likely to be useful even if you never look at the meetings.
+**The patterns.** Six procedures that replace what the software was doing, using cards, a whiteboard, and a photocopier. This is the part worth reading first, and the part most likely to be useful even if you never look at the meetings.
 
-**Three worked meetings**, one of each kind the course uses:
-
-- Neurons and Networks, an exploratory meeting
-- Study Guide Lab, a lab meeting
-- AI Safety, a discussion meeting
+**Every meeting of the semester**, in all three kinds the course uses. Exploratory meetings where students investigate a topic, lab meetings where they use a tool and record what happened, and discussion meetings built on a reading. If you want one of each to start with, read Neurons and Networks, Study Guide Lab, and AI Safety in that order.
 
 Each has an instructor guide and a student handout. The handouts are meant to be photocopied as they are.
 
-**Timings.** Every stage shows what it was planned for. Two of them also show what they measurably ran; the pacing chapter explains why only two.
+**Timings.** Every stage shows what it was planned for. Two stages also show what they measurably ran; the pacing chapter explains why only two.
 
 **The readings**, with the sidenotes that connect them to the rest of the course.
 
 ## What is not in here
 
-Three meetings out of twenty-six. The full schedule is in the appendix so you can see the shape of the semester, but twenty-three meetings have no worked example.
-
 The conversational assessments, which are the most unusual part of the course and the least portable. They are AI-conducted oral exams, and there is no paper version.
 
-Two activity types have no worked example either, because none of the three meetings uses them: the media gallery and the link submission. The Gallery Walk pattern covers both, but you will be adapting it without a model to follow.
+The paid site builder used in the websites lab, and the promotion code that made it free. That was a per-institution arrangement and cannot be handed on. The version here is written against no particular tool; the External Tool chapter covers choosing one and what changes on a free tier.
 
-The Replit promotion code, which was a per-institution arrangement and cannot be handed on.
+Measured timings for most meetings. Every stage shows what it was planned for, but only three meetings were instrumented, and within those only two stages produce a duration worth reporting. The pacing chapter explains why.
 
 ## How to read the timings
 
 Every stage shows its planned time. Almost none show what it actually ran, and that is deliberate.
 
-The course website logged each time the instructor advanced the class, which looks like a full record of how long things took. It is not. The log is only trustworthy where students could not start without being advanced, and across these three meetings just two durations meet that bar. The rest have been dropped rather than dressed up.
+The course website logged each time the instructor advanced the class, which looks like a full record of how long things took. It is not. The log is only trustworthy where students could not start without being advanced, and only three meetings were instrumented; across those, just two durations meet that bar. The rest have been dropped rather than dressed up.
 
 The pacing chapter explains the reasoning, and it is worth reading before you instrument a course of your own.
 
 ## A caution about the readings
 
-The readings bundled here are full articles from paywalled publications. They were gathered for one course at one university. Check your own position before redistributing them. The sidenotes are ours and you are welcome to them.
+No article text is bundled here. Most of the readings are from paywalled publications, so this repository carries the citation for each one plus the course's own sidenotes, each quoting the phrase it was anchored to so you can find the spot in your own copy. The sidenotes are ours and you are welcome to them. Sourcing the articles for your students, and checking your own position on doing so, is left to you.

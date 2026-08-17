@@ -7,8 +7,8 @@ This is not the course website. It is the part of the course that transfers: the
 ## Start here
 
 - **[guide/00-front-matter/01-what-this-is.md](guide/00-front-matter/01-what-this-is.md)** — what is and is not included.
-- **[guide/10-patterns/](guide/10-patterns/)** — five classroom procedures that replace what the original's software was doing. Worth reading even if you never use a meeting from this repo.
-- **[guide/20-meetings/](guide/20-meetings/)** — three worked meetings, each with an instructor guide and a student handout ready to photocopy.
+- **[guide/10-patterns/](guide/10-patterns/)** — six classroom procedures that replace what the original's software was doing. Worth reading even if you never use a meeting from this repo.
+- **[guide/20-meetings/](guide/20-meetings/)** — every meeting of the semester, each with an instructor guide and a student handout ready to photocopy.
 
 ## Three ways to use it
 
@@ -32,7 +32,7 @@ bun run handout <meeting-slug>  # one meeting
 
 ## What is not here
 
-Twenty-three of the twenty-six meetings. Three are worked up in full; the rest were not.
+The vendor arrangement behind the websites lab. That lab used a paid AI site builder with a promo code from a per-institution deal, which cannot be handed on. The kit's version of the lab is tool-agnostic and the External Tool chapter covers choosing one. Everything else about the meeting is intact.
 
 The article text for the readings. Most are paywalled, so this repo carries citations and the course's own annotations, each quoting the phrase it was attached to. See [readings/README.md](readings/README.md).
 

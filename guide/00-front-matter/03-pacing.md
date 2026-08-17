@@ -10,7 +10,7 @@ The website recorded a timestamp each time the instructor advanced the class to 
 
 The timestamp is only trustworthy when students could not begin without it. A stage that opens by putting students into pairs is gated: the instructor has to advance before anyone can pair up, so the recorded time is the real start. A stage that opens with "now discuss this as a class" is not gated. The discussion begins, and the advance happens whenever the instructor remembers, which may be several minutes later.
 
-A duration is the gap between two starts, so it needs both ends gated to mean anything. Across the three meetings here, twenty-six stages were recorded and **two** durations clear that bar:
+A duration is the gap between two starts, so it needs both ends gated to mean anything. Three meetings were instrumented, and across them twenty-six stages were recorded. **Two** durations clear that bar:
 
 | Meeting | Stage | Planned | Ran |
 |---|---|---|---|
