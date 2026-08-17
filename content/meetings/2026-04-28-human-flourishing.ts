@@ -118,7 +118,8 @@ Sun's deeper claim is that voice itself comes from "the specificity of a life." 
               type: "text-submission",
               id: "round-1-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
           ],
         },
@@ -193,8 +194,7 @@ Geoff will ask a few pairs to share what they discussed. Listen for ideas that c
       {
         label: "Round 3: AGI and What Makes Us Human",
         estimatedTime: "10m",
-        transition:
-          "New partners synthesize the readings with the AGI question deferred from Apr 21",
+        transition: "New partners synthesize the readings with the AGI question deferred from Apr 21",
         facilitationNotes: `The synthesis round, and the meeting's payoff. This is where the AGI question deferred from Apr 21 actually gets discussed, alongside what is arguably the strongest skeptical argument students will encounter all semester.
 
 Pollan's claim is sharp: 500 years of science have dethroned humans from the center of the universe (Copernicus), the natural world (Darwin), and the command of our own minds (Freud), but consciousness has resisted every assault. There are 106 competing hypotheses of consciousness — 22 physicalist, 84 non-physicalist — which Pollan dryly calls "a pretty good indication that the field is flailing." He cites the finding that a single cortical neuron can do what an entire deep neural network can do. He notes that "feeling precedes computation" as a condition of consciousness — and that the "higher" capabilities (reason, language) are the ones machines have found *easier* than the "elemental" ones (feeling, emotion).

@@ -111,7 +111,8 @@ The first reading shows this same pattern everywhere in nature: water molecules 
               type: "text-submission",
               id: "round-1-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
           ],
         },
@@ -166,7 +167,8 @@ Your digit network had ~13,000 artificial neurons. A single cubic millimeter of 
               type: "text-submission",
               id: "round-2-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
           ],
         },
@@ -215,7 +217,8 @@ But there's a debate: are these "real" emergent abilities, or are they measureme
               type: "text-submission",
               id: "round-3-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
           ],
         },
@@ -262,7 +265,8 @@ Complex intelligence — whether in brains or in neural networks — emerges fro
               type: "text-submission",
               id: "round-4-notes",
               label: "Capture your key points:",
-              prompt: "What's your biggest takeaway from today's discussion?",
+              prompt:
+                "What's your biggest takeaway from today's discussion?",
             },
           ],
         },

@@ -5,7 +5,8 @@ const meeting: MeetingDefinition = {
     date: "2026-01-27",
     semester: "spring2026",
     title: "AI Scavenger Hunt (Part 1)",
-    summary: "Mapping the shape of AI intelligence through hands-on exploration",
+    summary:
+      "Mapping the shape of AI intelligence through hands-on exploration",
   },
   intro: [
     {
@@ -186,7 +187,8 @@ Let's see what the class found. Which fake citations were the most convincing?`,
                 type: "text-submission",
                 id: "yes-man-findings",
                 label: "Record your findings:",
-                prompt: "What topic did you pick? Describe the A → B → A pattern you observed.",
+                prompt:
+                  "What topic did you pick? Describe the A → B → A pattern you observed.",
               },
             ],
           },

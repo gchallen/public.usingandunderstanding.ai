@@ -94,7 +94,8 @@ Before you experience the assessment system, take a few minutes to understand ho
                   type: "text-submission",
                   id: "review-design-observations",
                   label: "Capture your observations:",
-                  prompt: "What stood out from your reading and discussion? What questions remain?",
+                  prompt:
+                    "What stood out from your reading and discussion? What questions remain?",
                 },
               ],
             },
@@ -205,7 +206,8 @@ Now discuss together:
                   type: "text-submission",
                   id: "agents-observations",
                   label: "Record your observations:",
-                  prompt: "What patterns did you notice? What risks concern you most?",
+                  prompt:
+                    "What patterns did you notice? What risks concern you most?",
                   minLines: 6,
                 },
               ],

@@ -5,7 +5,8 @@ const meeting: MeetingDefinition = {
     date: "2026-04-14",
     semester: "spring2026",
     title: "Creating Websites",
-    summary: "Build a website with an AI site builder — brainstorm, build, share.",
+    summary:
+      "Build a website with an AI site builder — brainstorm, build, share.",
   },
   intro: [
     {

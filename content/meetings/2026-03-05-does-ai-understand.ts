@@ -5,7 +5,8 @@ const meeting: MeetingDefinition = {
     date: "2026-03-05",
     semester: "spring2026",
     title: "Does AI Understand?",
-    summary: "Pair discussion exploring whether AI systems truly understand or merely compress",
+    summary:
+      "Pair discussion exploring whether AI systems truly understand or merely compress",
   },
   intro: [
     {

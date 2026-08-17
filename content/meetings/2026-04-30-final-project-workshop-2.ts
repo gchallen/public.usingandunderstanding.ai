@@ -5,7 +5,8 @@ const meeting: MeetingDefinition = {
     date: "2026-04-30",
     semester: "spring2026",
     title: "Final Project Workshop 2",
-    summary: "Finish your final project and show it to your classmates.",
+    summary:
+      "Finish your final project and show it to your classmates.",
   },
   intro: [
     {

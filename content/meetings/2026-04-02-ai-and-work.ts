@@ -16,16 +16,8 @@ const meeting: MeetingDefinition = {
 
 You should **read all three articles** before today's discussion:`,
     },
-    {
-      type: "reading-link",
-      slug: "coders-coded-their-job-away-why-are-so-many-of-them-happy-about-it-nytimes-7596",
-      newTab: true,
-    },
-    {
-      type: "reading-link",
-      slug: "how-to-guess-if-your-job-will-exist-in-five-years-theatlantic-d52c",
-      newTab: true,
-    },
+    { type: "reading-link", slug: "coders-coded-their-job-away-why-are-so-many-of-them-happy-about-it-nytimes-7596", newTab: true },
+    { type: "reading-link", slug: "how-to-guess-if-your-job-will-exist-in-five-years-theatlantic-d52c", newTab: true },
     { type: "reading-link", slug: "can-a-i-be-pro-worker-newyorker-e782", newTab: true },
     {
       type: "markdown",
@@ -102,7 +94,8 @@ On Tuesday you used AI to analyze data, create visualizations, and present findi
               type: "text-submission",
               id: "round-1-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
           ],
         },
@@ -192,7 +185,8 @@ Lowrey's framework: horses were replaced by tractors and never adapted. Coal was
               type: "text-submission",
               id: "round-3-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
           ],
         },

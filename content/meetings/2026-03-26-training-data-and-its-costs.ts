@@ -16,21 +16,9 @@ const meeting: MeetingDefinition = {
 
 You should **read all three articles** before today's discussion:`,
     },
-    {
-      type: "reading-link",
-      slug: "inside-the-dirty-dystopian-world-of-ai-data-centers-theatlantic-d45e",
-      newTab: true,
-    },
-    {
-      type: "reading-link",
-      slug: "opinion-americans-are-trying-to-stop-data-centers-because-they-can-t-stop-a-i-nytimes-2c47",
-      newTab: true,
-    },
-    {
-      type: "reading-link",
-      slug: "the-hypocrisy-at-the-heart-of-the-ai-industry-theatlantic-8429",
-      newTab: true,
-    },
+    { type: "reading-link", slug: "inside-the-dirty-dystopian-world-of-ai-data-centers-theatlantic-d45e", newTab: true },
+    { type: "reading-link", slug: "opinion-americans-are-trying-to-stop-data-centers-because-they-can-t-stop-a-i-nytimes-2c47", newTab: true },
+    { type: "reading-link", slug: "the-hypocrisy-at-the-heart-of-the-ai-industry-theatlantic-8429", newTab: true },
     {
       type: "markdown",
       content: `Please complete the preparation conversation below before class.
@@ -112,7 +100,8 @@ To get data centers running fast, companies are turning to fossil fuels. Sam Alt
               type: "text-submission",
               id: "round-1-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
           ],
         },
@@ -159,7 +148,8 @@ But the physical infrastructure is only one layer of hidden human cost. AI syste
               type: "text-submission",
               id: "round-2-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
             {
               type: "group-chat",
@@ -212,7 +202,8 @@ Meanwhile, Dario Amodei wrote an internal memo in 2021 acknowledging that AI cou
               type: "text-submission",
               id: "round-3-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
           ],
         },
@@ -261,7 +252,8 @@ Local communities are fighting data center construction because it's the one tan
               type: "text-submission",
               id: "round-4-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
             {
               type: "group-chat",

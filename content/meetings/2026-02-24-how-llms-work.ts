@@ -98,7 +98,8 @@ The tool below sends the same prompt to the model at two different temperatures 
       {
         label: "Discussion: Predictions & Temperature",
         estimatedTime: "5m",
-        transition: "Class discusses what they observed about predictions and temperature",
+        transition:
+          "Class discusses what they observed about predictions and temperature",
         facilitationNotes: `Ask 2-3 pairs what patterns they noticed. Key points to draw out: (1) LLMs predict one token at a time, (2) they assign probabilities to every possible next token, (3) temperature controls how "spread out" those probabilities are. Don't go deep into architecture yet — that's what the question generation is for.`,
         content: [
           {
@@ -153,7 +154,8 @@ The walkthrough will show you exactly how this works step by step. Pay attention
       {
         label: "Discussion: Markov Babbler",
         estimatedTime: "10m",
-        transition: "Class discusses how Markov chains compare to LLMs",
+        transition:
+          "Class discusses how Markov chains compare to LLMs",
         facilitationNotes: `This is the key bridging discussion. Help students see: (1) both Markov chains and LLMs are next-token predictors, (2) the difference is how much context they use and how they represent it, (3) "understanding" might be an emergent property of using enough context. Push on the question: "If a model that uses 2 words of context produces nonsense, and one that uses thousands produces coherent text, at what point does it 'understand'?"`,
         content: [
           {
@@ -174,7 +176,8 @@ The walkthrough will show you exactly how this works step by step. Pay attention
       {
         label: "Generate Questions",
         estimatedTime: "10m",
-        transition: "New partners generate questions from their observations",
+        transition:
+          "New partners generate questions from their observations",
         facilitationNotes: `New partners for this section. Students should generate questions based on what they observed — not what they already know. Encourage genuine curiosity. If students are stuck, prompt: "What did you see that you couldn't explain?"`,
         content: [],
         group: {
@@ -199,7 +202,8 @@ Enter at least 3 questions below. They can be about any aspect of how language m
       {
         label: "Question Review",
         estimatedTime: "5m",
-        transition: "Class reviews and selects a question to investigate",
+        transition:
+          "Class reviews and selects a question to investigate",
         facilitationNotes: `Click "Process Questions" to have GPT aggregate and prioritize the submitted questions. Review the list and select a question that is: (1) fundamental to understanding LLMs, (2) explorable through discussion and reasoning, and (3) not easily answered with a quick Google search. The seed questions ensure there's always a strong option.`,
         content: [
           {
@@ -219,7 +223,8 @@ Enter at least 3 questions below. They can be about any aspect of how language m
       {
         label: "Investigate",
         estimatedTime: "12m",
-        transition: "Partners investigate the selected question together",
+        transition:
+          "Partners investigate the selected question together",
         facilitationNotes: `Students investigate the selected question with the same partner from the question generation stage. They should reason from what they observed in the demos, not just look up answers. The TextSubmission captures their thinking. During share-out, look for groups that arrived at different conclusions.`,
         content: [],
         group: {

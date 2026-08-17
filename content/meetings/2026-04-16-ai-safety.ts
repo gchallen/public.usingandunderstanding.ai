@@ -116,7 +116,8 @@ The New Yorker article describes Anthropic's "soul doc," an internal document th
               type: "text-submission",
               id: "round-1-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
           ],
         },
@@ -216,7 +217,8 @@ Outside OpenAI's headquarters, protesters wrote on the sidewalk in chalk: "Stand
               type: "text-submission",
               id: "round-3-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
           ],
         },
@@ -289,7 +291,9 @@ Geoff will ask a few pairs to share what they discussed. Listen for ideas that c
         label: "Feedback",
         estimatedTime: "5m",
         transition: "Quick feedback on today's activity",
-        content: [{ type: "feedback", prompt: "What worked well today? What would you change?" }],
+        content: [
+          { type: "feedback", prompt: "What worked well today? What would you change?" },
+        ],
       },
     ],
   },

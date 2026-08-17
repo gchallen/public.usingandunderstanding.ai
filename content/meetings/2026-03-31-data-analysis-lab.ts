@@ -5,7 +5,8 @@ const meeting: MeetingDefinition = {
     date: "2026-03-31",
     semester: "spring2026",
     title: "Data Analysis Lab",
-    summary: "Use AI to analyze a real dataset, create visualizations, and discover insights",
+    summary:
+      "Use AI to analyze a real dataset, create visualizations, and discover insights",
   },
   intro: [
     {

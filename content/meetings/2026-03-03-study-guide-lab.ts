@@ -206,7 +206,8 @@ Creating organized study materials — concept maps, cheat sheets, summary notes
         content: [
           {
             type: "feedback",
-            prompt: "What worked well about today's study session? What would you change?",
+            prompt:
+              "What worked well about today's study session? What would you change?",
           },
         ],
       },

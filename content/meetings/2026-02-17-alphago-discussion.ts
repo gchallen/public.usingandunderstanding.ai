@@ -92,7 +92,8 @@ You can reference the [annotated transcript](/readings/2017-04-21-alphago) for s
               type: "text-submission",
               id: "round-1-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
           ],
         },
@@ -139,7 +140,8 @@ You can reference the [annotated transcript](/readings/2017-04-21-alphago) for s
               type: "text-submission",
               id: "round-2-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
           ],
         },
@@ -186,7 +188,8 @@ You can reference the [annotated transcript](/readings/2017-04-21-alphago) for s
               type: "text-submission",
               id: "round-3-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
           ],
         },
@@ -235,7 +238,8 @@ You can reference the [annotated transcript](/readings/2017-04-21-alphago) for s
               type: "text-submission",
               id: "round-4-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
           ],
         },

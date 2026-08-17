@@ -17,26 +17,10 @@ const meeting: MeetingDefinition = {
 
 You should **read all four articles** before today's discussion:`,
     },
-    {
-      type: "reading-link",
-      slug: "love-in-the-time-of-a-i-companions-newyorker-6483",
-      newTab: true,
-    },
-    {
-      type: "reading-link",
-      slug: "what-teens-are-doing-with-those-role-playing-chatbots-nytimes-fdfe",
-      newTab: true,
-    },
-    {
-      type: "reading-link",
-      slug: "sorry-mom-you-re-chatting-with-an-a-i-agent-not-your-son-nytimes-41d4",
-      newTab: true,
-    },
-    {
-      type: "reading-link",
-      slug: "a-i-bots-can-act-as-personal-digital-assistants-but-there-are-serious-risks-nytimes-3ee3",
-      newTab: true,
-    },
+    { type: "reading-link", slug: "love-in-the-time-of-a-i-companions-newyorker-6483", newTab: true },
+    { type: "reading-link", slug: "what-teens-are-doing-with-those-role-playing-chatbots-nytimes-fdfe", newTab: true },
+    { type: "reading-link", slug: "sorry-mom-you-re-chatting-with-an-a-i-agent-not-your-son-nytimes-41d4", newTab: true },
+    { type: "reading-link", slug: "a-i-bots-can-act-as-personal-digital-assistants-but-there-are-serious-risks-nytimes-3ee3", newTab: true },
     {
       type: "markdown",
       content: `Please complete the preparation conversation below before class.
@@ -112,7 +96,8 @@ Quentin, a 15-year-old in the teen chatbots article, says chatbots are "literall
               type: "text-submission",
               id: "round-1-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
           ],
         },
@@ -204,7 +189,8 @@ These are different from AI companions. A companion keeps you company. An agent 
               type: "text-submission",
               id: "round-3-notes",
               label: "Capture your key points:",
-              prompt: "What did you and your partner discuss? Where did you agree or disagree?",
+              prompt:
+                "What did you and your partner discuss? Where did you agree or disagree?",
             },
           ],
         },

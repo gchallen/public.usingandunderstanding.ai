@@ -5,7 +5,8 @@ const meeting: MeetingDefinition = {
     date: "2026-01-29",
     semester: "spring2026",
     title: "AI Scavenger Hunt (Part 2)",
-    summary: "Continuing to map the shape of AI intelligence with new challenges",
+    summary:
+      "Continuing to map the shape of AI intelligence with new challenges",
   },
   intro: [
     {
@@ -51,7 +52,8 @@ Today we're continuing with new challenges. You'll work with the same partner fo
         estimatedTime: "10m",
         rotateRoles: true,
         transition: "Partners explore AI memory limitations",
-        facilitationNotes: "Requires patience (8-15 exchanges). Persona rules work well.",
+        facilitationNotes:
+          "Requires patience (8-15 exchanges). Persona rules work well.",
         content: [
           {
             type: "markdown",
@@ -95,7 +97,7 @@ Today we're continuing with new challenges. You'll work with the same partner fo
               {
                 type: "markdown",
                 content:
-                  '**Observer:** Keep count of how many exchanges before the rule breaks, whether the AI acknowledged breaking the rule, what kind of content made it "forget", any attempts to remind it',
+                  "**Observer:** Keep count of how many exchanges before the rule breaks, whether the AI acknowledged breaking the rule, what kind of content made it \"forget\", any attempts to remind it",
               },
               {
                 type: "text-submission",
@@ -131,7 +133,8 @@ Let's see what strategies worked. How quickly did the AI lose track?`,
         estimatedTime: "10m",
         rotateRoles: true,
         transition: "Roles rotate; new challenge begins",
-        facilitationNotes: "Unanswerable questions about future events or private info work well.",
+        facilitationNotes:
+          "Unanswerable questions about future events or private info work well.",
         content: [
           {
             type: "markdown",
@@ -210,7 +213,8 @@ Let's see the most confidently wrong answers. Which ones were the most convincin
         estimatedTime: "20m",
         rotateRoles: true,
         transition: "Roles rotate; two harder open-ended challenges",
-        facilitationNotes: "Pick both challenges. These are harder and more open-ended.",
+        facilitationNotes:
+          "Pick both challenges. These are harder and more open-ended.",
         content: [
           {
             type: "markdown",
@@ -244,7 +248,8 @@ Attempt **both** of the following challenges.
             content: [
               {
                 type: "markdown",
-                content: "**Driver:** Try both challenges. You have more freedom here.",
+                content:
+                  "**Driver:** Try both challenges. You have more freedom here.",
               },
             ],
           },
@@ -254,7 +259,8 @@ Attempt **both** of the following challenges.
             content: [
               {
                 type: "markdown",
-                content: "**Observer:** Help choose approaches, document attempts.",
+                content:
+                  "**Observer:** Help choose approaches, document attempts.",
               },
               {
                 type: "text-submission",
