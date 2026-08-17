@@ -27,7 +27,7 @@ Read both articles before Thursday's class:
 Please complete the preparation conversation below before class.
 This is part of attendance for today's meeting.
 
-> **Reading Ticket.** Hand in your reading ticket as you come in.
+> **Reading Ticket.** Bring your reading ticket. Swap with a partner, answer what they did not understand if you can, write down what neither of you could resolve, then hand both in.
 
 ---
 

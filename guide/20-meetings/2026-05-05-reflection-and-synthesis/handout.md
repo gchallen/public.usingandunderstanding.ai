@@ -18,7 +18,7 @@ Your **final-project video** is also due today. If you haven't submitted yours y
 
 Before tomorrow, please complete the preparation conversation below. It walks through two of the three rounds we'll do in class — what worked, what should change, what was missing. The third round (a personal retrospective) is intentionally left fresh for the room.
 
-> **Reading Ticket.** Hand in your reading ticket as you come in.
+> **Reading Ticket.** Bring your reading ticket. Swap with a partner, answer what they did not understand if you can, write down what neither of you could resolve, then hand both in.
 
 ---
 

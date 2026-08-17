@@ -55,7 +55,7 @@ You should **read all three articles** before today's discussion:
 Please complete the preparation conversation below before class.
 This is part of attendance for today's meeting.
 
-> **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class.
+> **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
 

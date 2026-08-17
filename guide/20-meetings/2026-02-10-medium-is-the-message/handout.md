@@ -23,4 +23,4 @@ Also, please review the pamphlet on Luddism that you received in class.
 This will be a device-free meeting.
 You do not need to bring a laptop, and please put your phone away during the discussion.
 
-> **Reading Ticket.** Hand in your reading ticket as you come in.
+> **Reading Ticket.** Bring your reading ticket. Swap with a partner, answer what they did not understand if you can, write down what neither of you could resolve, then hand both in.

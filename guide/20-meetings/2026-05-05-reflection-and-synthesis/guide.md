@@ -55,7 +55,7 @@ Your **final-project video** is also due today. If you haven't submitted yours y
 
 Before tomorrow, please complete the preparation conversation below. It walks through two of the three rounds we'll do in class — what worked, what should change, what was missing. The third round (a personal retrospective) is intentionally left fresh for the room.
 
-> **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class.
+> **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
 

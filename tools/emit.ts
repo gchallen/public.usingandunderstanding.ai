@@ -66,7 +66,8 @@ const STUDENT_INSTRUCTIONS: Record<PatternId, string> = {
     "Leave your work open on your device. Half the room walks while half explain, then swap.",
   "role-discussion":
     "Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.",
-  "reading-ticket": "Hand in your reading ticket as you come in.",
+  "reading-ticket":
+    "Bring your reading ticket. Swap with a partner, answer what they did not understand if you can, write down what neither of you could resolve, then hand both in.",
   demos:
     "Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.",
   "external-tool": "Your instructor will tell you how to get access.",

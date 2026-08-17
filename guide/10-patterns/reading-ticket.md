@@ -25,15 +25,35 @@ A one-page ticket, double sided, handed in at the door.
 
 If you adopt one thing from this guide, adopt this. It costs a photocopier and nothing else.
 
+## Five minutes in pairs, before you start
+
+The ticket recovers the reading. It does not recover the part where the AI noticed a confused student and fixed it before class. A pair can do that, and it costs five minutes.
+
+Students arrive with the ticket already written, so the individual work is done and visible. Then, before you collect anything:
+
+**Swap tickets and read the back.** Each student reads their partner's answer to *what did you not understand, or not believe*.
+
+**Answer it if you can.** Most confusions in a room of twenty-five are somebody else's easy question. This is the step the AI was doing one-on-one, and a peer does it faster because they were confused about the same thing an hour ago.
+
+**Write down what you could not resolve**, on your own ticket, in one line. Then hand both in.
+
+Now collect. The unresolved lines are your opening move, and they are better than the two or three you would have picked yourself, because they have already survived one round of somebody trying to answer them.
+
+Do not let the pair produce a joint answer. The ticket stays individual, and it is handed in with one student's handwriting on it, because the moment a pair can submit together a student who did not read can ride along on one who did.
+
+**Where the time comes from.** It does not appear from nowhere; the pacing chapter is blunt that these meetings already run long. Five minutes at the top is the first discussion round, moved. Plan four rounds and teach three, and let this be the thing that pushes round four out.
+
+**Untested.** The original course ran the AI version, so this pairing step has never been run with students. The ticket half is a direct translation of something that worked. This half is a design, and you should treat it as one.
+
 ## On the handout
 
 The ticket is its own page, brought to class, separate from the in-class packet. Do not staple them together—you are collecting one and they are keeping the other.
 
 ## What you lose
 
-Adaptivity, and this is the single biggest loss anywhere in the guide. The AI noticed when a student was confused and taught them, right then, before class. Paper cannot do that. A student who misreads the article stays misread until you find it.
+Adaptivity was the single biggest loss anywhere in the guide until the pairing step above, and it is still the biggest one. The AI noticed a confused student and taught them the night before, one to one, on every reading. A partner catches some of that, five minutes late, and only what a peer happens to know.
 
-The AI also had the article text and could check a claim against it. You, at the door, cannot.
+A student whose partner also misread the article stays misread. The AI had the text and could check a claim against it; neither student can, and you at the door cannot either.
 
 And you lose the advance warning. The software told the instructor who was ready the night before. Tickets tell you ninety seconds before you start.
 
@@ -44,3 +64,5 @@ You personally read twenty-five students' confusions minutes before you teach th
 Writing by hand about a reading is a harder encoding task than chatting about it, and probably a better one.
 
 And the back-of-page question turns out to do most of the work. "What did you not believe" gets you the disagreements that discussion meetings live on.
+
+The pairing step adds one more thing the software could not: a student hears that someone else was confused by the same paragraph. The AI conversation was private, so every student had to assume the confusion was theirs alone.

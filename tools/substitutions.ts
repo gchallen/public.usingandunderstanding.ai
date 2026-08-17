@@ -97,7 +97,7 @@ export const BLOCK_HANDLING: Record<ContentBlock["type"], BlockHandling> = {
   // Pre-class readiness, in all ten discussion meetings.
   "preparation-chat": sub(
     "reading-ticket",
-    "The topic criteria are already a study guide. Print them, collect at the door, read them before class."
+    "The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing."
   ),
 
   // Interactive components. Three of these are public and need no substitute.

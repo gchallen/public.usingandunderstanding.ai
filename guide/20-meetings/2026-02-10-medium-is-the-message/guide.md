@@ -19,6 +19,6 @@ Also, please review the pamphlet on Luddism that you received in class.
 This will be a device-free meeting.
 You do not need to bring a laptop, and please put your phone away during the discussion.
 
-> **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class.
+> **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
