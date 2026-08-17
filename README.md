@@ -10,15 +10,15 @@ This is not the course website. It is the part of the course that transfers: the
 - **[guide/10-patterns/](guide/10-patterns/)** — six classroom procedures that replace what the original's software was doing. Worth reading even if you never use a meeting from this repo.
 - **[guide/20-meetings/](guide/20-meetings/)** — every meeting of the semester, each with an instructor guide and a student handout ready to photocopy.
 
-## Three ways to use it
+## What you need to teach it
 
-**With a photocopier.** Print the handouts. Every activity has a paper procedure. This is the floor and it is a real one.
+**A photocopier.** Print the handouts. Every activity has a paper procedure, so nothing in the room depends on software being up.
 
-**With any chatbot.** `content/prompts/` holds self-contained system prompts for pre-class reading conversations and in-class group discussion. Paste one into ChatGPT or Claude and it works. See [content/prompts/README.md](content/prompts/README.md).
+**A chatbot, for students.** `content/prompts/` holds self-contained system prompts for pre-class reading conversations and in-class group discussion. Paste one into ChatGPT or Claude and it works. See [content/prompts/README.md](content/prompts/README.md).
 
-**With an AI assistant on this repository.** `AGENTS.md` and `CLAUDE.md` carry the teaching judgment behind these materials, and `.claude/skills/` has procedures for adapting a meeting to your room, regenerating handouts, and planning a new session. Adapting someone else's course is the expensive part, and this is what makes it cheap.
+**An agent, for you.** `AGENTS.md` and `CLAUDE.md` carry the teaching judgment behind these materials, and `.claude/skills/` has procedures for adapting a meeting to your room, regenerating handouts, and planning a new session. Adapting someone else's course is the expensive part, and this is what makes it cheap.
 
-You do not need the third to use the first two.
+All three are real requirements. This is a course about using AI well, and students who never use AI are being taught about the subject rather than in it. The paper procedures exist so the classroom does not depend on *this* software, not so the course can be run without any.
 
 ## Regenerating handouts
 

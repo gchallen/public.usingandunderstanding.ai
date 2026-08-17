@@ -16,23 +16,23 @@ Before adapting anything, find out:
 
 1. **How long is the period?** The original is 75 minutes. Most stage plans assume it.
 2. **How many students?** The original had about 25. Above 40, the collection patterns change shape and you should say so.
-3. **What AI access do students have?** This is the big fork. See *Three tiers* below.
+3. **What AI access do students have?** Confirm they have some. See *What teaching this requires* below; a version where students never use AI is not this course.
 4. **Which readings can they actually get?** Most originals are paywalled. Assume they will substitute.
 5. **What are they teaching toward?** This is an elective with no downstream course depending on it. If theirs has prerequisites attached, the assessment story changes completely.
 
 Do not start editing until you know 1, 2, and 3.
 
-## Three tiers of adoption
+## What teaching this requires
 
-Every activity in this course exists at three levels. Ask which one applies before proposing a design.
+Every activity exists at three levels, and all three are needed. Ask which one a design touches before proposing it.
 
-**Paper only.** Cards, a whiteboard, a photocopier. Every meeting works this way. The six patterns in `guide/10-patterns/` are the procedures. This is the floor, and it is a real floor: the original instructor's own AI facilitator was instructed to push students toward talking face to face, so the paper version of a group discussion is often the stated goal with the scaffolding removed.
+**Paper.** Cards, a whiteboard, a photocopier. Every meeting works this way, and the six patterns in `guide/10-patterns/` are the procedures. The point is that the classroom never depends on software being up: the original instructor's own AI facilitator was instructed to push students toward talking face to face, so the paper version of a group discussion is often the stated goal with the scaffolding removed. This is the fallback for the room, not a level an adopter can stop at. Students still need a chatbot; see below.
 
-**Any chatbot.** The prompts in `content/prompts/` are self-contained system prompts. A student with ChatGPT or Claude can run a preparation chat by pasting one in. A group can run a facilitated discussion the same way. This tier is usually better than paper for preparation work and about equal for in-class discussion.
+**Any chatbot.** The prompts in `content/prompts/` are self-contained system prompts. A student with ChatGPT or Claude can run a preparation chat by pasting one in. A group can run a facilitated discussion the same way. This is required rather than optional: the course is about using AI well, and a version where students never use AI teaches about the subject instead of in it. It is also usually better than paper for preparation work and about equal for in-class discussion.
 
 **Custom infrastructure.** What the original had. Do not recommend building it. It took a semester and it is not the part that made the course work.
 
-When someone has chatbot access, do not hand them the paper substitute by default. Ask.
+Do not hand someone the paper substitute for a stage their students could run with a chatbot. Paper is the fallback for the room, not the plan.
 
 ## What was learned running it
 
