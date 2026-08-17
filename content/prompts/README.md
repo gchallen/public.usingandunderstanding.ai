@@ -1,6 +1,10 @@
 # Using these prompts with any chatbot
 
-The original course ran these through a purpose-built system with a second AI watching the conversation and tracking progress. You do not need that. The prompts are self-contained, and pasting one into ChatGPT, Claude, or anything comparable gets you most of the value.
+The original course ran these through a purpose-built system with a second AI watching the conversation and tracking progress. You do not need that. The group-discussion prompts are self-contained: paste one in and it runs.
+
+The preparation prompts are not, and this is the thing to know before you assign one. Each expects the assigned reading pasted in alongside it, and this kit does not carry article text because most of the readings are paywalled. Pasted alone, a chatbot will hold a fluent conversation about an article nobody has read. The prompts now refuse to start until the text appears, but you still have to make sure your students can get it.
+
+Budget for it. A preparation conversation is closer to a ninety-minute assignment than a five-minute one: sourcing and reading the article is most of that, and the conversation itself runs twenty-five to forty minutes.
 
 This is the middle tier of adoption. If your students have a chatbot, use these rather than the paper substitutes—the paper patterns exist for rooms where nobody does.
 
