@@ -171,6 +171,19 @@ Now that you've used AI to create across three different media, let's reflect:
           },
         ],
       },
+      // ── Feedback ──
+      {
+        label: "Feedback",
+        estimatedTime: "5m",
+        transition: "Quick feedback on today's creative lab",
+        content: [
+          {
+            type: "feedback",
+            prompt:
+              "How did making something with AI compare to what you expected? Was the tool doing the creative work, or were you? What would you want more time for?",
+          },
+        ],
+      },
     ],
   },
 };

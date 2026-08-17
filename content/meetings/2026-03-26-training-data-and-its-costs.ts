@@ -294,6 +294,19 @@ On Monday, you saw that AI represents meaning as geometry shaped by training dat
           },
         ],
       },
+      // ── Feedback ──
+      {
+        label: "Feedback",
+        estimatedTime: "5m",
+        transition: "Quick feedback on today's discussion",
+        content: [
+          {
+            type: "feedback",
+            prompt:
+              "Which cost of training data landed hardest for you today, and which one do you think we spent too long on? Was there a position in the room you wanted to push back on?",
+          },
+        ],
+      },
     ],
   },
 };

@@ -234,3 +234,11 @@ _Groups share what they discovered_
 > - After hearing from students, offer a brief synthesis connecting their observations to the key concepts
 > - End with a forward look: "We'll keep building on these intuitions throughout the semester"
 >
+
+### Stage 9: Feedback
+
+**Timing:** planned 5m
+
+_Quick feedback on today's exploration_
+
+**Feedback prompt:** Did today change your mental model of how an LLM produces text? What is still fuzzy? Was the Markov comparison useful or a distraction?

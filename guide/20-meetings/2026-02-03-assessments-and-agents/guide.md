@@ -141,6 +141,14 @@ Now discuss together:
 
 _Expected response: What patterns did you notice? What risks concern you most?_
 
+### Stage 5: Feedback
+
+**Timing:** planned 5m
+
+_Quick feedback on today's session_
+
+**Feedback prompt:** You sat a conversational assessment and looked at agents today. How did being interviewed by an AI feel compared to a quiz? What would you change about it?
+
 ## After
 
 > **Instructor only**

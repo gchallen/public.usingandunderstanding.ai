@@ -233,6 +233,19 @@ We'll continue the scavenger hunt on Thursday with new challenges exploring diff
           },
         ],
       },
+      // ── Feedback ──
+      {
+        label: "Feedback",
+        estimatedTime: "5m",
+        transition: "Quick feedback on today's scavenger hunt",
+        content: [
+          {
+            type: "feedback",
+            prompt:
+              "How did the scavenger hunt go? Was your pair able to find things worth arguing about, or did the tasks feel like busywork? Anything you wish you had more time on?",
+          },
+        ],
+      },
     ],
   },
 };

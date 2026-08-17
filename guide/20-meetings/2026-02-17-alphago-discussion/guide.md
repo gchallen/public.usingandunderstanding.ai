@@ -233,3 +233,11 @@ _Brief closing reflection_
 Four questions, four partners, many perspectives. The AlphaGo story isn't just about Go — it's about what happens when humans encounter a machine that challenges our understanding of intelligence, creativity, and our own thinking.
 
 The themes from today — creativity without intention, anthropomorphism, the mirror effect, human-AI collaboration — will keep coming back throughout this course. Pay attention to when they show up in your own interactions with AI.
+
+### Stage 10: Feedback
+
+**Timing:** planned 5m
+
+_Quick feedback on the AlphaGo discussion_
+
+**Feedback prompt:** Did the AlphaGo material give you enough to argue with? Which round produced the most disagreement, and was there a question you wanted to reach and did not?

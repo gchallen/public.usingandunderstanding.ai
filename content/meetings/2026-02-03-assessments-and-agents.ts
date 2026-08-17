@@ -215,6 +215,19 @@ Now discuss together:
           ],
         },
       },
+      // ── Feedback ──
+      {
+        label: "Feedback",
+        estimatedTime: "5m",
+        transition: "Quick feedback on today's session",
+        content: [
+          {
+            type: "feedback",
+            prompt:
+              "You sat a conversational assessment and looked at agents today. How did being interviewed by an AI feel compared to a quiz? What would you change about it?",
+          },
+        ],
+      },
     ],
   },
   outro: [

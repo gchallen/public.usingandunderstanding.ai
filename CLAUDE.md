@@ -66,6 +66,8 @@ Content blocks are a discriminated union in `content/types.ts`. Blocks fall into
 
 When you add a block type, the handout generator will fail to compile until you decide how paper handles it. That is deliberate. Do not work around it.
 
+The build also validates before it emits, and refuses on: a reading link with no annotation shipped, a preparation or group-chat slug with no prompt file, a substitution pattern with no chapter, an `activity.meetingSlug` that disagrees with the filename, and an activity meeting that does not end with a feedback block. If you need an exception to the last one, it goes in `FEEDBACK_EXEMPT` with a stated reason rather than being left implicit.
+
 ## Conventions
 
 - Keep `estimatedTime` on every stage even though it will be wrong. It is the instructor's intent, and the plan is more useful than a blank.

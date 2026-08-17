@@ -338,6 +338,19 @@ Over two days, we've explored six edges of AI intelligence:
           },
         ],
       },
+      // ── Feedback ──
+      {
+        label: "Feedback",
+        estimatedTime: "5m",
+        transition: "Quick feedback on the second scavenger hunt",
+        content: [
+          {
+            type: "feedback",
+            prompt:
+              "This was the second hunt with the same partner. Did working with someone you already knew help or get stale? What did you find today that surprised you?",
+          },
+        ],
+      },
     ],
   },
 };

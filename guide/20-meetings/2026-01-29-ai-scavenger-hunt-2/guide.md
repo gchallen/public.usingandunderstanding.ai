@@ -259,3 +259,11 @@ Over two days, we've explored six edges of AI intelligence:
 3. **What do the human analogues tell us?**
 4. **How should this change your practice?**
 5. **Bugs or features?**
+
+### Stage 8: Feedback
+
+**Timing:** planned 5m
+
+_Quick feedback on the second scavenger hunt_
+
+**Feedback prompt:** This was the second hunt with the same partner. Did working with someone you already knew help or get stale? What did you find today that surprised you?

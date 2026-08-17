@@ -220,3 +220,11 @@ _Class reconvenes to share observations_
 #### Share Out
 
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
+
+### Stage 9: Feedback
+
+**Timing:** planned 5m
+
+_Quick feedback on today's discussion_
+
+**Feedback prompt:** This one gets personal for some people. Did the discussion stay honest? Was there something you thought but did not say, and what would have made it easier to say?

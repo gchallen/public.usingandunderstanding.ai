@@ -190,3 +190,15 @@ Your instructor will ask a few pairs to share what they discussed. Listen for id
 Four rounds, four kinds of cost: energy and infrastructure, environmental justice and human labor, intellectual property, and governance. The through-line is not that AI is too expensive. It's that the costs are real, they're unequally distributed, and right now almost nobody is deciding how to manage them.
 
 On Monday, you saw that AI represents meaning as geometry shaped by training data. Today you saw what it takes to produce that training data and the infrastructure to process it. The technical and the human sides of AI are inseparable. Pay attention to both as the course continues.
+
+### Stage 10: Feedback
+
+**Which cost of training data landed hardest for you today, and which one do you think we spent too long on? Was there a position in the room you wanted to push back on?**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

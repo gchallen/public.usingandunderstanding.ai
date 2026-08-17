@@ -255,6 +255,19 @@ Geoff will ask a few pairs to share what they discussed. Listen for ideas that c
           },
         ],
       },
+      // ── Feedback ──
+      {
+        label: "Feedback",
+        estimatedTime: "5m",
+        transition: "Quick feedback on today's discussion",
+        content: [
+          {
+            type: "feedback",
+            prompt:
+              "This one gets personal for some people. Did the discussion stay honest? Was there something you thought but did not say, and what would have made it easier to say?",
+          },
+        ],
+      },
     ],
   },
 };

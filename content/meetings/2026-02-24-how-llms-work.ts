@@ -273,6 +273,19 @@ Enter at least 3 questions below. They can be about any aspect of how language m
           },
         ],
       },
+      // ── Feedback ──
+      {
+        label: "Feedback",
+        estimatedTime: "5m",
+        transition: "Quick feedback on today's exploration",
+        content: [
+          {
+            type: "feedback",
+            prompt:
+              "Did today change your mental model of how an LLM produces text? What is still fuzzy? Was the Markov comparison useful or a distraction?",
+          },
+        ],
+      },
     ],
   },
 };

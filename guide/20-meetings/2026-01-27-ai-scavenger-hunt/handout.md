@@ -172,3 +172,15 @@ We've explored two edges of AI intelligence so far:
 **Quick reflection:** Which of these two patterns do you think is more dangerous in practice? Why?
 
 We'll continue the scavenger hunt on Thursday with new challenges exploring different edges of AI capability. Bring the same partner energy—you'll be working together again.
+
+### Stage 6: Feedback
+
+**How did the scavenger hunt go? Was your pair able to find things worth arguing about, or did the tasks feel like busywork? Anything you wish you had more time on?**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

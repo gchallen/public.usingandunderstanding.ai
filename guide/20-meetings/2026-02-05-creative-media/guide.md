@@ -161,3 +161,11 @@ Now that you've used AI to create across three different media, let's reflect:
 - **Same concept, different output:** What caused the differences?
 - **Human creators:** What happens to human artists, musicians, and filmmakers?
 - **Energy cost:** How much energy do you think that consumed?
+
+### Stage 8: Feedback
+
+**Timing:** planned 5m
+
+_Quick feedback on today's creative lab_
+
+**Feedback prompt:** How did making something with AI compare to what you expected? Was the tool doing the creative work, or were you? What would you want more time for?

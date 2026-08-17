@@ -276,6 +276,19 @@ The themes from today — creativity without intention, anthropomorphism, the mi
           },
         ],
       },
+      // ── Feedback ──
+      {
+        label: "Feedback",
+        estimatedTime: "5m",
+        transition: "Quick feedback on the AlphaGo discussion",
+        content: [
+          {
+            type: "feedback",
+            prompt:
+              "Did the AlphaGo material give you enough to argue with? Which round produced the most disagreement, and was there a question you wanted to reach and did not?",
+          },
+        ],
+      },
     ],
   },
 };
