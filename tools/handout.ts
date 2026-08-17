@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 /** Regenerate instructor guides and student handouts from the meeting definitions. */
-import { mkdirSync, readdirSync, writeFileSync } from "fs";
+import { mkdirSync, readFileSync, readdirSync, writeFileSync } from "fs";
 import { basename, join, resolve } from "path";
 import { $ } from "bun";
 import { emitMeeting, type StageTiming } from "./emit";

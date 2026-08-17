@@ -32,13 +32,16 @@ const DEFAULT_SUBMISSION_LINES = 4;
 const FEEDBACK_LINES = 4;
 
 /**
- * A ruled line a student writes on. A markdown thematic break, because it
- * renders as a line everywhere a handout is actually read or printed: GitHub,
- * an editor preview, pandoc. This was a `<div class="rule">` for a PDF pipeline
- * that is not shipped here, so every writing space on every handout collapsed
- * to nothing and the pages went out blank where students were meant to write.
+ * A ruled line a student writes on: escaped underscores, which render as a
+ * literal line to write on in GitHub, an editor preview, and pandoc.
+ *
+ * This was a `<div class="rule">` for a PDF pipeline that is not shipped here,
+ * so every writing space on every handout collapsed to nothing and the pages
+ * went out blank where students were meant to write. A bare `___` fixed the
+ * invisibility but parses as a thematic break, which is a rule across the page
+ * rather than a line under a question.
  */
-const RULE = "___";
+const RULE = "\\_".repeat(46);
 
 /**
  * Human-facing names for the analog procedures, matching the chapter filenames
@@ -237,7 +240,10 @@ function emitBlock(block: ContentBlock, ctx: EmitContext): string[] {
     case "markdown":
       return [
         rewriteSiteLinks(
-          demoteHeadings(dropDuplicateHeading(block.content.trim(), ctx.stageLabel), ctx.headingBase),
+          demoteHeadings(
+            dropDuplicateHeading(block.content.trim(), ctx.stageLabel),
+            ctx.headingBase
+          ),
           ctx.readings
         ),
       ];
@@ -248,9 +254,11 @@ function emitBlock(block: ContentBlock, ctx: EmitContext): string[] {
       const slug = block.slug.replace(/^\d{4}-\d{2}-\d{2}-/, "");
       const citation = ctx.readings.get(slug);
       if (!citation) return [`- Reading: ${slug.replace(/-/g, " ")}`];
-      return [`- Reading: [${citation.title}](../../../readings/${slug}.md)${
-        citation.source ? ` · ${citation.source}` : ""
-      }`];
+      return [
+        `- Reading: [${citation.title}](../../../readings/${slug}.md)${
+          citation.source ? ` · ${citation.source}` : ""
+        }`,
+      ];
     }
 
     case "instructor-only":
