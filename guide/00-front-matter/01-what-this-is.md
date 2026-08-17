@@ -12,7 +12,7 @@ None of that is the course, though. The software was scaffolding around a set of
 
 ## What is in here
 
-**The patterns.** Six procedures that replace what the software was doing, using cards, a whiteboard, and a photocopier. This is the part worth reading first, and the part most likely to be useful even if you never look at the meetings.
+**The patterns.** Six chapters on what the software was doing and how to run without it. Five are classroom procedures using cards, a whiteboard, and a photocopier; the sixth is a decision about third-party tools. This is the part worth reading first, and the part most likely to be useful even if you never look at the meetings.
 
 **Every meeting of the semester**, in all three kinds the course uses. Exploratory meetings where students investigate a topic, lab meetings where they use a tool and record what happened, and discussion meetings built on a reading. If you want one of each to start with, read Neurons and Networks, Study Guide Lab, and AI Safety in that order.
 
@@ -20,24 +20,16 @@ Each has an instructor guide and a student handout. The handouts are meant to be
 
 **Timings.** Every stage shows what it was planned for. Two stages also show what they measurably ran; the pacing chapter explains why only two.
 
-**The readings**, with the sidenotes that connect them to the rest of the course.
+**The readings**, with the annotations that connect them to the rest of the course.
 
 ## What is not in here
 
-The conversational assessments, which are the most unusual part of the course and the least portable. They are AI-conducted oral exams, and there is no paper version.
+The conversational assessments themselves. They were AI-conducted oral exams run by the website, and there is no paper version of an oral exam. Four meetings still refer to them, and to the proctoring centre Illinois used; substitute your own assessment and the rest of the meeting stands.
 
-The paid site builder used in the websites lab, and the promotion code that made it free. That was a per-institution arrangement and cannot be handed on. The version here is written against no particular tool; the External Tool chapter covers choosing one and what changes on a free tier.
+The paid site builder used in the websites lab, and the promotion code that made it free. That was a per-institution arrangement and cannot be handed on. The version here is written against no particular tool; the External Tools chapter covers choosing one and what changes on a free tier.
 
-Measured timings for most meetings. Every stage shows what it was planned for, but only three meetings were instrumented, and within those only two stages produce a duration worth reporting. The pacing chapter explains why.
-
-## How to read the timings
-
-Every stage shows its planned time. Almost none show what it actually ran, and that is deliberate.
-
-The course website logged each time the instructor advanced the class, which looks like a full record of how long things took. It is not. The log is only trustworthy where students could not start without being advanced, and only three meetings were instrumented; across those, just two durations meet that bar. The rest have been dropped rather than dressed up.
-
-The pacing chapter explains the reasoning, and it is worth reading before you instrument a course of your own.
+Measured timings for most meetings. Only three were instrumented, and the pacing chapter explains why that yielded two usable numbers.
 
 ## A caution about the readings
 
-No article text is bundled here. Most of the readings are from paywalled publications, so this repository carries the citation for each one plus the course's own sidenotes, each quoting the phrase it was anchored to so you can find the spot in your own copy. The sidenotes are ours and you are welcome to them. Sourcing the articles for your students, and checking your own position on doing so, is left to you.
+No article text is bundled here. Most of the readings are from paywalled publications, so this repository carries the citation for each one plus the course's own annotations, each quoting the phrase it was anchored to so you can find the spot in your own copy. The annotations are ours and you are welcome to them. Sourcing the articles is your problem, and so is deciding how you feel about it.

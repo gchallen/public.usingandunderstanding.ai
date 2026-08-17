@@ -15,12 +15,18 @@ Name: ______________________________
 #### Before Class
 
 You should **read all three articles** before today's discussion:
-- Reading: `inside-the-dirty-dystopian-world-of-ai-data-centers-theatlantic-d45e`
-- Reading: `opinion-americans-are-trying-to-stop-data-centers-because-they-can-t-stop-a-i-nytimes-2c47`
-- Reading: `the-hypocrisy-at-the-heart-of-the-ai-industry-theatlantic-8429`
+
+- Reading: [Inside the Dirty, Dystopian World of AI Data Centers](../../../readings/inside-the-dirty-dystopian-world-of-ai-data-centers-theatlantic-d45e.md) · The Atlantic
+
+- Reading: [Opinion | Americans Are Trying to Stop Data Centers Because They Can't Stop A.I.](../../../readings/opinion-americans-are-trying-to-stop-data-centers-because-they-can-t-stop-a-i-nytimes-2c47.md) · The New York Times
+
+- Reading: [The Hypocrisy at the Heart of the AI Industry](../../../readings/the-hypocrisy-at-the-heart-of-the-ai-industry-theatlantic-8429.md) · The Atlantic
+
 Please complete the preparation conversation below before class.
 This is part of attendance for today's meeting.
+
 > **Reading Ticket.** Hand in your reading ticket as you come in.
+
 ---
 
 ### Today's Plan
@@ -47,10 +53,13 @@ To get data centers running fast, companies are turning to fossil fuels. Sam Alt
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 2: Round 1: Share Out
 
@@ -72,20 +81,27 @@ But the physical infrastructure is only one layer of hidden human cost. AI syste
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
 
-> **Structured Role Discussion.** Work through the checklist below. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
+___
+
+___
+
+___
+
+> **Structured Role Discussion.** Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
 
 **Where did your group disagree?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 4: Round 2: Share Out
 
@@ -109,10 +125,13 @@ Meanwhile, Dario Amodei wrote an internal memo in 2021 acknowledging that AI cou
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 6: Round 3: Share Out
 
@@ -136,20 +155,27 @@ Local communities are fighting data center construction because it's the one tan
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
 
-> **Structured Role Discussion.** Work through the checklist below. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
+___
+
+___
+
+___
+
+> **Structured Role Discussion.** Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
 
 **Where did your group disagree?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 8: Round 4: Share Out
 

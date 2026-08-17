@@ -52,12 +52,17 @@ Pick a dataset that interests you. You can bring your own data or choose from th
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 2: Strategy Share-Out
 
@@ -67,12 +72,17 @@ Let's see what everyone is planning to explore.
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 3: AI-Assisted Analysis
 
@@ -113,10 +123,13 @@ Your artifacts and conversation links may be shared publicly as examples of AI-a
 
 **Your findings:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 > **Gallery Walk.** Leave your work open on your device. Half the room walks while half explain, then swap.
 
@@ -148,7 +161,10 @@ Let's see what everyone found. Geoff will show artifacts and ask a few students 
 
 **What did you learn about using AI for data analysis? What dataset did you use, and would you recommend it to future students?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___

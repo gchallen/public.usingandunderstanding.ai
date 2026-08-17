@@ -15,13 +15,20 @@ Name: ______________________________
 #### Before Class
 
 You should **read all four articles** before today's discussion:
-- Reading: `anthropic-and-donald-trump-s-dangerous-alignment-problem-newyorker-fcb1`
-- Reading: `the-dissonance-of-anthropic-ceo-dario-amodei-theatlantic-e868`
-- Reading: `i-m-glad-the-anthropic-fight-is-happening-now-dwarkesh-200f`
-- Reading: `openai-is-opening-the-door-to-government-spying-theatlantic-4a9d`
+
+- Reading: [Anthropic and Donald Trump's Dangerous Alignment Problem](../../../readings/anthropic-and-donald-trump-s-dangerous-alignment-problem-newyorker-fcb1.md) · The New Yorker
+
+- Reading: [The Dissonance of Anthropic CEO Dario Amodei](../../../readings/the-dissonance-of-anthropic-ceo-dario-amodei-theatlantic-e868.md) · The Atlantic
+
+- Reading: [I'm glad the Anthropic fight is happening now](../../../readings/i-m-glad-the-anthropic-fight-is-happening-now-dwarkesh-200f.md) · Dwarkesh Podcast
+
+- Reading: [OpenAI Is Opening the Door to Government Spying](../../../readings/openai-is-opening-the-door-to-government-spying-theatlantic-4a9d.md) · The Atlantic
+
 Please complete the preparation conversation below before class.
 This is part of attendance for today's meeting.
+
 > **Reading Ticket.** Hand in your reading ticket as you come in.
+
 ---
 
 ### Today's Plan
@@ -46,10 +53,13 @@ The New Yorker article describes Anthropic's "soul doc," an internal document th
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 2: Round 1: Share Out
 
@@ -71,15 +81,19 @@ Dwarkesh Patel argues both sides have a point: the government can't let a privat
 
 **Discuss with your partner:** Did Anthropic make the right call by refusing to remove its red lines? Did the government overreact, or was declaring a supply chain risk a reasonable response? Amodei compares himself to Manhattan Project scientists. But those scientists lost control of the bomb. What does that parallel suggest about Anthropic's chances of maintaining its principles? Is "responsible scaling" a real strategy or a contradiction in terms?
 
-> **Structured Role Discussion.** Work through the checklist below. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
+> **Structured Role Discussion.** Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
 
 **Where did your group disagree?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 4: Round 2: Share Out
 
@@ -103,10 +117,13 @@ Outside OpenAI's headquarters, protesters wrote on the sidewalk in chalk: "Stand
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 6: Round 3: Share Out
 
@@ -126,15 +143,19 @@ Dwarkesh argues that within 20 years, most government and military labor could b
 
 **Discuss with your partner:** If you were designing a governance system for AI from scratch, what would it look like? Consider several options: company self-regulation (what we have now), government regulation (which government?), an international body (can it be enforced?), open-source AI (no one controls it), or something else entirely. What are the tradeoffs of each? What would you actually propose? Be specific: who sits on the oversight body? What powers do they have? How do you enforce the rules across borders?
 
-> **Structured Role Discussion.** Work through the checklist below. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
+> **Structured Role Discussion.** Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
 
 **Where did your group disagree?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 8: Round 4: Share Out
 
@@ -146,7 +167,10 @@ Geoff will ask a few pairs to share what they discussed. Listen for ideas that c
 
 **What worked well today? What would you change?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___

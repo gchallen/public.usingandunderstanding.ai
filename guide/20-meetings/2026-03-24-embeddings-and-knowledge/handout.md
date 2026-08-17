@@ -48,11 +48,13 @@ Use the embedding explorer below to investigate how AI represents meaning. Try t
 
 Don't worry about understanding the math. Focus on building intuitions: what patterns do you notice in how the model organizes meaning?
 
-> **Demos.** Open the tool your instructor names from usingandunderstanding.ai/resources
+> **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
 
 ### Stage 2: What Surprised You?
 
@@ -62,10 +64,13 @@ Write down one or two things that surprised you during the exploration. What did
 
 **What surprised you?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 3: Paired Sharing
 
@@ -89,15 +94,19 @@ Discuss your embedding discoveries with your group. An AI facilitator will guide
 
 This stage uses **agent-guided interaction**: instead of writing a summary, your group completes this stage by demonstrating to the facilitator that you've engaged meaningfully with what you discovered. The facilitator will let you know when you're done.
 
-> **Structured Role Discussion.** Work through the checklist below. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
+> **Structured Role Discussion.** Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
 
 **Where did your group disagree?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 5: Class Synthesis
 
@@ -114,12 +123,17 @@ Some questions to consider:
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 6: Wrap-Up
 
@@ -133,7 +147,10 @@ Next time, we'll look at where that training data comes from and what it costs.
 
 **What worked well about today's session? What would you change? This is the first time we've used agent-guided interaction — how did that feel compared to writing in a text box?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___

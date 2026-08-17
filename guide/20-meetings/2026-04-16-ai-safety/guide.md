@@ -45,15 +45,22 @@ Pair discussion of who controls how AI behaves: companies, governments, or somet
 #### Before Class
 
 You should **read all four articles** before today's discussion:
-- Reading: `anthropic-and-donald-trump-s-dangerous-alignment-problem-newyorker-fcb1`
-- Reading: `the-dissonance-of-anthropic-ceo-dario-amodei-theatlantic-e868`
-- Reading: `i-m-glad-the-anthropic-fight-is-happening-now-dwarkesh-200f`
-- Reading: `openai-is-opening-the-door-to-government-spying-theatlantic-4a9d`
+
+- Reading: [Anthropic and Donald Trump's Dangerous Alignment Problem](../../../readings/anthropic-and-donald-trump-s-dangerous-alignment-problem-newyorker-fcb1.md) · The New Yorker
+
+- Reading: [The Dissonance of Anthropic CEO Dario Amodei](../../../readings/the-dissonance-of-anthropic-ceo-dario-amodei-theatlantic-e868.md) · The Atlantic
+
+- Reading: [I'm glad the Anthropic fight is happening now](../../../readings/i-m-glad-the-anthropic-fight-is-happening-now-dwarkesh-200f.md) · Dwarkesh Podcast
+
+- Reading: [OpenAI Is Opening the Door to Government Spying](../../../readings/openai-is-opening-the-door-to-government-spying-theatlantic-4a9d.md) · The Atlantic
+
 Please complete the preparation conversation below before class.
 This is part of attendance for today's meeting.
+
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
+
 ---
 
 ### Today's Plan

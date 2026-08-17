@@ -15,12 +15,18 @@ Name: ______________________________
 #### Before Class
 
 You should **read all three articles** before today's discussion:
-- Reading: `coders-coded-their-job-away-why-are-so-many-of-them-happy-about-it-nytimes-7596`
-- Reading: `how-to-guess-if-your-job-will-exist-in-five-years-theatlantic-d52c`
-- Reading: `can-a-i-be-pro-worker-newyorker-e782`
+
+- Reading: [Coders Coded Their Job Away. Why Are So Many of Them Happy About It?](../../../readings/coders-coded-their-job-away-why-are-so-many-of-them-happy-about-it-nytimes-7596.md) · The New York Times
+
+- Reading: [How to Guess If Your Job Will Exist in Five Years](../../../readings/how-to-guess-if-your-job-will-exist-in-five-years-theatlantic-d52c.md) · The Atlantic
+
+- Reading: [Can A.I. Be Pro-Worker?](../../../readings/can-a-i-be-pro-worker-newyorker-e782.md) · The New Yorker
+
 Please complete the preparation conversation below before class.
 This is part of attendance for today's meeting.
+
 > **Reading Ticket.** Hand in your reading ticket as you come in.
+
 ---
 
 ### Today's Plan
@@ -43,10 +49,13 @@ On Tuesday you used AI to analyze data, create visualizations, and present findi
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 2: Round 1: Share Out
 
@@ -66,15 +75,19 @@ Lowrey offers a framework: are you a horse (permanently displaced by a better te
 
 **Discuss with your partner:** Can both things be true: workers happier AND expendable? Who in Thompson's piece is a "horse" and who is "coal"? What determines which?
 
-> **Structured Role Discussion.** Work through the checklist below. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
+> **Structured Role Discussion.** Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
 
 **Where did your group disagree?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 4: Round 2: Share Out
 
@@ -94,10 +107,13 @@ Lowrey's framework: horses were replaced by tractors and never adapted. Coal was
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 6: Round 3: Share Out
 
@@ -117,15 +133,19 @@ Thompson's Block employees had no say in Dorsey's decision to fire them. Lowrey 
 
 **Discuss with your partner:** Who should decide how AI is deployed in workplaces? The companies building it? The workers affected? Government regulators? What would "pro-worker AI" look like at Illinois, in your major, or in a campus job?
 
-> **Structured Role Discussion.** Work through the checklist below. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
+> **Structured Role Discussion.** Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
 
 **Where did your group disagree?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 8: Round 4: Share Out
 

@@ -45,13 +45,15 @@ Pair discussion of themes from the AlphaGo documentary
 #### Before Class
 
 You should have **watched the full [AlphaGo documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)** before today's discussion.
-The [annotated transcript](/readings/2017-04-21-alphago) is available for reference during the discussion — use it to find specific moments and quotes, but it is not a substitute for watching the film.
+The [annotated transcript](../../../readings/alphago.md) is available for reference during the discussion — use it to find specific moments and quotes, but it is not a substitute for watching the film.
 
 Please complete the preparation conversation below before class.
 This is part of attendance for today's meeting.
+
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
+
 ---
 
 ### Today's Plan
@@ -80,7 +82,7 @@ Move 37 was described as a move "no human would ever play" — yet it won the ga
 
 **Discuss with your partner:** Is finding an original, effective solution without understanding or intention "creativity"? What does your answer imply for AI-generated art, music, and writing — are those creative acts?
 
-You can reference the [annotated transcript](/readings/2017-04-21-alphago) for specific quotes and moments.
+You can reference the [annotated transcript](../../../readings/alphago.md) for specific quotes and moments.
 
 **Capture your key points:**
 
@@ -118,7 +120,7 @@ Throughout the documentary, commentators call AlphaGo "he" and "she." Fan Hui sa
 
 **Discuss with your partner:** Why do humans project personality onto AI systems? Think about your own experience with ChatGPT, Claude, or other AI tools — do you catch yourself doing this? What are the consequences when we anthropomorphize AI?
 
-You can reference the [annotated transcript](/readings/2017-04-21-alphago) for specific quotes and moments.
+You can reference the [annotated transcript](../../../readings/alphago.md) for specific quotes and moments.
 
 **Capture your key points:**
 
@@ -156,7 +158,7 @@ Fan Hui describes playing AlphaGo as looking in a "mirror" — being "naked" bec
 
 **Discuss with your partner:** How does interacting with AI expose assumptions and blind spots in human thinking? Have you experienced this with AI tools — moments where AI revealed something about how *you* think or what you take for granted?
 
-You can reference the [annotated transcript](/readings/2017-04-21-alphago) for specific quotes and moments.
+You can reference the [annotated transcript](../../../readings/alphago.md) for specific quotes and moments.
 
 **Capture your key points:**
 
@@ -196,7 +198,7 @@ But Cory Doctorow warns about the flip side: instead of humans being augmented b
 
 **Discuss with your partner:** What does this suggest about the future of human-AI collaboration? When does AI make humans *better* (like Go players after AlphaGo), and when does it make them into reverse centaurs? In your own life, where have you found AI most useful as a collaborator vs. most frustrating?
 
-You can reference the [annotated transcript](/readings/2017-04-21-alphago) for specific quotes and moments.
+You can reference the [annotated transcript](../../../readings/alphago.md) for specific quotes and moments.
 
 **Capture your key points:**
 

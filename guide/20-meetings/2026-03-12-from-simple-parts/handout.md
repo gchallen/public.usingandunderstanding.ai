@@ -15,14 +15,20 @@ Name: ______________________________
 #### Before Class
 
 Read both articles before Thursday's class:
-- Reading: `ai-is-nothing-like-a-brain-and-that-s-ok-quanta-magazine-quantamagazine-4c05`
+
+- Reading: [AI Is Nothing Like a Brain, and That's OK](../../../readings/ai-is-nothing-like-a-brain-and-that-s-ok-quanta-magazine-quantamagazine-4c05.md) · Quanta Magazine
+
 — how biological and artificial neurons differ, and what brains can teach AI
-- Reading: `the-unpredictable-abilities-emerging-from-large-ai-models-quanta-magazine-quantamagazine-c949`
+
+- Reading: [The Unpredictable Abilities Emerging From Large AI Models](../../../readings/the-unpredictable-abilities-emerging-from-large-ai-models-quanta-magazine-quantamagazine-c949.md) · Quanta Magazine
+
 — how large language models display surprising abilities at scale
 
 Please complete the preparation conversation below before class.
 This is part of attendance for today's meeting.
+
 > **Reading Ticket.** Hand in your reading ticket as you come in.
+
 ---
 
 ### Today's Plan
@@ -47,10 +53,13 @@ The first reading shows this same pattern everywhere in nature: water molecules 
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 2: Round 1: Share Out
 
@@ -72,10 +81,13 @@ Your digit network had ~13,000 artificial neurons. A single cubic millimeter of 
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 4: Round 2: Share Out
 
@@ -99,10 +111,13 @@ But there's a debate: are these "real" emergent abilities, or are they measureme
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 6: Round 3: Share Out
 
@@ -124,10 +139,13 @@ Complex intelligence — whether in brains or in neural networks — emerges fro
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 8: Wrap-Up
 
@@ -141,7 +159,10 @@ We'll keep pulling on this thread. Next time you use ChatGPT or Claude, remember
 
 **What worked well today? What could be improved?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___

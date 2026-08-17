@@ -2,7 +2,7 @@
 
 The original course ran these through a purpose-built system with a second AI watching the conversation and tracking progress. You do not need that. The prompts are self-contained, and pasting one into ChatGPT, Claude, or anything comparable gets you most of the value.
 
-This is the middle tier of adoption. If your students have a chatbot, use these rather than the paper substitutes — the paper patterns exist for rooms where nobody does.
+This is the middle tier of adoption. If your students have a chatbot, use these rather than the paper substitutes—the paper patterns exist for rooms where nobody does.
 
 ## Preparation prompts
 
@@ -26,7 +26,7 @@ This is the middle tier of adoption. If your students have a chatbot, use these 
 
 Read the prompt before assigning it. Most of them instruct the AI to push students toward talking to each other rather than typing at it, and to suggest pausing the chat to talk out loud. That is intended. If your groups end up talking to each other and ignoring the chatbot, the prompt is working.
 
-**What the objectives are for.** The `objectives` block lists what the discussion should reach, with criteria written as observable statements. Print them as a checklist even if you use the chatbot — it gives the group something to steer by.
+**What the objectives are for.** The `objectives` block lists what the discussion should reach, with criteria written as observable statements. Print them as a checklist even if you use the chatbot—it gives the group something to steer by.
 
 **What you lose.** The original ran a second AI that watched the transcript, tracked who was talking, and told the facilitator when to intervene. In particular it enforced participation balance: no student above sixty percent of the messages. A single chatbot will not do that. Watch for it yourself, or use the rotating chair role from the Structured Role Discussion pattern, which solves the same problem with a person.
 

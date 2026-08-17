@@ -236,10 +236,11 @@ _Groups share what they discovered_
 > **Instructor only**
 >
 > **Share-out approach:**
-- Ask groups what they investigated, not just what they found
-- Look for groups that investigated different questions
-- Connect findings across groups when you can
-- Don't lecture — amplify what students discovered
+> - Ask groups what they investigated, not just what they found
+> - Look for groups that investigated different questions
+> - Connect findings across groups when you can
+> - Don't lecture — amplify what students discovered
+>
 
 ### Stage 9: Wrap-Up
 

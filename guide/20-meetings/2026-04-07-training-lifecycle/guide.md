@@ -109,11 +109,12 @@ _Class discusses patterns they observed across training stages_
 > **Instructor only**
 >
 > **Discussion prompts:**
-- "Which stage was easiest to identify? What gave it away?"
-- "Was instruction-tuned vs. RLHF ever hard to tell apart? What's the actual difference?"
-- "The base model doesn't answer questions. What is it doing instead, and why?"
-- "Where did the RLHF'd model's warmth and caution come from? Who decided it should behave that way?"
-- "Did anyone find a prompt where the model did a bad job of simulating a stage?"
+> - "Which stage was easiest to identify? What gave it away?"
+> - "Was instruction-tuned vs. RLHF ever hard to tell apart? What's the actual difference?"
+> - "The base model doesn't answer questions. What is it doing instead, and why?"
+> - "Where did the RLHF'd model's warmth and caution come from? Who decided it should behave that way?"
+> - "Did anyone find a prompt where the model did a bad job of simulating a stage?"
+>
 
 ### Stage 3: Explore: Be the Preference Rater
 
@@ -160,11 +161,12 @@ _Class discusses their ranking disagreements_
 > **Instructor only**
 >
 > **Discussion prompts:**
-- "Which value dimension created the most disagreement between you and your partner?"
-- "Did anyone find a case where they preferred the 'wrong' value? Like choosing brevity when you usually value depth?"
-- "If raters tend to prefer the warmer, more encouraging response, what happens to the model over time?"
-- "Who are the people doing this ranking work, and does that matter?"
-- "Did the prompt change which value you preferred? Could the same person prefer different values for different questions?"
+> - "Which value dimension created the most disagreement between you and your partner?"
+> - "Did anyone find a case where they preferred the 'wrong' value? Like choosing brevity when you usually value depth?"
+> - "If raters tend to prefer the warmer, more encouraging response, what happens to the model over time?"
+> - "Who are the people doing this ranking work, and does that matter?"
+> - "Did the prompt change which value you preferred? Could the same person prefer different values for different questions?"
+>
 
 ### Stage 5: Generate Questions
 
@@ -245,9 +247,10 @@ _Groups share what they discovered_
 > **Instructor only**
 >
 > **Share-out approach:**
-- Ask groups with different answers to share
-- Synthesize: the training pipeline means every AI assistant is a product of human choices, not just data
-- Forward look: "On Thursday we'll explore what happens when people form deep emotional bonds with these systems. Keep today's insight in mind: the AI that seems warm and understanding was trained to seem that way."
+> - Ask groups with different answers to share
+> - Synthesize: the training pipeline means every AI assistant is a product of human choices, not just data
+> - Forward look: "On Thursday we'll explore what happens when people form deep emotional bonds with these systems. Keep today's insight in mind: the AI that seems warm and understanding was trained to seem that way."
+>
 
 ### Stage 9: Feedback
 

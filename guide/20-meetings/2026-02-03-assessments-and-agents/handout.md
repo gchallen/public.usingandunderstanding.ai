@@ -28,14 +28,14 @@ Before you experience the assessment system, take a few minutes to understand ho
 
 **Role — partner 1:**
 
-Read the assessment design document at [/design/assessments](/design/assessments). Focus on:
+Read the assessment design document at [/design/assessments](https://www.usingandunderstanding.ai/design/assessments). Focus on:
 - How are conversational assessments structured?
 - What roles do the evaluator and interviewer play?
 - How is grading determined?
 
 **Role — partner 2:**
 
-While your partner reads the design document, read the blog post at [/blog/assessing-conversational-assessment](/blog/2026-01-29-assessing-conversational-assessment). Focus on:
+While your partner reads the design document, read the blog post at [/blog/assessing-conversational-assessment](https://www.usingandunderstanding.ai/blog/2026-01-29-assessing-conversational-assessment). Focus on:
 - How was the assessment system tested?
 - What are the adversarial personas and what do they test?
 - Why use a fictional topic for testing?
@@ -49,15 +49,18 @@ Once you've both finished reading, discuss together:
 
 **Capture your observations:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 2: Complete the Turing Test
 
 Now it's your turn. Complete the Turing Test assessment individually:
-**[Start the Turing Test](/assessments/turing-test)**
+**[Start the Turing Test](https://www.usingandunderstanding.ai/assessments/turing-test)**
 This is a real conversational assessment — your first one for this course.
 - **Be genuine.**
 - **Take your time.** About 20 minutes is typical.
@@ -70,12 +73,17 @@ Now that you've experienced a conversational assessment, we'd like your honest f
 
 **Share your experience:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 4: Agents Talking to Agents
 
@@ -107,9 +115,14 @@ Now discuss together:
 
 **Record your observations:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___

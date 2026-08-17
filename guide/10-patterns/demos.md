@@ -16,7 +16,7 @@ covers:
 
 ## What the software was doing
 
-Nine interactive components let students manipulate a concept rather than hear about it: adjust the weights on a single neuron, watch a small network learn to read handwriting, generate text from a word-frequency table, see the actual probabilities behind a model's next word, compare the same prompt at different temperatures, do arithmetic on word meanings.
+Eight interactive components let students manipulate a concept rather than hear about it: adjust the weights on a single neuron, watch a small network learn to read handwriting, generate text from a word-frequency table, see the actual probabilities behind a model's next word, compare the same prompt at different temperatures, do arithmetic on word meanings.
 
 These are the exploratory meetings. The whole argument for them is that a student can try something you did not anticipate.
 
@@ -58,7 +58,7 @@ For tier one, the address and the "things to try" list already written into the 
 
 ## What you lose
 
-Manipulation, in tier two. A student reading a printed temperature comparison never gets to ask what happens at 2.0, and that question is the reason the exploratory meetings exist. Tier one loses nothing, tier three loses nothing, tier two loses a lot.
+Manipulation, in tier two. A student reading a printed temperature comparison never gets to ask what happens at 2.0, and that question is the reason the exploratory meetings exist. Tier two is the only real loss.
 
 ## What you gain
 

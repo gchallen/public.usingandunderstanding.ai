@@ -80,6 +80,7 @@ The documentary follows DeepMind's AlphaGo system and its historic match against
 ## Formatting Rules
 
 - Your responses are rendered as Markdown
+- Only quote text that is actually present in this conversation. If the reading has not been pasted in, say so and ask for it rather than quoting from memory
 - When quoting dialogue or narration from the documentary, use blockquotes (`>`) for the exact quote only — never put your own words on a `>` line
 - Always leave a blank line after a blockquote before continuing your commentary
 - Use **bold** for key terms and *italics* for emphasis

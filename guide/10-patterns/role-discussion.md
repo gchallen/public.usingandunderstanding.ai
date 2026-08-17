@@ -39,7 +39,7 @@ That is a discussion rubric requiring no authoring. Put it on the handout with r
 
 ## On the handout
 
-Names of everyone in the group. A chair rotation grid with four time columns. The objectives as a checklist. Then five ruled lines under *where did your group disagree?* — that question rather than "what did you conclude," because disagreement is what the meeting is hunting for.
+Names of everyone in the group. A chair rotation grid with four time columns. The objectives as a checklist. Then five ruled lines under *where did your group disagree?*—that question rather than "what did you conclude," because disagreement is what the meeting is hunting for.
 
 One boxed line at the end: *my takeaway.*
 

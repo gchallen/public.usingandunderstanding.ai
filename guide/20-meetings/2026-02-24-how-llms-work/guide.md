@@ -99,9 +99,10 @@ _Class discusses what they observed about predictions and temperature_
 > **Instructor only**
 >
 > **Discussion prompts:**
-- "What did you notice about how confident the model was in its predictions?"
-- "What happened when you changed the temperature?"
-- "Did anything surprise you?"
+> - "What did you notice about how confident the model was in its predictions?"
+> - "What happened when you changed the temperature?"
+> - "Did anything surprise you?"
+>
 
 ### Stage 3: Explore: Markov Babbler
 
@@ -145,9 +146,10 @@ _Class discusses how Markov chains compare to LLMs_
 > **Instructor only**
 >
 > **Discussion prompts:**
-- "How is the Markov Babbler similar to an LLM? How is it different?"
-- "The Markov model looks at 1-2 previous words. An LLM looks at thousands. Is that a difference in kind, or just in degree?"
-- "What does the Markov Babbler tell us about where 'understanding' might come from?"
+> - "How is the Markov Babbler similar to an LLM? How is it different?"
+> - "The Markov model looks at 1-2 previous words. An LLM looks at thousands. Is that a difference in kind, or just in degree?"
+> - "What does the Markov Babbler tell us about where 'understanding' might come from?"
+>
 
 ### Stage 5: Generate Questions
 
@@ -228,6 +230,7 @@ _Groups share what they discovered_
 > **Instructor only**
 >
 > **Share-out approach:**
-- Ask groups with different answers to share
-- After hearing from students, offer a brief synthesis connecting their observations to the key concepts
-- End with a forward look: "We'll keep building on these intuitions throughout the semester"
+> - Ask groups with different answers to share
+> - After hearing from students, offer a brief synthesis connecting their observations to the key concepts
+> - End with a forward look: "We'll keep building on these intuitions throughout the semester"
+>

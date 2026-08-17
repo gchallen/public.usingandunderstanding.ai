@@ -15,12 +15,16 @@ The original ran on a custom website that collected student writing, used AI to 
 Before adapting anything, find out:
 
 1. **How long is the period?** The original is 75 minutes. Most stage plans assume it.
-2. **How many students?** The original had about 25. Above 40, the collection patterns change shape and you should say so.
+2. **How many students?** The original had 25. Above 40, the collection patterns change shape and you should say so.
 3. **What AI access do students have?** Confirm they have some. See *How an activity can run* below.
 4. **Which readings can they actually get?** Most originals are paywalled. Assume they will substitute.
 5. **What are they teaching toward?** This is an elective with no downstream course depending on it. If theirs has prerequisites attached, the assessment story changes completely.
 
 Do not start editing until you know 1, 2, and 3.
+
+## What teaching this requires
+
+A photocopier, a chatbot for students, and an agent for you. Confirm all three before planning around them.
 
 ## How an activity can run
 
@@ -28,7 +32,7 @@ Every activity exists at three levels. Ask which one a design touches before pro
 
 **Paper.** Cards, a whiteboard, a photocopier. Every meeting works this way, and the six patterns in `guide/10-patterns/` are the procedures. The point is that the classroom never depends on software being up: the original instructor's own AI facilitator was instructed to push students toward talking face to face, so the paper version of a group discussion is often the stated goal with the scaffolding removed.
 
-**Any chatbot.** The prompts in `content/prompts/` are self-contained system prompts. A student with ChatGPT or Claude can run a preparation chat by pasting one in. A group can run a facilitated discussion the same way. It is usually better than paper for preparation work and about equal for in-class discussion.
+**Any chatbot.** The prompts in `content/prompts/` run without the original system. A student with ChatGPT or Claude runs a preparation chat by pasting in the prompt and the reading together. The prompt asks the model to quote the reading, so without the text pasted alongside it the model will invent quotations. A group can run a facilitated discussion the same way. It is usually better than paper for preparation work and about equal for in-class discussion.
 
 **Custom infrastructure.** What the original had. Do not recommend building it. It took a semester and it is not the part that made the course work.
 
@@ -38,7 +42,7 @@ Do not hand someone the paper substitute for a stage their students could run wi
 
 These are expensive lessons. Apply them without being asked.
 
-**Every activity meeting ends with a five-minute feedback stage.** No exceptions. It is the only systematic signal about whether the session worked, and it is the first thing to get cut when the period runs out — which is exactly when you most need it.
+**Every activity meeting ends with a five-minute feedback stage.** No exceptions. It is the only systematic signal about whether the session worked, and it is the first thing to get cut when the period runs out—which is exactly when you most need it.
 
 **Discussion share-outs expand, and the last round pays.** Plan four rounds and teach three. Put the round you are least attached to last, and tell the class at the start that you may not reach it. A round dropped on purpose costs nothing; a round dropped at the bell costs the ending.
 
@@ -56,7 +60,7 @@ These are expensive lessons. Apply them without being asked.
 
 A meeting is `frontmatter`, an optional `facilitationOverview`, an `activity` with `stages`, and an optional `outro`.
 
-A stage has a `label`, an `estimatedTime`, an optional `transition` (one line on what changes here — never shown to students), optional `facilitationNotes` (instructor only), `content` blocks, and an optional `group`.
+A stage has a `label`, an `estimatedTime`, an optional `transition` (one line on what changes here—never shown to students), optional `facilitationNotes` (instructor only), `content` blocks, and an optional `group`.
 
 Content blocks are a discriminated union in `content/types.ts`. Blocks fall into two kinds: ones paper carries directly (prose, reading links, writing space, feedback) and ones that need a substitution pattern (anything that collected student work and showed it back to the room). `guide/10-patterns/` has one chapter per pattern.
 

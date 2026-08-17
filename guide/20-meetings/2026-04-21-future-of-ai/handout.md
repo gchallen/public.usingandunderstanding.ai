@@ -38,10 +38,13 @@ This is a fundamentally different approach from "just make it bigger." Instead o
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 2: Round 1: Share Out
 
@@ -65,10 +68,13 @@ It also changes the economics: cloud AI costs money per query, and companies can
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 4: Round 2: Share Out
 
@@ -90,10 +96,13 @@ This raises a question: is the future one AI that does everything, or many AIs t
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 6: Round 3: Share Out
 
@@ -105,7 +114,10 @@ Geoff will ask a few pairs to share what they discussed. Listen for ideas that c
 
 **How was today's session? Which discussion round generated the most interesting conversation? What topic would you have liked to explore more?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___

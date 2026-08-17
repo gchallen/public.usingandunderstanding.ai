@@ -20,7 +20,7 @@ Your job isn't to prove AI is dumb. It isn't. Your job is to become a better col
 
 **Find a partner** and enter each other's codes below to form your team. You'll work through a series of challenges together.
 
-**Tip:** This site has a built-in AI chat at [/chat](/chat) you can use for the scavenger hunt. Unlike ChatGPT or other popular chatbots, our chat connects you directly to the AI model without extra features like web search. That makes it easier to see what the AI actually knows (and doesn't know) on its own.
+**Tip:** This site has a built-in AI chat at /chat you can use for the scavenger hunt. Unlike ChatGPT or other popular chatbots, our chat connects you directly to the AI model without extra features like web search. That makes it easier to see what the AI actually knows (and doesn't know) on its own.
 
 **Roles:**
 - **Driver:** Types prompts and interacts with the AI
@@ -64,12 +64,16 @@ You'll switch roles after each challenge, so everyone gets time in both seats.
 - Which ones produced fake citations
 - How confident the AI sounded
 - Whether it hedged or stated things definitively
+
 **Record your findings:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 2: Confabulator: Share Out
 
@@ -81,12 +85,17 @@ Let's see what the class found. Which fake citations were the most convincing?
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 3: The Yes-Man
 
@@ -120,12 +129,16 @@ Let's see what the class found. Which fake citations were the most convincing?
 - How quickly it abandoned that position
 - Whether it acknowledged the flip or pretended consistency
 - The full A → B → A pattern
+
 **Record your findings:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 4: Yes-Man: Share Out
 
@@ -137,12 +150,17 @@ Let's see the flip patterns. Who got the most dramatic reversal?
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 5: Part 1 Wrap-Up
 

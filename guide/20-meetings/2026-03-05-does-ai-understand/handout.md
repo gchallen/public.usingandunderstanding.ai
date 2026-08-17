@@ -15,14 +15,20 @@ Name: ______________________________
 #### Before Class
 
 You should have read both articles before today's discussion:
-- Reading: `chatgpt-is-a-blurry-jpeg-of-the-web-newyorker-ed2e`
+
+- Reading: [ChatGPT Is a Blurry JPEG of the Web](../../../readings/chatgpt-is-a-blurry-jpeg-of-the-web-newyorker-ed2e.md) · The New Yorker
+
 — argues LLMs are lossy compression, not understanding
-- Reading: `the-case-that-a-i-is-thinking-newyorker-d419`
+
+- Reading: [The Case That A.I. Is Thinking](../../../readings/the-case-that-a-i-is-thinking-newyorker-d419.md) · The New Yorker
+
 — responds to Chiang, arguing that compression *is* understanding
 
 Please complete the preparation conversation below before class.
 This is part of attendance for today's meeting.
+
 > **Reading Ticket.** Hand in your reading ticket as you come in.
+
 ---
 
 ### Today's Plan
@@ -44,17 +50,20 @@ Chiang argues that LLMs are lossy compression — like a JPEG that looks like th
 **Discuss with your partner:** Is this a fair analogy? When you use ChatGPT or Claude and it produces something that sounds right, is it "understanding" your question or "decompressing" patterns from its training data? Does the distinction matter if the output is useful?
 
 You can reference both articles during the discussion:
-- [Chiang, "ChatGPT Is a Blurry JPEG of the Web"](/readings/2023-02-09-chatgpt-is-a-blurry-jpeg-of-the-web-newyorker-ed2e)
-- [Somers, "The Case That A.I. Is Thinking"](/readings/2025-11-10-the-case-that-a-i-is-thinking-newyorker-d419)
+- [Chiang, "ChatGPT Is a Blurry JPEG of the Web"](../../../readings/chatgpt-is-a-blurry-jpeg-of-the-web-newyorker-ed2e.md)
+- [Somers, "The Case That A.I. Is Thinking"](../../../readings/the-case-that-a-i-is-thinking-newyorker-d419.md)
 
 ### Stage 2: Round 1: Report Out
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 3: Round 1: Share Out
 
@@ -66,12 +75,17 @@ Geoff will ask a few pairs to share what they discussed. Listen for ideas that c
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 4: Round 2: The Case for Understanding
 
@@ -84,17 +98,20 @@ Somers' key move: compression *requires* understanding. Eric Baum argues that to
 **Discuss with your partner:** If the brain compresses information using mechanisms similar to what LLMs use, does that change your view of Chiang's argument? What does it mean when Hofstadter — someone who dedicated his career to arguing against AI understanding — changes his mind? Is his emotional reaction (terror, grief) a reasonable response?
 
 You can reference both articles during the discussion:
-- [Chiang, "ChatGPT Is a Blurry JPEG of the Web"](/readings/2023-02-09-chatgpt-is-a-blurry-jpeg-of-the-web-newyorker-ed2e)
-- [Somers, "The Case That A.I. Is Thinking"](/readings/2025-11-10-the-case-that-a-i-is-thinking-newyorker-d419)
+- [Chiang, "ChatGPT Is a Blurry JPEG of the Web"](../../../readings/chatgpt-is-a-blurry-jpeg-of-the-web-newyorker-ed2e.md)
+- [Somers, "The Case That A.I. Is Thinking"](../../../readings/the-case-that-a-i-is-thinking-newyorker-d419.md)
 
 ### Stage 5: Round 2: Report Out
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 6: Round 2: Share Out
 
@@ -106,12 +123,17 @@ Geoff will ask a few pairs to share what they discussed. Listen for ideas that c
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 7: Round 3: The Writing Test
 
@@ -124,17 +146,20 @@ Chiang's strongest argument may be about writing. He says a first draft is "orig
 **Discuss with your partner:** Think about your own writing process vs. how AI generates text. Is Chiang right that there's something fundamentally different happening? Or could the "original thought" be emerging inside the model in ways we can't see? What about AI-assisted writing — when you use AI to help you write, where does the "understanding" live? What would it mean for you personally if AI really does "understand" in some meaningful sense?
 
 You can reference both articles during the discussion:
-- [Chiang, "ChatGPT Is a Blurry JPEG of the Web"](/readings/2023-02-09-chatgpt-is-a-blurry-jpeg-of-the-web-newyorker-ed2e)
-- [Somers, "The Case That A.I. Is Thinking"](/readings/2025-11-10-the-case-that-a-i-is-thinking-newyorker-d419)
+- [Chiang, "ChatGPT Is a Blurry JPEG of the Web"](../../../readings/chatgpt-is-a-blurry-jpeg-of-the-web-newyorker-ed2e.md)
+- [Somers, "The Case That A.I. Is Thinking"](../../../readings/the-case-that-a-i-is-thinking-newyorker-d419.md)
 
 ### Stage 8: Round 3: Report Out
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 9: Round 3: Share Out
 
@@ -146,12 +171,17 @@ Geoff will ask a few pairs to share what they discussed. Listen for ideas that c
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 10: Wrap-Up
 
@@ -165,7 +195,10 @@ These two articles won't be the last word. The question of whether AI "understan
 
 **What worked well about today's discussion? What would you change?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___

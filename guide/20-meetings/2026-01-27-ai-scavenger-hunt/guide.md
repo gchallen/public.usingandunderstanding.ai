@@ -30,7 +30,7 @@ Your job isn't to prove AI is dumb. It isn't. Your job is to become a better col
 
 **Find a partner** and enter each other's codes below to form your team. You'll work through a series of challenges together.
 
-**Tip:** This site has a built-in AI chat at [/chat](/chat) you can use for the scavenger hunt. Unlike ChatGPT or other popular chatbots, our chat connects you directly to the AI model without extra features like web search. That makes it easier to see what the AI actually knows (and doesn't know) on its own.
+**Tip:** This site has a built-in AI chat at /chat you can use for the scavenger hunt. Unlike ChatGPT or other popular chatbots, our chat connects you directly to the AI model without extra features like web search. That makes it easier to see what the AI actually knows (and doesn't know) on its own.
 
 **Roles:**
 - **Driver:** Types prompts and interacts with the AI
@@ -82,6 +82,7 @@ _Partners explore AI hallucinations_
 - Which ones produced fake citations
 - How confident the AI sounded
 - Whether it hedged or stated things definitively
+
 **Record your findings:**
 
 _Expected response: What prompts did you try? Did you get a fake citation? How confident did the AI sound?_
@@ -144,6 +145,7 @@ _Roles rotate; new challenge begins_
 - How quickly it abandoned that position
 - Whether it acknowledged the flip or pretended consistency
 - The full A → B → A pattern
+
 **Record your findings:**
 
 _Expected response: What topic did you pick? Describe the A → B → A pattern you observed._

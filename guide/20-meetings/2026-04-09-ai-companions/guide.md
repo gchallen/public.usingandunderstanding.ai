@@ -45,15 +45,22 @@ Pair discussion of emotional bonds with AI, agent autonomy, and design responsib
 #### Before Class
 
 You should **read all four articles** before today's discussion:
-- Reading: `love-in-the-time-of-a-i-companions-newyorker-6483`
-- Reading: `what-teens-are-doing-with-those-role-playing-chatbots-nytimes-fdfe`
-- Reading: `sorry-mom-you-re-chatting-with-an-a-i-agent-not-your-son-nytimes-41d4`
-- Reading: `a-i-bots-can-act-as-personal-digital-assistants-but-there-are-serious-risks-nytimes-3ee3`
+
+- Reading: [Love in the Time of A.I. Companions](../../../readings/love-in-the-time-of-a-i-companions-newyorker-6483.md) · The New Yorker
+
+- Reading: [What Teens Are Doing With Those Role-Playing Chatbots](../../../readings/what-teens-are-doing-with-those-role-playing-chatbots-nytimes-fdfe.md) · The New York Times
+
+- Reading: [Sorry, Mom. You're Chatting With an A.I. Agent, Not Your Son.](../../../readings/sorry-mom-you-re-chatting-with-an-a-i-agent-not-your-son-nytimes-41d4.md) · The New York Times
+
+- Reading: [A.I. Bots Can Act as Personal Digital Assistants, but There Are Serious Risks](../../../readings/a-i-bots-can-act-as-personal-digital-assistants-but-there-are-serious-risks-nytimes-3ee3.md) · The New York Times
+
 Please complete the preparation conversation below before class.
 This is part of attendance for today's meeting.
+
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
+
 ---
 
 ### Today's Plan

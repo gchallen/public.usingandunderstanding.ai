@@ -43,19 +43,25 @@ Pair discussion on what makes us human, what AI changes, and what AGI would chan
 
 ### Human Flourishing in an Age of AI
 
-> **Sign up for the End-of-Semester Quiz.** Our first and last CBTF quiz runs **Wednesday April 29 through Friday May 1**. Visit the [Assessments page](/assessments) to enroll on PrairieTest (one-time) and reserve a session.
+> **Sign up for the End-of-Semester Quiz.** Our first and last CBTF quiz runs **Wednesday April 29 through Friday May 1**. Visit the Assessments page to enroll on PrairieTest (one-time) and reserve a session.
 
 #### Before Class
 
 You should **read all three articles** before today's discussion:
-- Reading: `the-human-skill-that-eludes-ai-theatlantic-4842`
-- Reading: `who-cares-if-ai-brings-down-the-economy-theatlantic-dc39`
-- Reading: `michael-pollan-punctures-the-ai-bubble-theatlantic-a862`
+
+- Reading: [The Human Skill That Eludes AI](../../../readings/the-human-skill-that-eludes-ai-theatlantic-4842.md) · The Atlantic
+
+- Reading: [Who Cares If AI Brings Down the Economy?](../../../readings/who-cares-if-ai-brings-down-the-economy-theatlantic-dc39.md) · The Atlantic
+
+- Reading: [Michael Pollan Punctures the AI Bubble](../../../readings/michael-pollan-punctures-the-ai-bubble-theatlantic-a862.md) · The Atlantic
+
 Please complete the preparation conversation below before class.
 This is part of attendance for today's meeting.
+
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
+
 ---
 
 ### Today's Plan

@@ -31,7 +31,7 @@ You need index cards, a marker, and tape. For the strategies version you need ca
 
 Three piles, and the pile names change with the task:
 
-- *Discussion questions from written responses.* Sort into quotable, colliding, and typical. Tape two or three quotable cards with the name showing, so you can say "Maya wrote this, tell us more." Then tape two or three pairs that contradict each other, side by side. Discard the typical ones. Stop at four minutes and accept a worse sort. Five good cards beat ten mediocre ones.
+- *Discussion questions from written responses.* Sort into quotable, colliding, and typical. Tape two or three quotable cards with the name showing, so you can say "[name] wrote this, tell us more." Then tape two or three pairs that contradict each other, side by side. Discard the typical ones. Stop at four minutes and accept a worse sort. Five good cards beat ten mediocre ones.
 - *Student questions.* Stack near-duplicates physically. The height of a stack is a frequency signal the AI never had. Tape the top card of the five or six tallest stacks and write the count beside it. Circle one to work on.
 - *Strategies.* Three columns: works, doesn't work, disputed. Green cards for effective, red for ineffective, group number rather than name. Any idea that appears on both a green and a red card moves to disputed with both cards stacked. Spend the discussion there.
 
@@ -45,7 +45,7 @@ For the question version, add a boxed line: *the question our group is investiga
 
 ## What you lose
 
-Speed. A collection point costs four or five minutes against roughly fifteen seconds of machine time. Meetings with three collection points lose a quarter of the period, and the answer is to cut a round rather than to hurry all of them. See the pacing chapter.
+Speed. A collection point costs four or five minutes against roughly fifteen seconds of machine time. Meetings with three collection points lose about a fifth of the period, and the answer is to cut a round rather than to hurry all of them. See the pacing chapter.
 
 You also cannot sort and circulate at once, and the cards go in the recycling at the end of the day. The database kept everything.
 

@@ -45,14 +45,20 @@ Pair discussion of how AI is changing work, who benefits, and what should be don
 #### Before Class
 
 You should **read all three articles** before today's discussion:
-- Reading: `coders-coded-their-job-away-why-are-so-many-of-them-happy-about-it-nytimes-7596`
-- Reading: `how-to-guess-if-your-job-will-exist-in-five-years-theatlantic-d52c`
-- Reading: `can-a-i-be-pro-worker-newyorker-e782`
+
+- Reading: [Coders Coded Their Job Away. Why Are So Many of Them Happy About It?](../../../readings/coders-coded-their-job-away-why-are-so-many-of-them-happy-about-it-nytimes-7596.md) · The New York Times
+
+- Reading: [How to Guess If Your Job Will Exist in Five Years](../../../readings/how-to-guess-if-your-job-will-exist-in-five-years-theatlantic-d52c.md) · The Atlantic
+
+- Reading: [Can A.I. Be Pro-Worker?](../../../readings/can-a-i-be-pro-worker-newyorker-e782.md) · The New Yorker
+
 Please complete the preparation conversation below before class.
 This is part of attendance for today's meeting.
+
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
+
 ---
 
 ### Today's Plan

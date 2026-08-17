@@ -36,12 +36,17 @@ Before diving into studying, let's think about how to use AI well for learning. 
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 2: Strategy Review
 
@@ -49,12 +54,17 @@ Before diving into studying, let's think about how to use AI well for learning. 
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 3: Class Discussion
 
@@ -64,12 +74,17 @@ Let's look at what you came up with — especially the strategies where groups d
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 4: Practice Testing
 
@@ -91,10 +106,13 @@ Before moving on, create a share link to your AI conversation. In ChatGPT, click
 
 **Practice Testing reflection:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 6: Build a Study Aid
 
@@ -116,16 +134,22 @@ Create a share link to this conversation too.
 
 **Study Aid reflection:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 8: Feedback
 
 **What worked well about today's study session? What would you change?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___

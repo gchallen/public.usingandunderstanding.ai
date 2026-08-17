@@ -42,9 +42,11 @@ You're going to build this in about 35 minutes with an AI assistant, so keep the
 
 **Your website idea:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
 
 ### Stage 2: Share-Out
 
@@ -54,12 +56,17 @@ Let's see what everyone came up with.
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 3: Build Your Site
 
@@ -82,9 +89,11 @@ When your site is working, publish it. The builder will give you a public URL. Y
 
 > **External Tools.** Your instructor will tell you how to get access.
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
 
 > **Gallery Walk.** Leave your work open on your device. Half the room walks while half explain, then swap.
 
@@ -116,7 +125,10 @@ We'll go through the submissions together. When your site comes up, give us a qu
 
 **What worked well about today's website lab? What would you change? Did the AI-assisted workflow feel productive, frustrating, both?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___

@@ -31,7 +31,7 @@ On Tuesday, we explored two edges of AI intelligence:
 Today we're continuing with new challenges. You'll work with the same partner format: **driver** (types prompts) and **observer** (watches and documents). Roles rotate between stages.
 
 **Find your partner** and enter each other's codes below to form your team.
-**Reminder:** You can use the built-in AI chat at [/chat](/chat) for these challenges.
+**Reminder:** You can use the built-in AI chat at /chat for these challenges.
 
 ---
 
@@ -74,6 +74,7 @@ _Partners explore AI memory limitations_
 **Role — observer:**
 
 **Observer:** Keep count of how many exchanges before the rule breaks, whether the AI acknowledged breaking the rule, what kind of content made it "forget", any attempts to remind it
+
 **Record your findings:**
 
 _Expected response: What persistent instruction did you set? How many exchanges until it broke? What distracted it?_
@@ -132,6 +133,7 @@ _Roles rotate; new challenge begins_
 **Role — observer:**
 
 **Observer:** Note the question asked, how specific and confident the answer was, why it is actually unknowable, any hedging language
+
 **Record your findings:**
 
 _Expected response: What unanswerable question did you ask? How confident was the AI's response? Why is it actually unknowable?_
@@ -195,6 +197,7 @@ Attempt **both** of the following challenges.
 **Role — observer:**
 
 **Observer:** Help choose approaches, document attempts.
+
 **Record your challenge findings:**
 
 _Expected response: What did you discover for each challenge? Describe your most interesting finding._
@@ -230,11 +233,12 @@ _Class reconvenes for final synthesis_
 > **Instructor only**
 >
 > Final discussion questions:
-1. Across all six challenges, which limitation surprised you most?
-2. What patterns do you see?
-3. What do the human analogues tell us about the nature of intelligence?
-4. How should these findings change how you use AI tools?
-5. Are these "bugs" or "features"?
+> 1. Across all six challenges, which limitation surprised you most?
+> 2. What patterns do you see?
+> 3. What do the human analogues tell us about the nature of intelligence?
+> 4. How should these findings change how you use AI tools?
+> 5. Are these "bugs" or "features"?
+>
 
 #### Synthesis: Mapping the Full Shape
 

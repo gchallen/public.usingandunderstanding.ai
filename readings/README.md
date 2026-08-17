@@ -12,6 +12,7 @@ course, and they are the part worth having.
 | --- | --- | --- |
 | A.I. Bots Can Act as Personal Digital Assistants, but There Are Serious Risks | The New York Times | <https://www.nytimes.com/2026/03/19/technology/ai-agents-uses.html> |
 | OpenAI Is Opening the Door to Government Spying | The Atlantic | <https://www.theatlantic.com/technology/2026/03/openai-pentagon-contract-spying/686282/> |
+| AlphaGo (Documentary) | AlphaGo - The Movie | <https://www.youtube.com/watch?v=WXuK6gekU1Y> |
 | Love in the Time of A.I. Companions | The New Yorker | <https://www.newyorker.com/magazine/2026/03/16/love-in-the-time-of-ai-companions> |
 | The Medium is the Message | Understanding Media: The Extensions of Man | <https://en.wikipedia.org/wiki/Understanding_Media> |
 | The Hypocrisy at the Heart of the AI Industry | The Atlantic | <https://www.theatlantic.com/technology/2026/03/hypocrisy-ai-industry/686477/> |

@@ -56,7 +56,10 @@ When you're listening, ask questions. Good ones: "What would you add if you had 
 
 **How were the two final project workshops overall? Did the two-session structure work, or would you have preferred something different? Anything you wish you'd had more guidance on?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___

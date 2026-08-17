@@ -27,7 +27,7 @@ If you adopt one thing from this guide, adopt this. It costs a photocopier and n
 
 ## On the handout
 
-The ticket is its own page, brought to class, separate from the in-class packet. Do not staple them together — you are collecting one and they are keeping the other.
+The ticket is its own page, brought to class, separate from the in-class packet. Do not staple them together—you are collecting one and they are keeping the other.
 
 ## What you lose
 

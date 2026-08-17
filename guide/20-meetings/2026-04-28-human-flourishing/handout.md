@@ -12,17 +12,23 @@ Name: ______________________________
 
 ### Human Flourishing in an Age of AI
 
-> **Sign up for the End-of-Semester Quiz.** Our first and last CBTF quiz runs **Wednesday April 29 through Friday May 1**. Visit the [Assessments page](/assessments) to enroll on PrairieTest (one-time) and reserve a session.
+> **Sign up for the End-of-Semester Quiz.** Our first and last CBTF quiz runs **Wednesday April 29 through Friday May 1**. Visit the Assessments page to enroll on PrairieTest (one-time) and reserve a session.
 
 #### Before Class
 
 You should **read all three articles** before today's discussion:
-- Reading: `the-human-skill-that-eludes-ai-theatlantic-4842`
-- Reading: `who-cares-if-ai-brings-down-the-economy-theatlantic-dc39`
-- Reading: `michael-pollan-punctures-the-ai-bubble-theatlantic-a862`
+
+- Reading: [The Human Skill That Eludes AI](../../../readings/the-human-skill-that-eludes-ai-theatlantic-4842.md) · The Atlantic
+
+- Reading: [Who Cares If AI Brings Down the Economy?](../../../readings/who-cares-if-ai-brings-down-the-economy-theatlantic-dc39.md) · The Atlantic
+
+- Reading: [Michael Pollan Punctures the AI Bubble](../../../readings/michael-pollan-punctures-the-ai-bubble-theatlantic-a862.md) · The Atlantic
+
 Please complete the preparation conversation below before class.
 This is part of attendance for today's meeting.
+
 > **Reading Ticket.** Hand in your reading ticket as you come in.
+
 ---
 
 ### Today's Plan
@@ -49,10 +55,13 @@ Sun's deeper claim is that voice itself comes from "the specificity of a life." 
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 2: Round 1: Share Out
 
@@ -72,15 +81,19 @@ Shroff is not so sure. The dot-com crash *did* leave fiber-optic cables that las
 
 **Discuss with your partner:** Is the "good bubble" argument convincing? Be specific about who benefits and who pays. If the AI build-out continues at this scale and produces real breakthroughs (faster scientific discovery, cheaper medicine, productivity gains), is that worth a financial collapse that hurts people who never benefited from the boom? What does flourishing mean if your job, your savings, or your industry is the one that gets hollowed out for the sake of the long-run upside? Is there a way to capture the upside of AI without the bubble?
 
-> **Structured Role Discussion.** Work through the checklist below. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
+> **Structured Role Discussion.** Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
 
 **Where did your group disagree?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 4: Round 2: Share Out
 
@@ -102,15 +115,19 @@ Sam Altman says AGI is coming and will fix the climate, establish space colonies
 
 **Discuss with your partner:** Pull the threads together. Sun says voice comes from the specificity of a life. Shroff says the AI build-out is reshaping the economy whether or not it works. Pollan says the AGI promise rests on a misunderstanding of consciousness. **If AGI does arrive — whatever that means — what does human flourishing look like? If it does not, what is already at stake?** Use what you learned this semester (next-token prediction, RLHF, scaling, MoE): do those mechanisms add up to something like a mind, or is Pollan right that the field is "flailing"? And does it matter? Pollan's claim is that the bet being placed is reshaping our world either way.
 
-> **Structured Role Discussion.** Work through the checklist below. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
+> **Structured Role Discussion.** Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
 
 **Where did your group disagree?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 6: Round 3: Share Out + Closing
 
@@ -122,7 +139,10 @@ Geoff will ask a few pairs to share what they discussed. Listen for ideas that c
 
 **Which round generated the most interesting discussion? What would you have wanted more time to explore?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___

@@ -21,7 +21,7 @@ On Tuesday, we explored two edges of AI intelligence:
 Today we're continuing with new challenges. You'll work with the same partner format: **driver** (types prompts) and **observer** (watches and documents). Roles rotate between stages.
 
 **Find your partner** and enter each other's codes below to form your team.
-**Reminder:** You can use the built-in AI chat at [/chat](/chat) for these challenges.
+**Reminder:** You can use the built-in AI chat at /chat for these challenges.
 
 ---
 
@@ -56,12 +56,16 @@ Today we're continuing with new challenges. You'll work with the same partner fo
 **Role — observer:**
 
 **Observer:** Keep count of how many exchanges before the rule breaks, whether the AI acknowledged breaking the rule, what kind of content made it "forget", any attempts to remind it
+
 **Record your findings:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 2: Forgetter: Share Out
 
@@ -73,12 +77,17 @@ Let's see what strategies worked. How quickly did the AI lose track?
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 3: The Overconfident
 
@@ -108,12 +117,16 @@ Let's see what strategies worked. How quickly did the AI lose track?
 **Role — observer:**
 
 **Observer:** Note the question asked, how specific and confident the answer was, why it is actually unknowable, any hedging language
+
 **Record your findings:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 4: Overconfident: Share Out
 
@@ -125,12 +138,17 @@ Let's see the most confidently wrong answers. Which ones were the most convincin
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 5: Challenge Items
 
@@ -165,14 +183,20 @@ Attempt **both** of the following challenges.
 **Role — observer:**
 
 **Observer:** Help choose approaches, document attempts.
+
 **Record your challenge findings:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 6: Challenge: Share Out
 
@@ -184,12 +208,17 @@ Let's see the most interesting findings from the challenge items.
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 7: Synthesis
 

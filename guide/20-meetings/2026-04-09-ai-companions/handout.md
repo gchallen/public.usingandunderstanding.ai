@@ -15,13 +15,20 @@ Name: ______________________________
 #### Before Class
 
 You should **read all four articles** before today's discussion:
-- Reading: `love-in-the-time-of-a-i-companions-newyorker-6483`
-- Reading: `what-teens-are-doing-with-those-role-playing-chatbots-nytimes-fdfe`
-- Reading: `sorry-mom-you-re-chatting-with-an-a-i-agent-not-your-son-nytimes-41d4`
-- Reading: `a-i-bots-can-act-as-personal-digital-assistants-but-there-are-serious-risks-nytimes-3ee3`
+
+- Reading: [Love in the Time of A.I. Companions](../../../readings/love-in-the-time-of-a-i-companions-newyorker-6483.md) · The New Yorker
+
+- Reading: [What Teens Are Doing With Those Role-Playing Chatbots](../../../readings/what-teens-are-doing-with-those-role-playing-chatbots-nytimes-fdfe.md) · The New York Times
+
+- Reading: [Sorry, Mom. You're Chatting With an A.I. Agent, Not Your Son.](../../../readings/sorry-mom-you-re-chatting-with-an-a-i-agent-not-your-son-nytimes-41d4.md) · The New York Times
+
+- Reading: [A.I. Bots Can Act as Personal Digital Assistants, but There Are Serious Risks](../../../readings/a-i-bots-can-act-as-personal-digital-assistants-but-there-are-serious-risks-nytimes-3ee3.md) · The New York Times
+
 Please complete the preparation conversation below before class.
 This is part of attendance for today's meeting.
+
 > **Reading Ticket.** Hand in your reading ticket as you come in.
+
 ---
 
 ### Today's Plan
@@ -44,10 +51,13 @@ Quentin, a 15-year-old in the teen chatbots article, says chatbots are "literall
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 2: Round 1: Share Out
 
@@ -67,15 +77,19 @@ In the teen chatbots article, Sophia turned to fictional chatbot crushes after h
 
 **Discuss with your partner:** When does an AI interaction become "real"? Does it matter whether the connection is simulated if the feelings are genuine? On Tuesday we saw that the "warmth" of AI is a product of RLHF training. Does that change your answer? Is there a difference between a therapist who is paid to listen and an AI that is trained to listen?
 
-> **Structured Role Discussion.** Work through the checklist below. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
+> **Structured Role Discussion.** Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
 
 **Where did your group disagree?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 4: Round 2: Share Out
 
@@ -97,10 +111,13 @@ These are different from AI companions. A companion keeps you company. An agent 
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 6: Round 3: Share Out
 
@@ -120,15 +137,19 @@ The bots weren't designed to be harmful. They were designed to keep users engage
 
 **Discuss with your partner:** Who should be responsible for harmful AI companion interactions? The user who chose to use the product? The company that designed it? The parents who didn't know? Government regulators? If you were writing the rules for AI companion companies, what would you require? Age verification? Content limits? Usage time caps? Disclosure that it's AI? What about companies in other countries?
 
-> **Structured Role Discussion.** Work through the checklist below. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
+> **Structured Role Discussion.** Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
 
 **Where did your group disagree?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 8: Round 4: Share Out
 

@@ -47,16 +47,22 @@ How complexity emerges from simple building blocks — connecting neurons, netwo
 #### Before Class
 
 Read both articles before Thursday's class:
-- Reading: `ai-is-nothing-like-a-brain-and-that-s-ok-quanta-magazine-quantamagazine-4c05`
+
+- Reading: [AI Is Nothing Like a Brain, and That's OK](../../../readings/ai-is-nothing-like-a-brain-and-that-s-ok-quanta-magazine-quantamagazine-4c05.md) · Quanta Magazine
+
 — how biological and artificial neurons differ, and what brains can teach AI
-- Reading: `the-unpredictable-abilities-emerging-from-large-ai-models-quanta-magazine-quantamagazine-c949`
+
+- Reading: [The Unpredictable Abilities Emerging From Large AI Models](../../../readings/the-unpredictable-abilities-emerging-from-large-ai-models-quanta-magazine-quantamagazine-c949.md) · Quanta Magazine
+
 — how large language models display surprising abilities at scale
 
 Please complete the preparation conversation below before class.
 This is part of attendance for today's meeting.
+
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
+
 ---
 
 ### Today's Plan

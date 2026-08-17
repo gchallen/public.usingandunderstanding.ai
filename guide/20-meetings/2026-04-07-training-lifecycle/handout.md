@@ -40,11 +40,13 @@ Modern AI assistants aren't trained all at once. They go through three distinct 
 
 The tool below generates a real response from each training stage for the same prompt. You'll see **one response** and guess which stage produced it. After guessing, all three responses are revealed so you can compare. Try a few rounds with your partner.
 
-> **Demos.** Open the tool your instructor names from usingandunderstanding.ai/resources
+> **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
 
 ### Stage 2: Discussion: What Did You Notice?
 
@@ -58,11 +60,13 @@ Companies like OpenAI and Anthropic train their AI assistants using **human feed
 
 Now it's your turn. The tool below generates two responses to the same prompt, each optimized for a different value. Pick which response you think is better, then see what value each was optimized for. Try several rounds with your partner and discuss where you agree and disagree.
 
-> **Demos.** Open the tool your instructor names from usingandunderstanding.ai/resources
+> **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
 
 ### Stage 4: Discussion: What Is 'Good' AI?
 
@@ -80,12 +84,17 @@ Enter at least 3 questions below.
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 6: Question Review
 
@@ -93,12 +102,17 @@ Enter at least 3 questions below.
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 7: Investigate
 
@@ -108,21 +122,29 @@ Enter at least 3 questions below.
 
 **From the board:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
+
+___
 
 Discuss this question with your partner. Use what you observed in the examples and the ranking exercise to reason about possible answers. You can also use other resources if helpful, but focus on building your own understanding.
 
 **Your group's answer:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 8: Share Out
 
@@ -130,7 +152,10 @@ Discuss this question with your partner. Use what you observed in the examples a
 
 **How was today's activity? Did the interactive tools (training stage matcher, preference rater) help you understand the training process? What would you change?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___

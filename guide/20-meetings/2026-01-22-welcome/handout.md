@@ -21,9 +21,11 @@ Find a partner for each question. Introduce yourself (name, major/year) and disc
 #### The Questions
 
 **1. How is AI affecting you personally?**
+
 Your daily life, habits, how you work or create.
 
 **2. Do you think AI is actually intelligent?**
+
 What would convince you either way?
 
 **3. What worries you most about AI?**
@@ -31,9 +33,11 @@ What would convince you either way?
 Or does nothing worry you?
 
 **4. What do you hope to get out of this course?**
+
 Why did you sign up? What are you curious about?
 
 ---
+
 ### Course Overview
 
 After the rounds, we'll briefly cover:
@@ -42,9 +46,11 @@ After the rounds, we'll briefly cover:
 - Assessment: Labs (50%), Quizzes (35%), Final project (10%), Final video (5%)
 - AI is part of course operations - this is an experiment
 - Ethical complexity acknowledged - using these tools isn't neutral
+
 ---
 
 ### Turing Test Teaser
+
 ### Before Next Class
 
 Use an AI tool (ChatGPT, Claude, Gemini, etc.) to learn about the **Turing test**:

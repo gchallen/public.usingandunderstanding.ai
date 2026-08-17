@@ -19,8 +19,8 @@ a decision you have to make before the lab can run.
 ## Choosing a builder
 
 Any tool that turns a natural-language description into a working, publishable
-website will carry the lab. The pedagogical point is that describing an outcome
-is sufficient, so nothing depends on which vendor does it.
+website will carry the lab. The lab is teaching that describing what you want is
+enough, so it does not matter whose AI builds it.
 
 | Tool | Publishes a public URL | Notes |
 | --- | --- | --- |
@@ -86,4 +86,4 @@ visible and gives you a tested way to swap it.
 It also makes the lab honest about its own claim. If the skill being practiced
 is describing what you want clearly enough that an AI can build it, then that
 skill should survive changing which AI builds it. Running the lab on a different
-tool than the one it was designed for is a demonstration of the point.
+tool than the one it was designed for proves the claim.

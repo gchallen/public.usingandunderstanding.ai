@@ -15,7 +15,7 @@ A duration is the gap between two starts, so it needs both ends gated to mean an
 | Meeting | Stage | Planned | Ran |
 |---|---|---|---|
 | Neurons and Networks | Explore: Single Neuron | 10m | 10m |
-| Neurons and Networks | Investigate | 12m | 12.7m |
+| Neurons and Networks | Investigate | 12m | 13m |
 
 Both landed on plan. That is the entire defensible finding from the timing data, and the guides show a measured duration only for those two stages.
 

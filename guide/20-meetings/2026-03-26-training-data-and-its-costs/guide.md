@@ -47,14 +47,20 @@ Pair discussion of the energy, human, intellectual, and political costs of AI
 #### Before Class
 
 You should **read all three articles** before today's discussion:
-- Reading: `inside-the-dirty-dystopian-world-of-ai-data-centers-theatlantic-d45e`
-- Reading: `opinion-americans-are-trying-to-stop-data-centers-because-they-can-t-stop-a-i-nytimes-2c47`
-- Reading: `the-hypocrisy-at-the-heart-of-the-ai-industry-theatlantic-8429`
+
+- Reading: [Inside the Dirty, Dystopian World of AI Data Centers](../../../readings/inside-the-dirty-dystopian-world-of-ai-data-centers-theatlantic-d45e.md) · The Atlantic
+
+- Reading: [Opinion | Americans Are Trying to Stop Data Centers Because They Can't Stop A.I.](../../../readings/opinion-americans-are-trying-to-stop-data-centers-because-they-can-t-stop-a-i-nytimes-2c47.md) · The New York Times
+
+- Reading: [The Hypocrisy at the Heart of the AI Industry](../../../readings/the-hypocrisy-at-the-heart-of-the-ai-industry-theatlantic-8429.md) · The Atlantic
+
 Please complete the preparation conversation below before class.
 This is part of attendance for today's meeting.
+
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
+
 ---
 
 ### Today's Plan

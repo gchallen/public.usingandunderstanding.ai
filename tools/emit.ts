@@ -3,6 +3,12 @@ import { handlingFor, type PatternId } from "./substitutions";
 
 export type Variant = "instructor" | "student";
 
+/** Enough of a reading to cite it on paper. */
+export interface ReadingCitation {
+  title: string;
+  source: string;
+}
+
 /** One stage as actually run in Spring 2026, from content/timings.json. */
 export interface StageTiming {
   index: number;
@@ -25,8 +31,14 @@ function formatMinutes(seconds: number): string {
 const DEFAULT_SUBMISSION_LINES = 4;
 const FEEDBACK_LINES = 4;
 
-/** A ruled line a student writes on. Raw HTML so the PDF can style it. */
-const RULE = '<div class="rule"></div>';
+/**
+ * A ruled line a student writes on. A markdown thematic break, because it
+ * renders as a line everywhere a handout is actually read or printed: GitHub,
+ * an editor preview, pandoc. This was a `<div class="rule">` for a PDF pipeline
+ * that is not shipped here, so every writing space on every handout collapsed
+ * to nothing and the pages went out blank where students were meant to write.
+ */
+const RULE = "___";
 
 /**
  * Human-facing names for the analog procedures, matching the chapter filenames
@@ -50,9 +62,10 @@ const STUDENT_INSTRUCTIONS: Record<PatternId, string> = {
   "gallery-walk":
     "Leave your work open on your device. Half the room walks while half explain, then swap.",
   "role-discussion":
-    "Work through the checklist below. Whoever holds the chair card keeps everyone in, and it rotates when time is called.",
+    "Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.",
   "reading-ticket": "Hand in your reading ticket as you come in.",
-  demos: "Open the tool your instructor names from usingandunderstanding.ai/resources",
+  demos:
+    "Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.",
   "external-tool": "Your instructor will tell you how to get access.",
 };
 
@@ -66,6 +79,38 @@ interface EmitContext {
   stageLabel?: string;
   /** How this meeting actually ran, indexed by stage. */
   timings?: StageTiming[];
+  /** Citations for the annotations shipped alongside, keyed by dateless slug. */
+  readings: Map<string, ReadingCitation>;
+}
+
+/**
+ * Meeting prose was written for the original course website, so its links are
+ * site-absolute and resolve to nothing here. A handout that tells a student to
+ * follow a dead link is the clearest possible sign nobody read the output.
+ *
+ * A reading becomes a link to the annotation file shipped next to it. A page
+ * that is public on the original site becomes an absolute URL, which is still
+ * useful to an adopter. Anything that needed a login, or belonged to that one
+ * offering, loses the link and keeps its text.
+ */
+function rewriteSiteLinks(markdown: string, readings: Map<string, ReadingCitation>): string {
+  return markdown.replace(/\[([^\]]+)\]\((\/[^)\s]*)\)/g, (_whole, text: string, href: string) => {
+    const path = href.split("#")[0] ?? "";
+
+    if (path.startsWith("/readings/")) {
+      const slug = path.slice("/readings/".length).replace(/^\d{4}-\d{2}-\d{2}-/, "");
+      // Three levels up from guide/20-meetings/<meeting>/ to the repository root.
+      return readings.has(slug) ? `[${text}](../../../readings/${slug}.md)` : text;
+    }
+
+    // Public on the original site: the assessment demo, its design write-up,
+    // and the course blog. Everything else there wants a course login.
+    const isPublic =
+      path === "/design/assessments" ||
+      path.startsWith("/blog/") ||
+      (path.startsWith("/assessments/") && path !== "/assessments/");
+    return isPublic ? `[${text}](https://www.usingandunderstanding.ai${href})` : text;
+  });
 }
 
 /**
@@ -99,7 +144,8 @@ function dropDuplicateHeading(markdown: string, label: string | undefined): stri
 }
 
 function lines(count: number): string {
-  return Array.from({ length: count }, () => RULE).join("\n");
+  // Blank-line separated so each break parses on its own rather than merging.
+  return Array.from({ length: count }, () => RULE).join("\n\n");
 }
 
 /**
@@ -148,6 +194,18 @@ function studentCapture(block: ContentBlock, pattern: PatternId): string {
   }
 }
 
+/**
+ * Emit a block and guarantee a blank line after it. Without the separator,
+ * markdown lazy continuation pulls whatever follows into the previous
+ * construct: student prose ended up rendered inside "Instructor only"
+ * blockquotes, and bold labels glued themselves onto the last bullet.
+ */
+function emitBlockSpaced(block: ContentBlock, ctx: EmitContext): string[] {
+  const out = emitBlock(block, ctx);
+  if (out.length === 0) return out;
+  return out[out.length - 1] === "" ? out : [...out, ""];
+}
+
 function emitBlock(block: ContentBlock, ctx: EmitContext): string[] {
   const handling = handlingFor(block.type);
 
@@ -178,32 +236,48 @@ function emitBlock(block: ContentBlock, ctx: EmitContext): string[] {
   switch (block.type) {
     case "markdown":
       return [
-        demoteHeadings(dropDuplicateHeading(block.content.trim(), ctx.stageLabel), ctx.headingBase),
+        rewriteSiteLinks(
+          demoteHeadings(dropDuplicateHeading(block.content.trim(), ctx.stageLabel), ctx.headingBase),
+          ctx.readings
+        ),
       ];
 
-    case "reading-link":
-      // Resolved to a citation by the caller; the bare slug is a placeholder.
-      return [`- Reading: \`${block.slug}\``];
+    case "reading-link": {
+      // A bare slug tells a student nothing. Use the citation from the shipped
+      // annotation when there is one, and link to it.
+      const slug = block.slug.replace(/^\d{4}-\d{2}-\d{2}-/, "");
+      const citation = ctx.readings.get(slug);
+      if (!citation) return [`- Reading: ${slug.replace(/-/g, " ")}`];
+      return [`- Reading: [${citation.title}](../../../readings/${slug}.md)${
+        citation.source ? ` · ${citation.source}` : ""
+      }`];
+    }
 
     case "instructor-only":
       if (ctx.variant !== "instructor") return [];
       return [
         "> **Instructor only**",
         ">",
-        ...block.content.flatMap((b) => emitBlock(b, ctx)).map((l) => `> ${l}`),
+        // Split on newlines first: an emitted element is often several lines,
+        // and marking only its first one let the rest escape the callout.
+        ...block.content
+          .flatMap((b) => emitBlockSpaced(b, ctx))
+          .join("\n")
+          .split("\n")
+          .map((l) => (l.trim() === "" ? ">" : `> ${l}`)),
       ];
 
     case "student-only":
-      return block.content.flatMap((b) => emitBlock(b, ctx));
+      return block.content.flatMap((b) => emitBlockSpaced(b, ctx));
 
     case "enrolled-only":
     case "logged-in-only":
       // Gating is meaningless on paper; the content itself still matters.
-      return block.content.flatMap((b) => emitBlock(b, ctx));
+      return block.content.flatMap((b) => emitBlockSpaced(b, ctx));
 
     case "group-role-content": {
       const label = block.index === undefined ? block.role : `${block.role} ${block.index + 1}`;
-      return [`**Role — ${label}:**`, "", ...block.content.flatMap((b) => emitBlock(b, ctx))];
+      return [`**Role — ${label}:**`, "", ...block.content.flatMap((b) => emitBlockSpaced(b, ctx))];
     }
 
     case "text-submission": {
@@ -301,9 +375,16 @@ export interface EmitResult {
 export function emitMeeting(
   meeting: MeetingDefinition,
   variant: Variant,
-  timings?: StageTiming[]
+  timings?: StageTiming[],
+  readings: Map<string, ReadingCitation> = new Map()
 ): EmitResult {
-  const ctx: EmitContext = { variant, patternsUsed: new Set(), headingBase: 3, timings };
+  const ctx: EmitContext = {
+    variant,
+    patternsUsed: new Set(),
+    headingBase: 3,
+    timings,
+    readings,
+  };
   const { frontmatter } = meeting;
   const label = variant === "instructor" ? "Instructor Guide" : "Student Handout";
 
@@ -324,7 +405,7 @@ export function emitMeeting(
     out.push("## Facilitation overview", "", meeting.facilitationOverview.trim(), "", "---", "");
   }
 
-  const intro = meeting.intro.flatMap((b) => emitBlock(b, ctx));
+  const intro = meeting.intro.flatMap((b) => emitBlockSpaced(b, ctx));
   if (intro.length > 0) out.push("## Before class", "", ...intro, "");
 
   const stages = meeting.activity?.stages ?? [];
@@ -335,7 +416,7 @@ export function emitMeeting(
     }
   }
 
-  const outro = (meeting.outro ?? []).flatMap((b) => emitBlock(b, ctx));
+  const outro = (meeting.outro ?? []).flatMap((b) => emitBlockSpaced(b, ctx));
   if (outro.length > 0) out.push("## After", "", ...outro, "");
 
   const markdown = `${out

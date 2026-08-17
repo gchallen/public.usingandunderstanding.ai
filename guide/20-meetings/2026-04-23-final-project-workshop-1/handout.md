@@ -42,9 +42,11 @@ You are not expected to work on this outside class. Keep the scope small.
 
 **Your project idea:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
 
 ### Stage 2: Pitch + Peer Feedback
 
@@ -65,9 +67,11 @@ Then the listener gives feedback. The main question to ask your partner: **can t
 
 **Feedback you received:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
 
 ### Stage 3: Refine Your Proposal
 
@@ -86,10 +90,13 @@ If your proposal doesn't feel narrower than what you wrote in stage 1, it's prob
 
 **Your refined proposal:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 4: Build / Setup
 
@@ -134,14 +141,18 @@ Not "finish the project." Something specific: "add the filter button," "write th
 
 **Your first move in Workshop 2:**
 
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
 
 ### Stage 6: Feedback
 
 **How was today's workshop? Was the pitch-and-feedback step useful? Did you end up with a project scope you feel good about?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___

@@ -14,10 +14,12 @@ Name: ______________________________
 
 This is the last meeting of the semester. No reading. Bring yourself and the fourteen weeks you have just lived through.
 
-Your **final-project video** is also due today. If you haven't submitted yours yet, head to the [final-project video page](/spring2026/final-project) and paste your YouTube link there. We caption every submission automatically.
+Your **final-project video** is also due today. If you haven't submitted yours yet, head to the final-project video page and paste your YouTube link there. We caption every submission automatically.
 
 Before tomorrow, please complete the preparation conversation below. It walks through two of the three rounds we'll do in class — what worked, what should change, what was missing. The third round (a personal retrospective) is intentionally left fresh for the room.
+
 > **Reading Ticket.** Hand in your reading ticket as you come in.
+
 ---
 
 ### Today's Plan
@@ -46,10 +48,13 @@ Then go forward, not backward. **What does flourishing alongside AI actually loo
 
 **Capture your key points:**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
 
 ### Stage 2: Round 1: Share Out
 
@@ -71,15 +76,19 @@ Some of those bets paid off. Some did not. You are the only people in the room w
 
 Then push to the bet underneath: *what about the design* made it work? That is the part that needs to survive into next year.
 
-> **Structured Role Discussion.** Work through the checklist below. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
+> **Structured Role Discussion.** Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
 
 **Where did your group disagree?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 4: Round 2: Share Out
 
@@ -101,15 +110,19 @@ Push past surface complaints. "Less reading" is a complaint; "fewer readings pai
 
 The hardest and most useful question: **what did the course never talk about that it should have?**
 
-> **Structured Role Discussion.** Work through the checklist below. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
+> **Structured Role Discussion.** Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
 
 **Where did your group disagree?**
 
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
-<div class="rule"></div>
+___
+
+___
+
+___
+
+___
+
+___
 
 ### Stage 6: Round 3: Share Out + Closing
 
