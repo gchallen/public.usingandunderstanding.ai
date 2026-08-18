@@ -181,6 +181,15 @@ function deNameInstructor(markdown: string): string {
         "A guest lecturer from your philosophy department leads today's discussion"
       )
       .replace(/Professor Zach Biondi leads/g, "A guest philosopher leads")
+      // The websites lab was de-vendored by substituting one block type. The
+      // workshop that refers back to it was prose, so it kept handing students a
+      // promo code the README says cannot be handed on.
+      .replace(
+        /\[Replit\]\(https:\/\/replit\.com\) with the AI agent \(you still have the promo code from the websites lab\)/g,
+        "the site builder from the websites lab"
+      )
+      .replace(/\(you still have the promo code from the websites lab\)/g, "")
+      .replace(/\[Replit\]\(https:\/\/replit\.com\)/g, "your site builder")
       // Institution-specific example data. Useful as a shape, useless as links.
       .replace(
         /##### Illinois & University Datasets/g,

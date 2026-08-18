@@ -3,8 +3,10 @@
 import { mkdirSync, readFileSync, readdirSync, writeFileSync } from "fs";
 import { basename, join, resolve } from "path";
 import { $ } from "bun";
+import type { MeetingDefinition } from "../content/types";
 import { emitMeeting, type StageTiming } from "./emit";
 import { formatProblems, validateForKit } from "./kit-validate";
+import { buildMeetingIndex } from "./meeting-index";
 import { handlingFor } from "./substitutions";
 
 const ROOT = resolve(import.meta.dir, "..");
@@ -24,7 +26,10 @@ const slugs =
     ? requested
     : readdirSync(meetingsDir)
         .filter((f) => f.endsWith(".ts"))
-        .map((f) => basename(f, ".ts"));
+        .map((f) => basename(f, ".ts"))
+        // Sorted, or the generated index comes out in directory order and
+        // differs from the build's for no reason anyone can see.
+        .sort();
 
 // Which annotations exist, so a rewritten reading link points at a real file.
 const shipped = new Map();
@@ -49,7 +54,7 @@ for (const slug of slugs) {
         patterns: join(ROOT, "guide/10-patterns"),
       },
       (blockType) => {
-        const handling = handlingFor(blockType);
+        const handling = handlingFor(blockType as Parameters<typeof handlingFor>[0]);
         return handling?.kind === "substitute" ? handling.pattern : null;
       }
     )
@@ -61,14 +66,35 @@ if (problems.length > 0) {
   process.exit(1);
 }
 
+// Emit everything before writing anything. The write loop used to be
+// unguarded, so a crash partway through left half the tree regenerated and half
+// stale -- against a documented promise that a failed run writes nothing.
+const pending = [];
 for (const slug of slugs) {
   const meeting = (await import(join(meetingsDir, `${slug}.ts`))).default;
   const dir = join(ROOT, "guide/20-meetings", slug);
-  mkdirSync(dir, { recursive: true });
   for (const variant of ["instructor", "student"] as const) {
     const { markdown } = emitMeeting(meeting, variant, timings[slug], shipped);
-    writeFileSync(join(dir, variant === "instructor" ? "guide.md" : "handout.md"), markdown);
+    pending.push({
+      path: join(dir, variant === "instructor" ? "guide.md" : "handout.md"),
+      dir,
+      markdown,
+    });
   }
-  console.log(`  ${slug}`);
+}
+
+for (const { path, dir, markdown } of pending) {
+  mkdirSync(dir, { recursive: true });
+  writeFileSync(path, markdown);
+}
+for (const slug of slugs) console.log(`  ${slug}`);
+
+// Regenerate the index too, or editing a meeting leaves the table an adopter
+// chose from disagreeing with the guide they land on.
+if (requested.length === 0) {
+  const all: Record<string, MeetingDefinition> = {};
+  for (const slug of slugs) all[slug] = (await import(join(meetingsDir, `${slug}.ts`))).default;
+  writeFileSync(join(ROOT, "guide/20-meetings/README.md"), buildMeetingIndex(slugs, all));
+  console.log("  index");
 }
 console.log(`${slugs.length} meetings regenerated`);

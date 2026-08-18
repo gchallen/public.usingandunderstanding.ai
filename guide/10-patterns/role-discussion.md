@@ -50,7 +50,7 @@ One boxed line at the end: *my takeaway.*
 
 Be honest about this one; it is the largest genuine loss in the guide.
 
-You cannot be thirteen facilitators at once. In a fifteen-minute round each group gets a minute or two of you, against continuous attention from the software.
+You cannot be six facilitators at once, and with a larger class you cannot be twelve or seventeen either. In a fifteen-minute round each group gets a minute or two of you, against continuous attention from the software.
 
 The participation guarantee goes too. The AI counted messages and enforced that nobody exceeded sixty percent of the conversation. A nineteen-year-old holding a chair card will not tell a friend to be quiet. Groups with a dominant talker will stay that way, and you should watch for it yourself.
 

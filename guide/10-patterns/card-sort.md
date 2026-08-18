@@ -20,7 +20,7 @@ Students typed a response, a question, or a list of strategies. The submissions 
 
 That last category matters most. The prompt that produced it said so outright: the disputed pile is the pedagogically valuable one.
 
-None of this required a computer. It required someone to read twenty-five things quickly and decide which three were worth the room's attention.
+None of this required a computer. It required someone to read a dozen things quickly and decide which three were worth the room's attention.
 
 ## The procedure
 
@@ -48,7 +48,7 @@ For the question version, add a boxed line: *the question our group is investiga
 
 ## What you lose
 
-Speed. A collection point costs four or five minutes, estimated, against roughly fifteen seconds of machine time. Meetings with three collection points lose about a fifth of the period, and the answer is to cut a round rather than to hurry all of them. See the pacing chapter.
+Speed. A collection point costs four or five minutes, estimated, against roughly fifteen seconds of machine time. Meetings with three collection points, and there are several, lose about a fifth of the period, and the answer is to cut a round rather than to hurry all of them. See the pacing chapter.
 
 You also cannot sort and circulate at once, and the cards go in the recycling at the end of the day. The database kept everything.
 

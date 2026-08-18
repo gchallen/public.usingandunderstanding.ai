@@ -15,7 +15,7 @@ The original ran on a custom website that collected student writing, used AI to 
 Before adapting anything, find out:
 
 1. **How long is the period?** The original is 75 minutes. Most stage plans assume it.
-2. **How many students?** The original had 25. Above 40, the collection patterns change shape and you should say so.
+2. **How many students?** The original had about a dozen, which is smaller than most rooms this will be taught in and smaller than the procedures here assume by default. Scale the collection steps up before you scale anything else. Above 40, the collection patterns change shape and you should say so.
 3. **Can students move?** Fixed seats in rows, movable tables, or open floor. This matters more than class size and the original never had to ask it: several meetings are built on partner rotation, and a lecture hall with bolted seats cannot run one. In fixed seating, pair with a neighbour and keep the same pair all session, turn a row into a group of four by having the front pair turn around, and drop the Gallery Walk entirely -- half the room cannot circulate. Say which round you are cutting to buy the time back.
 4. **What AI access do students have?** Confirm they have some. See *How an activity can run* below.
 5. **Which readings can they actually get?** Most originals are paywalled. Assume they will substitute.
@@ -53,7 +53,7 @@ These are expensive lessons. Apply them without being asked.
 
 **Plans overrun the period.** The three instrumented meetings were each planned at roughly 80 minutes of stages for a 75-minute class, and the meeting index shows the rest range from 40 to 90. Check the total before you teach one, and cut deliberately rather than at the bell.
 
-**The paper version costs four to five minutes per collection point.** A meeting with three collection points does not fit in 75 minutes on paper. Say which stage comes out rather than telling the instructor to hurry.
+**The paper version costs four to five minutes per collection point.** A meeting with three collection points does not fit in 75 minutes on paper, and several have three. Say which stage comes out rather than telling the instructor to hurry.
 
 **Gate the stages you want to measure.** If you help someone instrument their own course, know that a recorded stage time is only trustworthy when students could not begin without being advanced. A stage that opens by forming pairs is gated and the timestamp is real. A stage that opens with "now discuss" is not, and the timestamp records when the instructor remembered. Of 26 recorded stages in the original, 2 produced trustworthy durations.
 
@@ -65,7 +65,7 @@ A stage has a `label`, an `estimatedTime`, an optional `transition` (one line on
 
 Content blocks are a discriminated union in `content/types.ts`. Blocks fall into two kinds: ones paper carries directly (prose, reading links, writing space, feedback) and ones that need a substitution pattern (anything that collected student work and showed it back to the room). `guide/10-patterns/` has one chapter per pattern.
 
-When you add a block type, the handout generator will fail to compile until you decide how paper handles it. That is deliberate. Do not work around it.
+When you add a block type, `cd tools && bun run check` fails until you decide how paper handles it, because the substitution table is keyed by the full union. That is deliberate. Do not work around it, and do run it -- `bun run handout` does not typecheck.
 
 `bun run handout` validates before it writes anything, and refuses on: a reading link with no annotation in `readings/`, a preparation or group-chat slug with no file in `content/prompts/`, a substitution pattern with no chapter in `guide/10-patterns/`, an `activity.meetingSlug` that disagrees with its filename, and an activity meeting that does not end with a feedback block. It names the meeting and the problem and exits non-zero, so a failed run means nothing was regenerated.
 
@@ -87,4 +87,4 @@ Say what is lost as plainly as what is gained. An adopter deciding whether to us
 
 ## When you are unsure
 
-Ask the instructor. This material came from one course, one room, and 25 students. It is a starting point for their course, not a specification.
+Ask the instructor. This material came from one course, one room, and about a dozen students. It is a starting point for their course, not a specification.

@@ -42,8 +42,12 @@ It validates before it writes and refuses rather than emitting something wrong:
 It names the meeting and the problem and exits non-zero. A failed run writes
 nothing, so the tree is never half-regenerated.
 
-What it still does not catch: `group.size` above 4 prints only four name blanks,
-and an unhandled block type crashes rather than reporting. Check those by eye.
+It emits everything before writing anything, so a failed run leaves the tree
+untouched rather than half-regenerated.
+
+What it does not catch: `group.size` above 4 prints only four name blanks. And
+it does not typecheck -- run `bun run check` for that, which is what enforces
+that every block type has a paper handling decided for it.
 
 ## Printing
 

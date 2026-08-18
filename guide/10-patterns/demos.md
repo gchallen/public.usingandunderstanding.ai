@@ -43,7 +43,7 @@ The LLM Probability Explorer, Temperature Compare, and Embedding Explorer make l
 
 **Print the artifact instead.** This works better than it sounds, because for two of the three the comparison is the lesson and the comparison is static. One prompt at three temperatures, printed side by side, delivers most of what Temperature Compare delivers. For the probability explorer, print the top ten next words for five prompts, including one where the model is confident and one where it is not.
 
-There is a real gain hiding here. In the live version twenty-five students look at twenty-five different screens, and the share-out turns to mush. With one printed page everyone is arguing about the same evidence.
+There is a real gain hiding here. In the live version a dozen students look at a dozen different screens, and the share-out turns to mush. With one printed page everyone is arguing about the same evidence.
 
 If you have an account of your own, projecting it and taking requests from the room is the next best thing.
 

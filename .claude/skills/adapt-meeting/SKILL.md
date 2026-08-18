@@ -5,7 +5,7 @@ description: Adapt one of the course meetings to a different classroom — perio
 
 # Adapting a meeting
 
-The meetings here were built for a 75-minute period, about 25 students, no prerequisites, and a custom website. Change any of those and the plan needs rework, not just trimming.
+The meetings here were built for a 75-minute period, about a dozen students, no prerequisites, and a custom website. Change any of those and the plan needs rework, not just trimming.
 
 Do not start editing until you have answers to the five questions below. Ask them together, in one message, and offer the original's values as the default so the instructor can accept quickly.
 
@@ -15,7 +15,7 @@ Do not start editing until you have answers to the five questions below. Ask the
 
 **Room layout.** Fixed seats in rows, movable tables, or open floor. Ask this first; it constrains more than class size does and the original never had to ask it, because it had one room. Several meetings are built on partner rotation between stages, which bolted seating cannot run. In fixed seats: pair with a neighbour and keep that pair, make a four by having the front pair turn around, and drop the Gallery Walk, which needs students circulating. Say which round you cut to buy back the time.
 
-**Class size.** Around 25. Collection patterns change above 40: card sorting stops being feasible in the time available, and you should move to a sampling approach — collect from every student, sort only a subset, and say so out loud.
+**Class size.** About a dozen, which is small. Most adopters will have more, and the collection steps are the first thing that breaks. Collection patterns change above 40: card sorting stops being feasible in the time available, and you should move to a sampling approach — collect from every student, sort only a subset, and say so out loud.
 
 **AI access.** Three cases, and they lead to different designs:
 - Students have a chatbot → use `content/prompts/` directly. Preparation chats and group facilitation work close to the original.

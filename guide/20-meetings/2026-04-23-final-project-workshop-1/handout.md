@@ -106,7 +106,7 @@ Pick your tool and start building. You have about 35 minutes. The goal is not to
 
 **Tool suggestions depending on your project:**
 
-- **Websites, apps, games** — [Replit](https://replit.com) with the AI agent (you still have the promo code from the websites lab)
+- **Websites, apps, games** — the site builder from the websites lab
 - **Text, documents, study materials** — [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), or a Claude Project
 - **Data analysis** — ChatGPT or Claude with file upload, same tools as the data analysis lab
 - **Images, audio, video** — the tools you used in the creative media lab

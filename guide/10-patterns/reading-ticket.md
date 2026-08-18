@@ -22,7 +22,7 @@ A one-page ticket, double sided, handed in at the door.
 
 **Back: one question, the same every week.** *What is one thing in the reading you did not understand, or did not believe?*
 
-**Collect at the door and read them before you start.** Five minutes with twenty-five tickets. Put two or three on the board as your opening move.
+**Collect at the door and read them before you start.** Two or three minutes with a dozen tickets, and proportionally longer with more. Put two or three on the board as your opening move.
 
 **Grade at the door.** Check, check-plus, or no credit, on the roster, a few seconds each -- call it four, though nobody has timed it. Do not take them home. The moment this becomes homework for you it stops happening.
 
@@ -36,7 +36,7 @@ Students arrive with the ticket already written, so the individual work is done 
 
 **Swap tickets and read the back.** Each student reads their partner's answer to *what did you not understand, or not believe*.
 
-**Answer it if you can.** Most confusions in a room of twenty-five are somebody else's easy question. This is the step the AI was doing one-on-one, and a peer does it faster because they were confused about the same thing an hour ago.
+**Answer it if you can.** Most confusions in a room this size are somebody else's easy question. This is the step the AI was doing one-on-one, and a peer does it faster because they were confused about the same thing an hour ago.
 
 **Write down what you could not resolve**, on your own ticket, in one line. Then hand both in.
 
@@ -62,7 +62,7 @@ And you lose the advance warning. The software told the instructor who was ready
 
 ## What you gain
 
-You personally read twenty-five students' confusions minutes before you teach them. No dashboard is a better input to the first ten minutes of a class than that.
+You personally read every student's confusions minutes before you teach them. No dashboard is a better input to the first ten minutes of a class than that.
 
 Writing by hand about a reading is a harder encoding task than chatting about it, and probably a better one.
 

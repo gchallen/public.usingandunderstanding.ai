@@ -34,7 +34,7 @@ A gallery log: three rows of *whose, what it was, one thing I'd steal.* The thre
 
 ## What you lose
 
-Audio does not survive a walk. Twenty laptops playing twenty songs is noise. For the music round, play four or five clips over the room speakers instead, chosen by sticky vote.
+Audio does not survive a walk. A dozen laptops playing a dozen songs is noise. For the music round, play four or five clips over the room speakers instead, chosen by sticky vote.
 
 You also lose the archive. Nothing persists after the room empties, and there is no showcase to point at later.
 

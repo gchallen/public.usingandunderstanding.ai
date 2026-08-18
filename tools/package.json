@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "handout": "bun run handout.ts"
+    "handout": "bun run handout.ts",
+    "check": "tsc --noEmit"
   },
   "devDependencies": {
     "@types/bun": "1.3.14",

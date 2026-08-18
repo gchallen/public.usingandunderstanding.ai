@@ -27,7 +27,7 @@ Some observations do not depend on duration at all.
 
 **The last round gets cut.** In the AI Safety meeting, four rounds were planned and three were taught. Round four never started, and the feedback stage after it never ran, which is why that meeting has no student feedback. Whether the earlier rounds ran eight minutes or fifteen does not change what happened: the period ended first.
 
-**Every meeting was planned longer than the period.** All three were built as roughly eighty minutes of stages for a seventy-five minute class. That works when something under-runs and fails when nothing does.
+**The instrumented meetings were planned longer than the period.** All three were built as roughly eighty minutes of stages for a seventy-five minute class. Across the whole semester it is more varied -- the meeting index shows totals from forty to ninety minutes -- so check the one you are teaching rather than assuming. That works when something under-runs and fails when nothing does.
 
 **Session start and end are reliable**, because both are explicit actions. The meetings ran the length of the class. Nobody finished early.
 
@@ -37,6 +37,6 @@ Plan for the ending you can reach, not the one you would like.
 
 Put the round you are least attached to last, and say at the start that you may not get to it. A round dropped on purpose costs nothing. A round dropped at the bell, mid-sentence, costs the close.
 
-Budget four to five minutes per collection point for the paper version. Two meetings in the semester have three collection points each, which is fifteen minutes of card handling that the original did not need. Those meetings do not fit in seventy-five minutes, so decide in advance which round comes out.
+Budget four to five minutes per collection point for the paper version. Several meetings have three collection points, and one has more, which is fifteen minutes or more of card handling that the original did not need. Those meetings do not fit in seventy-five minutes, so decide in advance which round comes out.
 
 And if you instrument your own course, gate the stages you want to measure. A stage that requires an action from students before they can begin will tell you the truth about how long it took. One that doesn't will tell you when you remembered to click.

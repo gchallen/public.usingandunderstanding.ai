@@ -39,7 +39,7 @@ Finish your final project and show it to your classmates.
 
 This is the second and final workshop session for your project. Today you'll keep building what you started last Thursday and end by showing it to a few classmates.
 
-To get going quickly: reopen whatever tool you were using last week — [Replit](https://replit.com), [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), or whatever else. If you can't find your previous session, that's fine. The AI has no memory of it anyway; just start again and describe what you were making.
+To get going quickly: reopen whatever tool you were using last week — your site builder, [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), or whatever else. If you can't find your previous session, that's fine. The AI has no memory of it anyway; just start again and describe what you were making.
 
 Remember: a small finished thing beats a big unfinished one. Keep the scope tight.
 
