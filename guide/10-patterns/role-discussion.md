@@ -7,6 +7,8 @@ covers:
 
 ## What the software was doing
 
+
+_What follows under **The procedure** is a design. The software did this job all semester; the paper version has not been run with students, and its timings are estimates. See [the README](README.md) in this directory._
 Groups of two or three entered a shared chat room with an AI facilitator. A second AI watched the transcript against a list of objectives, tracked who was talking and who wasn't, and told the facilitator when to intervene, when to stay quiet, and when the discussion had done its work.
 
 Before deciding what to put in its place, read what the facilitator was actually told to do. From the AI Safety meeting:
@@ -47,7 +49,7 @@ One boxed line at the end: *my takeaway.*
 
 Be honest about this one; it is the largest genuine loss in the guide.
 
-You cannot be thirteen facilitators at once. In a fifteen-minute round each group gets about ninety seconds of you, against continuous attention from the software.
+You cannot be thirteen facilitators at once. In a fifteen-minute round each group gets a minute or two of you, against continuous attention from the software.
 
 The participation guarantee goes too. The AI counted messages and enforced that nobody exceeded sixty percent of the conversation. A nineteen-year-old holding a chair card will not tell a friend to be quiet. Groups with a dominant talker will stay that way, and you should watch for it yourself.
 

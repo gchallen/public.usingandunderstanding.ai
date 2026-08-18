@@ -7,6 +7,8 @@ covers:
 
 ## What the software was doing
 
+
+_This chapter is a decision rather than a procedure, so it has no untested paper version. What it describes about the original -- the vendor, the promo code, and what happened without them -- is observed. The tool comparison is current as of writing and will go stale; check it yourself. See [the README](README.md) in this directory._
 One lab sends students to a third-party AI site builder, and the course website
 showed enrolled students a promo code that made the paid tier free. That code
 came from a per-institution arrangement. It cannot be handed on, and neither can

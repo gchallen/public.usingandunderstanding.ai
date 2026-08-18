@@ -13,6 +13,8 @@ covers:
 
 ## What the software was doing
 
+
+_What follows under **The procedure** is a design. The software did this job all semester; the paper version has not been run with students, and its timings are estimates. See [the README](README.md) in this directory._
 Students typed a response, a question, or a list of strategies. The submissions went to a server. An AI read all of them at once and handed the instructor something usable: discussion questions aimed at named students, a deduplicated and ranked question list, or a set of strategies sorted into what groups agreed worked, what they agreed didn't, and where they disagreed.
 
 That last category matters most. The prompt that produced it said so outright: the disputed pile is the pedagogically valuable one.
@@ -45,7 +47,7 @@ For the question version, add a boxed line: *the question our group is investiga
 
 ## What you lose
 
-Speed. A collection point costs four or five minutes against roughly fifteen seconds of machine time. Meetings with three collection points lose about a fifth of the period, and the answer is to cut a round rather than to hurry all of them. See the pacing chapter.
+Speed. A collection point costs four or five minutes, estimated, against roughly fifteen seconds of machine time. Meetings with three collection points lose about a fifth of the period, and the answer is to cut a round rather than to hurry all of them. See the pacing chapter.
 
 You also cannot sort and circulate at once, and the cards go in the recycling at the end of the day. The database kept everything.
 

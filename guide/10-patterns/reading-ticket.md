@@ -7,6 +7,8 @@ covers:
 
 ## What the software was doing
 
+
+_What follows under **The procedure** is a design. The software did this job all semester; the paper version has not been run with students, and its timings are estimates. See [the README](README.md) in this directory._
 Before every discussion meeting, students had a one-on-one conversation with an AI about the assigned reading. The AI had the full text. It worked through three to five named topics, each with its own criteria, and tracked each one as not engaged, discussed, or ready. Students had to reach ready on all of them, and completion counted toward attendance.
 
 The point was never to test anyone. It was to surface confusion the night before class rather than the week after.
@@ -21,7 +23,7 @@ A one-page ticket, double sided, handed in at the door.
 
 **Collect at the door and read them before you start.** Five minutes with twenty-five tickets. Put two or three on the board as your opening move.
 
-**Grade at the door.** Check, check-plus, or no credit, on the roster, four seconds each. Do not take them home. The moment this becomes homework for you it stops happening.
+**Grade at the door.** Check, check-plus, or no credit, on the roster, a few seconds each -- call it four, though nobody has timed it. Do not take them home. The moment this becomes homework for you it stops happening.
 
 If you adopt one thing from this guide, adopt this. It costs a photocopier and nothing else.
 
@@ -43,7 +45,7 @@ Do not let the pair produce a joint answer. The ticket stays individual, and it 
 
 **Where the time comes from.** It does not appear from nowhere; the pacing chapter is blunt that these meetings already run long. Five minutes at the top is the first discussion round, moved. Plan four rounds and teach three, and let this be the thing that pushes round four out.
 
-**A note on this one specifically.** None of the procedures in these chapters has been run with students; see the README in this directory. This pairing step is newer than the rest and has not even been run by the author in the software version, so it is the least evidenced thing here.
+**A note on this one specifically.** The rest of this chapter translates something the software did all semester. This pairing step does not: the software never did it either, so it is a design with no working original behind it, which makes it the least evidenced thing in the guide.
 
 ## On the handout
 

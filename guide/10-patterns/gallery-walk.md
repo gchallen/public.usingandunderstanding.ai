@@ -9,6 +9,8 @@ covers:
 
 ## What the software was doing
 
+
+_What follows under **The procedure** is a design. The software did this job all semester; the paper version has not been run with students, and its timings are estimates. See [the README](README.md) in this directory._
 Students pasted a link to something they had made with an AI tool: an image, a song, a website, a chart. The gallery block showed the whole class a live grid of everyone's work, with names and captions, updating as submissions arrived. For shared conversation links it also pulled out the platform, the model, and the message count.
 
 Two jobs, really. Everyone sees everyone's work, and the instructor gets proof it happened.
@@ -45,4 +47,4 @@ And students talk to each other about what they made, which is the actual goal a
 
 ## If the room does not allow it
 
-This pattern needs students on their feet. In a lecture hall with fixed seats it does not work, and no amount of adapting saves it. Substitute: the artifacts go up on the projector one at a time, the maker narrates for sixty seconds, and the rest of the room fills in the same gallery log. You lose the walking and the parallelism, which is most of what the pattern was for, and you spend the time serially instead. Budget ninety seconds per artifact and cut the number shown rather than the time each gets.
+This pattern needs students on their feet. In a lecture hall with fixed seats it does not work, and no amount of adapting saves it. Substitute: the artifacts go up on the projector one at a time, the maker narrates for sixty seconds, and the rest of the room fills in the same gallery log. You lose the walking and the parallelism, which is most of what the pattern was for, and you spend the time serially instead. Budget ninety seconds per artifact, an estimate rather than a measurement, and cut the number shown rather than the time each gets.
