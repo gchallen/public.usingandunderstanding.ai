@@ -4,8 +4,6 @@
 
 Hands-on exploration of artificial neurons and neural networks through interactive visualizations
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** This is a jigsaw-style exploration session where students build intuitions about artificial neurons and neural networks through interactive visualizations. Three partner rotations prevent groupthink — students explore in one pair, investigate a question in a second, and explain their findings to a third. The visualizations should do the heavy lifting. Resist the urge to lecture.
@@ -14,7 +12,7 @@ Hands-on exploration of artificial neurons and neural networks through interacti
 - Stages 1-2 use Partner A (exploration)
 - Stage 6 uses Partner B (investigation)
 - Stage 7 uses Partner C (explain & learn)
-- The QuestionBoard processes submitted questions with GPT to deduplicate and prioritize
+- the cards get sorted at the front, stacking near-duplicates
 - You select which question groups investigate — pick one that's explorable with the demos
 
 **Pacing:**
@@ -34,7 +32,7 @@ Hands-on exploration of artificial neurons and neural networks through interacti
 **Tips:**
 - During exploration stages, circulate and note interesting observations — use these in the discussion stage
 - The discussion stage (3) is whole-class — keep it brief, just surface a few observations. Don't explain.
-- Question Review (5): scan the QuestionBoard, surface 5-6 good questions, group similar ones
+- Question Review (5): scan the the question cards, surface 5-6 good questions, group similar ones
 - The jigsaw works because each partner rotation gives students a fresh perspective — protect the partner changes
 
 ---
@@ -153,7 +151,7 @@ _Class reviews and selects questions to investigate_
 
 > **Facilitation notes**
 >
-> Click "Process Questions" to aggregate and prioritize submissions. Review the list and surface 5-6 good questions. Group similar questions together. Select 3-4 questions for investigation — pairs will choose which one to explore. Pick questions that are explorable with the demos and/or AI conversation. Diversity of questions means richer sharing in Stage 7.
+> Sort the cards at the front to aggregate and prioritize submissions. Review the list and surface 5-6 good questions. Group similar questions together. Select 3-4 questions for investigation — pairs will choose which one to explore. Pick questions that are explorable with the demos and/or AI conversation. Diversity of questions means richer sharing in Stage 7.
 
 > **On paper: Card Sort.** The AI deduplicated and ranked. Stack near-duplicates by hand; the height of a stack is the frequency signal.
 >
@@ -175,7 +173,7 @@ _New partners investigate a question using the demos_
 
 > **Facilitation notes**
 >
-> New partners. Groups choose a question to investigate using the demos. Encourage them to actually experiment — not just discuss abstractly. The TextSubmission captures their findings. During Share Out, look for groups that investigated different questions or arrived at different conclusions about the same question.
+> New partners. Groups choose a question to investigate using the demos. Encourage them to actually experiment — not just discuss abstractly. The their written answer captures their findings. During Share Out, look for groups that investigated different questions or arrived at different conclusions about the same question.
 
 **Grouping:** 2 per group
 
@@ -207,7 +205,7 @@ _New partners explain findings to each other_
 
 > **Facilitation notes**
 >
-> Third partner rotation. Each student explains what they investigated and what they found to someone who investigated something different. This is the jigsaw payoff — students learn from each other's investigations. The TextSubmission captures what they learned from their new partner, not what they already knew.
+> Third partner rotation. Each student explains what they investigated and what they found to someone who investigated something different. This is the jigsaw payoff — students learn from each other's investigations. The their written answer captures what they learned from their new partner, not what they already knew.
 
 **Grouping:** 2 per group
 

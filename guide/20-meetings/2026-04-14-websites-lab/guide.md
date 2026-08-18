@@ -4,8 +4,6 @@
 
 Build a website with an AI site builder — brainstorm, build, share.
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** This lab puts students in the role of a product designer, not a programmer. The skill we're practicing is articulating what you want clearly enough that an AI can build it, and then iterating when the first attempt isn't quite right. That's a transferable skill whether or not they ever touch code again. Encourage students to think beyond profile pages: the most interesting results come from students who build something useful or solve a real problem.

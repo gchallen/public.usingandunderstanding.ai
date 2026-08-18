@@ -4,8 +4,6 @@
 
 Mapping the shape of AI intelligence through hands-on exploration
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** Students discover AI's edges through direct experimentation. Driver/observer pairs ensure one person is always documenting while the other prompts.

@@ -12,7 +12,7 @@ Name: ______________________________
 
 ### Human Flourishing in an Age of AI
 
-> **Sign up for the End-of-Semester Quiz.** Our first and last CBTF quiz runs **Wednesday April 29 through Friday May 1**. Visit the Assessments page to enroll on PrairieTest (one-time) and reserve a session.
+> **Sign up for the end-of-semester assessment** however your course does that.
 
 #### Before Class
 

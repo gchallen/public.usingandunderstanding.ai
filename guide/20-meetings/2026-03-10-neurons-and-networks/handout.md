@@ -76,7 +76,7 @@ Based on what you just explored, what questions do you have about how neurons an
 
 Enter at least 2 questions below.
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** Write each question on its own card, one per card, with your name in the corner. Hand them forward.
 
 **From the board:**
 
@@ -94,7 +94,7 @@ Enter at least 2 questions below.
 
 ### Stage 5: Question Review
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** The questions are going up at the front, stacked where they repeat. Copy the ones you want to work on.
 
 **From the board:**
 
@@ -116,7 +116,7 @@ Enter at least 2 questions below.
 
 #### Investigate a Question
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** One question has been circled at the front. Write it down; it is the one your group is investigating.
 
 **From the board:**
 

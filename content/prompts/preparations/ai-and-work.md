@@ -2,9 +2,7 @@
 slug: ai-and-work
 title: "Preparing for: AI and Work"
 description: "Discuss how AI is changing work, who benefits, and what should be done about it"
-readingSlug: 2026-03-12-coders-coded-their-job-away-why-are-so-many-of-them-happy-about-it-nytimes-7596
 model: gpt-5.2
-includeFullText: true
 topics:
   - id: lived-experience
     title: "What's Actually Happening"

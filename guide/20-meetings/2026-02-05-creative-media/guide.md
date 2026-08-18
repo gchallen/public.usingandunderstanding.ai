@@ -4,8 +4,6 @@
 
 Creating images, video, and music with AI tools — and comparing what different people get from the same concept
 
-## Facilitation overview
-
 ## Facilitation Notes
 **Philosophy:** Three rounds of creative AI use. Partners agree on a concept, work independently, then compare results.
 **Logistics:**

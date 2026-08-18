@@ -113,7 +113,7 @@ Some questions to consider:
 - The same embedding space powers the course assistant on this website. When it answers your questions, it's finding content that's geometrically "near" your question. Does knowing that change how you think about AI assistants?
 - What kinds of knowledge can't be represented as proximity in a vector space?
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** Your cards are being sorted at the front. Copy down the ones worth keeping.
 
 **From the board:**
 

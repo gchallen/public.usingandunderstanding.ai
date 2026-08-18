@@ -2,9 +2,7 @@
 slug: human-flourishing
 title: "Preparing for: Human Flourishing in an Age of AI"
 description: "Discuss what makes us human, what AI changes about flourishing, and what AGI would change if it arrives"
-readingSlug: 2026-02-24-michael-pollan-punctures-the-ai-bubble-theatlantic-a862
 model: gpt-5.2
-includeFullText: true
 topics:
   - id: what-eludes-ai
     title: "What AI Cannot Do"

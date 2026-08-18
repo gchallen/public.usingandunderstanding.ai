@@ -19,7 +19,7 @@ This is the middle tier of adoption. If your students have a chatbot, use these 
 **What the frontmatter is for.** The `topics` block lists what the conversation should cover, each with observable criteria. Those criteria are useful three ways:
 
 - as the prompt's own definition of done
-- as a printed study guide, if you would rather not use a chatbot at all
+- as a printed study guide, though read them first: several name the specifics they are asking about, so handing them out before the reading gives away the article's own examples
 - as the reading ticket questions in the paper version
 
 **What you lose without the original system.** It tracked each criterion as not engaged, discussed, or ready, and would not let a student finish early. A plain chatbot will happily agree that a student is ready when they are not. If completion matters to you, collect something written afterward.

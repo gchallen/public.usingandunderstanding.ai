@@ -18,7 +18,7 @@ Please complete the reading before class:
 
 - Reading: [The Medium is the Message](../../../readings/understanding-media-ch1.md) · Understanding Media: The Extensions of Man
 
-Also, please review the pamphlet on Luddism that you received in class.
+Also, please review the one-page handout on Luddism from the previous session.
 
 This will be a device-free meeting.
 You do not need to bring a laptop, and please put your phone away during the discussion.

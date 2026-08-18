@@ -4,8 +4,6 @@
 
 Continuing to map the shape of AI intelligence with new challenges
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** Continuation of Tuesday's exploration. Students should be comfortable with the format by now.

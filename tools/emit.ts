@@ -57,8 +57,35 @@ const PATTERN_TITLES: Record<PatternId, string> = {
 };
 
 /**
- * What a student actually does when the software is gone. The instructor-facing
- * note explains why; this is the line on the handout that tells them to act.
+ * What a student does at this particular step. Keyed by block type, because the
+ * pattern is too coarse: the guide carries seven distinct Card Sort
+ * instructions and the handout was printing one generic line for all of them.
+ * In the same stage the guide said "circle a taped card" and the handout said
+ * "hand them forward", which is a student being told to do the wrong thing.
+ */
+const STUDENT_STEP: Partial<Record<ContentBlock["type"], string>> = {
+  "question-entry":
+    "Write each question on its own card, one per card, with your name in the corner. Hand them forward.",
+  "strategy-entry":
+    "Write each one on a card. Your instructor will tell you which colour goes with which list.",
+  "text-submission-board":
+    "Your cards are being sorted at the front. Copy down the ones worth keeping.",
+  "question-board":
+    "The questions are going up at the front, stacked where they repeat. Copy the ones you want to work on.",
+  "selected-question":
+    "One question has been circled at the front. Write it down; it is the one your group is investigating.",
+  "strategy-board":
+    "Both colours are on the board now. The pile where they disagree is the one worth arguing about.",
+  "strategy-results":
+    "The taped columns stay up for the rest of the session. Copy what you want to keep.",
+  "media-submission": "Leave your work open on your device where someone walking past can see it.",
+  "media-gallery":
+    "Half the room walks while half stay and explain, then swap. Log what you see below.",
+  "link-submission": "Nothing to submit. Have your work open and be ready to show it.",
+};
+
+/**
+ * Fallback when a block type has no step of its own.
  */
 const STUDENT_INSTRUCTIONS: Record<PatternId, string> = {
   "card-sort": "Write each idea on its own card, with your name in the corner. Hand them forward.",
@@ -102,8 +129,41 @@ interface EmitContext {
  * the course and wrong for a kit. An adopter photocopying a handout should not
  * be handing their students a page about someone who is not in the room.
  */
+/**
+ * Prose in the meetings names website components an adopter does not have, and
+ * usually does so a line above the callout explaining that the step is paper
+ * now. Rewritten here rather than in the meeting sources, because `groupKey`
+ * and friends are also real field names in that data.
+ */
+function deJargon(markdown: string): string {
+  return (
+    markdown
+      // Course administration for one institution: a proctoring centre, a
+      // scheduling system, and a week in April. None of it travels, and it
+      // reached a student handout an adopter would photocopy.
+      .replace(
+        /> \*\*Sign up for the End-of-Semester Quiz\.\*\*[^\n]*\n/g,
+        "> **Sign up for the end-of-semester assessment** however your course does that.\n"
+      )
+      .replace(
+        /Our first and last CBTF quiz runs[^.]*\. Visit the \[Assessments page\]\([^)]*\) to enroll on PrairieTest \(one-time\) and reserve a session\./g,
+        ""
+      )
+      .replace(
+        /the QuestionBoard processes submitted questions with GPT to deduplicate and prioritize/gi,
+        "the cards get sorted at the front, stacking near-duplicates"
+      )
+      .replace(/Click "Process Questions"/g, "Sort the cards at the front")
+      .replace(/\bTextSubmissionBoard\b/g, "the collected cards")
+      .replace(/\bTextSubmission\b/g, "their written answer")
+      .replace(/\bQuestionBoard\b/g, "the question cards")
+      .replace(/`groupKey`/g, "the group label")
+      .replace(/\bgroupKey\b/g, "the group label")
+  );
+}
+
 function deNameInstructor(markdown: string): string {
-  return markdown
+  return deJargon(markdown)
     .replace(/\bGeoff will\b/g, "Your instructor will")
     .replace(/\bwhen Geoff signals\b/g, "when your instructor signals")
     .replace(/\bGeoff's\b/g, "your instructor's")
@@ -203,7 +263,7 @@ function substitutionCallout(
       ...(promptLine ? [">", promptLine] : []),
     ].join("\n");
   }
-  return `> **${title}.** ${STUDENT_INSTRUCTIONS[pattern]}`;
+  return `> **${title}.** ${STUDENT_STEP[block.type] ?? STUDENT_INSTRUCTIONS[pattern]}`;
 }
 
 /** Space for the things the website used to track: who you worked with, what the class decided. */
@@ -465,11 +525,25 @@ export function emitMeeting(
     out.push("Name: ______________________________", "", "---", "");
   }
 
-  if (variant === "instructor" && meeting.facilitationOverview) {
+  // A meeting with no activity stages is not a broken export. Two sessions in
+  // the semester genuinely had none -- a first day and a guest lecture -- and a
+  // 26-line handout with no structure reads like a generator failure unless it
+  // says otherwise.
+  if (variant === "instructor" && (meeting.activity?.stages?.length ?? 0) === 0) {
     out.push(
-      "## Facilitation overview",
-      "",
-      deNameInstructor(meeting.facilitationOverview.trim()),
+      "> **This meeting has no activity stages.** It ran as a whole-class session rather than through the activity framework, so there is no stage plan, no timings, and no paper substitutions to make. The prose below is the whole of it.",
+      ""
+    );
+  }
+
+  if (variant === "instructor" && meeting.facilitationOverview) {
+    // Most overviews open with their own heading, so adding a wrapper produced a
+    // duplicated, empty "Facilitation overview" as the first thing in all 24
+    // guides. Only add one when the content does not bring its own.
+    const overview = deNameInstructor(meeting.facilitationOverview.trim());
+    out.push(
+      ...(overview.startsWith("#") ? [] : ["## Facilitation overview", ""]),
+      overview,
       "",
       "---",
       ""

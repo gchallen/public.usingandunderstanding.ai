@@ -4,8 +4,6 @@
 
 Pair discussion of how AI is changing work, who benefits, and what should be done
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** Four rounds of paired discussion exploring AI's impact on work from personal experience to policy. The arc moves from concrete (what did you experience?) to analytical (who survives?) to values-based (who decides?). Tuesday's data analysis lab gives students direct experience to draw on. Share-outs are substantial (10 min each) to surface disagreements and connect themes.
@@ -13,7 +11,7 @@ Pair discussion of how AI is changing work, who benefits, and what should be don
 **Logistics:**
 - Four discussion rounds with new partners each time (4 GroupActivity blocks with the same `group` key)
 - Each round has a 10-minute discussion followed by a 10-minute share-out
-- No roles. One partner should capture key points in the TextSubmission each round
+- No roles. One partner should capture key points in the their written answer each round
 - Rounds 2 and 4 include agent-guided interaction
 - The share-out stages are instructor-led: ask 2-3 pairs to share, then connect to the next round's theme
 

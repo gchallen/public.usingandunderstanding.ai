@@ -4,8 +4,6 @@
 
 Finish your final project and show it to your classmates.
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** This is the pay-off session. Students have one job today: get their project to a state they can show someone. The structure is almost entirely a work block, closed by a small-group demo round where students show each other what they made. No whole-class gallery, no projector parade — just a celebratory peer share.
@@ -14,7 +12,7 @@ Finish your final project and show it to your classmates.
 - No reading, no preparation
 - No link submission — students will demo live to their group, not submit an artifact
 - If someone needs their prior work-in-progress URL, pull it from the Workshop 1 dashboard at `/spring2026/meetings/2026-04-23-final-project-workshop-1/dashboard`
-- Demo groups are size 3 via `groupKey` — stable within the stage, paired automatically
+- Demo groups are size 3 via the group label — stable within the stage, paired automatically
 
 **Pacing:**
 | # | Stage | Duration | Cumulative |

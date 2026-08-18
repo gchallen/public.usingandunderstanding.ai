@@ -81,7 +81,7 @@ You'll switch roles after each challenge, so everyone gets time in both seats.
 
 Let's see what the class found. Which fake citations were the most convincing?
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** Your cards are being sorted at the front. Copy down the ones worth keeping.
 
 **From the board:**
 
@@ -146,7 +146,7 @@ Let's see what the class found. Which fake citations were the most convincing?
 
 Let's see the flip patterns. Who got the most dramatic reversal?
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** Your cards are being sorted at the front. Copy down the ones worth keeping.
 
 **From the board:**
 

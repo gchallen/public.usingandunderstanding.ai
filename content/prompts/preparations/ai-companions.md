@@ -2,9 +2,7 @@
 slug: ai-companions
 title: "Preparing for: AI Companions, Agents, and Trust"
 description: "Discuss what happens when people form emotional bonds with AI and let AI act on their behalf"
-readingSlug: 2026-03-09-love-in-the-time-of-a-i-companions-newyorker-6483
 model: gpt-5.2
-includeFullText: true
 topics:
   - id: emotional-bonds
     title: "Emotional Bonds with AI"

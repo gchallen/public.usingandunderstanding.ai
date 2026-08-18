@@ -15,7 +15,7 @@ The point was never to test anyone. It was to surface confusion the night before
 
 A one-page ticket, double sided, handed in at the door.
 
-**Front: the topics, verbatim.** They are already in the course files, and they are already phrased as prompts. A criterion like *can explain the horse versus coal analogy and how it applies to AI and jobs* becomes *explain the horse versus coal analogy in your own words, and say which one you think programmers are.* Three lines of writing space each.
+**Front: the topics, reworded.** They are already in the course files and already phrased as prompts, but several name the examples they are asking about, so copying them verbatim onto a ticket a student sees before reading gives the article away. Strip the parentheses. A criterion like *can explain the horse versus coal analogy and how it applies to AI and jobs* becomes *explain the horse versus coal analogy in your own words, and say which one you think programmers are.* Three lines of writing space each.
 
 **Back: one question, the same every week.** *What is one thing in the reading you did not understand, or did not believe?*
 

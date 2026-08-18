@@ -2,9 +2,7 @@
 slug: does-ai-understand
 title: "Preparing for: Does AI Understand?"
 description: "Explore the debate between Chiang and Somers about whether AI truly understands"
-readingSlug: ""
 model: gpt-5.2
-includeFullText: false
 topics:
   - id: compression-understanding
     title: "Compression and Understanding"

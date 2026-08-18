@@ -4,8 +4,6 @@
 
 Use AI to build study materials for your other courses while learning evidence-based study techniques
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** Students get real study value for their midterms while learning when and how AI helps (and doesn't help) with studying. The session opens with a discussion about effective and ineffective AI learning strategies, then two rounds introduce study techniques backed by learning science research. Partners give students someone to talk through their plans with before working with AI, and someone to share what they learned afterward.

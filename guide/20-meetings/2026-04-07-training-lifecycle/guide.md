@@ -4,8 +4,6 @@
 
 Hands-on exploration of the AI training lifecycle: pretraining, instruction tuning, and RLHF
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** This is an inductive session. Students get a brief primer on the three training stages, then try to match unlabeled model responses to the correct stage. The reveal and discussion solidifies their understanding. They then experience the RLHF process firsthand by ranking output pairs. The key insight is that every AI assistant reflects human choices about what counts as "good" behavior, and those choices involve real tradeoffs. The question generation phase gives students ownership over what puzzles them about the process.
@@ -15,7 +13,7 @@ Hands-on exploration of the AI training lifecycle: pretraining, instruction tuni
 - Stage 5 onwards uses new partners (question generation and investigation)
 - The curated examples are provided as markdown. Students read and discuss, they don't run interactive tools.
 - The ranking exercise is designed to produce disagreement. That's the point.
-- The QuestionBoard processes submitted questions with GPT to deduplicate and prioritize
+- the cards get sorted at the front, stacking near-duplicates
 
 **Pacing:**
 | # | Stage | Duration | Cumulative |
@@ -198,7 +196,7 @@ _Class reviews and selects a question to investigate_
 
 > **Facilitation notes**
 >
-> Click "Process Questions" to aggregate. Pick a question that connects the training process to something students can reason about. Good picks: questions about who the raters are, whether training introduces new biases, or how different companies produce different AI personalities. Avoid questions that require deep technical knowledge to answer.
+> Sort the cards at the front to aggregate. Pick a question that connects the training process to something students can reason about. Good picks: questions about who the raters are, whether training introduces new biases, or how different companies produce different AI personalities. Avoid questions that require deep technical knowledge to answer.
 
 > **On paper: Card Sort.** The AI deduplicated and ranked. Stack near-duplicates by hand; the height of a stack is the frequency signal.
 >
@@ -220,7 +218,7 @@ _Partners investigate the selected question_
 
 > **Facilitation notes**
 >
-> Students investigate with the same partner from the question generation stage. They should reason from what they observed, not just look up definitions. The TextSubmission captures their thinking. During share-out, look for groups that arrived at different conclusions.
+> Students investigate with the same partner from the question generation stage. They should reason from what they observed, not just look up definitions. The their written answer captures their thinking. During share-out, look for groups that arrived at different conclusions.
 
 **Grouping:** 2 per group
 

@@ -2,9 +2,7 @@
 slug: reflection-and-synthesis
 title: "Preparing for: Reflection and Synthesis"
 description: "Think about what worked in the course, what should change, and what was missing entirely — before the last meeting"
-readingSlug: ""
 model: gpt-5.2
-includeFullText: false
 topics:
   - id: what-worked
     title: "What Worked, and the Bet Underneath"

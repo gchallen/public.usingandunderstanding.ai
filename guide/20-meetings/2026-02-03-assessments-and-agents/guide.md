@@ -4,8 +4,6 @@
 
 Experiencing conversational assessment firsthand and exploring what happens when AI agents talk to each other
 
-## Facilitation overview
-
 ## Facilitation Notes
 **Philosophy:** Two halves today. First half introduces conversational assessment. Second half explores multi-agent AI communication through Moltbook and related examples.
 **Logistics:**

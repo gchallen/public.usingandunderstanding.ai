@@ -73,7 +73,7 @@ Today we're continuing with new challenges. You'll work with the same partner fo
 
 Let's see what strategies worked. How quickly did the AI lose track?
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** Your cards are being sorted at the front. Copy down the ones worth keeping.
 
 **From the board:**
 
@@ -134,7 +134,7 @@ Let's see what strategies worked. How quickly did the AI lose track?
 
 Let's see the most confidently wrong answers. Which ones were the most convincing?
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** Your cards are being sorted at the front. Copy down the ones worth keeping.
 
 **From the board:**
 
@@ -204,7 +204,7 @@ Attempt **both** of the following challenges.
 
 Let's see the most interesting findings from the challenge items.
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** Your cards are being sorted at the front. Copy down the ones worth keeping.
 
 **From the board:**
 

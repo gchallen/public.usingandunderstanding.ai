@@ -29,7 +29,7 @@ Today you'll create images, video, and music using AI tools. For each round, you
 3. **Compare results**
 4. **Submit your best creation**
 
-> **Gallery Walk.** Leave your work open on your device. Half the room walks while half explain, then swap.
+> **Gallery Walk.** Leave your work open on your device where someone walking past can see it.
 
 **Gallery log**
 
@@ -43,7 +43,7 @@ Today you'll create images, video, and music using AI tools. For each round, you
 
 #### Class Gallery: Images
 
-> **Gallery Walk.** Leave your work open on your device. Half the room walks while half explain, then swap.
+> **Gallery Walk.** Half the room walks while half stay and explain, then swap. Log what you see below.
 
 **Gallery log**
 
@@ -63,7 +63,7 @@ Today you'll create images, video, and music using AI tools. For each round, you
 3. **Compare results**
 4. **Submit your creation** (paste the URL)
 
-> **Gallery Walk.** Leave your work open on your device. Half the room walks while half explain, then swap.
+> **Gallery Walk.** Leave your work open on your device where someone walking past can see it.
 
 **Gallery log**
 
@@ -77,7 +77,7 @@ Today you'll create images, video, and music using AI tools. For each round, you
 
 #### Class Gallery: Video
 
-> **Gallery Walk.** Leave your work open on your device. Half the room walks while half explain, then swap.
+> **Gallery Walk.** Half the room walks while half stay and explain, then swap. Log what you see below.
 
 **Gallery log**
 
@@ -97,7 +97,7 @@ Today you'll create images, video, and music using AI tools. For each round, you
 3. **Compare results**
 4. **Submit your creation** (paste URL)
 
-> **Gallery Walk.** Leave your work open on your device. Half the room walks while half explain, then swap.
+> **Gallery Walk.** Leave your work open on your device where someone walking past can see it.
 
 **Gallery log**
 
@@ -111,7 +111,7 @@ Today you'll create images, video, and music using AI tools. For each round, you
 
 #### Class Gallery: Music
 
-> **Gallery Walk.** Leave your work open on your device. Half the room walks while half explain, then swap.
+> **Gallery Walk.** Half the room walks while half stay and explain, then swap. Log what you see below.
 
 **Gallery log**
 

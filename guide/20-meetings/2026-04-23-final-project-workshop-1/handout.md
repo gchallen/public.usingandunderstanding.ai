@@ -121,7 +121,7 @@ Pick your tool and start building. You have about 35 minutes. The goal is not to
 
 When you've got something — a link, a working preview, a document — submit it below as a checkpoint. Even if it's rough.
 
-> **Gallery Walk.** Leave your work open on your device. Half the room walks while half explain, then swap.
+> **Gallery Walk.** Nothing to submit. Have your work open and be ready to show it.
 
 **Gallery log**
 

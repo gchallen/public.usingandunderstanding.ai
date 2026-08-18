@@ -63,3 +63,21 @@ Manipulation, in tier two. A student reading a printed temperature comparison ne
 ## What you gain
 
 Shared evidence. A printed artifact is the same for everyone in the room, which makes the discussion afterward much easier to run.
+
+## Do not let a chatbot stand in for these
+
+The obvious move when a tool is unavailable is to ask a chatbot instead: give me
+the twenty words nearest "nurse", show me the token probabilities for this
+sentence. Do not do this, and tell students not to.
+
+A model has no access to its own embedding geometry or its own token
+probabilities. Asked for them it will not say so; it will produce a fluent,
+plausible, entirely invented list, and there is no obvious tell. The reading
+prompts in this kit make exactly this argument about articles and it applies
+with more force here, because a confabulated neighbour list is harder to catch
+than a confabulated quotation and it lands in a session whose whole point is
+that the geometry is real.
+
+If you cannot reach a real tool, use the printed artifact. A static table that
+came from a real model teaches the lesson. A live chat that invented its numbers
+teaches the opposite one.

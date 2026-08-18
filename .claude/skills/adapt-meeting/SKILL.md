@@ -34,7 +34,20 @@ Cut in this order:
 2. A share-out that follows another share-out.
 3. Never the feedback stage. Five minutes at the end, always.
 
-If the period is longer, add depth to an existing round rather than a new round. Discussions expand naturally.
+If the period is longer, do not add a round and do not stretch the existing
+ones. A ten-minute paired discussion given fifteen does not deepen, it dies, and
+you will be watching it die from the front of the room.
+
+Spend the surplus in this order. First on the substitutions, which are not free:
+budget four to five minutes per paper collection point, and more if you are
+swapping in a tool the original did not use, because an unfamiliar interface
+costs orientation time the guide does not account for. Then on the exploration
+or investigation stage, which is the one stage that rewards more time in almost
+every meeting here, because it is the one where students are generating rather
+than reporting. Then, and only then, on a fourth round.
+
+Say which stage you extended and why in the guide, so the next person adapting
+it knows where the slack went.
 
 ## 3. Budget the paper cost
 

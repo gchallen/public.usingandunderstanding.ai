@@ -4,8 +4,6 @@
 
 How does AI represent meaning? Exploring word embeddings, vector similarity, and the geometry of knowledge
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** This is an inductive session. Students explore embedding space hands-on, generate their own observations and questions, then discuss in progressively larger groups. The key pedagogical move is that students encounter the material before hearing any explanation. Their observations drive the class discussion, not a predetermined lecture plan.

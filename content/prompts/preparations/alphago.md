@@ -2,9 +2,7 @@
 slug: alphago
 title: "Preparing for: AlphaGo and the Nature of Intelligence"
 description: "Discuss themes of intelligence and creativity raised by the AlphaGo documentary"
-readingSlug: 2017-04-21-alphago
 model: gpt-5.2
-includeFullText: true
 topics:
   - id: what-is-intelligence
     title: "What is Intelligence?"

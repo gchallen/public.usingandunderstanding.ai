@@ -4,8 +4,6 @@
 
 Use AI to analyze a real dataset, create visualizations, and discover insights
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** Data analysis is one of AI's strongest practical applications, and students don't need to know how to code to use it. This lab lets non-technical students experience the power of asking questions of data with AI as their analyst. The key pedagogical move: students generate the questions (what's interesting about this data?) while AI handles the mechanics (writing code, producing charts). The gallery at the end showcases what's possible and surfaces the inevitable mistakes AI makes along the way.

@@ -4,20 +4,18 @@
 
 Pair discussion exploring whether AI systems truly understand or merely compress
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** Three rounds of paired discussion exploring the debate between Ted Chiang and James Somers about whether LLMs truly "understand." Partners rotate each round. The rounds build from Chiang's core analogy (compression = not understanding) to Somers' counterevidence (compression = understanding) to the most personal question (what this means for writing and for us). Share-out stages between rounds let you surface interesting disagreements and connect themes across pairs.
 
-This is the first meeting using **TextSubmissionBoard** — during share-outs, you can see all student responses and generate targeted discussion questions from them.
+This is the first meeting using **the collected cards** — during share-outs, you can see all student responses and generate targeted discussion questions from them.
 
 **Logistics:**
 - Three discussion rounds with new partners each time (3 GroupActivity blocks with the same `group` key)
 - Each round has a 12-minute discussion, a 3-minute report-out, and a 10-minute share-out
 - No roles — this is peer discussion, not driver/observer
 - After each discussion, each student individually captures key points in the report-out stage
-- The share-out stages are instructor-led: use the TextSubmissionBoard to see student responses, ask 2-3 pairs to share, then connect to the next round's theme
+- The share-out stages are instructor-led: use the the collected cards to see student responses, ask 2-3 pairs to share, then connect to the next round's theme
 
 **Pacing:**
 | Stage | Duration | Cumulative |
@@ -38,7 +36,7 @@ This is the first meeting using **TextSubmissionBoard** — during share-outs, y
 - If a round runs short, extend the share-out rather than rushing to the next round
 - Round 3 (the writing test) tends to generate the most personal responses — protect its time
 - During share-outs, look for pairs who disagreed with each other — those are the most productive to call on
-- Use the TextSubmissionBoard during share-outs to scan student responses and ask targeted follow-up questions
+- Use the the collected cards during share-outs to scan student responses and ask targeted follow-up questions
 - The wrap-up should feel like a landing, not a lecture — one or two connecting observations is enough
 
 ---

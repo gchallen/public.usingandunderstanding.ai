@@ -4,8 +4,6 @@
 
 Pitch your final project, get peer feedback, refine your scope, and start building.
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** The final project is open-ended by design, which means the main risk is over-scoping. Students will want to build ambitious things; your job is to help them pick something they can actually finish in two in-class sessions. The pitch-feedback step exists specifically to pressure-test scope. Don't let students out of that stage without a concrete, narrowed idea.
@@ -14,7 +12,7 @@ The second risk is tool paralysis. Students switching between Replit, ChatGPT, a
 
 **Logistics:**
 - Students may use whatever AI tools fit their project: Replit for code/sites, ChatGPT or Claude for text or research, creative tools for media, etc.
-- Pitch partners are paired via groupKey; each person pitches and gets feedback in turn
+- Pitch partners are paired via the group label; each person pitches and gets feedback in turn
 - Refined pitches and progress links are collected via the normal submission components
 - No reading, no preparation
 

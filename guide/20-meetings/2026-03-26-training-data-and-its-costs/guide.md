@@ -4,8 +4,6 @@
 
 Pair discussion of the energy, human, intellectual, and political costs of AI
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** Four rounds of paired discussion, each tackling a different dimension of AI's costs. Partners rotate each round. The questions build from concrete physical costs to systemic governance questions. Round 2 introduces human labor costs not covered by the readings, providing context directly in the discussion prompt. Share-out stages between rounds let you surface disagreements and bridge to the next theme.
@@ -14,7 +12,7 @@ Pair discussion of the energy, human, intellectual, and political costs of AI
 - Four discussion rounds with new partners each time (4 GroupActivity blocks with the same `group` key)
 - Each round has a 15-minute discussion followed by a 5-minute share-out
 - No roles — this is peer discussion
-- One partner should capture key points in the TextSubmission each round
+- One partner should capture key points in the their written answer each round
 - The share-out stages are instructor-led: ask 2-3 pairs to share, then connect to the next round's theme
 - Round 2 requires you to provide context on human labor that the readings don't cover
 

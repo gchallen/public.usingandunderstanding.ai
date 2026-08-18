@@ -52,7 +52,7 @@ You're going to build this in about 35 minutes with an AI assistant, so keep the
 
 Let's see what everyone came up with.
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** Your cards are being sorted at the front. Copy down the ones worth keeping.
 
 **From the board:**
 
@@ -89,7 +89,7 @@ When your site is working, publish it. The builder will give you a public URL. Y
 
 > **External Tools.** Your instructor will tell you how to get access.
 
-> **Gallery Walk.** Leave your work open on your device. Half the room walks while half explain, then swap.
+> **Gallery Walk.** Nothing to submit. Have your work open and be ready to show it.
 
 **Gallery log**
 
@@ -105,7 +105,7 @@ When your site is working, publish it. The builder will give you a public URL. Y
 
 We'll go through the submissions together. When your site comes up, give us a quick tour: what were you going for, and how did it go?
 
-> **Gallery Walk.** Leave your work open on your device. Half the room walks while half explain, then swap.
+> **Gallery Walk.** Nothing to submit. Have your work open and be ready to show it.
 
 **Gallery log**
 

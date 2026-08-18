@@ -4,8 +4,6 @@
 
 Hands-on exploration of language model mechanics through interactive demos and collaborative inquiry
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** This activity takes an inductive approach — students explore interactive demos first, then generate their own questions about how LLMs work, and finally investigate one together. The goal is to build intuition about next-token prediction, temperature, and the relationship between statistical models and language generation, without lecturing. The question generation section gives students ownership over what they're curious about.
@@ -13,7 +11,7 @@ Hands-on exploration of language model mechanics through interactive demos and c
 **Logistics:**
 - First four stages use the same partners (exploration)
 - Stage 5 onwards uses new partners (question generation and investigation)
-- The QuestionBoard processes submitted questions with GPT to deduplicate and prioritize
+- the cards get sorted at the front, stacking near-duplicates
 - You select which question the class investigates — pick one that's fundamental and discussable
 - Seed questions are mixed in silently so there's always something good to choose from
 
@@ -181,7 +179,7 @@ _Class reviews and selects a question to investigate_
 
 > **Facilitation notes**
 >
-> Click "Process Questions" to have GPT aggregate and prioritize the submitted questions. Review the list and select a question that is: (1) fundamental to understanding LLMs, (2) explorable through discussion and reasoning, and (3) not easily answered with a quick Google search. The seed questions ensure there's always a strong option.
+> Sort the cards at the front to have GPT aggregate and prioritize the submitted questions. Review the list and select a question that is: (1) fundamental to understanding LLMs, (2) explorable through discussion and reasoning, and (3) not easily answered with a quick Google search. The seed questions ensure there's always a strong option.
 
 > **On paper: Card Sort.** The AI deduplicated and ranked. Stack near-duplicates by hand; the height of a stack is the frequency signal.
 >
@@ -203,7 +201,7 @@ _Partners investigate the selected question together_
 
 > **Facilitation notes**
 >
-> Students investigate the selected question with the same partner from the question generation stage. They should reason from what they observed in the demos, not just look up answers. The TextSubmission captures their thinking. During share-out, look for groups that arrived at different conclusions.
+> Students investigate the selected question with the same partner from the question generation stage. They should reason from what they observed in the demos, not just look up answers. The their written answer captures their thinking. During share-out, look for groups that arrived at different conclusions.
 
 **Grouping:** 2 per group
 

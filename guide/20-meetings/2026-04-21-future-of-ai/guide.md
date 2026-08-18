@@ -4,14 +4,12 @@
 
 Exploring where AI is heading beyond 'just make it bigger': mixture of experts, local models, specialization, and AGI
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** This is an inductive session without interactive components. Each of three discussion rounds introduces a specific direction AI is heading beyond "just make it bigger." Students have the technical foundation from the semester (next-token prediction, RLHF, embeddings, neural networks) to reason about these directions rather than just speculate. The AGI / synthesis question has been moved to the Apr 28 Human Flourishing discussion, where it lands more naturally alongside the readings on AI and what makes us human.
 
 **Logistics:**
-- All three rounds use the same groupKey for partner rotation (new partner each round)
+- All three rounds use the same the group label for partner rotation (new partner each round)
 - Each round uses markdown context + text-submission. No interactive components.
 - Share-outs are instructor-led: ask 2-3 pairs to share, then bridge to the next topic
 

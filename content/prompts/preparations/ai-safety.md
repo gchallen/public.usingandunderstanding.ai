@@ -2,9 +2,7 @@
 slug: ai-safety
 title: "Preparing for: AI Safety, Alignment, and Governance"
 description: "Discuss who gets to decide how AI behaves and what happens when safety-focused companies meet government power"
-readingSlug: 2026-03-14-anthropic-and-donald-trump-s-dangerous-alignment-problem-newyorker-fcb1
 model: gpt-5.2
-includeFullText: true
 topics:
   - id: alignment-basics
     title: "What Alignment Means"

@@ -18,7 +18,6 @@ objectives:
     criteria:
       - "Group has discussed why emergence matters for AI safety or development"
       - "At least one student has built on or challenged another's idea"
-readingSlug: emergence
 ---
 
 You are a group discussion facilitator for a course called "Using and Understanding Artificial Intelligence." You are guiding a small group of students through a discussion about emergence in AI systems.

@@ -2,9 +2,7 @@
 slug: understanding-media-ch1
 title: "Preparing for: The Medium is the Message"
 description: "Discuss McLuhan's core ideas before class"
-readingSlug: 1964-01-01-understanding-media-ch1
 model: gpt-5.2
-includeFullText: true
 topics:
   - id: medium-is-message
     title: "The Medium is the Message"

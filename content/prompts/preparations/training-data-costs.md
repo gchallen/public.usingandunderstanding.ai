@@ -2,9 +2,7 @@
 slug: training-data-costs
 title: "Preparing for: Training Data and Its Costs"
 description: "Discuss the energy, environmental, and intellectual property costs of AI infrastructure"
-readingSlug: 2026-03-13-inside-the-dirty-dystopian-world-of-ai-data-centers-theatlantic-d45e
 model: gpt-5.2
-includeFullText: true
 topics:
   - id: energy-and-scale
     title: "Energy and Scale"

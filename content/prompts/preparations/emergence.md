@@ -2,9 +2,7 @@
 slug: emergence
 title: "Preparing for: From Simple Parts"
 description: "Discuss how complexity emerges from simple building blocks — connecting neurons, networks, and intelligence"
-readingSlug: 2025-04-30-ai-is-nothing-like-a-brain-and-that-s-ok-quanta-magazine-quantamagazine-4c05
 model: gpt-5.2
-includeFullText: true
 topics:
   - id: the-neuron-gap
     title: "The Neuron Gap"

@@ -32,7 +32,7 @@ Before diving into studying, let's think about how to use AI well for learning. 
 
 **Submit (~10 min):** Together, submit at least 3 effective strategies and 3 ineffective strategies.
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** Write each one on a card. Your instructor will tell you which colour goes with which list.
 
 **From the board:**
 
@@ -50,7 +50,7 @@ Before diving into studying, let's think about how to use AI well for learning. 
 
 ### Stage 2: Strategy Review
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** Both colours are on the board now. The pile where they disagree is the one worth arguing about.
 
 **From the board:**
 
@@ -70,7 +70,7 @@ Before diving into studying, let's think about how to use AI well for learning. 
 
 Let's look at what you came up with — especially the strategies where groups disagreed.
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** The taped columns stay up for the rest of the session. Copy what you want to keep.
 
 **From the board:**
 

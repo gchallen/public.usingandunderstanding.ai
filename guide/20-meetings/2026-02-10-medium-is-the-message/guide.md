@@ -4,6 +4,8 @@
 
 Professor Zach Biondi leads a discussion of McLuhan's 'The Medium is the Message' — what 1960s media theory reveals about our relationship with AI
 
+> **This meeting has no activity stages.** It ran as a whole-class session rather than through the activity framework, so there is no stage plan, no timings, and no paper substitutions to make. The prose below is the whole of it.
+
 ## Before class
 
 ### The Medium is the Message
@@ -14,7 +16,7 @@ Please complete the reading before class:
 
 - Reading: [The Medium is the Message](../../../readings/understanding-media-ch1.md) · Understanding Media: The Extensions of Man
 
-Also, please review the pamphlet on Luddism that you received in class.
+Also, please review the one-page handout on Luddism from the previous session.
 
 This will be a device-free meeting.
 You do not need to bring a laptop, and please put your phone away during the discussion.

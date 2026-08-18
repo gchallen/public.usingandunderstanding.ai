@@ -48,7 +48,7 @@ Pick a dataset that interests you. You can bring your own data or choose from th
 
 **With your partner:** Discuss which dataset you'll each use and brainstorm 3 questions you want to answer.
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** Write each question on its own card, one per card, with your name in the corner. Hand them forward.
 
 **From the board:**
 
@@ -68,7 +68,7 @@ Pick a dataset that interests you. You can bring your own data or choose from th
 
 Let's see what everyone is planning to explore.
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** The questions are going up at the front, stacked where they repeat. Copy the ones you want to work on.
 
 **From the board:**
 
@@ -131,7 +131,7 @@ Your artifacts and conversation links may be shared publicly as examples of AI-a
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-> **Gallery Walk.** Leave your work open on your device. Half the room walks while half explain, then swap.
+> **Gallery Walk.** Leave your work open on your device where someone walking past can see it.
 
 **Gallery log**
 
@@ -147,7 +147,7 @@ Your artifacts and conversation links may be shared publicly as examples of AI-a
 
 Let's see what everyone found. Your instructor will show artifacts and ask a few students to walk us through their analysis.
 
-> **Gallery Walk.** Leave your work open on your device. Half the room walks while half explain, then swap.
+> **Gallery Walk.** Half the room walks while half stay and explain, then swap. Log what you see below.
 
 **Gallery log**
 

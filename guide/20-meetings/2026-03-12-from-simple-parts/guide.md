@@ -4,8 +4,6 @@
 
 How complexity emerges from simple building blocks — connecting neurons, networks, and intelligence
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** Four discussion rounds exploring emergence — from concrete examples through a surprising reveal about biological neurons, to the implications of scale, to a synthesis reflection. Partners rotate each round. The key thread is "simple parts → complex wholes" connecting Tuesday's digit network to the readings to the bigger picture.
@@ -15,7 +13,7 @@ How complexity emerges from simple building blocks — connecting neurons, netwo
 - Rounds 1-3 each have a 15-minute discussion followed by a 5-minute share-out
 - Round 2 introduces new material (neuron complexity article) — read the key finding aloud before pairs start
 - Round 4 is a shorter synthesis round (12 minutes)
-- One partner should capture key points in the TextSubmission each round
+- One partner should capture key points in the their written answer each round
 - Share-out stages are instructor-led: ask 2-3 pairs to share, then connect to the next round's theme
 
 **Pacing:**

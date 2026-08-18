@@ -4,8 +4,6 @@
 
 Final meeting: a personal retrospective on AI and flourishing, then two rounds redesigning the course for next year
 
-## Facilitation overview
-
 ## Facilitation Notes
 
 **Philosophy:** This is the closing meeting. Apr 28 already did the deep argument-engagement on AGI / flourishing using Sun, Shroff, and Pollan. Doing that again would feel like deja vu. Instead, Round 1 is a personal retrospective — what shifted in students over the semester, and how they will live alongside AI from here. Light, not exhaustive.
@@ -15,7 +13,7 @@ The real weight of this meeting is on Rounds 2 and 3: the future of the course i
 There is no `feedback` block at the end. The whole meeting is feedback. The Round 3 share-out is the close.
 
 **Logistics:**
-- Three discussion rounds with new partners each round (same `groupKey` for partner rotation)
+- Three discussion rounds with new partners each round (same the group label for partner rotation)
 - Each round: 10-minute discussion followed by a 10-minute share-out
 - Round 1 captures key points via text-submission (no group chat — keeps it light)
 - Rounds 2 and 3 use agent-guided group chats for capture

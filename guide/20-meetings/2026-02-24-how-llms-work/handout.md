@@ -84,7 +84,7 @@ Based on what you explored today, what questions do you have about how LLMs work
 
 Enter at least 3 questions below. They can be about any aspect of how language models work.
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** Write each question on its own card, one per card, with your name in the corner. Hand them forward.
 
 **From the board:**
 
@@ -102,7 +102,7 @@ Enter at least 3 questions below. They can be about any aspect of how language m
 
 ### Stage 6: Question Review
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** The questions are going up at the front, stacked where they repeat. Copy the ones you want to work on.
 
 **From the board:**
 
@@ -122,7 +122,7 @@ Enter at least 3 questions below. They can be about any aspect of how language m
 
 **Group of 2.** Names: __________  __________  
 
-> **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
+> **Card Sort.** One question has been circled at the front. Write it down; it is the one your group is investigating.
 
 **From the board:**
 
