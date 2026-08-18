@@ -23,7 +23,8 @@ export interface KitProblem {
     | "missing-prompt"
     | "missing-pattern-chapter"
     | "slug-mismatch"
-    | "no-feedback-stage";
+    | "no-feedback-stage"
+    | "unknown-dependency";
   message: string;
 }
 
@@ -80,7 +81,8 @@ export function validateForKit(
   meeting: MeetingDefinition,
   slug: string,
   paths: KitPaths,
-  patternFor: (blockType: string) => string | null
+  patternFor: (blockType: string) => string | null,
+  known: Set<string> = new Set()
 ): KitProblem[] {
   const problems: KitProblem[] = [];
   const say = (kind: KitProblem["kind"], message: string) => problems.push({ slug, kind, message });
@@ -121,6 +123,15 @@ export function validateForKit(
       say(
         "missing-pattern-chapter",
         `${type} substitutes to the "${pattern}" pattern, which has no chapter. The callout tells a reader to look up a procedure that is not there.`
+      );
+    }
+  }
+
+  for (const dep of meeting.frontmatter.dependsOn ?? []) {
+    if (!known.has(dep)) {
+      say(
+        "unknown-dependency",
+        `dependsOn names "${dep}", which is not a meeting in this kit. Either the slug is wrong or the meeting it refers back to was not shipped.`
       );
     }
   }

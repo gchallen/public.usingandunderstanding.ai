@@ -7,6 +7,7 @@ const meeting: MeetingDefinition = {
     title: "AI Scavenger Hunt (Part 2)",
     summary:
       "Continuing to map the shape of AI intelligence with new challenges",
+      dependsOn: ["2026-01-27-ai-scavenger-hunt"],
   },
   intro: [
     {

@@ -7,6 +7,7 @@ const meeting: MeetingDefinition = {
     title: "AI Safety, Alignment, and Governance",
     summary:
       "Pair discussion of who controls how AI behaves: companies, governments, or something else",
+      dependsOn: ["2026-04-07-training-lifecycle"],
   },
   intro: [
     {

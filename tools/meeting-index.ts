@@ -91,10 +91,20 @@ export function buildMeetingIndex(
               ? "Lab"
               : "Discussion";
 
+    // What this meeting refers back to. Teaching it out of order, or without
+    // the meeting it names, means editing prose that assumes the class was
+    // there -- and that assumption is invisible until it is printed.
+    const deps = (meeting.frontmatter.dependsOn ?? [])
+      .map((d) => {
+        const title = definitions[d]?.frontmatter.title;
+        return title ? `[${title}](${d}/guide.md)` : d;
+      })
+      .join(", ");
+
     rows.push(
       `| [${meeting.frontmatter.title}](${slug}/guide.md) | ${kind} | ${
         minutes > 0 ? `${minutes}m` : "--"
-      } | ${needsReading ? "yes" : "no"} | ${tools} |`
+      } | ${needsReading ? "yes" : "no"} | ${tools} | ${deps || "--"} |`
     );
   }
 
@@ -119,8 +129,13 @@ export function buildMeetingIndex(
     "account on the original course site, so that stage does not work for you as",
     "written; the Demos chapter is where to look for what to do instead.",
     "",
-    "| Meeting | Kind | Planned | Reading | Tools |",
-    "| --- | --- | --- | --- | --- |",
+    "**Refers back to** names meetings this one talks about as though the class",
+    "was there. Teach it without them, or out of order, and there is prose in the",
+    "handout to rewrite. The dependencies are advisory: the course ran in this",
+    "order, and reordering is allowed as long as you fix what refers backward.",
+    "",
+    "| Meeting | Kind | Planned | Reading | Tools | Refers back to |",
+    "| --- | --- | --- | --- | --- | --- |",
     ...rows,
     "",
   ].join("\n");

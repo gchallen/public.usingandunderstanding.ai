@@ -7,6 +7,7 @@ const meeting: MeetingDefinition = {
     title: "From Simple Parts",
     summary:
       "How complexity emerges from simple building blocks — connecting neurons, networks, and intelligence",
+      dependsOn: ["2026-03-10-neurons-and-networks"],
   },
   intro: [
     {

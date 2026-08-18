@@ -7,6 +7,7 @@ const meeting: MeetingDefinition = {
     title: "Final Project Workshop 2",
     summary:
       "Finish your final project and show it to your classmates.",
+      dependsOn: ["2026-04-23-final-project-workshop-1"],
   },
   intro: [
     {

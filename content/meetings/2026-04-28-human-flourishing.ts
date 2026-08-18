@@ -7,6 +7,7 @@ const meeting: MeetingDefinition = {
     title: "Human Flourishing in an Age of AI",
     summary:
       "Pair discussion on what makes us human, what AI changes, and what AGI would change if it arrives",
+      dependsOn: ["2026-04-07-training-lifecycle"],
   },
   intro: [
     {

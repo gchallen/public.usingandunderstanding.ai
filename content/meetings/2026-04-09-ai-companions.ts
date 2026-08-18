@@ -7,6 +7,7 @@ const meeting: MeetingDefinition = {
     title: "AI Companions, Agents, and Trust",
     summary:
       "Pair discussion of emotional bonds with AI, agent autonomy, and design responsibility",
+      dependsOn: ["2026-04-07-training-lifecycle"],
   },
   intro: [
     {

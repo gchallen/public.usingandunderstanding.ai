@@ -19,6 +19,16 @@ export interface MeetingFrontmatter {
   title: string;
   summary: string;
   hidden?: boolean;
+  /**
+   * Meetings this one refers back to, by slug.
+   *
+   * The course has a strong sequence and it was expressed only as prose inside
+   * handouts -- "On Tuesday you used AI to analyze data" -- which is invisible
+   * until an adopter prints it for a class that did not have Tuesday. Naming the
+   * dependency lets the index show it, lets the generator check it resolves, and
+   * lets someone reorder the semester and find out what they broke.
+   */
+  dependsOn?: string[];
 }
 
 /**

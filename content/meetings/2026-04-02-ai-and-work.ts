@@ -6,6 +6,7 @@ const meeting: MeetingDefinition = {
     semester: "spring2026",
     title: "AI and Work",
     summary: "Pair discussion of how AI is changing work, who benefits, and what should be done",
+      dependsOn: ["2026-03-31-data-analysis-lab"],
   },
   intro: [
     {

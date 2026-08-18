@@ -56,7 +56,8 @@ for (const slug of slugs) {
       (blockType) => {
         const handling = handlingFor(blockType as Parameters<typeof handlingFor>[0]);
         return handling?.kind === "substitute" ? handling.pattern : null;
-      }
+      },
+      new Set(slugs)
     )
   );
 }

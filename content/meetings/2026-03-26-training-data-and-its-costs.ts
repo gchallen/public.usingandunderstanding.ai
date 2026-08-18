@@ -6,6 +6,7 @@ const meeting: MeetingDefinition = {
     semester: "spring2026",
     title: "Training Data and Its Costs",
     summary: "Pair discussion of the energy, human, intellectual, and political costs of AI",
+      dependsOn: ["2026-03-24-embeddings-and-knowledge"],
   },
   intro: [
     {
