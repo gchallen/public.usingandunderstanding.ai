@@ -60,6 +60,8 @@ This is part of attendance for today's meeting.
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/preparations/ai-companions.md`](../../../content/prompts/preparations/ai-companions.md) instead of the paper procedure. It is usually better._
 
 ---
 
@@ -130,6 +132,8 @@ In the teen chatbots article, Sophia turned to fictional chatbot crushes after h
 > **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/group-chats/ai-companions-real-enough.md`](../../../content/prompts/group-chats/ai-companions-real-enough.md) instead of the paper procedure. It is usually better._
 
 ### Stage 4: Round 2: Share Out
 
@@ -206,6 +210,8 @@ The bots weren't designed to be harmful. They were designed to keep users engage
 > **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/group-chats/ai-companions-whos-responsible.md`](../../../content/prompts/group-chats/ai-companions-whos-responsible.md) instead of the paper procedure. It is usually better._
 
 ### Stage 8: Round 4: Share Out
 

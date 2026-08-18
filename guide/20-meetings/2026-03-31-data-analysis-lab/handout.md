@@ -26,8 +26,6 @@ Use [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), or [Gemini](htt
 
 ### Stage 1: Dataset Selection & Strategy
 
-_10m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### Choose a Dataset & Plan Your Analysis

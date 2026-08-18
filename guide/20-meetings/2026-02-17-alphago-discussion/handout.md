@@ -34,8 +34,6 @@ Today you'll discuss the AlphaGo documentary in four rounds, each with a differe
 
 ### Stage 1: Round 1: Creativity
 
-_15m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### Can AI Be Creative?
@@ -63,8 +61,6 @@ You can reference the [annotated transcript](../../../readings/alphago.md) for s
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: Anthropomorphization
-
-_15m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 
@@ -94,8 +90,6 @@ Your instructor will ask a few pairs to share what they discussed. Listen for id
 
 ### Stage 5: Round 3: The Mirror
 
-_15m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### What Does AI Reveal About Us?
@@ -123,8 +117,6 @@ You can reference the [annotated transcript](../../../readings/alphago.md) for s
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 7: Round 4: Collaboration
-
-_15m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 

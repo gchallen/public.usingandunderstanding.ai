@@ -43,7 +43,7 @@ Do not let the pair produce a joint answer. The ticket stays individual, and it 
 
 **Where the time comes from.** It does not appear from nowhere; the pacing chapter is blunt that these meetings already run long. Five minutes at the top is the first discussion round, moved. Plan four rounds and teach three, and let this be the thing that pushes round four out.
 
-**Untested.** The original course ran the AI version, so this pairing step has never been run with students. The ticket half is a direct translation of something that worked. This half is a design, and you should treat it as one.
+**A note on this one specifically.** None of the procedures in these chapters has been run with students; see the README in this directory. This pairing step is newer than the rest and has not even been run by the author in the software version, so it is the least evidenced thing here.
 
 ## On the handout
 

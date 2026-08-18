@@ -149,6 +149,8 @@ This stage uses **agent-guided interaction**: instead of writing a summary, your
 > **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/group-chats/embeddings-exploration.md`](../../../content/prompts/group-chats/embeddings-exploration.md) instead of the paper procedure. It is usually better._
 
 ### Stage 5: Class Synthesis
 

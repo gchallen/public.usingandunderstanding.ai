@@ -51,7 +51,7 @@ These are expensive lessons. Apply them without being asked.
 
 **Disagreement is the target, not consensus.** The handouts ask "where did your group disagree?" rather than "what did you conclude." When sorting student work, the pile worth spending time on is the contradictory one. The original's AI prompt for categorizing study strategies said the disputed category was the most valuable one, and that was right.
 
-**Plans overrun the period.** Every meeting here was planned at roughly 80 minutes of stages for a 75-minute class. Assume the same and cut deliberately.
+**Plans overrun the period.** The three instrumented meetings were each planned at roughly 80 minutes of stages for a 75-minute class, and the meeting index shows the rest range from 40 to 90. Check the total before you teach one, and cut deliberately rather than at the bell.
 
 **The paper version costs four to five minutes per collection point.** A meeting with three collection points does not fit in 75 minutes on paper. Say which stage comes out rather than telling the instructor to hurry.
 
@@ -67,7 +67,9 @@ Content blocks are a discriminated union in `content/types.ts`. Blocks fall into
 
 When you add a block type, the handout generator will fail to compile until you decide how paper handles it. That is deliberate. Do not work around it.
 
-The build also validates before it emits, and refuses on: a reading link with no annotation shipped, a preparation or group-chat slug with no prompt file, a substitution pattern with no chapter, an `activity.meetingSlug` that disagrees with the filename, and an activity meeting that does not end with a feedback block. If you need an exception to the last one, it goes in `FEEDBACK_EXEMPT` with a stated reason rather than being left implicit.
+`bun run handout` validates before it writes anything, and refuses on: a reading link with no annotation in `readings/`, a preparation or group-chat slug with no file in `content/prompts/`, a substitution pattern with no chapter in `guide/10-patterns/`, an `activity.meetingSlug` that disagrees with its filename, and an activity meeting that does not end with a feedback block. It names the meeting and the problem and exits non-zero, so a failed run means nothing was regenerated.
+
+The feedback rule has one recorded exception, in `tools/kit-validate.ts`. If you need another, put it there with a stated reason rather than leaving it implicit.
 
 ## Conventions
 

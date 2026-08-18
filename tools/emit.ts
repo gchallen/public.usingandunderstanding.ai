@@ -180,10 +180,27 @@ function substitutionCallout(
   const title = PATTERN_TITLES[pattern];
 
   if (ctx.variant === "instructor") {
+    // The chatbot tier was invisible from here. The slug is in the meeting data
+    // and was being thrown away, so a guide told a room with AI access to print
+    // cards without mentioning the prompt sitting in the repository for that
+    // exact stage.
+    const promptDir =
+      block.type === "preparation-chat"
+        ? "preparations"
+        : block.type === "group-chat"
+          ? "group-chats"
+          : null;
+    const slug = (block as { slug?: string }).slug;
+    const promptLine =
+      promptDir && slug
+        ? `> _If your students have a chatbot, use [\`content/prompts/${promptDir}/${slug}.md\`](../../../content/prompts/${promptDir}/${slug}.md) instead of the paper procedure. It is usually better._`
+        : null;
+
     return [
       `> **On paper: ${title}.** ${note}`,
       ">",
       `> _Replaces the \`${block.type}\` step. See the ${title} chapter for the full procedure._`,
+      ...(promptLine ? [">", promptLine] : []),
     ].join("\n");
   }
   return `> **${title}.** ${STUDENT_INSTRUCTIONS[pattern]}`;
@@ -341,11 +358,13 @@ function emitStage(stage: StageDefinition, index: number, ctx: EmitContext): str
   // A stage whose blocks are all instructor-only leaves the student a heading
   // with nothing under it, which reads as a page that failed to print. Say what
   // happens instead: the stage is real, it just is not written work.
+  // Pair and group work lives in stage.group.content, not stage.content. Checking
+  // only the latter printed "Nothing to write" directly above the blanks students
+  // write in, on the pair stages that are most of the course.
+  const visible = (blocks: readonly ContentBlock[]): boolean =>
+    blocks.some((b) => handlingFor(b.type).kind === "substitute" || b.type !== "instructor-only");
   const studentSees =
-    ctx.variant === "student" &&
-    stage.content.some(
-      (b) => handlingFor(b.type).kind === "substitute" || b.type !== "instructor-only"
-    );
+    ctx.variant === "student" && (visible(stage.content) || visible(stage.group?.content ?? []));
   if (ctx.variant === "student" && !studentSees) {
     out.push(
       `_${stage.estimatedTime ?? "A few minutes"} together as a class. Nothing to write._`,

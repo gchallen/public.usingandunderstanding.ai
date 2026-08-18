@@ -28,8 +28,6 @@ You'll experiment with interactive visualizations, generate questions about what
 
 ### Stage 1: Explore: Single Neuron
 
-_10m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### A Single Artificial Neuron
@@ -47,8 +45,6 @@ The tool below lets you experiment with a single neuron. Try adjusting the slide
 - Check out the biological analogy — how does this compare to what we know about brain cells?
 
 ### Stage 2: Explore: Digit Network
-
-_15m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 
@@ -116,8 +112,6 @@ Enter at least 2 questions below.
 
 ### Stage 6: Investigate
 
-_12m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### Investigate a Question
@@ -155,8 +149,6 @@ With your new partner, pick one of the questions above to investigate. Use the d
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Stage 7: Explain & Learn
-
-_12m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 

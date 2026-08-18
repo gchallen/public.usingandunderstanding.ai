@@ -61,6 +61,8 @@ This is part of attendance for today's meeting.
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/preparations/human-flourishing.md`](../../../content/prompts/preparations/human-flourishing.md) instead of the paper procedure. It is usually better._
 
 ---
 
@@ -143,6 +145,8 @@ Shroff is not so sure. The dot-com crash *did* leave fiber-optic cables that las
 > **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/group-chats/human-flourishing-economy.md`](../../../content/prompts/group-chats/human-flourishing-economy.md) instead of the paper procedure. It is usually better._
 
 ### Stage 4: Round 2: Share Out
 
@@ -193,6 +197,8 @@ Sam Altman says AGI is coming and will fix the climate, establish space colonies
 > **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/group-chats/human-flourishing-agi-synthesis.md`](../../../content/prompts/group-chats/human-flourishing-agi-synthesis.md) instead of the paper procedure. It is usually better._
 
 ### Stage 6: Round 3: Share Out + Closing
 

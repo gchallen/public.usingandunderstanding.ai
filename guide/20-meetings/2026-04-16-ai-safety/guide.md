@@ -60,6 +60,8 @@ This is part of attendance for today's meeting.
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/preparations/ai-safety.md`](../../../content/prompts/preparations/ai-safety.md) instead of the paper procedure. It is usually better._
 
 ---
 
@@ -138,6 +140,8 @@ Dwarkesh Patel argues both sides have a point: the government can't let a privat
 > **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/group-chats/ai-safety-anthropic-dilemma.md`](../../../content/prompts/group-chats/ai-safety-anthropic-dilemma.md) instead of the paper procedure. It is usually better._
 
 ### Stage 4: Round 2: Share Out
 
@@ -220,6 +224,8 @@ Dwarkesh argues that within 20 years, most government and military labor could b
 > **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/group-chats/ai-safety-who-decides.md`](../../../content/prompts/group-chats/ai-safety-who-decides.md) instead of the paper procedure. It is usually better._
 
 ### Stage 8: Round 4: Share Out
 

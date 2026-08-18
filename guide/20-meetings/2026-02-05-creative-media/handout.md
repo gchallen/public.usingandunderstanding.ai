@@ -21,8 +21,6 @@ Today you'll create images, video, and music using AI tools. For each round, you
 
 ### Stage 1: Create Images
 
-_15m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### Round 1: Images
@@ -57,8 +55,6 @@ _15m together as a class. Nothing to write._
 
 ### Stage 3: Create Video
 
-_15m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### Round 2: Video
@@ -92,8 +88,6 @@ _15m together as a class. Nothing to write._
 |  |  |  |
 
 ### Stage 5: Create Music
-
-_15m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 

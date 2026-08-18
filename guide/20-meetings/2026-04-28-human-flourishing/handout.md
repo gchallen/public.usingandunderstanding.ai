@@ -41,8 +41,6 @@ Last Tuesday we explored where AI is heading: mixture of experts, local models, 
 
 ### Stage 1: Round 1: What Eludes AI?
 
-_10m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### What Eludes AI?
@@ -72,8 +70,6 @@ Sun's deeper claim is that voice itself comes from "the specificity of a life." 
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: The Economy We Want
-
-_10m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 
@@ -106,8 +102,6 @@ Shroff is not so sure. The dot-com crash *did* leave fiber-optic cables that las
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 5: Round 3: AGI and What Makes Us Human
-
-_10m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 

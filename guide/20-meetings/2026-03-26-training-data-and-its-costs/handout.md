@@ -41,8 +41,6 @@ The costs are bigger and more varied than you might expect. Four rounds of paire
 
 ### Stage 1: Round 1: Energy and Infrastructure
 
-_15m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### What Does AI Physically Cost?
@@ -70,8 +68,6 @@ To get data centers running fast, companies are turning to fossil fuels. Sam Alt
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: Who Pays?
-
-_15m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 
@@ -115,8 +111,6 @@ Your instructor will ask a few pairs to share what they discussed. Listen for id
 
 ### Stage 5: Round 3: Whose Work?
 
-_15m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### Whose Work?
@@ -146,8 +140,6 @@ Meanwhile, Dario Amodei wrote an internal memo in 2021 acknowledging that AI cou
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 7: Round 4: Who Decides?
-
-_15m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 

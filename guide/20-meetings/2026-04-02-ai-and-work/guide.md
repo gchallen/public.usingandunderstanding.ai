@@ -58,6 +58,8 @@ This is part of attendance for today's meeting.
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/preparations/ai-and-work.md`](../../../content/prompts/preparations/ai-and-work.md) instead of the paper procedure. It is usually better._
 
 ---
 
@@ -128,6 +130,8 @@ Lowrey offers a framework: are you a horse (permanently displaced by a better te
 > **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/group-chats/ai-and-work-whats-happening.md`](../../../content/prompts/group-chats/ai-and-work-whats-happening.md) instead of the paper procedure. It is usually better._
 
 ### Stage 4: Round 2: Share Out
 
@@ -202,6 +206,8 @@ Thompson's Block employees had no say in Dorsey's decision to fire them. Lowrey 
 > **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/group-chats/ai-and-work-who-decides.md`](../../../content/prompts/group-chats/ai-and-work-who-decides.md) instead of the paper procedure. It is usually better._
 
 ### Stage 8: Round 4: Share Out
 

@@ -24,8 +24,6 @@ You'll work with a partner to identify how model behavior changes at each traini
 
 ### Stage 1: Explore: Match the Training Stage
 
-_10m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### The Three Training Stages
@@ -50,8 +48,6 @@ _10m together as a class. Nothing to write._
 
 ### Stage 3: Explore: Be the Preference Rater
 
-_10m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### Be the Preference Rater
@@ -67,8 +63,6 @@ Now it's your turn. The tool below generates two responses to the same prompt, e
 _10m together as a class. Nothing to write._
 
 ### Stage 5: Generate Questions
-
-_10m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 
@@ -113,8 +107,6 @@ Enter at least 3 questions below.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Stage 7: Investigate
-
-_10m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 

@@ -24,8 +24,6 @@ Today, three rounds of paired discussion, each seeded with a specific direction 
 
 ### Stage 1: Round 1: The Mixture of Experts Bet
 
-_10m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### The Mixture of Experts Bet
@@ -56,8 +54,6 @@ Your instructor will ask a few pairs to share what they discussed. Listen for id
 
 ### Stage 3: Round 2: AI in Your Pocket
 
-_10m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### AI in Your Pocket
@@ -87,8 +83,6 @@ It also changes the economics: cloud AI costs money per query, and companies can
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 5: Round 3: The Specialist vs. the Generalist
-
-_10m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 

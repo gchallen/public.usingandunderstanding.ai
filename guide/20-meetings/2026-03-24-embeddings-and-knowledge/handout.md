@@ -68,8 +68,6 @@ Write down one or two things that surprised you during the exploration. What did
 
 ### Stage 3: Paired Sharing
 
-_10m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### Share With Your Partner
@@ -83,8 +81,6 @@ Take turns sharing what you discovered during the exploration:
 Listen for observations that are different from your own. Your partner may have explored a completely different part of the space.
 
 ### Stage 4: Group Discussion
-
-_15m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 

@@ -41,8 +41,6 @@ On Tuesday you explored how human preferences get baked into AI through the trai
 
 ### Stage 1: Round 1: Your AI Self
 
-_10m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### Your AI Self
@@ -68,8 +66,6 @@ Quentin, a 15-year-old in the teen chatbots article, says chatbots are "literall
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: Real Enough to Matter
-
-_10m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 
@@ -103,8 +99,6 @@ Your instructor will ask a few pairs to share what they discussed. Listen for id
 
 ### Stage 5: Round 3: Acting on Your Behalf
 
-_10m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### Acting on Your Behalf
@@ -132,8 +126,6 @@ These are different from AI companions. A companion keeps you company. An agent 
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 7: Round 4: Who's Responsible?
-
-_10m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 

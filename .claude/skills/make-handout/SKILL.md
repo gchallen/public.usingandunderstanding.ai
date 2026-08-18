@@ -29,25 +29,21 @@ The student handout omits anything marked instructor-only, omits facilitation no
 
 If you find yourself wanting to put something in the student handout that is not in the meeting definition, put it in the meeting definition.
 
-## What the generator does not check
+## What the generator checks
 
-It checks nothing. There is no validation and no error path, so it exits 0 on
-work that is silently wrong. Verify these yourself after generating:
+It validates before it writes and refuses rather than emitting something wrong:
 
-- **A `reading-link` slug with no matching file in `readings/`** emits the slug
-  with its hyphens turned into spaces and no link. It looks like a citation and
-  is not one.
-- **A `preparation-chat` or `group-chat` slug with no prompt file** still emits
-  the full paper callout, telling an instructor to print criteria that do not
-  exist.
-- **A substitution pattern with no chapter** in `guide/10-patterns/` still emits
-  "See the X chapter for the full procedure." Nothing reads that directory.
-- **A `question-board` whose id matches no `question-entry`** emits a card-sort
-  callout for a collection that never happened.
-- **`group.size` above 4** prints only four name blanks.
+- a `reading-link` slug with no annotation in `readings/`
+- a `preparation-chat` or `group-chat` slug with no file in `content/prompts/`
+- a substitution pattern with no chapter in `guide/10-patterns/`
+- an `activity.meetingSlug` that disagrees with its filename
+- an activity meeting that does not end with a feedback block
 
-An earlier version of this file claimed the generator refused the third of
-these. It does not.
+It names the meeting and the problem and exits non-zero. A failed run writes
+nothing, so the tree is never half-regenerated.
+
+What it still does not catch: `group.size` above 4 prints only four name blanks,
+and an unhandled block type crashes rather than reporting. Check those by eye.
 
 ## Printing
 

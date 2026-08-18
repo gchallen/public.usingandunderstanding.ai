@@ -22,8 +22,6 @@ Today you'll explore how large language models (LLMs) actually work — not by r
 
 ### Stage 1: Explore: Predictions & Temperature
 
-_15m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### Next-Word Prediction
@@ -55,8 +53,6 @@ _5m together as a class. Nothing to write._
 
 ### Stage 3: Explore: Markov Babbler
 
-_15m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### A Simpler Model
@@ -79,8 +75,6 @@ The walkthrough will show you exactly how this works step by step. Pay attention
 _10m together as a class. Nothing to write._
 
 ### Stage 5: Generate Questions
-
-_10m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 
@@ -125,8 +119,6 @@ Enter at least 3 questions below. They can be about any aspect of how language m
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Stage 7: Investigate
-
-_12m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 

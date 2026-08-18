@@ -41,8 +41,6 @@ On Tuesday, you built a digit-recognition network from simple artificial neurons
 
 ### Stage 1: Round 1: Emergence Everywhere
 
-_15m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### Emergence Everywhere
@@ -71,8 +69,6 @@ Your instructor will ask a few pairs to share what they discussed. Listen for id
 
 ### Stage 3: Round 2: The Neuron Gap
 
-_15m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### The Neuron Gap
@@ -100,8 +96,6 @@ Your digit network had ~13,000 artificial neurons. A single cubic millimeter of 
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 5: Round 3: What Emerges at Scale
-
-_15m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 
@@ -132,8 +126,6 @@ But there's a debate: are these "real" emergent abilities, or are they measureme
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 7: Round 4: So What?
-
-_12m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 

@@ -65,6 +65,8 @@ This is part of attendance for today's meeting.
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/preparations/does-ai-understand.md`](../../../content/prompts/preparations/does-ai-understand.md) instead of the paper procedure. It is usually better._
 
 ---
 

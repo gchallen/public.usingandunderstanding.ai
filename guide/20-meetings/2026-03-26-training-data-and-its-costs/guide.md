@@ -60,6 +60,8 @@ This is part of attendance for today's meeting.
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/preparations/training-data-costs.md`](../../../content/prompts/preparations/training-data-costs.md) instead of the paper procedure. It is usually better._
 
 ---
 
@@ -138,6 +140,8 @@ _Expected response: What did you and your partner discuss? Where did you agree o
 > **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/group-chats/training-data-who-pays.md`](../../../content/prompts/group-chats/training-data-who-pays.md) instead of the paper procedure. It is usually better._
 
 ### Stage 4: Round 2: Share Out
 
@@ -222,6 +226,8 @@ _Expected response: What did you and your partner discuss? Where did you agree o
 > **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/group-chats/training-data-who-decides.md`](../../../content/prompts/group-chats/training-data-who-decides.md) instead of the paper procedure. It is usually better._
 
 ### Stage 8: Round 4: Share Out
 

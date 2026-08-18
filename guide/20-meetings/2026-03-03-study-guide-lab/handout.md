@@ -24,8 +24,6 @@ Have your materials ready (notes, slides, textbook) for another course you need 
 
 ### Stage 1: AI Learning Strategies
 
-_15m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 Before diving into studying, let's think about how to use AI well for learning. With your partner, discuss: what are effective ways to use AI that lead to *genuine learning*? What are ineffective ways — approaches that feel productive but don't actually help you learn?
@@ -90,8 +88,6 @@ Let's look at what you came up with — especially the strategies where groups d
 
 ### Stage 4: Practice Testing
 
-_15m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 Self-testing is the gold standard of study techniques. Students who test themselves consistently outperform those who spend the same time re-reading material — even when the re-readers feel _more_ prepared. That false sense of readiness is called the *illusion of competence*: material feels familiar when you read it, but familiarity isn't the same as being able to produce an answer on an exam.
@@ -119,8 +115,6 @@ Before moving on, create a share link to your AI conversation. In ChatGPT, click
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Stage 6: Build a Study Aid
-
-_15m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 

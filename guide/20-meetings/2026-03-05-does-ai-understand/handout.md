@@ -41,8 +41,6 @@ Today you'll discuss the debate between Chiang and Somers in three rounds, each 
 
 ### Stage 1: Round 1: The Blurry JPEG
 
-_12m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### The Blurry JPEG
@@ -91,8 +89,6 @@ Your instructor will ask a few pairs to share what they discussed. Listen for id
 
 ### Stage 4: Round 2: The Case for Understanding
 
-_12m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### The Case for Understanding
@@ -140,8 +136,6 @@ Your instructor will ask a few pairs to share what they discussed. Listen for id
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Stage 7: Round 3: The Writing Test
-
-_12m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 

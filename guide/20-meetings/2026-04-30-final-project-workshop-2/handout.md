@@ -39,8 +39,6 @@ Your instructor will give a two-minute warning before demo time. Plan to be at a
 
 ### Stage 2: Show Your Neighbor
 
-_15m together as a class. Nothing to write._
-
 **Group of 3.** Names: __________  __________  __________  
 
 Take turns showing your project to your group. Aim for about 4-5 minutes per person, including questions.

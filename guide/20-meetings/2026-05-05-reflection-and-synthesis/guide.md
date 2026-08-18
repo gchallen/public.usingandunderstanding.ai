@@ -58,6 +58,8 @@ Before tomorrow, please complete the preparation conversation below. It walks th
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >
 > _Replaces the `preparation-chat` step. See the Reading Ticket chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/preparations/reflection-and-synthesis.md`](../../../content/prompts/preparations/reflection-and-synthesis.md) instead of the paper procedure. It is usually better._
 
 ---
 
@@ -146,6 +148,8 @@ Then push to the bet underneath: *what about the design* made it work? That is t
 > **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/group-chats/course-future-what-worked.md`](../../../content/prompts/group-chats/course-future-what-worked.md) instead of the paper procedure. It is usually better._
 
 ### Stage 4: Round 2: Share Out
 
@@ -196,6 +200,8 @@ The hardest and most useful question: **what did the course never talk about tha
 > **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
+>
+> _If your students have a chatbot, use [`content/prompts/group-chats/course-future-what-to-change.md`](../../../content/prompts/group-chats/course-future-what-to-change.md) instead of the paper procedure. It is usually better._
 
 ### Stage 6: Round 3: Share Out + Closing
 

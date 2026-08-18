@@ -41,8 +41,6 @@ On Tuesday you explored how human preferences get baked into AI through the trai
 
 ### Stage 1: Round 1: What Is Alignment?
 
-_10m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### What Is Alignment?
@@ -70,8 +68,6 @@ The New Yorker article describes Anthropic's "soul doc," an internal document th
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: The Anthropic Dilemma
-
-_10m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 
@@ -107,8 +103,6 @@ Your instructor will ask a few pairs to share what they discussed. Listen for id
 
 ### Stage 5: Round 3: Government and AI
 
-_10m together as a class. Nothing to write._
-
 **Group of 2.** Names: __________  __________  
 
 #### Government and AI
@@ -138,8 +132,6 @@ Outside OpenAI's headquarters, protesters wrote on the sidewalk in chalk: "Stand
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 7: Round 4: Who Decides?
-
-_10m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 
