@@ -4,6 +4,8 @@ import { mkdirSync, readFileSync, readdirSync, writeFileSync } from "fs";
 import { basename, join, resolve } from "path";
 import { $ } from "bun";
 import { emitMeeting, type StageTiming } from "./emit";
+import { formatProblems, validateForKit } from "./kit-validate";
+import { handlingFor } from "./substitutions";
 
 const ROOT = resolve(import.meta.dir, "..");
 const meetingsDir = join(ROOT, "content/meetings");
@@ -32,6 +34,31 @@ for (const file of readdirSync(join(ROOT, "readings"))) {
   const title = head.match(/^# (.+)$/m)?.[1] ?? basename(file, ".md");
   const source = head.match(/^.+ · (.+?) · /m)?.[1] ?? "";
   shipped.set(basename(file, ".md"), { title, source });
+}
+
+const problems = [];
+for (const slug of slugs) {
+  const meeting = (await import(join(meetingsDir, `${slug}.ts`))).default;
+  problems.push(
+    ...validateForKit(
+      meeting,
+      slug,
+      {
+        readings: join(ROOT, "readings"),
+        prompts: join(ROOT, "content/prompts"),
+        patterns: join(ROOT, "guide/10-patterns"),
+      },
+      (blockType) => {
+        const handling = handlingFor(blockType);
+        return handling?.kind === "substitute" ? handling.pattern : null;
+      }
+    )
+  );
+}
+
+if (problems.length > 0) {
+  console.error(`\nRefusing to generate. ${problems.length} problem(s):\n${formatProblems(problems)}\n`);
+  process.exit(1);
 }
 
 for (const slug of slugs) {
