@@ -2,9 +2,11 @@
 
 The original course ran these through a purpose-built system with a second AI watching the conversation and tracking progress. You do not need that. The group-discussion prompts are self-contained: paste one in and it runs.
 
-The preparation prompts are not, and this is the thing to know before you assign one. Each expects the assigned reading pasted in alongside it, and this kit does not carry article text because most of the readings are paywalled. Pasted alone, a chatbot will hold a fluent conversation about an article nobody has read. The prompts now refuse to start until the text appears, but you still have to make sure your students can get it.
+The preparation prompts need one more thing: the reading itself, pasted in alongside the prompt. You are already giving students the article, however you do that, so tell them to paste that same text in when the prompt asks for it. This kit does not carry article text, because most of the readings are paywalled and they are not ours to redistribute.
 
-Budget for it. A preparation conversation is closer to a ninety-minute assignment than a five-minute one: sourcing and reading the article is most of that, and the conversation itself runs twenty-five to forty minutes.
+Pasted alone, without the article, a chatbot will hold a fluent and entirely convincing conversation about something nobody has read. The prompts refuse to start until the text appears, which is the guard, but the reason they can refuse is that you supplied the reading in the first place.
+
+Budget the conversation at twenty-five to forty minutes on top of the reading itself.
 
 This is the middle tier of adoption. If your students have a chatbot, use these rather than the paper substitutes—the paper patterns exist for rooms where nobody does.
 
@@ -39,3 +41,65 @@ Read the prompt before assigning it. Most of them instruct the AI to push studen
 If you change the reading, rewrite the prompt. The topics and criteria refer to specific claims in specific articles, and a prompt pointed at the wrong reading will confidently discuss something the student did not read.
 
 The `model` field records what the original used. Ignore it unless you are reproducing results.
+
+### What each part is doing, and why
+
+Read this before you rewrite one, and before you build a nicer version of it in
+some other form. Most of the structure is doing work that is not
+obvious, and every piece of it is there because the obvious version failed.
+
+**The refusal at the top.** The prompt will not start until the reading is in
+the conversation. This looks like pedantry and is not. The failure it prevents
+is silent: a model with no article in front of it does not say so, it
+improvises, and the student comes away fluent about an argument they never met
+and sometimes carrying a quotation that does not exist. A conversation that
+stops and asks is the only version of this that fails loudly.
+
+**The background section, marked do not relay.** Each prompt carries a summary
+of the reading so the model can steer the conversation: know what the good
+objections are, notice when a student has missed the central move. That summary
+is also, unavoidably, good enough to teach from. If you leave it unmarked the
+model will simply deliver it, the student will nod along, and the reading
+becomes optional. Keep the summary, keep the instruction that it is background
+and not content to hand over.
+
+**Ask before you explain.** On each topic the model asks what the student
+remembers before it supplies anything. This is the difference between finding
+out what someone understood and telling them what they should have understood.
+It is also the only thing that makes the criteria mean anything, because a
+criterion met after the model said it first has measured nothing.
+
+**Agreement is not evidence.** Mirroring is what a student does when they have
+not read: they hand your own sentence back with "yeah, exactly". The prompt is
+told not to accept it and to ask for something it has not said.
+
+**The certification rule.** Never tell a student they are prepared unless they
+told you something you had not told them first. One sentence, and it is the
+whole test. If you rewrite everything else, keep this.
+
+**The topics and criteria.** Observable statements, not topics to cover. They
+are the definition of done for the conversation, the study guide if you drop the
+chatbot entirely, and the reading ticket questions in the paper version. Write
+them so someone could check them from a transcript.
+
+### If you build something better
+
+The original ran these through purpose-built software with a second AI watching
+the transcript, tracking each criterion as not engaged, discussed, or ready, and
+refusing to let a student finish early. That is the piece a single chatbot
+cannot reproduce, and it is a reasonable thing to want to rebuild -- as a small
+app, as a Claude Artifact, as anything that can hold state.
+
+If you do, the thing worth carrying over is not the prompt text. It is the
+sequence: withhold until the reading is present, ask before explaining, refuse
+to count agreement, and certify only on something the student produced first. A
+prompt asks a model to follow that sequence and mostly it does. Software can
+enforce it, which is strictly better.
+
+Two cautions from the original, both learned the hard way. Tracking criteria
+tempts you toward an interrogation, and the moment it feels like a test students
+optimize for finishing rather than understanding -- the prompts say "this is not
+an assessment" for that reason, and that instruction is in tension with the
+certification rule on purpose. And whatever you build, students at another
+institution have to be able to run it. The paper patterns exist because a
+dependency you cannot hand on is a dependency that ends the adoption.
