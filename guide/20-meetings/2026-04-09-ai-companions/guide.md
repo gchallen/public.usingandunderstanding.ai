@@ -9,9 +9,9 @@ Pair discussion of emotional bonds with AI, agent autonomy, and design responsib
 **Philosophy:** Four rounds of paired discussion exploring AI from the human side: emotional attachment, authenticity, agent autonomy, and design responsibility. The arc moves from personal experience (what's your relationship with AI?) to philosophical (is simulated empathy "real"?) to practical (what would you delegate?) to structural (who's responsible?). Tuesday's training lifecycle session gives students the technical context: the "warm" AI companion was trained to be warm.
 
 **Logistics:**
-- Four discussion rounds with new partners each time (same the group label for partner rotation)
+- Four discussion rounds with new partners each time (same group label for partner rotation)
 - Each round has a 10-minute discussion followed by a 10-minute share-out
-- No roles. One partner should capture key points in the their written answer each round
+- No roles. One partner should capture key points in their written answer each round
 - Rounds 2 and 4 include agent-guided interaction
 - The share-out stages are instructor-led: ask 2-3 pairs to share, then connect to the next round's theme
 

@@ -12,7 +12,7 @@ Pair discussion of themes from the AlphaGo documentary
 - Four discussion rounds with new partners each time (4 GroupActivity blocks with the same `group` key)
 - Each round has a 15-minute discussion followed by a 5-minute share-out
 - No roles — this is peer discussion, not driver/observer
-- One partner should capture key points in the their written answer each round
+- One partner should capture key points in their written answer each round
 - The share-out stages are instructor-led: ask 2-3 pairs to share, then connect to the next round's theme
 
 **Pacing:**

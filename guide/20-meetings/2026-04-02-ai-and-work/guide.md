@@ -11,7 +11,7 @@ Pair discussion of how AI is changing work, who benefits, and what should be don
 **Logistics:**
 - Four discussion rounds with new partners each time (4 GroupActivity blocks with the same `group` key)
 - Each round has a 10-minute discussion followed by a 10-minute share-out
-- No roles. One partner should capture key points in the their written answer each round
+- No roles. One partner should capture key points in their written answer each round
 - Rounds 2 and 4 include agent-guided interaction
 - The share-out stages are instructor-led: ask 2-3 pairs to share, then connect to the next round's theme
 
@@ -199,7 +199,7 @@ Cassidy describes two uses of AI: one that helps electricians diagnose problems 
 
 Thompson's Block employees had no say in Dorsey's decision to fire them. Lowrey notes that radiologists survived partly because FDA regulation slowed AI deployment in medicine.
 
-**Discuss with your partner:** Who should decide how AI is deployed in workplaces? The companies building it? The workers affected? Government regulators? What would "pro-worker AI" look like at Illinois, in your major, or in a campus job?
+**Discuss with your partner:** Who should decide how AI is deployed in workplaces? The companies building it? The workers affected? Government regulators? What would "pro-worker AI" look like on this campus, in your major, or in a campus job?
 
 > **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
 >

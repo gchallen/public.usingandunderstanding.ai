@@ -32,7 +32,7 @@ Use [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), or [Gemini](htt
 
 Pick a dataset that interests you. You can bring your own data or choose from the options below. Then brainstorm: what questions would be interesting to answer with this data?
 
-##### Illinois & University Datasets
+##### Local and institutional datasets (the original's, as examples)
 - **[Grey Book](https://www.bot.uillinois.edu/resources/gray_book)** — Faculty and staff salaries at Illinois. Compare departments, track trends, explore pay equity.
 - **[DMI Enrollment Data](https://dmi.illinois.edu/)** — Student enrollment, demographics, major trends, persistence rates at Illinois.
 - **[Illinois Open Data](https://data.illinois.gov/)** — State government datasets: transportation, health, economic data, and more.

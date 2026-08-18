@@ -15,7 +15,7 @@ This is the first meeting using **the collected cards** — during share-outs, y
 - Each round has a 12-minute discussion, a 3-minute report-out, and a 10-minute share-out
 - No roles — this is peer discussion, not driver/observer
 - After each discussion, each student individually captures key points in the report-out stage
-- The share-out stages are instructor-led: use the the collected cards to see student responses, ask 2-3 pairs to share, then connect to the next round's theme
+- The share-out stages are instructor-led: use the collected cards to see student responses, ask 2-3 pairs to share, then connect to the next round's theme
 
 **Pacing:**
 | Stage | Duration | Cumulative |
@@ -36,7 +36,7 @@ This is the first meeting using **the collected cards** — during share-outs, y
 - If a round runs short, extend the share-out rather than rushing to the next round
 - Round 3 (the writing test) tends to generate the most personal responses — protect its time
 - During share-outs, look for pairs who disagreed with each other — those are the most productive to call on
-- Use the the collected cards during share-outs to scan student responses and ask targeted follow-up questions
+- Use the collected cards during share-outs to scan student responses and ask targeted follow-up questions
 - The wrap-up should feel like a landing, not a lecture — one or two connecting observations is enough
 
 ---

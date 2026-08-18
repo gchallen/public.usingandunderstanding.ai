@@ -9,7 +9,7 @@ Pair discussion on what makes us human, what AI changes, and what AGI would chan
 **Philosophy:** Three rounds of paired discussion that build toward the AGI synthesis cut from Apr 21. Round 1 (Sun) anchors in something concrete and small: writing. Round 2 (Shroff) widens to the economy that AI development is reshaping. Round 3 (Pollan) is the synthesis: he argues that AI's grandest promises rest on misunderstanding consciousness, which connects directly to the AGI question. The semester arc is intentional: students now have the technical foundations (next-token prediction, RLHF, scaling laws, MoE) to evaluate AGI claims rather than just react to them. The goal is not to settle whether AGI is coming but to give students sharper tools to think about flourishing in either case.
 
 **Logistics:**
-- Three discussion rounds with new partners each round (same the group label for partner rotation)
+- Three discussion rounds with new partners each round (same group label for partner rotation)
 - Each round: 10-minute discussion followed by a 10-minute share-out
 - One partner per round captures key points (text-submission in Round 1; group-chat saves the conversation automatically in Rounds 2 and 3)
 - Round 2 and Round 3 include agent-guided group chats

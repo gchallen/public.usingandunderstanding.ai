@@ -11,10 +11,11 @@ covers:
   - strategy-results
 ---
 
+_The procedure below is a design: the software did this job all semester, the paper version has not been run with students, and its timings are estimates. What the software did, and what it cost, is observed. See [the README](README.md)._
+
 ## What the software was doing
 
 
-_What follows under **The procedure** is a design. The software did this job all semester; the paper version has not been run with students, and its timings are estimates. See [the README](README.md) in this directory._
 Students typed a response, a question, or a list of strategies. The submissions went to a server. An AI read all of them at once and handed the instructor something usable: discussion questions aimed at named students, a deduplicated and ranked question list, or a set of strategies sorted into what groups agreed worked, what they agreed didn't, and where they disagreed.
 
 That last category matters most. The prompt that produced it said so outright: the disputed pile is the pedagogically valuable one.

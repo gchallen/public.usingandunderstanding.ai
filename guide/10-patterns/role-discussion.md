@@ -5,10 +5,11 @@ covers:
   - group-chat
 ---
 
+_The procedure below is a design: the software did this job all semester, the paper version has not been run with students, and its timings are estimates. What the software did, and what it cost, is observed. See [the README](README.md)._
+
 ## What the software was doing
 
 
-_What follows under **The procedure** is a design. The software did this job all semester; the paper version has not been run with students, and its timings are estimates. See [the README](README.md) in this directory._
 Groups of two or three entered a shared chat room with an AI facilitator. A second AI watched the transcript against a list of objectives, tracked who was talking and who wasn't, and told the facilitator when to intervene, when to stay quiet, and when the discussion had done its work.
 
 Before deciding what to put in its place, read what the facilitator was actually told to do. From the AI Safety meeting:

@@ -14,10 +14,11 @@ covers:
   - video-player
 ---
 
+_The substitutions below are designs and their timings are estimates; none has been run with students. What the components did, and what a printed version loses, is observed. See [the README](README.md)._
+
 ## What the software was doing
 
 
-_What follows under **The procedure** is a design. The software did this job all semester; the paper version has not been run with students, and its timings are estimates. See [the README](README.md) in this directory._
 Eight interactive components let students manipulate a concept rather than hear about it: adjust the weights on a single neuron, watch a small network learn to read handwriting, generate text from a word-frequency table, see the actual probabilities behind a model's next word, compare the same prompt at different temperatures, do arithmetic on word meanings.
 
 These are the exploratory meetings. The whole argument for them is that a student can try something you did not anticipate.

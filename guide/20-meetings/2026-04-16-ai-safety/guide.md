@@ -9,9 +9,9 @@ Pair discussion of who controls how AI behaves: companies, governments, or somet
 **Philosophy:** Four rounds of paired discussion moving from concept (what is alignment?) to case study (the Anthropic dilemma) to policy (government and AI) to synthesis (what would you do?). The readings are unusually timely and politically charged. Students will have strong opinions. The goal is not consensus but clarity: can they articulate the tradeoffs rather than just picking a side? Tuesday's training lifecycle session is the technical foundation. Students now know that the "values" in AI come from specific human choices during RLHF. Today's question: whose choices should those be?
 
 **Logistics:**
-- Four discussion rounds with new partners each time (same the group label for partner rotation)
+- Four discussion rounds with new partners each time (same group label for partner rotation)
 - Each round has a 10-minute discussion followed by a 10-minute share-out
-- No roles. One partner should capture key points in the their written answer each round
+- No roles. One partner should capture key points in their written answer each round
 - Rounds 2 and 4 include agent-guided interaction
 - The share-out stages are instructor-led: ask 2-3 pairs to share, then connect to the next round's theme
 

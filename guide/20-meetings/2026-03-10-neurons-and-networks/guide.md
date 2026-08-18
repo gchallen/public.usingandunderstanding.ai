@@ -32,7 +32,7 @@ Hands-on exploration of artificial neurons and neural networks through interacti
 **Tips:**
 - During exploration stages, circulate and note interesting observations — use these in the discussion stage
 - The discussion stage (3) is whole-class — keep it brief, just surface a few observations. Don't explain.
-- Question Review (5): scan the the question cards, surface 5-6 good questions, group similar ones
+- Question Review (5): scan the question cards, surface 5-6 good questions, group similar ones
 - The jigsaw works because each partner rotation gives students a fresh perspective — protect the partner changes
 
 ---
@@ -173,7 +173,7 @@ _New partners investigate a question using the demos_
 
 > **Facilitation notes**
 >
-> New partners. Groups choose a question to investigate using the demos. Encourage them to actually experiment — not just discuss abstractly. The their written answer captures their findings. During Share Out, look for groups that investigated different questions or arrived at different conclusions about the same question.
+> New partners. Groups choose a question to investigate using the demos. Encourage them to actually experiment — not just discuss abstractly. their written answer captures their findings. During Share Out, look for groups that investigated different questions or arrived at different conclusions about the same question.
 
 **Grouping:** 2 per group
 
@@ -205,7 +205,7 @@ _New partners explain findings to each other_
 
 > **Facilitation notes**
 >
-> Third partner rotation. Each student explains what they investigated and what they found to someone who investigated something different. This is the jigsaw payoff — students learn from each other's investigations. The their written answer captures what they learned from their new partner, not what they already knew.
+> Third partner rotation. Each student explains what they investigated and what they found to someone who investigated something different. This is the jigsaw payoff — students learn from each other's investigations. their written answer captures what they learned from their new partner, not what they already knew.
 
 **Grouping:** 2 per group
 

@@ -5,10 +5,11 @@ covers:
   - preparation-chat
 ---
 
+_The procedure below is a design: the software did this job all semester, the paper version has not been run with students, and its timings are estimates. What the software did, and what it cost, is observed. See [the README](README.md)._
+
 ## What the software was doing
 
 
-_What follows under **The procedure** is a design. The software did this job all semester; the paper version has not been run with students, and its timings are estimates. See [the README](README.md) in this directory._
 Before every discussion meeting, students had a one-on-one conversation with an AI about the assigned reading. The AI had the full text. It worked through three to five named topics, each with its own criteria, and tracked each one as not engaged, discussed, or ready. Students had to reach ready on all of them, and completion counted toward attendance.
 
 The point was never to test anyone. It was to surface confusion the night before class rather than the week after.

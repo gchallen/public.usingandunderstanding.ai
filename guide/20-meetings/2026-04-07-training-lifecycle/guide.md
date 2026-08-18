@@ -218,7 +218,7 @@ _Partners investigate the selected question_
 
 > **Facilitation notes**
 >
-> Students investigate with the same partner from the question generation stage. They should reason from what they observed, not just look up definitions. The their written answer captures their thinking. During share-out, look for groups that arrived at different conclusions.
+> Students investigate with the same partner from the question generation stage. They should reason from what they observed, not just look up definitions. their written answer captures their thinking. During share-out, look for groups that arrived at different conclusions.
 
 **Grouping:** 2 per group
 

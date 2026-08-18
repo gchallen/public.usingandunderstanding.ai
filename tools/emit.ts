@@ -154,20 +154,49 @@ function deJargon(markdown: string): string {
         "the cards get sorted at the front, stacking near-duplicates"
       )
       .replace(/Click "Process Questions"/g, "Sort the cards at the front")
+      // Consume a preceding article, or "in the TextSubmission" becomes "in the
+      // their written answer" -- which shipped in six guides.
+      .replace(/\b(?:the|a)\s+TextSubmissionBoard\b/gi, "the collected cards")
       .replace(/\bTextSubmissionBoard\b/g, "the collected cards")
+      .replace(/\b(?:the|a)\s+TextSubmission\b/gi, "their written answer")
       .replace(/\bTextSubmission\b/g, "their written answer")
+      .replace(/\b(?:the|a)\s+QuestionBoard\b/gi, "the question cards")
       .replace(/\bQuestionBoard\b/g, "the question cards")
+      // Run before the bare rules: the source writes "same `groupKey`", and
+      // rewriting the backticked form first produced "same the group label".
+      .replace(/\bsame\s+`?groupKey`?/gi, "same group label")
       .replace(/`groupKey`/g, "the group label")
       .replace(/\bgroupKey\b/g, "the group label")
   );
 }
 
 function deNameInstructor(markdown: string): string {
-  return deJargon(markdown)
-    .replace(/\bGeoff will\b/g, "Your instructor will")
-    .replace(/\bwhen Geoff signals\b/g, "when your instructor signals")
-    .replace(/\bGeoff's\b/g, "your instructor's")
-    .replace(/\bGeoff\b/g, "your instructor");
+  return (
+    deJargon(markdown)
+      // The instructor was patched by name, which left everyone else: a guest
+      // lecturer with a departmental profile link, and the institution itself in
+      // questions students are asked to answer.
+      .replace(
+        /\[Professor Zach Biondi\]\([^)]*\) from the Illinois Department of Philosophy will lead today's discussion/g,
+        "A guest lecturer from your philosophy department leads today's discussion"
+      )
+      .replace(/Professor Zach Biondi leads/g, "A guest philosopher leads")
+      // Institution-specific example data. Useful as a shape, useless as links.
+      .replace(
+        /##### Illinois & University Datasets/g,
+        "##### Local and institutional datasets (the original's, as examples)"
+      )
+      .replace(
+        /\bat Illinois, in your major, or in a campus job\b/g,
+        "on this campus, in your major, or in a campus job"
+      )
+      .replace(/\bhere at Illinois\b/gi, "here")
+      .replace(/\bat the University of Illinois\b/gi, "at this university")
+      .replace(/\bGeoff will\b/g, "Your instructor will")
+      .replace(/\bwhen Geoff signals\b/g, "when your instructor signals")
+      .replace(/\bGeoff's\b/g, "your instructor's")
+      .replace(/\bGeoff\b/g, "your instructor")
+  );
 }
 
 function rewriteSiteLinks(markdown: string, readings: Map<string, ReadingCitation>): string {
@@ -517,7 +546,7 @@ export function emitMeeting(
     "",
     `**${label}** · ${frontmatter.date}`,
     "",
-    frontmatter.summary,
+    deNameInstructor(frontmatter.summary),
     "",
   ];
 

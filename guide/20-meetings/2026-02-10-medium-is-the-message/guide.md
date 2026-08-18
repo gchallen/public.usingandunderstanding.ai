@@ -2,7 +2,7 @@
 
 **Instructor Guide** · 2026-02-10
 
-Professor Zach Biondi leads a discussion of McLuhan's 'The Medium is the Message' — what 1960s media theory reveals about our relationship with AI
+A guest philosopher leads a discussion of McLuhan's 'The Medium is the Message' — what 1960s media theory reveals about our relationship with AI
 
 > **This meeting has no activity stages.** It ran as a whole-class session rather than through the activity framework, so there is no stage plan, no timings, and no paper substitutions to make. The prose below is the whole of it.
 
@@ -10,7 +10,7 @@ Professor Zach Biondi leads a discussion of McLuhan's 'The Medium is the Message
 
 ### The Medium is the Message
 
-[Professor Zach Biondi](https://philosophy.illinois.edu/directory/profile/zbiondi) from the Illinois Department of Philosophy will lead today's discussion of Marshall McLuhan's "The Medium is the Message."
+A guest lecturer from your philosophy department leads today's discussion of Marshall McLuhan's "The Medium is the Message."
 
 Please complete the reading before class:
 

@@ -131,7 +131,7 @@ Cassidy describes two uses of AI: one that helps electricians diagnose problems 
 
 Thompson's Block employees had no say in Dorsey's decision to fire them. Lowrey notes that radiologists survived partly because FDA regulation slowed AI deployment in medicine.
 
-**Discuss with your partner:** Who should decide how AI is deployed in workplaces? The companies building it? The workers affected? Government regulators? What would "pro-worker AI" look like at Illinois, in your major, or in a campus job?
+**Discuss with your partner:** Who should decide how AI is deployed in workplaces? The companies building it? The workers affected? Government regulators? What would "pro-worker AI" look like on this campus, in your major, or in a campus job?
 
 > **Structured Role Discussion.** Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.
 

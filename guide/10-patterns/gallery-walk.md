@@ -7,10 +7,11 @@ covers:
   - link-submission
 ---
 
+_The procedure below is a design: the software did this job all semester, the paper version has not been run with students, and its timings are estimates. What the software did, and what it cost, is observed. See [the README](README.md)._
+
 ## What the software was doing
 
 
-_What follows under **The procedure** is a design. The software did this job all semester; the paper version has not been run with students, and its timings are estimates. See [the README](README.md) in this directory._
 Students pasted a link to something they had made with an AI tool: an image, a song, a website, a chart. The gallery block showed the whole class a live grid of everyone's work, with names and captions, updating as submissions arrived. For shared conversation links it also pulled out the platform, the model, and the message count.
 
 Two jobs, really. Everyone sees everyone's work, and the instructor gets proof it happened.
