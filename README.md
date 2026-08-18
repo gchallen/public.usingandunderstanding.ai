@@ -34,7 +34,7 @@ The vendor arrangement behind the websites lab. That lab used a paid AI site bui
 
 The article text for the readings. Most are paywalled, so this repo carries citations and the course's own annotations, each quoting the phrase it was attached to. See [readings/README.md](readings/README.md).
 
-The conversational assessments themselves, which were AI-conducted oral exams run by the website. There is no paper version of an oral exam. Four meetings still refer to them, and to the proctoring centre and scheduling system Illinois used, because that is what those sessions were; substitute your own assessment and the rest of the meeting stands.
+The software that ran the conversational assessments. The assessments themselves are in [assessments/](assessments/), emitted as an oral exam you run yourself and as a written paper with a marking scheme. Three meetings still refer to the original's proctoring arrangements, because that is what those sessions were; substitute your own and the rest of the meeting stands.
 
 The website, database, and deployment. Not recommended, and not the reason the course worked.
 

@@ -24,7 +24,7 @@ Each has an instructor guide and a student handout. The handouts are meant to be
 
 ## What is not in here
 
-The conversational assessments themselves. They were AI-conducted oral exams run by the website, and there is no paper version of an oral exam. Four meetings still refer to them, and to the proctoring centre Illinois used; substitute your own assessment and the rest of the meeting stands.
+The software that ran the conversational assessments. The assessments are here, in `assessments/`, as an oral exam and as a written paper. Three meetings still refer to the original's proctoring arrangements; substitute your own and the rest of the meeting stands.
 
 The paid site builder used in the websites lab, and the promotion code that made it free. That was a per-institution arrangement and cannot be handed on. The version here is written against no particular tool; the External Tools chapter covers choosing one and what changes on a free tier.
 
