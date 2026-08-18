@@ -56,10 +56,12 @@ The participation guarantee goes too. The AI counted messages and enforced that 
 
 And completion becomes unverifiable. In the software a group could not advance until the objectives were met. Nothing on paper does that.
 
-## What you gain
+## What it should gain you
+
+_Predictions, not observations. The paper version has not been run; these are what it is designed to buy you._
 
 No screens between two people talking about something difficult.
 
 The chair role gives every student explicit practice at facilitation, which the software was quietly doing on their behalf. Treat that as a feature of the paper version, not a consolation.
 
-Speech is roughly twice as fast as typing. Fifteen minutes of talking covers more ground than fifteen minutes of typing at each other.
+Speech is faster than typing, and by enough to matter over fifteen minutes; the ratio is often given as about two to one, which is folklore rather than anything measured here. Fifteen minutes of talking covers more ground than fifteen minutes of typing at each other.

@@ -15,7 +15,7 @@ The original ran on a custom website that collected student writing, used AI to 
 Before adapting anything, find out:
 
 1. **How long is the period?** The original is 75 minutes. Most stage plans assume it.
-2. **How many students?** The original had about a dozen, which is smaller than most rooms this will be taught in and smaller than the procedures here assume by default. Scale the collection steps up before you scale anything else. Above 40, the collection patterns change shape and you should say so.
+2. **How many students?** The original had eleven students, which is smaller than most rooms this will be taught in and smaller than the procedures here assume by default. Scale the collection steps up before you scale anything else. Above 40, the collection patterns change shape and you should say so.
 3. **Can students move?** Fixed seats in rows, movable tables, or open floor. This matters more than class size and the original never had to ask it: several meetings are built on partner rotation, and a lecture hall with bolted seats cannot run one. In fixed seating, pair with a neighbour and keep the same pair all session, turn a row into a group of four by having the front pair turn around, and drop the Gallery Walk entirely -- half the room cannot circulate. Say which round you are cutting to buy the time back.
 4. **What AI access do students have?** Confirm they have some. See *How an activity can run* below.
 5. **Which readings can they actually get?** Most originals are paywalled. Assume they will substitute.
@@ -87,4 +87,4 @@ Say what is lost as plainly as what is gained. An adopter deciding whether to us
 
 ## When you are unsure
 
-Ask the instructor. This material came from one course, one room, and about a dozen students. It is a starting point for their course, not a specification.
+Ask the instructor. This material came from one course, one room, and eleven students. It is a starting point for their course, not a specification.

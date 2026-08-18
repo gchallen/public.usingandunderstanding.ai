@@ -23,6 +23,11 @@ someone who watched the machine do it and formed strong opinions about what it
 was for. Translations from a working original are a reasonable starting point.
 They are not tested practice, and the first person to run one will be you.
 
+**Predicted.** The "what it should gain you" sections. These say what a
+procedure is designed to buy you, and since none has been run, none of it has
+been seen. They are the most confident writing in these chapters and the least
+evidenced, which is why they are labelled where they appear.
+
 **Estimated.** Every number attached to a paper procedure. Four seconds to grade
 a ticket at the door, ninety seconds per artifact in a gallery walk, four to five
 minutes per collection point, five minutes for the pairing step. These are

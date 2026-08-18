@@ -63,7 +63,9 @@ For tier one, the address and the "things to try" list already written into the 
 
 Manipulation, in tier two. A student reading a printed temperature comparison never gets to ask what happens at 2.0, and that question is the reason the exploratory meetings exist. Tier two is the only real loss.
 
-## What you gain
+## What it should gain you
+
+_Predictions, not observations. The paper version has not been run; these are what it is designed to buy you._
 
 Shared evidence. A printed artifact is the same for everyone in the room, which makes the discussion afterward much easier to run.
 

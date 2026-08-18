@@ -83,7 +83,8 @@ The facilitation notes were written against one vendor in one semester.
 Independence from a vendor relationship you do not have. The original lab was
 one business decision away from breaking, and an adopter inherits that risk
 whether or not it is written down. Naming the substitution makes the dependency
-visible and gives you a tested way to swap it.
+visible and gives you a documented way to swap it. Nobody has run the lab on a
+second tool, so the swap is untested too.
 
 It also makes the lab honest about its own claim. If the skill being practiced
 is describing what you want clearly enough that an AI can build it, then that

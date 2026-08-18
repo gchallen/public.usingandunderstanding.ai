@@ -52,7 +52,9 @@ Speed. A collection point costs four or five minutes, estimated, against roughly
 
 You also cannot sort and circulate at once, and the cards go in the recycling at the end of the day. The database kept everything.
 
-## What you gain
+## What it should gain you
+
+_Predictions, not observations. The paper version has not been run; these are what it is designed to buy you._
 
 You read every card. In the software version the instructor reads the AI's summary, not the submissions, and that is a real loss disguised as a convenience. Sorting by hand puts you back in contact with what your class actually thinks.
 

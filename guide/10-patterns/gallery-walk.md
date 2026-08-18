@@ -38,7 +38,9 @@ Audio does not survive a walk. A dozen laptops playing a dozen songs is noise. F
 
 You also lose the archive. Nothing persists after the room empties, and there is no showcase to point at later.
 
-## What you gain
+## What it should gain you
+
+_Predictions, not observations. The paper version has not been run; these are what it is designed to buy you._
 
 Every piece of work gets seen by ten or twelve people rather than four getting projected while the rest are never seen at all.
 

@@ -60,12 +60,14 @@ A student whose partner also misread the article stays misread. The AI had the t
 
 And you lose the advance warning. The software told the instructor who was ready the night before. Tickets tell you ninety seconds before you start.
 
-## What you gain
+## What it should gain you
+
+_Predictions, not observations. The paper version has not been run; these are what it is designed to buy you._
 
 You personally read every student's confusions minutes before you teach them. No dashboard is a better input to the first ten minutes of a class than that.
 
 Writing by hand about a reading is a harder encoding task than chatting about it, and probably a better one.
 
-And the back-of-page question turns out to do most of the work. "What did you not believe" gets you the disagreements that discussion meetings live on.
+And the back-of-page question should do most of the work. "What did you not believe" gets you the disagreements that discussion meetings live on.
 
 The pairing step adds one more thing the software could not: a student hears that someone else was confused by the same paragraph. The AI conversation was private, so every student had to assume the confusion was theirs alone.
