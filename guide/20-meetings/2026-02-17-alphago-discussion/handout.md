@@ -17,8 +17,7 @@ Name: ______________________________
 You should have **watched the full [AlphaGo documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)** before today's discussion.
 The [annotated transcript](../../../readings/alphago.md) is available for reference during the discussion — use it to find specific moments and quotes, but it is not a substitute for watching the film.
 
-Please complete the preparation conversation below before class.
-This is part of attendance for today's meeting.
+Come to class having prepared the reading.
 
 > **Reading Ticket.** Bring your reading ticket. Swap with a partner, answer what they did not understand if you can, write down what neither of you could resolve, then hand both in.
 

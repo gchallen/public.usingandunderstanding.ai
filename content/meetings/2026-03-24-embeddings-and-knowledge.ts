@@ -7,6 +7,7 @@ const meeting: MeetingDefinition = {
     title: "Embeddings and Knowledge",
     summary:
       "How does AI represent meaning? Exploring word embeddings, vector similarity, and the geometry of knowledge",
+    dependsOn: ["2026-02-24-how-llms-work", "2026-03-10-neurons-and-networks"],
   },
   intro: [
     {

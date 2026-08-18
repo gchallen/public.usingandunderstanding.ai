@@ -24,8 +24,7 @@ Read both articles before Thursday's class:
 
 — how large language models display surprising abilities at scale
 
-Please complete the preparation conversation below before class.
-This is part of attendance for today's meeting.
+Come to class having prepared the reading.
 
 > **Reading Ticket.** Bring your reading ticket. Swap with a partner, answer what they did not understand if you can, write down what neither of you could resolve, then hand both in.
 
@@ -33,7 +32,7 @@ This is part of attendance for today's meeting.
 
 ### Today's Plan
 
-On Tuesday, you built a digit-recognition network from simple artificial neurons — and it worked. Today we'll explore *why* it worked, and what happens when you scale that same idea up by a factor of millions. Four rounds of paired discussion, each with a different partner and a different question.
+On Tuesday, you trained a digit-recognition network built from simple artificial neurons — and it worked. Today we'll explore *why* it worked, and what happens when you scale that same idea up by a factor of millions. Four rounds of paired discussion, each with a different partner and a different question.
 
 ---
 
@@ -73,9 +72,9 @@ Your instructor will ask a few pairs to share what they discussed. Listen for id
 
 #### The Neuron Gap
 
-your instructor just shared a finding that may change how you think about Tuesday's exploration: it takes about **1,000 artificial neurons** to approximate what a **single biological neuron** does. The artificial neurons you explored on Tuesday are radically simpler than their biological counterparts.
+Your instructor just shared a finding that may change how you think about Tuesday's exploration: it takes about **1,000 artificial neurons** to approximate what a **single biological neuron** does. The artificial neurons you explored on Tuesday are radically simpler than their biological counterparts.
 
-Your digit network had ~13,000 artificial neurons. A single cubic millimeter of brain tissue has ~50,000 biological neurons, each one as complex as a 1,000-node deep network. The human brain has roughly 86 billion of them.
+Your digit network had a few hundred artificial neurons, joined by about 13,000 connections. A single cubic millimeter of brain tissue has ~50,000 biological neurons, each one as complex as a 1,000-node deep network. The human brain has roughly 86 billion of them.
 
 **Discuss with your partner:** Does this change how you think about what you built on Tuesday? If AI neurons are so much simpler than biological ones, why does AI work at all? What does this gap mean for the analogy between brains and neural networks?
 

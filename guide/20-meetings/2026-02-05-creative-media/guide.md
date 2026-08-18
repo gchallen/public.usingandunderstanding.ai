@@ -7,7 +7,7 @@ Creating images, video, and music with AI tools — and comparing what different
 ## Facilitation Notes
 **Philosophy:** Three rounds of creative AI use. Partners agree on a concept, work independently, then compare results.
 **Logistics:**
-- Each round pairs students with a *new* partner (3 GroupActivity blocks with the same group key)
+- Each round pairs students with a *new* partner (3 paired rounds sharing one grouping)
 - Students need devices that can access AI tools
 - Gallery stages are instructor-led
 **AI Tool Suggestions (verify before class):**

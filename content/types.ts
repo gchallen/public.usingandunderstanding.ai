@@ -189,7 +189,7 @@ export interface MediaGalleryBlock {
  * - "basic": http(s) scheme + reachable (2xx/3xx). No metadata extracted.
  *   Shows an optional student-supplied title input in the form.
  * - "ai-share": runs "basic" first, then extracts conversation title, platform,
- *   message count, and model via @repo/share-extraction. Accepts Claude/ChatGPT/Gemini
+ *   message count, and model from a pasted transcript. Accepts Claude/ChatGPT/Gemini
  *   share URLs.
  */
 export interface LinkSubmissionBlock {

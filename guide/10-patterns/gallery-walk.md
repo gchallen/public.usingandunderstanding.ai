@@ -11,7 +11,6 @@ _The procedure below is a design: the software did this job all semester, the pa
 
 ## What the software was doing
 
-
 Students pasted a link to something they had made with an AI tool: an image, a song, a website, a chart. The gallery block showed the whole class a live grid of everyone's work, with names and captions, updating as submissions arrived. For shared conversation links it also pulled out the platform, the model, and the message count.
 
 Two jobs, really. Everyone sees everyone's work, and the instructor gets proof it happened.
@@ -20,7 +19,7 @@ Two jobs, really. Everyone sees everyone's work, and the instructor gets proof i
 
 **Device gallery, for anything on a screen.** The work stays open, full screen, on the student's own laptop at their own seat. Half the room walks while the other half stays as docents, giving a thirty-second pitch to each visitor. Swap at the halfway point.
 
-Twelve to fifteen minutes gets each student in front of a dozen pieces of work. Projecting one at a time gets you through eight or ten for the whole class.
+Twelve to fifteen minutes gets each walker in front of every docent in the other half: five or six pieces of work in a room of eleven, twelve or fourteen in a room of thirty. Projecting one at a time gets you through eight or ten for the whole class regardless of size, which is the trade.
 
 Give each walker three sticky notes: *most surprising*, *most useful*, *I want to know how you did this*. They leave them on the docent's desk. Then project only the three or four artifacts that collected the most stickies, and have the maker narrate. You keep the moment where one student explains their work to the room, and the class chooses who that is instead of you scrolling a grid.
 
@@ -30,7 +29,9 @@ Give each walker three sticky notes: *most surprising*, *most useful*, *I want t
 
 ## On the handout
 
-A gallery log: three rows of *whose, what it was, one thing I'd steal.* The three sticky prompts printed as tear-off strips at the bottom of the page.
+The generated handout gives you a gallery log: three rows of *whose, what it was, one thing I'd steal.*
+
+Add the three sticky prompts yourself, printed as tear-off strips at the bottom of the page. The generator does not print them, and the walk works without them; the strips are what keeps the second lap from turning into browsing.
 
 ## What you lose
 
@@ -42,7 +43,7 @@ You also lose the archive. Nothing persists after the room empties, and there is
 
 _Predictions, not observations. The paper version has not been run; these are what it is designed to buy you._
 
-Every piece of work gets seen by ten or twelve people rather than four getting projected while the rest are never seen at all.
+Every piece of work gets looked at properly by half the room, with its maker standing next to it. The software showed everyone everything, so this is not a gain over the original: it is a gain over the obvious paper fallback, which is projecting three or four and letting the rest go unseen.
 
 The maker is standing next to their work and can answer questions. A projected grid cannot do that.
 

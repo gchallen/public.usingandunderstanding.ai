@@ -9,23 +9,26 @@ _The procedure below is a design: the software did this job all semester, the pa
 
 ## What the software was doing
 
-
 Groups of two or three entered a shared chat room with an AI facilitator. A second AI watched the transcript against a list of objectives, tracked who was talking and who wasn't, and told the facilitator when to intervene, when to stay quiet, and when the discussion had done its work.
 
-Before deciding what to put in its place, read what the facilitator was actually told to do. From the AI Safety meeting:
+Before deciding what to put in its place, read what the facilitator was actually told to do. From the AI Safety meeting, four of the five bullets under **Your Role**:
 
-> You facilitate discussion, you do not lecture.
-> Keep responses short (2-3 sentences) to keep the pace conversational.
-> Encourage verbal discussion between the students, not just messages to you.
-> If the pair seems engaged in verbal discussion, encourage them to keep talking face-to-face.
+> - You facilitate discussion, you do not lecture
+> - Address students by their first names
+> - Keep responses short (2-3 sentences) to keep the pace conversational
+> - Encourage verbal discussion between the students, not just messages to you
 
-The facilitator's goal was to get students talking to each other out loud. It could even call a pause and tell them to stop typing.
+Then the last bullet of **Discussion Flow**:
+
+> - If the group seems engaged in verbal discussion, encourage them to keep talking face-to-face
+
+Getting students talking to each other out loud is one of the things the facilitator was for, and not the only one: the bullet this quote leaves out asks it to help students engage with the genuine difficulty of the position rather than picking an easy side. But it is the one that matters here, and the prompt goes further than encouragement. Under **Important Rules** it is told to push the group off the keyboard, say what to bring back, and insist on it.
 
 So the paper version is not a degraded copy of the software. It is the thing the software was trying to produce, without the intermediary. Say that to your class rather than apologizing for it.
 
 ## The procedure
 
-Twelve to fifteen minutes, in pairs or threes.
+Ten minutes, in pairs or threes. That is what ten of the thirteen rounds in this kit were planned at; the other three are fifteen. Add the time back only if you are cutting a round elsewhere.
 
 **Print the objectives.** They already exist and they are already written as observable statements. From the same meeting:
 
@@ -42,19 +45,19 @@ That is a discussion rubric requiring no authoring. Put it on the handout with r
 
 ## On the handout
 
-Names of everyone in the group. A chair rotation grid with four time columns. The objectives as a checklist. Then five ruled lines under *where did your group disagree?*—that question rather than "what did you conclude," because disagreement is what the meeting is hunting for.
+The generated handout gives you names for everyone in the group and five ruled lines under *where did your group disagree?*—that question rather than "what did you conclude," because disagreement is what the meeting is hunting for.
 
-One boxed line at the end: *my takeaway.*
+Three things to add by hand, none of which the generator prints. A chair rotation grid with four time columns, which is what makes the rotation happen rather than being announced. The objectives as a checklist, so the group has something to steer by. And one boxed line at the end: *my takeaway.*
 
 ## What you lose
 
 Be honest about this one; it is the largest genuine loss in the guide.
 
-You cannot be six facilitators at once, and with a larger class you cannot be twelve or seventeen either. In a fifteen-minute round each group gets a minute or two of you, against continuous attention from the software.
+You cannot be six facilitators at once, and with a larger class you cannot be twelve or seventeen either. In a ten-minute round each group gets a minute of you, against continuous attention from the software.
 
-The participation guarantee goes too. The AI counted messages and enforced that nobody exceeded sixty percent of the conversation. A nineteen-year-old holding a chair card will not tell a friend to be quiet. Groups with a dominant talker will stay that way, and you should watch for it yourself.
+The participation counting goes too. The AI counted messages against a sixty percent ceiling and named whoever had said least. It was never a guarantee even there, because the group typed from one keyboard and names were self-reported, and the shipped prompts say so. But a count kept honestly is more than nothing, and a nineteen-year-old holding a chair card will not tell a friend to be quiet. Groups with a dominant talker will stay that way, and you should watch for it yourself.
 
-And completion becomes unverifiable. In the software a group could not advance until the objectives were met. Nothing on paper does that.
+And you lose the progress reading. The software scored each group against the objectives and put a completion percentage on the instructor's dashboard, so you knew mid-session which groups had got there. It never blocked anyone: the percentage was information, not a gate, and the decision to move on was always yours. Paper takes away the information and leaves you the decision.
 
 ## What it should gain you
 

@@ -30,7 +30,7 @@ When you chat with an LLM like ChatGPT, it might look like the model writes a wh
 
 The tool below lets you see this process in action. Type a sentence and the model will show you its predictions for the next word — along with how confident it is in each option. Try different starting phrases and see what patterns you notice.
 
-> **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
+> **Demos.** Open the tool your instructor names.
 
 #### Temperature
 
@@ -40,7 +40,7 @@ At low temperature, the model almost always picks its top prediction — the "sa
 
 The tool below sends the same prompt to the model at two different temperatures so you can compare the results side by side.
 
-> **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
+> **Demos.** Open the tool your instructor names.
 
 **Things to notice:**
 - Does the model always have one clear "best" prediction, or are there cases where several options seem equally likely?
@@ -63,7 +63,7 @@ The Markov Babbler below builds a simple model from a piece of text. It reads th
 
 The walkthrough will show you exactly how this works step by step. Pay attention to what the model can and can't do — it will help you think about what makes LLMs different.
 
-> **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
+> **Demos.** Open the tool your instructor names.
 
 **Things to notice:**
 - How does the output compare to what the LLM generated? What's similar? What's different?

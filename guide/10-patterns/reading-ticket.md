@@ -9,8 +9,7 @@ _The procedure below is a design: the software did this job all semester, the pa
 
 ## What the software was doing
 
-
-Before every discussion meeting, students had a one-on-one conversation with an AI about the assigned reading. The AI had the full text. It worked through three to five named topics, each with its own criteria, and tracked each one as not engaged, discussed, or ready. Students had to reach ready on all of them, and completion counted toward attendance.
+Before every discussion meeting, students had a one-on-one conversation with an AI about the assigned reading. The AI had the full text. It worked through three or four named topics, each with its own criteria, and tracked each one as not engaged, discussed, or ready. Students had to reach ready on all of them, and completion counted toward attendance.
 
 The point was never to test anyone. It was to surface confusion the night before class rather than the week after.
 
@@ -44,11 +43,13 @@ Now collect. The unresolved lines are your opening move, and they are better tha
 
 Do not let the pair produce a joint answer. The ticket stays individual, and it is handed in with one student's handwriting on it, because the moment a pair can submit together a student who did not read can ride along on one who did.
 
-**Where the time comes from.** It does not appear from nowhere; the pacing chapter is blunt that these meetings already run long. Five minutes at the top is the first discussion round, moved. Plan four rounds and teach three, and let this be the thing that pushes round four out.
+**Where the time comes from.** It does not appear from nowhere. The meetings that assign a reading are planned at sixty-five to ninety minutes against a seventy-five minute period, so check the one you are teaching before you add to it. Five minutes at the top is the first discussion round, moved. Plan four rounds and teach three, and let this be the thing that pushes round four out.
 
 **A note on this one specifically.** The rest of this chapter translates something the software did all semester. This pairing step does not: the software never did it either, so it is a design with no working original behind it, which makes it the least evidenced thing in the guide.
 
 ## On the handout
+
+**You make the ticket.** Nothing generates it: the handout for a discussion meeting prints one line telling students to bring theirs, and the page itself is yours to produce from the criteria as described above. That is a photocopier job, not a build step, but it does not happen by itself.
 
 The ticket is its own page, brought to class, separate from the in-class packet. Do not staple them together—you are collecting one and they are keeping the other.
 

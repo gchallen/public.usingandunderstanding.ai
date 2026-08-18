@@ -48,7 +48,7 @@ Use the embedding explorer below to investigate how AI represents meaning. Try t
 
 Don't worry about understanding the math. Focus on building intuitions: what patterns do you notice in how the model organizes meaning?
 
-> **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
+> **Demos.** Open the tool your instructor names.
 
 ### Stage 2: What Surprised You?
 

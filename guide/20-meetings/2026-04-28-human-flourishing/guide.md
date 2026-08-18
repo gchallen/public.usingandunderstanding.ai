@@ -53,8 +53,7 @@ You should **read all three articles** before today's discussion:
 
 - Reading: [Michael Pollan Punctures the AI Bubble](../../../readings/michael-pollan-punctures-the-ai-bubble-theatlantic-a862.md) · The Atlantic
 
-Please complete the preparation conversation below before class.
-This is part of attendance for today's meeting.
+Come to class having prepared the reading.
 
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >
@@ -140,7 +139,7 @@ Shroff is not so sure. The dot-com crash *did* leave fiber-optic cables that las
 
 **Discuss with your partner:** Is the "good bubble" argument convincing? Be specific about who benefits and who pays. If the AI build-out continues at this scale and produces real breakthroughs (faster scientific discovery, cheaper medicine, productivity gains), is that worth a financial collapse that hurts people who never benefited from the boom? What does flourishing mean if your job, your savings, or your industry is the one that gets hollowed out for the sake of the long-run upside? Is there a way to capture the upside of AI without the bubble?
 
-> **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
+> **On paper: Structured Role Discussion.** The facilitator was told to encourage students to talk to each other rather than type at it, and to push them off the keyboard. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
 >
@@ -192,7 +191,7 @@ Sam Altman says AGI is coming and will fix the climate, establish space colonies
 
 **Discuss with your partner:** Pull the threads together. Sun says voice comes from the specificity of a life. Shroff says the AI build-out is reshaping the economy whether or not it works. Pollan says the AGI promise rests on a misunderstanding of consciousness. **If AGI does arrive — whatever that means — what does human flourishing look like? If it does not, what is already at stake?** Use what you learned this semester (next-token prediction, RLHF, scaling, MoE): do those mechanisms add up to something like a mind, or is Pollan right that the field is "flailing"? And does it matter? Pollan's claim is that the bet being placed is reshaping our world either way.
 
-> **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
+> **On paper: Structured Role Discussion.** The facilitator was told to encourage students to talk to each other rather than type at it, and to push them off the keyboard. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
 >

@@ -8,25 +8,25 @@ Pair discussion exploring whether AI systems truly understand or merely compress
 
 **Philosophy:** Three rounds of paired discussion exploring the debate between Ted Chiang and James Somers about whether LLMs truly "understand." Partners rotate each round. The rounds build from Chiang's core analogy (compression = not understanding) to Somers' counterevidence (compression = understanding) to the most personal question (what this means for writing and for us). Share-out stages between rounds let you surface interesting disagreements and connect themes across pairs.
 
-This is the first meeting using **the collected cards** — during share-outs, you can see all student responses and generate targeted discussion questions from them.
+This is the first meeting where you collect written answers from everyone. Read them during the share-out and pick the ones worth putting to the room.
 
 **Logistics:**
-- Three discussion rounds with new partners each time (3 GroupActivity blocks with the same `group` key)
+- Three discussion rounds with new partners each time (3 paired rounds sharing one grouping)
 - Each round has a 12-minute discussion, a 3-minute report-out, and a 10-minute share-out
 - No roles — this is peer discussion, not driver/observer
 - After each discussion, each student individually captures key points in the report-out stage
-- The share-out stages are instructor-led: use the collected cards to see student responses, ask 2-3 pairs to share, then connect to the next round's theme
+- The share-out stages are instructor-led: read the cards, ask 2-3 pairs to share, then connect to the next round's theme
 
 **Pacing:**
 | Stage | Duration | Cumulative |
 |-------|----------|------------|
-| Round 1: Discussion | 12m | 12m |
+| Round 1: The Blurry JPEG | 12m | 12m |
 | Round 1: Report Out | 3m | 15m |
 | Round 1: Share Out | 10m | 25m |
-| Round 2: Discussion | 12m | 37m |
+| Round 2: The Case for Understanding | 12m | 37m |
 | Round 2: Report Out | 3m | 40m |
 | Round 2: Share Out | 10m | 50m |
-| Round 3: Discussion | 12m | 62m |
+| Round 3: The Writing Test | 12m | 62m |
 | Round 3: Report Out | 3m | 65m |
 | Round 3: Share Out | 10m | 75m |
 | Wrap-Up | 5m | 80m |
@@ -57,8 +57,7 @@ You should have read both articles before today's discussion:
 
 — responds to Chiang, arguing that compression *is* understanding
 
-Please complete the preparation conversation below before class.
-This is part of attendance for today's meeting.
+Come to class having prepared the reading.
 
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >

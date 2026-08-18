@@ -10,22 +10,22 @@ Use AI to build study materials for your other courses while learning evidence-b
 
 **Logistics:**
 - Ask students to bring course materials (notes, slides, textbooks) for another class — announce this ahead of time if possible
-- Enforced pairing via GroupActivity (no roles) — pairing is for kickoff discussion and share-out, studying is individual
+- Enforced pairing (no roles) — pairing is for kickoff discussion and share-out, studying is individual
 - Students use external AI tools (ChatGPT, Claude, or Gemini) — not the course chat
 - Students must create share links for their AI conversations and include them in their reflections
 - Share link instructions: ChatGPT (share button → "Create link"), Claude (share button → "Create link"), Gemini (share button → "Share")
 
 **Pacing:**
-| # | Stage | Duration | Cumulative |
-|---|-------|----------|------------|
-| 1 | AI Learning Strategies | 15m | 15m |
-| 2 | Strategy Review | 5m | 20m |
-| 3 | Class Discussion | 5m | 25m |
-| 4 | Practice Testing | 15m | 40m |
-| 5 | Practice Testing: Share Out | 10m | 50m |
-| 6 | Build a Study Aid | 15m | 65m |
-| 7 | Build a Study Aid: Share Out | 10m | 75m |
-| 8 | Feedback | 5m | 80m |
+| Stage | Duration | Cumulative |
+|-------|----------|------------|
+| AI Learning Strategies | 15m | 15m |
+| Strategy Review | 5m | 20m |
+| Class Discussion | 5m | 25m |
+| Practice Testing | 15m | 40m |
+| Practice Testing: Share Out | 10m | 50m |
+| Build a Study Aid | 15m | 65m |
+| Build a Study Aid: Share Out | 10m | 75m |
+| Feedback | 5m | 80m |
 
 ---
 

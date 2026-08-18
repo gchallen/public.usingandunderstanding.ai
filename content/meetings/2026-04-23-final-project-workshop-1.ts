@@ -7,6 +7,12 @@ const meeting: MeetingDefinition = {
     title: "Final Project Workshop 1",
     summary:
       "Pitch your final project, get peer feedback, refine your scope, and start building.",
+    dependsOn: [
+      "2026-04-14-websites-lab",
+      "2026-03-31-data-analysis-lab",
+      "2026-03-03-study-guide-lab",
+      "2026-02-05-creative-media",
+    ],
   },
   intro: [
     {

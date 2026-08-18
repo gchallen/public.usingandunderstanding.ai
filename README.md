@@ -1,5 +1,7 @@
 # Using and Understanding AI—course kit
 
+_Version 2026.8.0._
+
 Content and structure for a course on generative AI aimed at students with no technical background and no prerequisites. Originally taught at the University of Illinois, Spring 2026.
 
 This is not the course website. It is the part of the course that transfers: the meetings, the activity patterns, the prompts, the reading annotations, and what was learned running it. Everything here works without any of the original infrastructure.
@@ -7,12 +9,12 @@ This is not the course website. It is the part of the course that transfers: the
 ## Start here
 
 - **[guide/00-front-matter/01-what-this-is.md](guide/00-front-matter/01-what-this-is.md)**—what is and is not included.
-- **[guide/10-patterns/](guide/10-patterns/)**—six chapters on what the original's software was doing and how to run without it: five classroom procedures and one vendor decision. Worth reading even if you never use a meeting from this repo.
+- **[guide/10-patterns/](guide/10-patterns/)**—six chapters on what the original's software was doing and how to run without it: five classroom procedures and one vendor decision, which carries a short procedure of its own. Worth reading even if you never use a meeting from this repo.
 - **[guide/20-meetings/](guide/20-meetings/)**—every meeting of the semester, each with an instructor guide and a student handout ready to photocopy.
 
 ## What you need to teach it
 
-**A photocopier.** Print the handouts. Every activity has a paper procedure, so the room keeps working when software does not.
+**A photocopier.** Print the handouts. Every activity has a paper procedure except the websites lab, which sends students to a third-party site builder and cannot be run without one. Everywhere else the room keeps working when software does not.
 
 **A chatbot, for students.** `content/prompts/` holds system prompts for pre-class reading conversations and in-class group discussion. A student pastes one into ChatGPT or Claude and works through it. The preparation prompts expect the reading pasted in alongside them, because they ask the model to quote it. See [content/prompts/README.md](content/prompts/README.md).
 
@@ -20,7 +22,7 @@ This is not the course website. It is the part of the course that transfers: the
 
 ## Regenerating handouts
 
-Handouts are generated from the meeting definitions, never hand-edited, so they cannot drift from the plan.
+Handouts are generated from the meeting definitions, and the exams from the assessment definitions. Neither is hand-edited, so neither can drift from what it came from.
 
 ```bash
 cd tools && bun install
@@ -34,7 +36,7 @@ The vendor arrangement behind the websites lab. That lab used a paid AI site bui
 
 The article text for the readings. Most are paywalled, so this repo carries citations and the course's own annotations, each quoting the phrase it was attached to. See [readings/README.md](readings/README.md).
 
-The software that ran the conversational assessments. The assessments themselves are in [assessments/](assessments/), emitted as an oral exam you run yourself and as a written paper with a marking scheme. Three meetings still refer to the original's proctoring arrangements, because that is what those sessions were; substitute your own and the rest of the meeting stands.
+The software that ran the conversational assessments. The assessments themselves are in [assessments/](assessments/), generated from `content/assessments/` as an oral exam you run yourself and as a written paper with a marking scheme. Edit a criterion in the source and `bun run handout` updates all three. Where a meeting sends students to sign up for one, the text says to do it however your course does: the original booked a campus testing centre, and that arrangement does not travel.
 
 The website, database, and deployment. Not recommended, and not the reason the course worked.
 

@@ -22,8 +22,7 @@ You should **read all three articles** before today's discussion:
 
 - Reading: [Can A.I. Be Pro-Worker?](../../../readings/can-a-i-be-pro-worker-newyorker-e782.md) · The New Yorker
 
-Please complete the preparation conversation below before class.
-This is part of attendance for today's meeting.
+Come to class having prepared the reading.
 
 > **Reading Ticket.** Bring your reading ticket. Swap with a partner, answer what they did not understand if you can, write down what neither of you could resolve, then hand both in.
 

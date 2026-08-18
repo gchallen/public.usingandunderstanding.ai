@@ -6,7 +6,7 @@ Pair discussion of who controls how AI behaves: companies, governments, or somet
 
 ## Facilitation Notes
 
-**Philosophy:** Four rounds of paired discussion moving from concept (what is alignment?) to case study (the Anthropic dilemma) to policy (government and AI) to synthesis (what would you do?). The readings are unusually timely and politically charged. Students will have strong opinions. The goal is not consensus but clarity: can they articulate the tradeoffs rather than just picking a side? Tuesday's training lifecycle session is the technical foundation. Students now know that the "values" in AI come from specific human choices during RLHF. Today's question: whose choices should those be?
+**Philosophy:** Four rounds of paired discussion moving from concept (what is alignment?) to case study (the Anthropic dilemma) to policy (government and AI) to synthesis (what would you do?). The readings are unusually timely and politically charged. Students will have strong opinions. The goal is not consensus but clarity: can they articulate the tradeoffs rather than just picking a side? Last week's training lifecycle session is the technical foundation. Students now know that the "values" in AI come from specific human choices during RLHF. Today's question: whose choices should those be?
 
 **Logistics:**
 - Four discussion rounds with new partners each time (same group label for partner rotation)
@@ -26,9 +26,10 @@ Pair discussion of who controls how AI behaves: companies, governments, or somet
 | Round 3: Share Out | 10m | 60m |
 | Round 4: Who Decides? | 10m | 70m |
 | Round 4: Share Out | 10m | 80m |
+| Feedback | 5m | 85m |
 
 **Tips:**
-- Round 1 connects directly to Tuesday's RLHF session. Students already know that AI values come from human rater preferences. Now push: whose preferences? The RLHF raters? The CEO? The government?
+- Round 1 connects directly to the RLHF session. Students already know that AI values come from human rater preferences. Now push: whose preferences? The RLHF raters? The CEO? The government?
 - Round 2 is where the readings come alive. Students will likely side with Anthropic. Use Dwarkesh's argument to complicate that: the government can't let a private company have a kill switch on military technology.
 - Round 3 is about the OpenAI contract. The key detail: legal experts say the contract language likely allows mass surveillance despite public assurances. Push students to engage with the gap between corporate promises and legal reality.
 - Round 4 is the hardest. There is no clean answer to "who should govern AI." Help students sit with that difficulty rather than forcing a resolution. The best outcome is students who can articulate why each option has serious problems.
@@ -52,8 +53,7 @@ You should **read all four articles** before today's discussion:
 
 - Reading: [OpenAI Is Opening the Door to Government Spying](../../../readings/openai-is-opening-the-door-to-government-spying-theatlantic-4a9d.md) · The Atlantic
 
-Please complete the preparation conversation below before class.
-This is part of attendance for today's meeting.
+Come to class having prepared the reading.
 
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >
@@ -65,7 +65,7 @@ This is part of attendance for today's meeting.
 
 ### Today's Plan
 
-On Tuesday you explored how human preferences get baked into AI through the training process: RLHF raters rank outputs, and the model learns to produce what humans prefer. Today we ask a harder question: who gets to decide what those preferences should be? The readings show this playing out in real time. Anthropic drew red lines about how Claude could be used. The Pentagon punished them for it. OpenAI signed the deal instead. Four rounds of paired discussion, each with a different partner and a different angle on the alignment problem.
+Last week you explored how human preferences get baked into AI through the training process: RLHF raters rank outputs, and the model learns to produce what humans prefer. Today we ask a harder question: who gets to decide what those preferences should be? The readings show this playing out in real time. Anthropic drew red lines about how Claude could be used. The Pentagon punished them for it. OpenAI signed the deal instead. Four rounds of paired discussion, each with a different partner and a different angle on the alignment problem.
 
 ---
 
@@ -79,7 +79,7 @@ _Partners discuss what alignment means and whose values get encoded_
 
 > **Facilitation notes**
 >
-> This round grounds the concept of alignment in what students already know. On Tuesday they saw how RLHF works: human raters rank outputs, and the model learns to prefer what they prefer. Alignment is the broader version of that question: not just "which output is better?" but "better for whom, by whose standards, and who decides?"
+> This round grounds the concept of alignment in what students already know. Last week they saw how RLHF works: human raters rank outputs, and the model learns to prefer what they prefer. Alignment is the broader version of that question: not just "which output is better?" but "better for whom, by whose standards, and who decides?"
 > 
 > The New Yorker article introduces the "soul doc," Anthropic's internal document describing how Claude should behave. This is alignment in practice: a company writing down values and training a model to follow them. But those values are Anthropic's values. They chose "diplomatically honest rather than dishonestly diplomatic." They chose that Claude shouldn't deny the Holocaust or climate change. Those seem obvious, but someone had to make those decisions. Who should that someone be?
 
@@ -87,11 +87,11 @@ _Partners discuss what alignment means and whose values get encoded_
 
 #### What Is Alignment?
 
-On Tuesday you saw how RLHF works: human raters compare model outputs and pick the "better" one. The model learns to produce responses that humans prefer. But who decides what "better" means?
+Last week you saw how RLHF works: human raters compare model outputs and pick the "better" one. The model learns to produce responses that humans prefer. But who decides what "better" means?
 
 The New Yorker article describes Anthropic's "soul doc," an internal document that lays out how Claude should behave. Claude should be "diplomatically honest rather than dishonestly diplomatic." It should acknowledge the Holocaust and climate change. It should exercise judgment, not just follow orders. These seem like reasonable values. But *someone at Anthropic wrote them down and trained a model to follow them.*
 
-**Discuss with your partner:** What does "alignment" mean? On Tuesday you ranked AI outputs and experienced how subjective "better" is. Now scale that up: a company is deciding the values for an AI used by millions of people. Is that different from what the RLHF raters do, or is it the same problem at a bigger scale? Whose values should AI be aligned with? The company that built it? The government? The users? Some universal standard? Is there such a thing?
+**Discuss with your partner:** What does "alignment" mean? Last week you ranked AI outputs and experienced how subjective "better" is. Now scale that up: a company is deciding the values for an AI used by millions of people. Is that different from what the RLHF raters do, or is it the same problem at a bigger scale? Whose values should AI be aligned with? The company that built it? The government? The users? Some universal standard? Is there such a thing?
 
 **Capture your key points:**
 
@@ -135,7 +135,7 @@ Dwarkesh Patel argues both sides have a point: the government can't let a privat
 
 **Discuss with your partner:** Did Anthropic make the right call by refusing to remove its red lines? Did the government overreact, or was declaring a supply chain risk a reasonable response? Amodei compares himself to Manhattan Project scientists. But those scientists lost control of the bomb. What does that parallel suggest about Anthropic's chances of maintaining its principles? Is "responsible scaling" a real strategy or a contradiction in terms?
 
-> **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
+> **On paper: Structured Role Discussion.** The facilitator was told to encourage students to talk to each other rather than type at it, and to push them off the keyboard. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
 >
@@ -219,7 +219,7 @@ Dwarkesh argues that within 20 years, most government and military labor could b
 
 **Discuss with your partner:** If you were designing a governance system for AI from scratch, what would it look like? Consider several options: company self-regulation (what we have now), government regulation (which government?), an international body (can it be enforced?), open-source AI (no one controls it), or something else entirely. What are the tradeoffs of each? What would you actually propose? Be specific: who sits on the oversight body? What powers do they have? How do you enforce the rules across borders?
 
-> **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
+> **On paper: Structured Role Discussion.** The facilitator was told to encourage students to talk to each other rather than type at it, and to push them off the keyboard. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
 >

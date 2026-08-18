@@ -2,7 +2,7 @@
 title: Pacing
 ---
 
-The course was planned in ten-minute stages. What follows is what can honestly be said about how that worked, which is less than we first thought.
+The course was planned in short stages: of 177 across the semester, 69 are ten minutes and 58 are five, with 26 at fifteen and a long tail beyond that. What follows is what can honestly be said about how that worked, which is less than we first thought.
 
 ## Why there are so few numbers here
 
@@ -27,7 +27,7 @@ Some observations do not depend on duration at all.
 
 **The last round gets cut.** In the AI Safety meeting, four rounds were planned and three were taught. Round four never started, and the feedback stage after it never ran, which is why that meeting has no student feedback. Whether the earlier rounds ran eight minutes or fifteen does not change what happened: the period ended first.
 
-**The instrumented meetings were planned longer than the period.** All three were built as roughly eighty minutes of stages for a seventy-five minute class. Across the whole semester it is more varied -- the meeting index shows totals from forty to ninety minutes -- so check the one you are teaching rather than assuming. That works when something under-runs and fails when nothing does.
+**The instrumented meetings were planned longer than the period.** Two were built as eighty minutes of stages for a seventy-five minute class and the third as eighty-five. Across the whole semester it is more varied -- the meeting index shows totals from forty to ninety minutes -- so check the one you are teaching rather than assuming. That works when something under-runs and fails when nothing does.
 
 **Session start and end are reliable**, because both are explicit actions. The meetings ran the length of the class. Nobody finished early.
 
@@ -37,6 +37,8 @@ Plan for the ending you can reach, not the one you would like.
 
 Put the round you are least attached to last, and say at the start that you may not get to it. A round dropped on purpose costs nothing. A round dropped at the bell, mid-sentence, costs the close.
 
-Budget four to five minutes per collection point for the paper version. Several meetings have three collection points, and one has more, which is fifteen minutes or more of card handling that the original did not need. Those meetings do not fit in seventy-five minutes, so decide in advance which round comes out.
+Budget four to five minutes per collection point for the paper version. A collection point is a moment where you take work from every student, which on paper means cards handed forward. Showing it back is not a second one, so a stage that submits and a stage that displays count once between them.
+
+Counted that way, four of the twenty-five meetings have three: both scavenger hunts' second halves, Does AI Understand, and the websites lab. None has more than three. Three collection points is twelve to fifteen minutes of card handling the original did not need, which those meetings do not have spare, so decide in advance which round comes out.
 
 And if you instrument your own course, gate the stages you want to measure. A stage that requires an action from students before they can begin will tell you the truth about how long it took. One that doesn't will tell you when you remembered to click.

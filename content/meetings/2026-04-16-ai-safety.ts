@@ -50,14 +50,14 @@ This is part of attendance for today's meeting.`,
 
 ## Today's Plan
 
-On Tuesday you explored how human preferences get baked into AI through the training process: RLHF raters rank outputs, and the model learns to produce what humans prefer. Today we ask a harder question: who gets to decide what those preferences should be? The readings show this playing out in real time. Anthropic drew red lines about how Claude could be used. The Pentagon punished them for it. OpenAI signed the deal instead. Four rounds of paired discussion, each with a different partner and a different angle on the alignment problem.
+Last week you explored how human preferences get baked into AI through the training process: RLHF raters rank outputs, and the model learns to produce what humans prefer. Today we ask a harder question: who gets to decide what those preferences should be? The readings show this playing out in real time. Anthropic drew red lines about how Claude could be used. The Pentagon punished them for it. OpenAI signed the deal instead. Four rounds of paired discussion, each with a different partner and a different angle on the alignment problem.
 
 ---`,
     },
   ],
   facilitationOverview: `## Facilitation Notes
 
-**Philosophy:** Four rounds of paired discussion moving from concept (what is alignment?) to case study (the Anthropic dilemma) to policy (government and AI) to synthesis (what would you do?). The readings are unusually timely and politically charged. Students will have strong opinions. The goal is not consensus but clarity: can they articulate the tradeoffs rather than just picking a side? Tuesday's training lifecycle session is the technical foundation. Students now know that the "values" in AI come from specific human choices during RLHF. Today's question: whose choices should those be?
+**Philosophy:** Four rounds of paired discussion moving from concept (what is alignment?) to case study (the Anthropic dilemma) to policy (government and AI) to synthesis (what would you do?). The readings are unusually timely and politically charged. Students will have strong opinions. The goal is not consensus but clarity: can they articulate the tradeoffs rather than just picking a side? Last week's training lifecycle session is the technical foundation. Students now know that the "values" in AI come from specific human choices during RLHF. Today's question: whose choices should those be?
 
 **Logistics:**
 - Four discussion rounds with new partners each time (same groupKey for partner rotation)
@@ -79,7 +79,7 @@ On Tuesday you explored how human preferences get baked into AI through the trai
 | Round 4: Share Out | 10m | 80m |
 
 **Tips:**
-- Round 1 connects directly to Tuesday's RLHF session. Students already know that AI values come from human rater preferences. Now push: whose preferences? The RLHF raters? The CEO? The government?
+- Round 1 connects directly to the RLHF session. Students already know that AI values come from human rater preferences. Now push: whose preferences? The RLHF raters? The CEO? The government?
 - Round 2 is where the readings come alive. Students will likely side with Anthropic. Use Dwarkesh's argument to complicate that: the government can't let a private company have a kill switch on military technology.
 - Round 3 is about the OpenAI contract. The key detail: legal experts say the contract language likely allows mass surveillance despite public assurances. Push students to engage with the gap between corporate promises and legal reality.
 - Round 4 is the hardest. There is no clean answer to "who should govern AI." Help students sit with that difficulty rather than forcing a resolution. The best outcome is students who can articulate why each option has serious problems.
@@ -93,7 +93,7 @@ On Tuesday you explored how human preferences get baked into AI through the trai
         label: "Round 1: What Is Alignment?",
         estimatedTime: "10m",
         transition: "Partners discuss what alignment means and whose values get encoded",
-        facilitationNotes: `This round grounds the concept of alignment in what students already know. On Tuesday they saw how RLHF works: human raters rank outputs, and the model learns to prefer what they prefer. Alignment is the broader version of that question: not just "which output is better?" but "better for whom, by whose standards, and who decides?"
+        facilitationNotes: `This round grounds the concept of alignment in what students already know. Last week they saw how RLHF works: human raters rank outputs, and the model learns to prefer what they prefer. Alignment is the broader version of that question: not just "which output is better?" but "better for whom, by whose standards, and who decides?"
 
 The New Yorker article introduces the "soul doc," Anthropic's internal document describing how Claude should behave. This is alignment in practice: a company writing down values and training a model to follow them. But those values are Anthropic's values. They chose "diplomatically honest rather than dishonestly diplomatic." They chose that Claude shouldn't deny the Holocaust or climate change. Those seem obvious, but someone had to make those decisions. Who should that someone be?`,
         content: [],
@@ -107,11 +107,11 @@ The New Yorker article introduces the "soul doc," Anthropic's internal document 
               type: "markdown",
               content: `### What Is Alignment?
 
-On Tuesday you saw how RLHF works: human raters compare model outputs and pick the "better" one. The model learns to produce responses that humans prefer. But who decides what "better" means?
+Last week you saw how RLHF works: human raters compare model outputs and pick the "better" one. The model learns to produce responses that humans prefer. But who decides what "better" means?
 
 The New Yorker article describes Anthropic's "soul doc," an internal document that lays out how Claude should behave. Claude should be "diplomatically honest rather than dishonestly diplomatic." It should acknowledge the Holocaust and climate change. It should exercise judgment, not just follow orders. These seem like reasonable values. But *someone at Anthropic wrote them down and trained a model to follow them.*
 
-**Discuss with your partner:** What does "alignment" mean? On Tuesday you ranked AI outputs and experienced how subjective "better" is. Now scale that up: a company is deciding the values for an AI used by millions of people. Is that different from what the RLHF raters do, or is it the same problem at a bigger scale? Whose values should AI be aligned with? The company that built it? The government? The users? Some universal standard? Is there such a thing?`,
+**Discuss with your partner:** What does "alignment" mean? Last week you ranked AI outputs and experienced how subjective "better" is. Now scale that up: a company is deciding the values for an AI used by millions of people. Is that different from what the RLHF raters do, or is it the same problem at a bigger scale? Whose values should AI be aligned with? The company that built it? The government? The users? Some universal standard? Is there such a thing?`,
             },
             {
               type: "text-submission",

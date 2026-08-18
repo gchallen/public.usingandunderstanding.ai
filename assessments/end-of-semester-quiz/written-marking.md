@@ -1,24 +1,66 @@
 # End-of-Semester Quiz — marking scheme
 
-**What this loses.** The original assessed these in conversation, and its rubric turns on whether a student produced something *before being asked for it*. On paper every answer is unprompted, so that distinction does not exist and the criteria below can only be scored met or not met. Expect this to grade more generously than the oral version: a student who would have needed four prompts looks identical to one who needed none.
+_The AI-conversation original ran all semester. Neither the oral nor the written version below has been run with students: they are the same rubric in a form a person can administer, and their timings are derived rather than observed. See [the README](../README.md)._
 
-If you want some of that back, run it in two passes. Collect the answers, then hand out a second sheet with one challenge per question and collect that too. What a student does when pushed is the closest written equivalent to what the interviewer was listening for.
+**What this loses.** The original assessed these in conversation, and its rubric turns on whether a student produced something *before being asked for it*. On paper every answer is unprompted, so that distinction does not exist. Expect this to grade more generously than the oral version: a student who would have needed four prompts looks identical to one who needed none. The grade table has had its references to interviewer prompting removed for the same reason, because they described something that cannot happen here.
+
+**Partly met still exists.** What it cannot mean here is "got there only after I asked", which is most of what it meant in the original. On paper it means an answer that gestures at the criterion without landing it: names the thing but says nothing about it, or asserts what the criterion asks you to explain. The rubrics below keep that level and you should use it.
+
+**A two-pass version, untested.** If you want some of that back, collect the answers, hand out a second sheet with one challenge per question, and collect that too. What a student does when pushed is the closest written equivalent to what the interviewer was listening for. Nobody has run this, and it doubles your marking. The same untested label the pattern chapters carry applies here.
+
+## Before you use this
+
+**These appear only in the notes to you**, as illustrations of the kind of answer that counts. Read them that way rather than as a list of what your students should say:
+
+- the Embedding Explorer (a login-gated tool from the original site)
+- the Digit Network (a login-gated tool from the original site)
+- Bolt (a tool the original course used)
+- v0.dev (a tool the original course used)
+- Claude Artifacts (a tool the original course used)
 
 | Grade | Means |
 | --- | --- |
 | **E** Excellent | Reflects with specificity and clear reasoning across all portions. Names concrete concepts, activities, practices, concerns, and shifts — and explains the why behind each. Goes beyond surface-level reflection. |
 | **S** Satisfactory | Reflects with reasonable specificity across portions. Identifies real concepts and experiences and offers some reasoning, but explanations may be brief or shallow. |
-| **N** Needs Improvement | Reflections are vague or generic in multiple portions. Names topics without explaining them, or relies heavily on the interviewer's prompting to add specificity. |
-| **U** Unsatisfactory | Cannot articulate meaningful reflections — answers are absent, off-topic, or consist only of agreeing with whatever the interviewer suggests. |
+| **N** Needs Improvement | Reflections are vague or generic in multiple portions. Names topics without explaining them. |
+| **U** Unsatisfactory | Cannot articulate meaningful reflections — answers are absent or off-topic. |
 
 ## 1. One Thing You Learned About How AI Works
 
-A complete answer covers:
+**Criteria**
 
 - Identifies a specific concept (not a vague generality like "AI is complicated")
 - Explains the concept accurately enough to show real understanding, even if imprecise
 
-The original's rubric, for the wording of what counts. Ignore every clause about what the interviewer did or did not ask; none of it applies on paper.
+<details><summary>Background from the original course, if you need it</summary>
+
+This is a gentle, reflective factual portion. The goal is for the student to surface
+ONE concept they took away from the semester about how AI actually works, and
+explain it in their own words. Technical precision is NOT required — what matters is
+that the student picked up something real and can speak to it.
+
+Likely concepts students will draw on (any of these or others are fine):
+
+- Next-token prediction: AI predicts the next word/token based on patterns learned
+  from training data (Karpathy podcast).
+- Embeddings / geometry of meaning: words become vectors; semantically similar
+  words cluster in high-dimensional space (Embedding Explorer).
+- Training process: networks start with random weights and learn by being shown
+  examples; connections strengthen and weaken; the network goes from random
+  guessing to high accuracy (Digit Network).
+- Loss / optimization: networks improve by measuring how wrong they are and
+  adjusting weights to reduce that error.
+- Pattern matching, not reasoning: AI generates plausible-sounding output without
+  genuine understanding; this is why hallucinations happen.
+- Training data dependence: model behavior is downstream of what it was trained on
+  — including its biases and gaps.
+- Attention / transformers: how models focus on relevant parts of the input.
+
+Any concrete, specific concept counts. Do NOT require any particular topic.
+
+</details>
+
+The original's rubric, for the wording of what counts. Ignore every clause about what the interviewer did or did not ask; none of that applies here, and the preamble says what `partially_met` means once those clauses are gone.
 
 ```
 Criterion 1: "Identifies a specific concept"
@@ -44,12 +86,31 @@ technical precision.
 
 ## 2. Something Useful You Did With AI
 
-A complete answer covers:
+**Criteria**
 
 - Describes a specific, concrete activity (a real task they did, not just "I used ChatGPT")
 - Reflects on what made it useful and how they'd carry it forward
 
-The original's rubric, for the wording of what counts. Ignore every clause about what the interviewer did or did not ask; none of it applies on paper.
+<details><summary>Background from the original course, if you need it</summary>
+
+This is an experiential reflection. The student should describe something they
+actually did with AI this semester — in or out of class — and then say something
+about why they expect to keep using or adapting that approach in the future.
+
+Likely activities students will draw on:
+
+- Building a website through conversation (Bolt.new, v0.dev, Claude Artifacts, from one of the labs).
+- Creative media generation (DALL-E, Midjourney, Suno, Pika, from one of the labs).
+- Data analysis and visualization with AI as collaborator (one of the labs).
+- Study guides, summaries, or research help (two of the labs).
+- Brainstorming, outlining, drafting, or feedback on writing.
+- Coding assistance, even if not a CS student.
+- Personal uses outside class (planning, recipes, language practice, etc. — also
+  valid).
+
+</details>
+
+The original's rubric, for the wording of what counts. Ignore every clause about what the interviewer did or did not ask; none of that applies here, and the preamble says what `partially_met` means once those clauses are gone.
 
 ```
 Criterion 1: "Describes a specific, concrete activity"
@@ -77,12 +138,36 @@ whether the use was "appropriate" — the question is what was useful.
 
 ## 3. Using AI in Ways That Support You
 
-A complete answer covers:
+**Criteria**
 
 - Names a specific practice, boundary, or principle (not just "I'll be careful")
 - Explains why — what value or risk that practice serves
 
-The original's rubric, for the wording of what counts. Ignore every clause about what the interviewer did or did not ask; none of it applies on paper.
+<details><summary>Background from the original course, if you need it</summary>
+
+This portion mirrors the final-video assignment students are asked to record by
+May 5: "Describing how you plan to relate to AI in the future in a way that best
+supports your own goals and future aspirations." The aim here is gentle and
+affirming — students should feel invited to think out loud about how they want
+AI to fit into their lives.
+
+Likely framings students will draw on (final video themes):
+
+- Skill atrophy: not outsourcing things they want to learn or grow at.
+- Intentionality: deciding when to use AI vs. when to do it themselves.
+- Authenticity: not letting AI write things that should be in their own voice.
+- Learning vs. shortcutting: using AI to deepen understanding rather than skip it.
+- Boundaries on emotional or relational reliance: not using AI for things best
+  done with people.
+- Productivity / time: using AI for low-stakes tasks to free up time for
+  higher-stakes ones.
+- Critical evaluation: always checking AI output rather than trusting blindly.
+- Choosing not to use AI in specific domains (writing, journaling, certain
+  creative work, etc.).
+
+</details>
+
+The original's rubric, for the wording of what counts. Ignore every clause about what the interviewer did or did not ask; none of that applies here, and the preamble says what `partially_met` means once those clauses are gone.
 
 ```
 Criterion 1: "Names a specific practice, boundary, or principle"
@@ -109,12 +194,37 @@ possible." The goal is for them to articulate their own stance with specificity.
 
 ## 4. One Concern About AI
 
-A complete answer covers:
+**Criteria**
 
 - Names a specific concern (not generic "AI is scary" or "AI is bad")
 - Explains why it concerns them — the mechanism, the harm, or who is affected
 
-The original's rubric, for the wording of what counts. Ignore every clause about what the interviewer did or did not ask; none of it applies on paper.
+<details><summary>Background from the original course, if you need it</summary>
+
+This is a gentle reflection, not an argumentation portion. The student names ONE
+concern they have about AI and explains why it concerns them. Both course-covered
+concerns and personal concerns are equally valid.
+
+Likely concerns students may raise (course-covered):
+
+- Training data labor (content moderators in Kenya, low-wage data work).
+- Environmental and infrastructure costs (Colossus, Boxtown, energy use, water).
+- IP theft and unconsented use of creative work.
+- Misinformation and AI-generated false content.
+- Labor displacement and economic disruption.
+- Skill atrophy — losing capabilities by outsourcing them.
+- Bias amplification in AI systems.
+- Surveillance and privacy.
+- Alignment / AGI race dynamics / loss of human control.
+- Authenticity in creative and personal work.
+- Inequity of access — who benefits from AI vs. who pays the costs.
+
+Personal concerns (job market, education, relationships, mental health, etc.)
+are also fully valid.
+
+</details>
+
+The original's rubric, for the wording of what counts. Ignore every clause about what the interviewer did or did not ask; none of that applies here, and the preamble says what `partially_met` means once those clauses are gone.
 
 ```
 Criterion 1: "Names a specific concern"
@@ -139,12 +249,39 @@ defend their concern — only to name and explain it. One gentle follow-up at mo
 
 ## 5. A Belief That Shifted
 
-A complete answer covers:
+**Criteria**
 
 - Names a specific prior belief (not "I didn't know much about AI")
 - Describes what shifted it — a course experience, reading, conversation, or activity
 
-The original's rubric, for the wording of what counts. Ignore every clause about what the interviewer did or did not ask; none of it applies on paper.
+<details><summary>Background from the original course, if you need it</summary>
+
+This is a synthesis portion that asks students to look at the arc of their own
+thinking across the semester. It works at multiple levels — concrete ("I used to
+think embeddings were just word lookups"), opinion-level ("I used to think AI
+couldn't be creative"), or values-level ("I used to think AI was harmless").
+
+Likely shifts students may report:
+
+- "AI is just hype" → seeing real capability in lab work.
+- "AI is magic" → understanding it as pattern matching from training data.
+- "AI will replace everyone" → seeing limits, hallucinations, brittleness.
+- "AI is fundamentally creative" or "AI cannot be creative" → seeing Move 37,
+  AlphaGo, or examples of generated art.
+- "AI is a harmless tool" → learning about training data labor, environmental
+  costs, IP theft.
+- "AI is too dangerous to use" → finding genuinely useful applications in labs.
+- "I'm bad with technology" → realizing they can build real things with AI help.
+- "AI will make me dumber" → finding ways AI can support rather than replace
+  thinking.
+
+"My belief didn't shift" is ALSO a valid answer, IF the student can name what
+they came in believing and explain why course content didn't move them. That is
+itself a form of reflection.
+
+</details>
+
+The original's rubric, for the wording of what counts. Ignore every clause about what the interviewer did or did not ask; none of that applies here, and the preamble says what `partially_met` means once those clauses are gone.
 
 ```
 Criterion 1: "Names a specific prior belief"
@@ -169,3 +306,55 @@ of the shift — whether they came to think AI is more useful, more dangerous, m
 mundane, or more profound is all valid. Only nudge for specificity if the student
 stays at the level of "my mind changed about AI" without naming what.
 ```
+
+## Turning criteria into a grade
+
+Grade each section first, then the whole assessment.
+
+**Per section**
+
+Count the criteria you marked met, and the ones the student did not reach at all. Take the first line that applies:
+
+- Every criterion met, **and** the answer does something the question did not ask for — an example of their own, a qualification, a connection to another part of the course → top grade.
+- Every criterion met, but nothing beyond an adequate answer → second grade.
+- More than half met and none missed entirely → second grade.
+- Most criteria not reached at all → lowest.
+- Anything else — exactly half met, fewer than half met, or one criterion missed entirely → second-lowest.
+
+That last line is the catch-all, and it is there because the obvious version of this rule had a hole. With three criteria you can write "fewer than half" and "most not reached" and feel the ground is covered. With two criteria, one met and one missed, neither fires: one of two is not fewer than half, and one of two is not most. That is the commonest outcome on a two-criterion section, and an examiner working from the earlier wording had nothing to apply.
+
+**Overall**
+
+- The overall grade is the grade of the student's **weakest** section. Not an average, and not a judgment call. "At or near the lower one" used to stand here, and the slack in those three words was a whole grade wide: it let a fluent bluffer who was strong in one section out-rank a quieter student who had actually done the reading, and left the marker nothing to say to an appeal.
+- A partly-met criterion is a gap, not a success. Do not round it up.
+- The top grade is rare. It needs original thinking, nuance nobody asked for, or a connection you did not suggest.
+- On opinion sections, grade the reasoning and the engagement, not the position. Agreeing with a counterargument, or noting it in a sentence, is not engaging with it: the student has to push back, qualify, or develop.
+
+This is the rule the original evaluator used, stated in full. It is what makes a grade something you can show a student rather than something you assert.
+
+---
+
+## Marking sheet
+
+**Student:** ______________________  **Marker:** ____________  **Assessment:** End-of-Semester Quiz
+
+| Section | Criterion | Met | Partly | Not reached |
+| --- | --- | --- | --- | --- |
+| 1 | Identifies a specific concept (not a vague generality like "AI is complicated") |  |  |  |
+| 1 | Explains the concept accurately enough to show real understanding, even if imprecise |  |  |  |
+| 2 | Describes a specific, concrete activity (a real task they did, not just "I used ChatGPT") |  |  |  |
+| 2 | Reflects on what made it useful and how they'd carry it forward |  |  |  |
+| 3 | Names a specific practice, boundary, or principle (not just "I'll be careful") |  |  |  |
+| 3 | Explains why — what value or risk that practice serves |  |  |  |
+| 4 | Names a specific concern (not generic "AI is scary" or "AI is bad") |  |  |  |
+| 4 | Explains why it concerns them — the mechanism, the harm, or who is affected |  |  |  |
+| 5 | Names a specific prior belief (not "I didn't know much about AI") |  |  |  |
+| 5 | Describes what shifted it — a course experience, reading, conversation, or activity |  |  |  |
+
+**Anything the question did not ask for** (this is the top-grade test):
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Section grades:** ______  **Overall (= the weakest section):** ______

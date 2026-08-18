@@ -36,7 +36,7 @@ An artificial neuron is the simplest building block in a neural network. It take
 
 The tool below lets you experiment with a single neuron. Try adjusting the sliders and see what happens.
 
-> **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
+> **Demos.** Open the tool your instructor names.
 
 **Things to try:**
 - Use the preset challenges (AND gate, OR gate) — can you figure out what the neuron needs to do?
@@ -52,7 +52,7 @@ The tool below lets you experiment with a single neuron. Try adjusting the slide
 
 Now let's see what happens when you connect many neurons together. The network below is trained to recognize handwritten digits (0-9). Each neuron does the same basic operation you just explored — weighted sum, bias, activation function — but together they can do something much more impressive.
 
-> **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
+> **Demos.** Open the tool your instructor names.
 
 **Things to try:**
 - Draw a few digits and see if the network classifies them correctly. What digits does it struggle with?
@@ -134,9 +134,9 @@ Enter at least 2 questions below.
 
 With your new partner, pick one of the questions above to investigate. Use the demos below to experiment and gather evidence. You should also feel free to ask an AI — the interactive tools are great for some questions, but others might benefit from a conversation with ChatGPT or Claude. Try to build an answer based on what you can observe and learn, not just what you think you know.
 
-> **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
+> **Demos.** Open the tool your instructor names.
 
-> **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
+> **Demos.** Open the tool your instructor names.
 
 **What did you find?**
 

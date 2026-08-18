@@ -9,7 +9,7 @@ How complexity emerges from simple building blocks — connecting neurons, netwo
 **Philosophy:** Four discussion rounds exploring emergence — from concrete examples through a surprising reveal about biological neurons, to the implications of scale, to a synthesis reflection. Partners rotate each round. The key thread is "simple parts → complex wholes" connecting Tuesday's digit network to the readings to the bigger picture.
 
 **Logistics:**
-- Four discussion rounds with new partners each time (4 GroupActivity blocks with the same `group` key)
+- Four discussion rounds with new partners each time (4 paired rounds sharing one grouping)
 - Rounds 1-3 each have a 15-minute discussion followed by a 5-minute share-out
 - Round 2 introduces new material (neuron complexity article) — read the key finding aloud before pairs start
 - Round 4 is a shorter synthesis round (12 minutes)
@@ -17,17 +17,17 @@ How complexity emerges from simple building blocks — connecting neurons, netwo
 - Share-out stages are instructor-led: ask 2-3 pairs to share, then connect to the next round's theme
 
 **Pacing:**
-| # | Stage | Duration | Cumulative |
-|---|-------|----------|------------|
-| 1 | Round 1: Emergence Everywhere | 15m | 15m |
-| 2 | Round 1: Share Out | 5m | 20m |
-| 3 | Round 2: The Neuron Gap | 15m | 35m |
-| 4 | Round 2: Share Out | 5m | 40m |
-| 5 | Round 3: What Emerges at Scale | 15m | 55m |
-| 6 | Round 3: Share Out | 5m | 60m |
-| 7 | Round 4: So What? | 12m | 72m |
-| 8 | Wrap-Up | 3m | 75m |
-| 9 | Feedback | 5m | 80m |
+| Stage | Duration | Cumulative |
+|-------|----------|------------|
+| Round 1: Emergence Everywhere | 15m | 15m |
+| Round 1: Share Out | 5m | 20m |
+| Round 2: The Neuron Gap | 15m | 35m |
+| Round 2: Share Out | 5m | 40m |
+| Round 3: What Emerges at Scale | 15m | 55m |
+| Round 3: Share Out | 5m | 60m |
+| Round 4: So What? | 12m | 72m |
+| Wrap-Up | 3m | 75m |
+| Feedback | 5m | 80m |
 
 **Tips:**
 - Round 2 requires setup — have the neuron complexity article summary ready to read aloud
@@ -54,8 +54,7 @@ Read both articles before Thursday's class:
 
 — how large language models display surprising abilities at scale
 
-Please complete the preparation conversation below before class.
-This is part of attendance for today's meeting.
+Come to class having prepared the reading.
 
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >
@@ -67,7 +66,7 @@ This is part of attendance for today's meeting.
 
 ### Today's Plan
 
-On Tuesday, you built a digit-recognition network from simple artificial neurons — and it worked. Today we'll explore *why* it worked, and what happens when you scale that same idea up by a factor of millions. Four rounds of paired discussion, each with a different partner and a different question.
+On Tuesday, you trained a digit-recognition network built from simple artificial neurons — and it worked. Today we'll explore *why* it worked, and what happens when you scale that same idea up by a factor of millions. Four rounds of paired discussion, each with a different partner and a different question.
 
 ---
 
@@ -121,7 +120,7 @@ _New partners discuss the gap between biological and artificial neurons_
 > 
 > "Tuesday you explored artificial neurons — simple units that multiply inputs by weights and apply an activation function. Here's something we didn't mention: researchers at Hebrew University tried to figure out how complex a *real* biological neuron is. They trained artificial neural networks to mimic a single biological neuron's behavior and found that it takes a deep network of about **1,000 artificial neurons** — five to eight layers deep — to approximate what **one** biological neuron does. The lead researcher said: 'I thought it would be simpler and smaller.' The complexity comes from the branching tree-like structures called dendrites that receive incoming signals."
 > 
-> "So the building blocks of AI are vastly simpler than the building blocks of brains. The digit network you explored Tuesday had about 13,000 artificial neurons. A single cubic millimeter of brain tissue contains roughly 50,000 biological neurons — each one as complex as a 1,000-node deep network."
+> "So the building blocks of AI are vastly simpler than the building blocks of brains. The digit network you explored Tuesday had a few hundred artificial neurons, joined by about 13,000 connections. A single cubic millimeter of brain tissue contains roughly 50,000 biological neurons — each one as complex as a 1,000-node deep network."
 > 
 > Source: ["How Computationally Complex Is a Single Neuron?"](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/) — Quanta Magazine, 2021
 > 
@@ -131,9 +130,9 @@ _New partners discuss the gap between biological and artificial neurons_
 
 #### The Neuron Gap
 
-your instructor just shared a finding that may change how you think about Tuesday's exploration: it takes about **1,000 artificial neurons** to approximate what a **single biological neuron** does. The artificial neurons you explored on Tuesday are radically simpler than their biological counterparts.
+Your instructor just shared a finding that may change how you think about Tuesday's exploration: it takes about **1,000 artificial neurons** to approximate what a **single biological neuron** does. The artificial neurons you explored on Tuesday are radically simpler than their biological counterparts.
 
-Your digit network had ~13,000 artificial neurons. A single cubic millimeter of brain tissue has ~50,000 biological neurons, each one as complex as a 1,000-node deep network. The human brain has roughly 86 billion of them.
+Your digit network had a few hundred artificial neurons, joined by about 13,000 connections. A single cubic millimeter of brain tissue has ~50,000 biological neurons, each one as complex as a 1,000-node deep network. The human brain has roughly 86 billion of them.
 
 **Discuss with your partner:** Does this change how you think about what you built on Tuesday? If AI neurons are so much simpler than biological ones, why does AI work at all? What does this gap mean for the analogy between brains and neural networks?
 

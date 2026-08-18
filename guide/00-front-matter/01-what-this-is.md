@@ -12,19 +12,19 @@ None of that is the course, though. The software was scaffolding around a set of
 
 ## What is in here
 
-**The patterns.** Six chapters on what the software was doing and how to run without it. Five are classroom procedures using cards, a whiteboard, and a photocopier; the sixth is a decision about third-party tools. This is the part worth reading first, and the part most likely to be useful even if you never look at the meetings.
+**The patterns.** Six chapters on what the software was doing and how to run without it. Five are classroom procedures using cards, a whiteboard, and a photocopier; the sixth is mostly a decision about third-party tools, with a short procedure attached. This is the part worth reading first, and the part most likely to be useful even if you never look at the meetings.
 
-**Every meeting of the semester**, in all three kinds the course uses. Exploratory meetings where students investigate a topic, lab meetings where they use a tool and record what happened, and discussion meetings built on a reading. If you want one of each to start with, read Neurons and Networks, Study Guide Lab, and AI Safety in that order.
+**Every meeting of the semester.** Exploratory meetings where students investigate a topic, lab meetings where they make something, discussion meetings built on a reading, and two whole-class sessions that run no activity at all. If you want one of each to start with, read Neurons and Networks, Data Analysis Lab, and AI Safety in that order.
 
 Each has an instructor guide and a student handout. The handouts are meant to be photocopied as they are.
 
-**Timings.** Every stage shows what it was planned for. Two stages also show what they measurably ran; the pacing chapter explains why only two.
+**Timings.** Every stage in the instructor guides shows what it was planned for. Two of the 177 also show what they measurably ran; the pacing chapter explains why only two. The student handouts show no timings at all, which is deliberate.
 
 **The readings**, with the annotations that connect them to the rest of the course.
 
 ## What is not in here
 
-The software that ran the conversational assessments. The assessments are here, in `assessments/`, as an oral exam and as a written paper. Three meetings still refer to the original's proctoring arrangements; substitute your own and the rest of the meeting stands.
+The software that ran the conversational assessments. The assessments are here, in `assessments/`, as an oral exam and as a written paper with a marking scheme, generated from the same definitions the AI interviewer used. Where a meeting sends students to sign up for one, the generated text says to do it however your course does, because the original's arrangements were a campus testing centre and yours will not be.
 
 The paid site builder used in the websites lab, and the promotion code that made it free. That was a per-institution arrangement and cannot be handed on. The version here is written against no particular tool; the External Tools chapter covers choosing one and what changes on a free tier.
 

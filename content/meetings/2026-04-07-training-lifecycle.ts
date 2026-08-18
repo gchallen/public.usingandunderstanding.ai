@@ -7,6 +7,7 @@ const meeting: MeetingDefinition = {
     title: "How AI Learns to Be Helpful",
     summary:
       "Hands-on exploration of the AI training lifecycle: pretraining, instruction tuning, and RLHF",
+    dependsOn: ["2026-02-24-how-llms-work", "2026-03-24-embeddings-and-knowledge"],
   },
   intro: [
     {

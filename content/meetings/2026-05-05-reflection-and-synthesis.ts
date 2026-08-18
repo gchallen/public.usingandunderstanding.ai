@@ -7,6 +7,7 @@ const meeting: MeetingDefinition = {
     title: "Reflection and Synthesis",
     summary:
       "Final meeting: a personal retrospective on AI and flourishing, then two rounds redesigning the course for next year",
+    dependsOn: ["2026-04-28-human-flourishing"],
   },
   intro: [
     {

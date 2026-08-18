@@ -20,14 +20,14 @@ Use AI to analyze a real dataset, create visualizations, and discover insights
 **Student artifacts may be shared publicly** as examples of AI-assisted data analysis. Students are informed during submission. If anyone objects, note their name and exclude their work.
 
 **Pacing:**
-| # | Stage | Duration | Cumulative |
-|---|-------|----------|------------|
-| 0 | Dataset Selection & Strategy | 10m | 10m |
-| 1 | Strategy Share-Out | 5m | 15m |
-| 2 | AI-Assisted Analysis | 25m | 40m |
-| 3 | Submission | 10m | 50m |
-| 4 | Gallery & Discussion | 20m | 70m |
-| 5 | Feedback | 5m | 75m |
+| Stage | Duration | Cumulative |
+|-------|----------|------------|
+| Dataset Selection & Strategy | 10m | 10m |
+| Strategy Share-Out | 5m | 15m |
+| AI-Assisted Analysis | 25m | 40m |
+| Submission | 10m | 50m |
+| Gallery & Discussion | 20m | 70m |
+| Feedback | 5m | 75m |
 
 **Tips:**
 - Walk around during the analysis stage. Students sometimes get stuck in unproductive loops with AI — a quick "what are you trying to find out?" can refocus them
@@ -68,9 +68,9 @@ Use [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), or [Gemini](htt
 Pick a dataset that interests you. You can bring your own data or choose from the options below. Then brainstorm: what questions would be interesting to answer with this data?
 
 ##### Local and institutional datasets (the original's, as examples)
-- **[Grey Book](https://www.bot.uillinois.edu/resources/gray_book)** — Faculty and staff salaries at Illinois. Compare departments, track trends, explore pay equity.
-- **[DMI Enrollment Data](https://dmi.illinois.edu/)** — Student enrollment, demographics, major trends, persistence rates at Illinois.
-- **[Illinois Open Data](https://data.illinois.gov/)** — State government datasets: transportation, health, economic data, and more.
+- **[Grey Book](https://www.bot.uillinois.edu/resources/gray_book)** — Faculty and staff salaries at this university. Compare departments, track trends, explore pay equity.
+- **[DMI Enrollment Data](https://dmi.illinois.edu/)** — Student enrollment, demographics, major trends, persistence rates at this university.
+- **[State Open Data](https://data.illinois.gov/)** — State government datasets: transportation, health, economic data, and more.
 - **[Fighting Illini Stats](https://fightingillini.com/sports)** — Athletics data: basketball, football, historical records.
 
 ##### Fun General Datasets

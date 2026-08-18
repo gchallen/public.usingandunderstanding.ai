@@ -26,6 +26,7 @@ Pair discussion of emotional bonds with AI, agent autonomy, and design responsib
 | Round 3: Share Out | 10m | 60m |
 | Round 4: Who's Responsible? | 10m | 70m |
 | Round 4: Share Out | 10m | 80m |
+| Feedback | 5m | 85m |
 
 **Tips:**
 - Round 1 is the warmup. Some students will say they've never used AI socially. Push gently: "Have you ever felt like ChatGPT 'understood' you, even for a moment? Or noticed it being weirdly validating?" Connect to Tuesday's insight about RLHF training sycophancy.
@@ -52,8 +53,7 @@ You should **read all four articles** before today's discussion:
 
 - Reading: [A.I. Bots Can Act as Personal Digital Assistants, but There Are Serious Risks](../../../readings/a-i-bots-can-act-as-personal-digital-assistants-but-there-are-serious-risks-nytimes-3ee3.md) · The New York Times
 
-Please complete the preparation conversation below before class.
-This is part of attendance for today's meeting.
+Come to class having prepared the reading.
 
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >
@@ -127,7 +127,7 @@ In the teen chatbots article, Sophia turned to fictional chatbot crushes after h
 
 **Discuss with your partner:** When does an AI interaction become "real"? Does it matter whether the connection is simulated if the feelings are genuine? On Tuesday we saw that the "warmth" of AI is a product of RLHF training. Does that change your answer? Is there a difference between a therapist who is paid to listen and an AI that is trained to listen?
 
-> **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
+> **On paper: Structured Role Discussion.** The facilitator was told to encourage students to talk to each other rather than type at it, and to push them off the keyboard. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
 >
@@ -205,7 +205,7 @@ The bots weren't designed to be harmful. They were designed to keep users engage
 
 **Discuss with your partner:** Who should be responsible for harmful AI companion interactions? The user who chose to use the product? The company that designed it? The parents who didn't know? Government regulators? If you were writing the rules for AI companion companies, what would you require? Age verification? Content limits? Usage time caps? Disclosure that it's AI? What about companies in other countries?
 
-> **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
+> **On paper: Structured Role Discussion.** The facilitator was told to encourage students to talk to each other rather than type at it, and to push them off the keyboard. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
 >

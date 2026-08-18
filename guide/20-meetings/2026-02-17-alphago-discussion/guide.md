@@ -9,7 +9,7 @@ Pair discussion of themes from the AlphaGo documentary
 **Philosophy:** Four rounds of paired discussion, each tackling a different theme from the AlphaGo documentary. Partners rotate each round. The questions build from concrete (creativity, anthropomorphism) to reflective (what AI reveals about us, collaboration). Share-out stages between rounds let you surface interesting disagreements and connect themes across pairs.
 
 **Logistics:**
-- Four discussion rounds with new partners each time (4 GroupActivity blocks with the same `group` key)
+- Four discussion rounds with new partners each time (4 paired rounds sharing one grouping)
 - Each round has a 15-minute discussion followed by a 5-minute share-out
 - No roles — this is peer discussion, not driver/observer
 - One partner should capture key points in their written answer each round
@@ -27,6 +27,7 @@ Pair discussion of themes from the AlphaGo documentary
 | Round 4: Collaboration | 15m | 75m |
 | Round 4: Share Out | 5m | 80m |
 | Wrap-Up | 5m | 85m |
+| Feedback | 5m | 90m |
 
 **Tips:**
 - If a round runs short, extend the share-out rather than rushing to the next round
@@ -45,8 +46,7 @@ Pair discussion of themes from the AlphaGo documentary
 You should have **watched the full [AlphaGo documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)** before today's discussion.
 The [annotated transcript](../../../readings/alphago.md) is available for reference during the discussion — use it to find specific moments and quotes, but it is not a substitute for watching the film.
 
-Please complete the preparation conversation below before class.
-This is part of attendance for today's meeting.
+Come to class having prepared the reading.
 
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >

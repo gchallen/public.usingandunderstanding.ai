@@ -11,7 +11,7 @@ Do not start editing until you have answers to the five questions below. Ask the
 
 ## 1. Ask
 
-**Period length.** The original is 75 minutes and the plans total about 80, so they already overrun. If theirs is shorter, you are cutting stages, not compressing them.
+**Period length.** The original is 75 minutes. Stage totals across the semester run from 40 to 90, so check the meeting you are adapting rather than assuming it overruns. If their period is shorter, you are cutting stages, not compressing them.
 
 **Room layout.** Fixed seats in rows, movable tables, or open floor. Ask this first; it constrains more than class size does and the original never had to ask it, because it had one room. Several meetings are built on partner rotation between stages, which bolted seating cannot run. In fixed seats: pair with a neighbour and keep that pair, make a four by having the front pair turn around, and drop the Gallery Walk, which needs students circulating. Say which round you cut to buy back the time.
 

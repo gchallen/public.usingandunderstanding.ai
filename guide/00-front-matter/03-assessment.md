@@ -9,16 +9,27 @@ future instructor is most likely to improve on.
 
 ## What the original did
 
-Fifty percent of the grade was participation in labs and discussions. Quizzes
-were thirty-five, the final project ten, and a final video five. Attendance was
-expected with three no-questions-asked absences.
+The syllabus, as the first meeting stated it: labs fifty percent, quizzes
+thirty-five, the final project ten, a final video five. Attendance was expected
+with three no-questions-asked absences.
 
-That fifty is the part that matters here, and it was participation in a specific
-sense rather than a soft one. Lab meetings had an activity to complete for
-credit, and the completion was the artifact: the thing you did in the room, seen
-by the instructor while you did it. Discussion meetings required the pre-class
-conversation and then showing up and talking. Nothing was collected afterward
-and graded at home.
+That fifty is written as "labs" and it worked as participation, which is the
+distinction this chapter is about.
+
+The quizzes are in this kit. `assessments/` holds five conversational
+assessments, each emitted as an oral exam script and as a written paper with a
+marking scheme, both carrying the rule that turns criteria into a letter grade.
+Those scale. If you need a defensible number out of a large room, start there,
+and read the rest of this chapter knowing it is about the half that does not
+travel.
+
+It was participation in a specific sense rather than a soft one. Lab meetings
+had an activity to complete for credit, and the completion was the artifact: the
+thing you did in the room, seen by the instructor while you did it. Discussion
+meetings required the pre-class conversation and then showing up and talking.
+Nothing from a lab or a discussion was collected afterward and graded at home.
+The final project and the final video were, and they are the fifteen percent that
+worked like ordinary coursework.
 
 Two things made that workable, and both are worth stating plainly because they
 are exactly what an adopter may not have.
@@ -48,10 +59,13 @@ you said in a room, whether you used AI to prepare is not a problem to police.
 
 ## Where this is weakest
 
-**It does not scale, and the kit does not tell you how to make it.** Everything
-above rests on a room of eleven with software watching it. There is no version
-here for thirty students on paper, and pretending otherwise would be inventing
-practice rather than reporting it.
+**Participation grading does not scale, and the kit does not tell you how to
+make it.** Everything above rests on a room of eleven with software watching it.
+There is no participation scheme here for thirty students on paper, and
+inventing one would be reporting practice that never happened. The quizzes in
+`assessments/` do scale, and a thirty-student version of this course probably
+shifts weight onto them. That is a design change rather than an adaptation, and
+it is yours to make.
 
 **It is vulnerable to the quiet student.** Participation grading rewards
 talking, and reticence is not the same as disengagement. The original mitigated
@@ -66,17 +80,19 @@ It is one instructor's judgment about eleven students he saw twice a week.
 ## If you need a graded artifact per session
 
 Many departments require one, and the paper procedures produce collectable
-things almost by accident. Three that the guide already generates:
+things almost by accident. Three, two of which come off the generated handout:
 
-- **The reading ticket** is individual by design, handed in at the door, and
-  graded check / check-plus / no credit in seconds. The Reading Ticket chapter
-  is emphatic that it must not become homework you take away, and that
-  constraint is what keeps it cheap enough to actually do.
+- **The reading ticket**, which you produce yourself from the preparation
+  criteria rather than getting from the generator. It is individual by design,
+  handed in at the door, and graded check / check-plus / no credit in seconds.
+  The Reading Ticket chapter is emphatic that it must not become homework you
+  take away, and that constraint is what keeps it cheap enough to actually do.
 - **The card from a Card Sort** carries a name and one idea. It is evidence
   someone thought about the question before the room discussed it.
 - **The writing space on the handout** is collectable, but be careful: most of
-  it is filled in during pair work, so two names on one page is a free-rider
-  problem the Reading Ticket chapter warns about at length.
+  it is filled in during pair work, so two names on one page has the free-rider
+  problem the Reading Ticket chapter names when it insists the ticket stay
+  individual.
 
 What none of these gives you is a defensible mark for the discussion itself.
 

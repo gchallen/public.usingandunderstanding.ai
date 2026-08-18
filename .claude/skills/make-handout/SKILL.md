@@ -37,13 +37,20 @@ It validates before it writes and refuses rather than emitting something wrong:
 - a `preparation-chat` or `group-chat` slug with no file in `content/prompts/`
 - a substitution pattern with no chapter in `guide/10-patterns/`
 - an `activity.meetingSlug` that disagrees with its filename
+- a `dependsOn` naming a meeting that is not in this kit
+- student-facing prose that refers backward while the meeting declares no `dependsOn`
+- a reading named in prose but never linked, which would make the index say the meeting assigns none
 - an activity meeting that does not end with a feedback block
 
-It names the meeting and the problem and exits non-zero. A failed run writes
-nothing, so the tree is never half-regenerated.
+It names the meeting and the problem and exits non-zero.
 
-It emits everything before writing anything, so a failed run leaves the tree
-untouched rather than half-regenerated.
+It emits every file before writing any of them, and keeps what each file said so
+it can put it back if a write fails partway through. A failed run leaves the tree
+as it was.
+
+It also regenerates the exams in `assessments/` from `content/assessments/`, so
+editing a criterion updates the oral script, the paper, and the marking scheme
+together. Do not hand-edit those files; they are output.
 
 What it does not catch: `group.size` above 4 prints only four name blanks. And
 it does not typecheck -- run `bun run check` for that, which is what enforces

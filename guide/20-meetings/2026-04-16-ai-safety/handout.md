@@ -24,8 +24,7 @@ You should **read all four articles** before today's discussion:
 
 - Reading: [OpenAI Is Opening the Door to Government Spying](../../../readings/openai-is-opening-the-door-to-government-spying-theatlantic-4a9d.md) · The Atlantic
 
-Please complete the preparation conversation below before class.
-This is part of attendance for today's meeting.
+Come to class having prepared the reading.
 
 > **Reading Ticket.** Bring your reading ticket. Swap with a partner, answer what they did not understand if you can, write down what neither of you could resolve, then hand both in.
 
@@ -33,7 +32,7 @@ This is part of attendance for today's meeting.
 
 ### Today's Plan
 
-On Tuesday you explored how human preferences get baked into AI through the training process: RLHF raters rank outputs, and the model learns to produce what humans prefer. Today we ask a harder question: who gets to decide what those preferences should be? The readings show this playing out in real time. Anthropic drew red lines about how Claude could be used. The Pentagon punished them for it. OpenAI signed the deal instead. Four rounds of paired discussion, each with a different partner and a different angle on the alignment problem.
+Last week you explored how human preferences get baked into AI through the training process: RLHF raters rank outputs, and the model learns to produce what humans prefer. Today we ask a harder question: who gets to decide what those preferences should be? The readings show this playing out in real time. Anthropic drew red lines about how Claude could be used. The Pentagon punished them for it. OpenAI signed the deal instead. Four rounds of paired discussion, each with a different partner and a different angle on the alignment problem.
 
 ---
 
@@ -45,11 +44,11 @@ On Tuesday you explored how human preferences get baked into AI through the trai
 
 #### What Is Alignment?
 
-On Tuesday you saw how RLHF works: human raters compare model outputs and pick the "better" one. The model learns to produce responses that humans prefer. But who decides what "better" means?
+Last week you saw how RLHF works: human raters compare model outputs and pick the "better" one. The model learns to produce responses that humans prefer. But who decides what "better" means?
 
 The New Yorker article describes Anthropic's "soul doc," an internal document that lays out how Claude should behave. Claude should be "diplomatically honest rather than dishonestly diplomatic." It should acknowledge the Holocaust and climate change. It should exercise judgment, not just follow orders. These seem like reasonable values. But *someone at Anthropic wrote them down and trained a model to follow them.*
 
-**Discuss with your partner:** What does "alignment" mean? On Tuesday you ranked AI outputs and experienced how subjective "better" is. Now scale that up: a company is deciding the values for an AI used by millions of people. Is that different from what the RLHF raters do, or is it the same problem at a bigger scale? Whose values should AI be aligned with? The company that built it? The government? The users? Some universal standard? Is there such a thing?
+**Discuss with your partner:** What does "alignment" mean? Last week you ranked AI outputs and experienced how subjective "better" is. Now scale that up: a company is deciding the values for an AI used by millions of people. Is that different from what the RLHF raters do, or is it the same problem at a bigger scale? Whose values should AI be aligned with? The company that built it? The government? The users? Some universal standard? Is there such a thing?
 
 **Capture your key points:**
 

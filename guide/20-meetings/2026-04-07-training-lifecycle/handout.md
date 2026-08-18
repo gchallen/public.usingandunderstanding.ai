@@ -40,7 +40,7 @@ Modern AI assistants aren't trained all at once. They go through three distinct 
 
 The tool below generates a real response from each training stage for the same prompt. You'll see **one response** and guess which stage produced it. After guessing, all three responses are revealed so you can compare. Try a few rounds with your partner.
 
-> **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
+> **Demos.** Open the tool your instructor names.
 
 ### Stage 2: Discussion: What Did You Notice?
 
@@ -56,7 +56,7 @@ Companies like OpenAI and Anthropic train their AI assistants using **human feed
 
 Now it's your turn. The tool below generates two responses to the same prompt, each optimized for a different value. Pick which response you think is better, then see what value each was optimized for. Try several rounds with your partner and discuss where you agree and disagree.
 
-> **Demos.** Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.
+> **Demos.** Open the tool your instructor names.
 
 ### Stage 4: Discussion: What Is 'Good' AI?
 

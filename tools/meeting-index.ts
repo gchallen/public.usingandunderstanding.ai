@@ -13,11 +13,29 @@ import { handlingFor } from "./substitutions";
  * way for everyone.
  */
 
-/** Publicly hosted and usable without an account, per the Demos chapter. */
+/**
+ * The Demos chapter sorts the interactive components into three tiers, and this
+ * column used to have two values. Anything not on the open list fell through to
+ * "login", which marked the training-lifecycle meeting unrunnable when both of
+ * its components are tier three -- the tier the chapter says is *better* on
+ * paper and needs no account at all. The one meeting an adopter could most
+ * safely pick was the one the index warned them off.
+ */
+/** Tier one: publicly hosted, usable by anyone. */
 const OPEN_TOOLS = new Set(["markov-babbler", "neuron-explorer", "digit-network"]);
 
-/** Needs an account on the original course site. */
+/** Tier two: makes live model calls, so it needs an account on the original site. */
 const LOGIN_TOOLS = new Set(["llm-explorer", "temperature-compare", "embedding-explorer"]);
+
+/** Tier three: a printed version loses nothing, so no account is needed either way. */
+const PAPER_TOOLS = new Set(["preference-rater", "training-stage-matcher"]);
+
+/**
+ * Components the Demos chapter gives no tier because no meeting here uses one.
+ * Without this they fell through to "needs an account on the original site",
+ * which for a video player is nonsense: you play it from the front of the room.
+ */
+const UNTIERED_TOOLS = new Set(["video-player", "training-simulation"]);
 
 function blockTypes(meeting: MeetingDefinition): Set<string> {
   const types = new Set<string>();
@@ -34,6 +52,26 @@ function blockTypes(meeting: MeetingDefinition): Set<string> {
   }
   walk(meeting.outro ?? []);
   return types;
+}
+
+/** A markdown link into the readings collection, anywhere in the meeting. */
+function linksToAReading(meeting: MeetingDefinition): boolean {
+  let found = false;
+  const walk = (blocks: unknown[]): void => {
+    for (const b of blocks as { content?: unknown[]; [k: string]: unknown }[]) {
+      for (const value of Object.values(b)) {
+        if (typeof value === "string" && /\]\(\/readings\//.test(value)) found = true;
+      }
+      if (Array.isArray(b.content)) walk(b.content);
+    }
+  };
+  walk(meeting.intro);
+  for (const s of meeting.activity?.stages ?? []) {
+    walk(s.content);
+    walk(s.group?.content ?? []);
+  }
+  walk(meeting.outro ?? []);
+  return found;
 }
 
 export function buildMeetingIndex(
@@ -57,23 +95,33 @@ export function buildMeetingIndex(
     // A reading the adopter must supply. A preparation chat is not evidence of
     // one: the final meeting has a preparation conversation about the course
     // itself and no article, and the index used to mark it "yes".
-    const needsReading = types.has("reading-link");
+    //
+    // A prose link into readings/ counts too. The AlphaGo meeting assigns a
+    // documentary and an annotated transcript entirely in prose, so the block
+    // test alone said "no" for a meeting that cannot be taught without it, and
+    // its annotation file shipped orphaned.
+    const needsReading = types.has("reading-link") || linksToAReading(meeting);
 
     const demoBlocks = [...types].filter((x) => {
       const handling = handlingFor(x as Parameters<typeof handlingFor>[0]);
       return handling?.kind === "substitute" && handling.pattern === "demos";
     });
-    // Only the tools an adopter can actually reach count as open. Anything not
-    // on the public list is treated as needing an account, because guessing
-    // generously is how a meeting gets picked and then cannot be taught.
+    // The worst tier a meeting contains, because that is what decides whether
+    // its hands-on stages run. An unrecognised component counts as needing an
+    // account: guessing generously is how a meeting gets picked and then cannot
+    // be taught.
     const tools =
       demoBlocks.length === 0
         ? "none"
-        : demoBlocks.every((d) => OPEN_TOOLS.has(d))
-          ? "open"
-          : demoBlocks.some((d) => LOGIN_TOOLS.has(d) || !OPEN_TOOLS.has(d))
-            ? "**login**"
-            : "open";
+        : demoBlocks.some(
+              (d) =>
+                LOGIN_TOOLS.has(d) ||
+                !(OPEN_TOOLS.has(d) || PAPER_TOOLS.has(d) || UNTIERED_TOOLS.has(d))
+            )
+          ? "**login**"
+          : demoBlocks.every((d) => OPEN_TOOLS.has(d))
+            ? "open"
+            : "paper";
 
     // Discussion is built on a reading. Exploratory puts a tool in front of
     // students. A lab produces an artifact. Everything else ran as a
@@ -122,12 +170,28 @@ export function buildMeetingIndex(
     "teaching rather than assuming it overruns. Read the pacing chapter before",
     "trusting any of these numbers.",
     "",
-    "**Reading** means the meeting assigns an article you will need to supply.",
+    "**Kind** is derived from what the meeting contains. `Discussion` means it",
+    "assigns a reading. `Exploratory` puts an interactive component in front of",
+    "students. `Lab` collects something they made. `Session` runs no activity at",
+    "all, and there are two.",
     "",
-    "**Tools** is what decides whether you can run the hands-on stages. `open`",
-    "means publicly hosted and usable by anyone. `login` means the tool needs an",
-    "account on the original course site, so that stage does not work for you as",
-    "written; the Demos chapter is where to look for what to do instead.",
+    "`Discussion` is also the fallback, and that is the column's weak spot: seven",
+    "of its fifteen rows assign no reading and landed there because nothing else",
+    "matched. The Study Guide Lab is a lab, and Final Project Workshop 2 is a",
+    "workshop whose own predecessor is marked `Lab`. Read `Kind` together with",
+    "`Reading` and `Tools` rather than on its own.",
+    "",
+    "**Reading** means the meeting assigns an article, a transcript, or a film",
+    "you will need to supply. Some assign one in prose rather than as a link",
+    "block, so this column looks for both.",
+    "",
+    "**Tools** is `none` for most meetings. Where it is not, it says whether you",
+    "can run the hands-on stages, using the three tiers from the Demos chapter.",
+    "`open` means publicly hosted and usable",
+    "by anyone. `paper` means the chapter says a printed version is better, so",
+    "you need no account and no substitute hunt. `login` means live model calls",
+    "and an account on the original site, so that stage does not work as written",
+    "and the Demos chapter has the printed replacement.",
     "",
     "**Refers back to** names meetings this one talks about as though the class",
     "was there. Teach it without them, or out of order, and there is prose in the",

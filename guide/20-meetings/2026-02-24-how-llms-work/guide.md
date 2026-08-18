@@ -11,25 +11,26 @@ Hands-on exploration of language model mechanics through interactive demos and c
 **Logistics:**
 - First four stages use the same partners (exploration)
 - Stage 5 onwards uses new partners (question generation and investigation)
-- the cards get sorted at the front, stacking near-duplicates
+- The cards get sorted at the front, stacking near-duplicates
 - You select which question the class investigates — pick one that's fundamental and discussable
 - Seed questions are mixed in silently so there's always something good to choose from
 
 **Pacing:**
-| # | Stage | Duration | Cumulative |
-|---|-------|----------|------------|
-| 1 | Explore: Predictions & Temperature | 15m | 15m |
-| 2 | Discussion: Predictions & Temperature | 5m | 20m |
-| 3 | Explore: Markov Babbler | 15m | 35m |
-| 4 | Discussion: Markov Babbler | 10m | 45m |
-| 5 | Generate Questions | 10m | 55m |
-| 6 | Question Review | 5m | 60m |
-| 7 | Investigate | 12m | 72m |
-| 8 | Share Out | 8m | 80m |
+| Stage | Duration | Cumulative |
+|-------|----------|------------|
+| Explore: Predictions & Temperature | 15m | 15m |
+| Discussion: Predictions & Temperature | 5m | 20m |
+| Explore: Markov Babbler | 15m | 35m |
+| Discussion: Markov Babbler | 10m | 45m |
+| Generate Questions | 10m | 55m |
+| Question Review | 5m | 60m |
+| Investigate | 12m | 72m |
+| Share Out | 8m | 80m |
+| Feedback | 5m | 85m |
 
 **Tips:**
 - During the exploration stages, circulate and note interesting observations students make — use these in the discussion stages
-- For the question review (stage 6), process questions immediately when submissions look mostly complete, then take 1-2 minutes to scan the list before selecting
+- For the question review (stage 6), sort the cards as soon as most of them are in, then take 1-2 minutes to scan the list before selecting
 - Pick an investigation question that's concrete enough to explore in 12 minutes but open enough for genuine inquiry
 - The seed questions ensure there's always a good option even if student questions are narrow
 
@@ -179,7 +180,7 @@ _Class reviews and selects a question to investigate_
 
 > **Facilitation notes**
 >
-> Sort the cards at the front to have GPT aggregate and prioritize the submitted questions. Review the list and select a question that is: (1) fundamental to understanding LLMs, (2) explorable through discussion and reasoning, and (3) not easily answered with a quick Google search. The seed questions ensure there's always a strong option.
+> Sort the cards at the front, stacking near-duplicates, and put the biggest stacks on the board. Review the list and select a question that is: (1) fundamental to understanding LLMs, (2) explorable through discussion and reasoning, and (3) not easily answered with a quick Google search. The seed questions ensure there's always a strong option.
 
 > **On paper: Card Sort.** The AI deduplicated and ranked. Stack near-duplicates by hand; the height of a stack is the frequency signal.
 >
@@ -201,7 +202,7 @@ _Partners investigate the selected question together_
 
 > **Facilitation notes**
 >
-> Students investigate the selected question with the same partner from the question generation stage. They should reason from what they observed in the demos, not just look up answers. their written answer captures their thinking. During share-out, look for groups that arrived at different conclusions.
+> Students investigate the selected question with the same partner from the question generation stage. They should reason from what they observed in the demos, not just look up answers. Their written answer captures their thinking. During share-out, look for groups that arrived at different conclusions.
 
 **Grouping:** 2 per group
 

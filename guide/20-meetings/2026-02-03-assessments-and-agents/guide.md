@@ -38,7 +38,7 @@ _Partners read assessment design docs independently, then discuss_
 **Grouping:** 2 per group · roles: partner
 
 Before you experience the assessment system, take a few minutes to understand how it works.
-**Find a partner** and enter each other's codes below.
+**Find a partner**.
 
 **Role — partner 1:**
 
@@ -76,7 +76,7 @@ _Students work individually on their first conversational assessment_
 > First conversational assessment. Monitor pace. Don't interrupt mid-assessment.
 
 Now it's your turn. Complete the Turing Test assessment individually:
-**[Start the Turing Test](https://www.usingandunderstanding.ai/assessments/turing-test)**
+**Run the Turing Test assessment** (`assessments/turing-test/`, as an oral exam or on paper)
 This is a real conversational assessment — your first one for this course.
 - **Be genuine.**
 - **Take your time.** About 20 minutes is typical.
@@ -121,7 +121,7 @@ _New partners explore multi-agent AI communication_
 
 The assessment system you just used is one form of multi-agent AI communication: structured, purpose-built. What happens when agent communication is less structured?
 
-**Find a new partner** and enter each other's codes below.
+**Find a new partner**.
 
 **Role — partner 1:**
 

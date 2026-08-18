@@ -7,6 +7,7 @@ const meeting: MeetingDefinition = {
     title: "Neurons and Networks",
     summary:
       "Hands-on exploration of artificial neurons and neural networks through interactive visualizations",
+    dependsOn: ["2026-02-24-how-llms-work", "2026-03-05-does-ai-understand"],
   },
   intro: [
     {

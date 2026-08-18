@@ -10,20 +10,20 @@ Build a website with an AI site builder — brainstorm, build, share.
 
 **Logistics:**
 - Pick one builder and have the whole class use it. Mixing tools costs you the ability to help from the front of the room.
-- Options that worked or would work: your site builder, [Lovable](https://lovable.dev), [Bolt](https://bolt.new), [v0](https://v0.dev), or Claude Artifacts. See the external tools chapter for how to choose and what each costs.
+- Pick the builder before the session, not during it. The External Tools chapter compares the five that would work, with what each costs and which part of that is most likely to change.
 - Check the free tier the week before. These change often, and a tier that stopped being free is a dead lab.
 - No setup should be required beyond creating an account
 - Students submit their published project URL at the end of stage 3, and we browse them in stage 4
 - The link-submission component uses `kind: "basic"` so it accepts any live http(s) URL (no AI-chat extraction)
 
 **Pacing:**
-| # | Stage | Duration | Cumulative |
-|---|-------|----------|------------|
-| 0 | Brainstorming | 10m | 10m |
-| 1 | Share-Out | 10m | 20m |
-| 2 | Build Your Site | 35m | 55m |
-| 3 | Gallery | 15m | 70m |
-| 4 | Feedback | 5m | 75m |
+| Stage | Duration | Cumulative |
+|-------|----------|------------|
+| Brainstorming | 10m | 10m |
+| Share-Out | 10m | 20m |
+| Build Your Site | 35m | 55m |
+| Gallery | 15m | 70m |
+| Feedback | 5m | 75m |
 
 **Tips:**
 - During brainstorming, push students away from "I don't know" toward anything concrete — a hobby, a class project, a side interest. The worst website is the one that never got started because the student couldn't decide what to build.

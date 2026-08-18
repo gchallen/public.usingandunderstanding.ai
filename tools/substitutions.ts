@@ -38,7 +38,7 @@ const sub = (pattern: PatternId, note: string): BlockHandling => ({
 
 /**
  * Exhaustive by construction: `Record<ContentBlock["type"], …>` means adding a
- * block type to `@repo/types` fails this file to compile until someone decides
+ * block type to `content/types.ts` fails this file to compile until someone decides
  * how paper handles it. That is deliberately the same guarantee the web print
  * renderer gets from its `never` check, moved to build time.
  */
@@ -91,10 +91,11 @@ export const BLOCK_HANDLING: Record<ContentBlock["type"], BlockHandling> = {
   // The largest substitution: 13 uses across 7 meetings.
   "group-chat": sub(
     "role-discussion",
-    "The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair."
+    "The facilitator was told to encourage students to talk to each other rather than type at it, and to push them off the keyboard. Print the objectives as a checklist and rotate a chair."
   ),
 
-  // Pre-class readiness, in all ten discussion meetings.
+  // Pre-class readiness, in the ten meetings that ran one. Nine of them assign
+  // a reading; the last is about the course.
   "preparation-chat": sub(
     "reading-ticket",
     "The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing."
@@ -130,8 +131,8 @@ export const BLOCK_HANDLING: Record<ContentBlock["type"], BlockHandling> = {
 
 export function handlingFor(type: ContentBlock["type"]): BlockHandling {
   // Safe: the record is keyed by the full union, so the compiler has already
-  // proved every block type is present. noUncheckedIndexedAccess widens the
-  // lookup anyway.
+  // proved every block type is present. The cast is for the kit's own tsconfig,
+  // which sets noUncheckedIndexedAccess and would otherwise widen this lookup.
   return BLOCK_HANDLING[type] as BlockHandling;
 }
 

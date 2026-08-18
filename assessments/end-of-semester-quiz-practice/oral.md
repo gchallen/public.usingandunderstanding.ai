@@ -1,10 +1,20 @@
 # End-of-Semester Quiz Practice — oral exam
 
+_The AI-conversation original ran all semester. Neither the oral nor the written version below has been run with students: they are the same rubric in a form a person can administer, and their timings are derived rather than observed. See [the README](../README.md)._
+
 Practice for the End-of-Semester Quiz — same five reflection themes pushed a bit harder so you arrive prepared.
+
+## Before you use this
+
+**These appear only in the notes to you**, as illustrations of the kind of answer that counts. Read them that way rather than as a list of what your students should say:
+
+- Bolt (a tool the original course used)
+- v0.dev (a tool the original course used)
+- Claude Artifacts (a tool the original course used)
 
 ## How to run it
 
-One student at a time. Budget about five minutes per section, so roughly 25 minutes each. Multiply by your class size before you commit to this: it is the expensive option and it is the better one.
+One student at a time. Allow 5 minutes per section, so about **25 minutes each**. Multiply by your class size before you commit to this. It is the expensive option and it is the better one.
 
 You are doing what the AI interviewer did: ask an opening question, listen, and follow up only where the student has not already covered something.
 
@@ -23,7 +33,9 @@ Ask open first and specific only as needed. If you find yourself naming the conc
 
 **What you are looking for:** Student names a specific concept about how AI works, explains it in their own words, and engages with a follow-up that pushes their understanding
 
-**Open with something like:** tell me what you know about this.
+**Open with something like:** Name a specific concept about how AI works.
+
+**Then, only where they have not got there on their own, get them to:** explain it in their own words; engage with a follow-up that pushes their understanding.
 
 **Criteria**
 
@@ -31,10 +43,10 @@ Ask open first and specific only as needed. If you find yourself naming the conc
 - Explains the concept accurately enough to show real understanding
 - Engages with a probing follow-up that pushes beyond their initial explanation
 
-<details><summary>Background, if you need it</summary>
+<details><summary>Background from the original course, if you need it</summary>
 
 This is the practice version of a gentle factual reflection. Compared to the
-proctored quiz, this portion adds a third criterion: the student should engage
+graded quiz, this portion adds a third criterion: the student should engage
 with a probing follow-up that asks them to go a step deeper than their initial
 explanation. The goal is to surface gaps so they can shore them up before the
 real quiz — NOT to embarrass them.
@@ -94,7 +106,9 @@ shore it up (the relevant meeting, lab, or reading) before moving on.
 
 **What you are looking for:** Student describes a specific AI activity, reflects on why it was useful, and grapples with what it would NOT be a good fit for
 
-**Open with something like:** what do you think, and why? Then push: what is the strongest argument against your position?
+**Open with something like:** Describe a specific AI activity.
+
+**Then, only where they have not got there on their own, get them to:** reflect on why it was useful; grapple with what it would NOT be a good fit for.
 
 **Criteria**
 
@@ -102,9 +116,9 @@ shore it up (the relevant meeting, lab, or reading) before moving on.
 - Reflects on what made it useful and how they'd carry it forward
 - Identifies where the same approach would NOT work, and why
 
-<details><summary>Background, if you need it</summary>
+<details><summary>Background from the original course, if you need it</summary>
 
-The practice version pushes harder than the proctored quiz by adding a third
+The practice version pushes harder than the graded quiz by adding a third
 criterion: students must articulate the LIMITS of the approach they're proposing
 to carry forward. This guards against students leaving the course with an
 uncritical "AI is great for everything" stance.
@@ -115,7 +129,6 @@ Likely activities students will draw on:
 - Creative media (DALL-E, Midjourney, Suno, Pika)
 - Data analysis and visualization
 - Study guides, summaries, research help
-- Mobile app prototyping
 - Writing assistance, brainstorming, drafting
 - Personal uses outside class (planning, language practice, etc.)
 
@@ -158,7 +171,9 @@ own judgment about when to use AI vs. when not to.
 
 **What you are looking for:** Student articulates a specific forward-looking practice, explains why it serves their goals, and engages with a tension or counterpressure to that practice
 
-**Open with something like:** what do you think, and why? Then push: what is the strongest argument against your position?
+**Open with something like:** Articulate a specific forward-looking practice.
+
+**Then, only where they have not got there on their own, get them to:** explain why it serves their goals; engage with a tension or counterpressure to that practice.
 
 **Criteria**
 
@@ -166,11 +181,11 @@ own judgment about when to use AI vs. when not to.
 - Explains why — what value or risk that practice serves
 - Engages with a tension or counterpressure to that practice
 
-<details><summary>Background, if you need it</summary>
+<details><summary>Background from the original course, if you need it</summary>
 
-The practice version pushes harder than the proctored quiz by adding a third
+The practice version pushes harder than the graded quiz by adding a third
 criterion: students must engage with a tension or counterpressure to their stated
-practice. The proctored quiz will NOT do this — but practicing it builds a more
+practice. The graded quiz will NOT do this — but practicing it builds a more
 robust stance.
 
 Likely framings:
@@ -228,7 +243,9 @@ of their stance — it's to help them stress-test it before they have to live by
 
 **What you are looking for:** Student names a specific concern, explains the stakes, and grapples with a counterargument
 
-**Open with something like:** what do you think, and why? Then push: what is the strongest argument against your position?
+**Open with something like:** Name a specific concern.
+
+**Then, only where they have not got there on their own, get them to:** explain the stakes; grapple with a counterargument.
 
 **Criteria**
 
@@ -236,11 +253,11 @@ of their stance — it's to help them stress-test it before they have to live by
 - Explains why it concerns them — the mechanism, the harm, or who is affected
 - Engages thoughtfully with a counterargument when challenged
 
-<details><summary>Background, if you need it</summary>
+<details><summary>Background from the original course, if you need it</summary>
 
-The practice version pushes harder than the proctored quiz by adding a third
+The practice version pushes harder than the graded quiz by adding a third
 criterion: students must engage with a counterargument to their concern. The
-proctored quiz will NOT push back — it will only listen. But the practice version
+graded quiz will NOT push back — it will only listen. But the practice version
 should help students sharpen their concerns by stress-testing them.
 
 Likely concerns (course-covered):
@@ -305,7 +322,9 @@ doesn't have to "win" the exchange; they just have to engage with it substantive
 
 **What you are looking for:** Student names a specific prior belief, describes what shifted it, and articulates what would have to be true for the shift to be wrong
 
-**Open with something like:** what do you think, and why? Then push: what is the strongest argument against your position?
+**Open with something like:** Name a specific prior belief.
+
+**Then, only where they have not got there on their own, get them to:** describe what shifted it; articulate what would have to be true for the shift to be wrong.
 
 **Criteria**
 
@@ -313,9 +332,9 @@ doesn't have to "win" the exchange; they just have to engage with it substantive
 - Describes what shifted it — a course experience, reading, conversation, or activity
 - Articulates what would have to be true for the shift to be wrong, OR identifies what they'd want to learn next to test it
 
-<details><summary>Background, if you need it</summary>
+<details><summary>Background from the original course, if you need it</summary>
 
-The practice version pushes harder than the proctored quiz by adding a third
+The practice version pushes harder than the graded quiz by adding a third
 criterion: students must show epistemic humility about their own shift. Either
 they identify what would have to be true for their new view to be wrong, OR
 they identify what they'd want to learn next to further test the shift. This
@@ -373,6 +392,67 @@ legitimate — push them to articulate why the course's strongest case for
 shifting didn't move them.
 ```
 
+## Turning criteria into a grade
+
+Grade each section first, then the whole assessment.
+
+**Per section**
+
+Count the criteria you marked met, and the ones the student did not reach at all. Take the first line that applies:
+
+- Every criterion met, **and** the student showed depth or nuance you did not prompt for → top grade.
+- Every criterion met, but nothing beyond an adequate answer → second grade.
+- More than half met and none missed entirely → second grade.
+- Most criteria not reached at all → lowest.
+- Anything else — exactly half met, fewer than half met, or one criterion missed entirely → second-lowest.
+
+That last line is the catch-all, and it is there because the obvious version of this rule had a hole. With three criteria you can write "fewer than half" and "most not reached" and feel the ground is covered. With two criteria, one met and one missed, neither fires: one of two is not fewer than half, and one of two is not most. That is the commonest outcome on a two-criterion section, and an examiner working from the earlier wording had nothing to apply.
+
+**Overall**
+
+- The overall grade is the grade of the student's **weakest** section. Not an average, and not a judgment call. "At or near the lower one" used to stand here, and the slack in those three words was a whole grade wide: it let a fluent bluffer who was strong in one section out-rank a quieter student who had actually done the reading, and left the marker nothing to say to an appeal.
+- A partly-met criterion is a gap, not a success. Do not round it up.
+- The top grade is rare. It needs original thinking, nuance nobody asked for, or a connection you did not suggest.
+- On opinion sections, grade the reasoning and the engagement, not the position. Agreeing with a counterargument, or noting it in a sentence, is not engaging with it: the student has to push back, qualify, or develop.
+
+This is the rule the original evaluator used, stated in full. It is what makes a grade something you can show a student rather than something you assert.
+
 ## Recording the result
 
-One grade for the whole assessment, plus a note on which criteria needed prompting. The note is worth more than the grade when you sit down to plan the next session: it tells you what the room did not have.
+One grade for the whole assessment, plus the note on which criteria needed prompting. The note feeds the top-grade test above, and it tells you what the room did not have when you plan the next session.
+
+Fill a record sheet per student while you go. Reconstructing it afterward does not work, and an assessment you cannot show is one you cannot defend.
+
+---
+
+## Record sheet
+
+**Student:** ______________________  **Date:** ____________  **Assessment:** End-of-Semester Quiz Practice
+
+| Section | Criterion | Met | Partly | Not reached | Questions I had to ask |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Identifies a specific concept (not a vague generality like "AI is complicated") |  |  |  |  |
+| 1 | Explains the concept accurately enough to show real understanding |  |  |  |  |
+| 1 | Engages with a probing follow-up that pushes beyond their initial explanation |  |  |  |  |
+| 2 | Describes a specific, concrete activity (not "I used ChatGPT") |  |  |  |  |
+| 2 | Reflects on what made it useful and how they'd carry it forward |  |  |  |  |
+| 2 | Identifies where the same approach would NOT work, and why |  |  |  |  |
+| 3 | Names a specific practice, boundary, or principle (not just "I'll be careful") |  |  |  |  |
+| 3 | Explains why — what value or risk that practice serves |  |  |  |  |
+| 3 | Engages with a tension or counterpressure to that practice |  |  |  |  |
+| 4 | Names a specific concern (not generic "AI is scary") |  |  |  |  |
+| 4 | Explains why it concerns them — the mechanism, the harm, or who is affected |  |  |  |  |
+| 4 | Engages thoughtfully with a counterargument when challenged |  |  |  |  |
+| 5 | Names a specific prior belief (not "I didn't know much about AI") |  |  |  |  |
+| 5 | Describes what shifted it — a course experience, reading, conversation, or activity |  |  |  |  |
+| 5 | Articulates what would have to be true for the shift to be wrong, OR identifies what they'd want to learn next to test it |  |  |  |  |
+
+**Anything unprompted worth noting** (this is the top-grade test):
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Section grades:** ______  **Overall (= the weakest section):** ______

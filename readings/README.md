@@ -36,4 +36,4 @@ citation. Those are the ones where you are on your own.
 | How to Guess If Your Job Will Exist in Five Years | The Atlantic | -- | <https://www.theatlantic.com/ideas/2026/03/ai-job-loss-jevons-paradox/686520/> |
 | Michael Pollan Punctures the AI Bubble | The Atlantic | -- | <https://www.theatlantic.com/books/2026/02/michael-pollans-new-book-pops-ai-bubble/686119/> |
 | What Teens Are Doing With Those Role-Playing Chatbots | The New York Times | 3 | <https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html> |
-| Opinion | Americans Are Trying to Stop Data Centers Because They Can't Stop A.I. | The New York Times | 2 | <https://www.nytimes.com/2026/03/04/opinion/data-centers-ai-regulation.html> |
+| Opinion \| Americans Are Trying to Stop Data Centers Because They Can't Stop A.I. | The New York Times | 2 | <https://www.nytimes.com/2026/03/04/opinion/data-centers-ai-regulation.html> |

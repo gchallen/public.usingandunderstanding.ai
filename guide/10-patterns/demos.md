@@ -18,7 +18,6 @@ _The substitutions below are designs and their timings are estimates; none has b
 
 ## What the software was doing
 
-
 Eight interactive components let students manipulate a concept rather than hear about it: adjust the weights on a single neuron, watch a small network learn to read handwriting, generate text from a word-frequency table, see the actual probabilities behind a model's next word, compare the same prompt at different temperatures, do arithmetic on word meanings.
 
 These are the exploratory meetings. The whole argument for them is that a student can try something you did not anticipate.
@@ -37,11 +36,13 @@ Point your students at **usingandunderstanding.ai/resources** and name the tool.
 
 This covers the Neurons and Networks meeting almost completely.
 
+Two more components exist and no meeting in this kit uses them, so they get no tier: a training simulation and a video player. If you add a meeting that uses one, you are on your own for the paper version.
+
 ## Tier two: needs an account
 
 The LLM Probability Explorer, Temperature Compare, and Embedding Explorer make live model calls, so they cannot be opened to the world.
 
-**Print the artifact instead.** This works better than it sounds, because for two of the three the comparison is the lesson and the comparison is static. One prompt at three temperatures, printed side by side, delivers most of what Temperature Compare delivers. For the probability explorer, print the top ten next words for five prompts, including one where the model is confident and one where it is not.
+**Print the artifact instead.** This should work better than it sounds, because for two of the three the comparison is the lesson and the comparison is static. Nobody has printed one. One prompt at three temperatures, printed side by side, delivers most of what Temperature Compare delivers. For the probability explorer, print the top ten next words for five prompts, including one where the model is confident and one where it is not.
 
 There is a real gain hiding here. In the live version a dozen students look at a dozen different screens, and the share-out turns to mush. With one printed page everyone is arguing about the same evidence.
 
@@ -49,7 +50,9 @@ If you have an account of your own, projecting it and taking requests from the r
 
 ## Tier three: better on paper
 
-Two of these lose nothing at all.
+_Designed, not observed. The paper versions below were never run; what follows is an argument about what these two components are doing, not a report of a printed version working._
+
+Two of these are doing something a printed version should carry completely.
 
 **Preference Rater.** Print six prompt-and-response pairs. Students circle the better response. Tally the votes on the board. Then tell them that the tally they just produced is what reinforcement learning from human feedback does. The board is the demonstration.
 
@@ -57,7 +60,9 @@ Two of these lose nothing at all.
 
 ## On the handout
 
-For tier one, the address and the "things to try" list already written into the meeting. For tiers two and three, the printed tables, with the same list rewritten as "things to notice."
+The generated handout prints the meeting's own **things to notice** list wherever the meeting has one, and a line telling students to open the tool their instructor names. It does not print the address, and it does not print any table.
+
+For tier one, write the address on the board. For tiers two and three, the printed tables are yours to make: they are the substitution, and the generator has no way to produce them.
 
 ## What you lose
 

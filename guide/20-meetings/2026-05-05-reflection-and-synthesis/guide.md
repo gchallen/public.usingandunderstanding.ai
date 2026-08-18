@@ -143,7 +143,7 @@ Some of those bets paid off. Some did not. You are the only people in the room w
 
 Then push to the bet underneath: *what about the design* made it work? That is the part that needs to survive into next year.
 
-> **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
+> **On paper: Structured Role Discussion.** The facilitator was told to encourage students to talk to each other rather than type at it, and to push them off the keyboard. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
 >
@@ -195,7 +195,7 @@ Push past surface complaints. "Less reading" is a complaint; "fewer readings pai
 
 The hardest and most useful question: **what did the course never talk about that it should have?**
 
-> **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
+> **On paper: Structured Role Discussion.** The facilitator was told to encourage students to talk to each other rather than type at it, and to push them off the keyboard. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
 >

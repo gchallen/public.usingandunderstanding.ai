@@ -18,9 +18,9 @@ Today we're exploring the *shape* of AI intelligence. These systems are genuinel
 
 Your job isn't to prove AI is dumb. It isn't. Your job is to become a better collaborator by understanding where the edges are. A good carpenter knows their tools—what the chisel excels at, where the saw binds. That knowledge doesn't diminish the tools; it lets you build better things.
 
-**Find a partner** and enter each other's codes below to form your team. You'll work through a series of challenges together.
+**Find a partner** to form your team. You'll work through a series of challenges together.
 
-**Tip:** This site has a built-in AI chat at /chat you can use for the scavenger hunt. Unlike ChatGPT or other popular chatbots, our chat connects you directly to the AI model without extra features like web search. That makes it easier to see what the AI actually knows (and doesn't know) on its own.
+**Tip:** Use whatever chatbot your instructor names. A plain one is better here than a search-augmented one: it is easier to see what the model knows on its own.
 
 **Roles:**
 - **Driver:** Types prompts and interacts with the AI

@@ -8,23 +8,23 @@ Pitch your final project, get peer feedback, refine your scope, and start buildi
 
 **Philosophy:** The final project is open-ended by design, which means the main risk is over-scoping. Students will want to build ambitious things; your job is to help them pick something they can actually finish in two in-class sessions. The pitch-feedback step exists specifically to pressure-test scope. Don't let students out of that stage without a concrete, narrowed idea.
 
-The second risk is tool paralysis. Students switching between Replit, ChatGPT, and Claude without committing will lose a full session to setup. During the build stage, push them toward "pick one tool and get something running."
+The second risk is tool paralysis. Students switching between your site builder, ChatGPT, and Claude without committing will lose a full session to setup. During the build stage, push them toward "pick one tool and get something running."
 
 **Logistics:**
-- Students may use whatever AI tools fit their project: Replit for code/sites, ChatGPT or Claude for text or research, creative tools for media, etc.
+- Students may use whatever AI tools fit their project: your site builder for code/sites, ChatGPT or Claude for text or research, creative tools for media, etc.
 - Pitch partners are paired via the group label; each person pitches and gets feedback in turn
 - Refined pitches and progress links are collected via the normal submission components
 - No reading, no preparation
 
 **Pacing:**
-| # | Stage | Duration | Cumulative |
-|---|-------|----------|------------|
-| 1 | Brainstorm Your Project | 10m | 10m |
-| 2 | Pitch + Peer Feedback | 20m | 30m |
-| 3 | Refine Your Proposal | 10m | 40m |
-| 4 | Build / Setup | 35m | 75m |
-| 5 | Progress Check-In | 5m | 80m |
-| 6 | Feedback | 5m | 85m |
+| Stage | Duration | Cumulative |
+|-------|----------|------------|
+| Brainstorm Your Project | 10m | 10m |
+| Pitch + Peer Feedback | 20m | 30m |
+| Refine Your Proposal | 10m | 40m |
+| Build / Setup | 35m | 75m |
+| Progress Check-In | 5m | 80m |
+| Feedback | 5m | 85m |
 
 **Tips:**
 - In brainstorm, the stuck student says "I don't know what to build." Redirect to: "What's a thing that annoys you that AI could help with?" or "What was your favorite lab this semester? Could you extend it?"
@@ -150,7 +150,7 @@ _Start building your project_
 >
 > Main work stage. Walk the room. The three common failure modes:
 > 
-> 1. **Tool paralysis** — switching between Replit, ChatGPT, and Claude without committing. Push toward "pick one and get something working in the next ten minutes."
+> 1. **Tool paralysis** — switching between your site builder, ChatGPT, and Claude without committing. Push toward "pick one and get something working in the next ten minutes."
 > 2. **Fighting the AI on details** — redirect to "describe what you want overall and let it rebuild."
 > 3. **Silent struggle** — some students won't ask for help. Check in with the quiet ones.
 > 

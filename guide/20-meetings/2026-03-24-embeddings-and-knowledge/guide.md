@@ -22,9 +22,9 @@ The session uses **agent-guided interaction** for the group discussion stage. In
 | Stage | Duration | Cumulative |
 |-------|----------|------------|
 | Guided Exploration | 15m | 15m |
-| Question Generation | 5m | 20m |
+| What Surprised You? | 5m | 20m |
 | Paired Sharing | 10m | 30m |
-| Agent-Guided Interaction | 15m | 45m |
+| Group Discussion | 15m | 45m |
 | Class Synthesis | 15m | 60m |
 | Wrap-Up | 5m | 65m |
 | Feedback | 5m | 70m |
@@ -144,7 +144,7 @@ Discuss your embedding discoveries with your group. An AI facilitator will guide
 
 This stage uses **agent-guided interaction**: instead of writing a summary, your group completes this stage by demonstrating to the facilitator that you've engaged meaningfully with what you discovered. The facilitator will let you know when you're done.
 
-> **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
+> **On paper: Structured Role Discussion.** The facilitator was told to encourage students to talk to each other rather than type at it, and to push them off the keyboard. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
 >
@@ -158,7 +158,7 @@ _Class reconvenes for instructor-led discussion_
 
 > **Facilitation notes**
 >
-> Use the text submissions and group chat transcripts to identify 3-4 themes. Common ones: (1) embeddings encode cultural biases from training data, (2) proximity captures usage patterns, not "meaning" in a philosophical sense, (3) analogies work surprisingly well for some relationships and fail for others, (4) this is how the RAG system on the course website works. Connect to the bigger arc: we've seen how LLMs predict the next token (Week 4), how neural networks learn from data (Week 5), and now how meaning gets encoded geometrically. These are layers of the same system.
+> Use the text submissions and group chat transcripts to identify 3-4 themes. Common ones: (1) embeddings encode cultural biases from training data, (2) proximity captures usage patterns, not "meaning" in a philosophical sense, (3) analogies work surprisingly well for some relationships and fail for others, (4) this is how the RAG system on the course website works. Connect to the bigger arc: we've seen how LLMs predict the next token, how neural networks learn from data, and now how meaning gets encoded geometrically. These are layers of the same system.
 > 
 > **High-dimensionality insight**: If students noticed that different words share many neighbors, surface the dimensionality point. In 1,536 dimensions, "king" can be near "queen" (royalty), "ruler" (authority), AND "chess" (games) simultaneously — each relationship in a different direction. In 2D or 3D this would be impossible. The abundance of dimensions is what makes embeddings work: there's room for thousands of independent meaning directions without interference. This is why the 2D scatter plot is a lossy projection — the real structure lives in a space we can't visualize.
 

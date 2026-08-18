@@ -15,10 +15,9 @@ _The procedure below is a design: the software did this job all semester, the pa
 
 ## What the software was doing
 
-
 Students typed a response, a question, or a list of strategies. The submissions went to a server. An AI read all of them at once and handed the instructor something usable: discussion questions aimed at named students, a deduplicated and ranked question list, or a set of strategies sorted into what groups agreed worked, what they agreed didn't, and where they disagreed.
 
-That last category matters most. The prompt that produced it said so outright: the disputed pile is the pedagogically valuable one.
+That last category matters most. The meeting's own facilitation notes say so outright: the disputed pile is the pedagogically valuable one.
 
 None of this required a computer. It required someone to read a dozen things quickly and decide which three were worth the room's attention.
 
@@ -42,13 +41,13 @@ Three piles, and the pile names change with the task:
 
 ## On the handout
 
-Space to copy their own cards, so they keep a record of what they submitted. Then a "From the board" area of six ruled lines. Without it the sort evaporates when the bell rings.
+The generated handout gives you a "From the board" area of six ruled lines. That is what stops the sort evaporating when the bell rings, and it is all the generator prints.
 
-For the question version, add a boxed line: *the question our group is investigating.* For strategies, a three-column table with four rows.
+Two things are worth adding by hand before you photocopy, because the generator does not produce either. Space at the top for students to copy their own cards, so they keep a record of what they submitted. And, for the question version, a boxed line: *the question our group is investigating.* For the strategies version, a three-column table with four rows.
 
 ## What you lose
 
-Speed. A collection point costs four or five minutes, estimated, against roughly fifteen seconds of machine time. Meetings with three collection points, and there are several, lose about a fifth of the period, and the answer is to cut a round rather than to hurry all of them. See the pacing chapter.
+Speed. A collection point costs four or five minutes, estimated, against roughly fifteen seconds of machine time. Four meetings have three collection points, and those lose about a fifth of the period. The answer is to cut a round rather than to hurry all of them. See the pacing chapter for what counts as one.
 
 You also cannot sort and circulate at once, and the cards go in the recycling at the end of the day. The database kept everything.
 
@@ -56,7 +55,7 @@ You also cannot sort and circulate at once, and the cards go in the recycling at
 
 _Predictions, not observations. The paper version has not been run; these are what it is designed to buy you._
 
-You read every card. In the software version the instructor reads the AI's summary, not the submissions, and that is a real loss disguised as a convenience. Sorting by hand puts you back in contact with what your class actually thinks.
+You read every card. That is not a change everywhere: for the question boards the instructor projected the submissions and read them with the room. But where the AI sorted student work into categories, the instructor worked from the categories, and the Study Guide Lab's own notes say to focus on the disputed pile without ever saying to read the pile. Sorting by hand puts you back in contact with what your class actually wrote.
 
 The sort is public. Students watch you decide what is interesting and why, which is a demonstration of judgment they otherwise never see.
 

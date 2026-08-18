@@ -20,8 +20,8 @@ On Tuesday, we explored two edges of AI intelligence:
 
 Today we're continuing with new challenges. You'll work with the same partner format: **driver** (types prompts) and **observer** (watches and documents). Roles rotate between stages.
 
-**Find your partner** and enter each other's codes below to form your team.
-**Reminder:** You can use the built-in AI chat at /chat for these challenges.
+**Find your partner** to form your team.
+**Reminder:** Use the chatbot your instructor named for these challenges.
 
 ---
 

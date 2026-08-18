@@ -9,7 +9,7 @@ Pair discussion of the energy, human, intellectual, and political costs of AI
 **Philosophy:** Four rounds of paired discussion, each tackling a different dimension of AI's costs. Partners rotate each round. The questions build from concrete physical costs to systemic governance questions. Round 2 introduces human labor costs not covered by the readings, providing context directly in the discussion prompt. Share-out stages between rounds let you surface disagreements and bridge to the next theme.
 
 **Logistics:**
-- Four discussion rounds with new partners each time (4 GroupActivity blocks with the same `group` key)
+- Four discussion rounds with new partners each time (4 paired rounds sharing one grouping)
 - Each round has a 15-minute discussion followed by a 5-minute share-out
 - No roles — this is peer discussion
 - One partner should capture key points in their written answer each round
@@ -28,6 +28,7 @@ Pair discussion of the energy, human, intellectual, and political costs of AI
 | Round 4: Who Decides? | 15m | 75m |
 | Round 4: Share Out | 5m | 80m |
 | Wrap-Up | 5m | 85m |
+| Feedback | 5m | 90m |
 
 **Tips:**
 - Round 2 is the most emotionally charged — give pairs space to react before pushing for analysis
@@ -52,8 +53,7 @@ You should **read all three articles** before today's discussion:
 
 - Reading: [The Hypocrisy at the Heart of the AI Industry](../../../readings/the-hypocrisy-at-the-heart-of-the-ai-industry-theatlantic-8429.md) · The Atlantic
 
-Please complete the preparation conversation below before class.
-This is part of attendance for today's meeting.
+Come to class having prepared the reading.
 
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >
@@ -65,7 +65,7 @@ This is part of attendance for today's meeting.
 
 ### Today's Plan
 
-On Monday you explored how AI represents meaning as geometry, with words becoming points in a space shaped entirely by training data. Today we ask a different question: what does it cost to produce that training data and the infrastructure to process it?
+On Tuesday you explored how AI represents meaning as geometry, with words becoming points in a space shaped entirely by training data. Today we ask a different question: what does it cost to produce that training data and the infrastructure to process it?
 
 The costs are bigger and more varied than you might expect. Four rounds of paired discussion, each with a different partner and a different dimension of cost. After each round, we'll hear from a few pairs before moving on.
 
@@ -135,7 +135,7 @@ But the physical infrastructure is only one layer of hidden human cost. AI syste
 
 _Expected response: What did you and your partner discuss? Where did you agree or disagree?_
 
-> **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
+> **On paper: Structured Role Discussion.** The facilitator was told to encourage students to talk to each other rather than type at it, and to push them off the keyboard. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
 >
@@ -221,7 +221,7 @@ Local communities are fighting data center construction because it's the one tan
 
 _Expected response: What did you and your partner discuss? Where did you agree or disagree?_
 
-> **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
+> **On paper: Structured Role Discussion.** The facilitator was told to encourage students to talk to each other rather than type at it, and to push them off the keyboard. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
 >
@@ -255,7 +255,7 @@ _Brief closing reflection_
 
 Four rounds, four kinds of cost: energy and infrastructure, environmental justice and human labor, intellectual property, and governance. The through-line is not that AI is too expensive. It's that the costs are real, they're unequally distributed, and right now almost nobody is deciding how to manage them.
 
-On Monday, you saw that AI represents meaning as geometry shaped by training data. Today you saw what it takes to produce that training data and the infrastructure to process it. The technical and the human sides of AI are inseparable. Pay attention to both as the course continues.
+On Tuesday, you saw that AI represents meaning as geometry shaped by training data. Today you saw what it takes to produce that training data and the infrastructure to process it. The technical and the human sides of AI are inseparable. Pay attention to both as the course continues.
 
 ### Stage 10: Feedback
 

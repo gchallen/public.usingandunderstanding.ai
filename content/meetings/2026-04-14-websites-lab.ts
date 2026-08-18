@@ -28,7 +28,7 @@ You'll brainstorm what you want to build, share ideas, build it with an AI site 
 
 **Logistics:**
 - Pick one builder and have the whole class use it. Mixing tools costs you the ability to help from the front of the room.
-- Options that worked or would work: [Replit](https://replit.com), [Lovable](https://lovable.dev), [Bolt](https://bolt.new), [v0](https://v0.dev), or Claude Artifacts. See the external tools chapter for how to choose and what each costs.
+- Pick the builder before the session, not during it. The External Tools chapter compares the five that would work, with what each costs and which part of that is most likely to change.
 - Check the free tier the week before. These change often, and a tier that stopped being free is a dead lab.
 - No setup should be required beyond creating an account
 - Students submit their published project URL at the end of stage 3, and we browse them in stage 4

@@ -1,12 +1,12 @@
 # The patterns
 
 Six chapters on what the course website was doing during class, and how to run
-each of those things without it. Five are classroom procedures. The sixth is a
-decision about third-party tools.
+each of those things without it. Five are classroom procedures. The sixth is
+mostly a decision about third-party tools, with a short procedure attached.
 
 ## What is evidence here, and what is not
 
-These chapters mix three kinds of claim, and it is worth knowing which is which
+These chapters mix four kinds of claim, and it is worth knowing which is which
 before you plan a class around one.
 
 **Observed.** What the software did, and what happened when it did. The course
@@ -23,13 +23,15 @@ someone who watched the machine do it and formed strong opinions about what it
 was for. Translations from a working original are a reasonable starting point.
 They are not tested practice, and the first person to run one will be you.
 
-**Predicted.** The "what it should gain you" sections. These say what a
-procedure is designed to buy you, and since none has been run, none of it has
-been seen. They are the most confident writing in these chapters and the least
-evidenced, which is why they are labelled where they appear.
+**Predicted.** The "what it should gain you" sections, and the "what you gain"
+section of the External Tools chapter. These say what a procedure is designed to
+buy you, and since none has been run, none of it has been seen. They are the most
+confident writing in these chapters and the least evidenced, which is why they
+are labelled where they appear.
 
 **Estimated.** Every number attached to a paper procedure. Four seconds to grade
-a ticket at the door, ninety seconds per artifact in a gallery walk, four to five
+a ticket at the door, ninety seconds per artifact on the projector when a room
+cannot run a gallery walk, four to five
 minutes per collection point, five minutes for the pairing step. These are
 guesses by someone who knows the room. None was timed, because there was nothing
 to time: the software was doing the job.

@@ -24,7 +24,7 @@ Today has two parts. First, you'll learn how our conversational assessment syste
 **Group of 2.** Names: __________  __________  
 
 Before you experience the assessment system, take a few minutes to understand how it works.
-**Find a partner** and enter each other's codes below.
+**Find a partner**.
 
 **Role — partner 1:**
 
@@ -60,7 +60,7 @@ Once you've both finished reading, discuss together:
 ### Stage 2: Complete the Turing Test
 
 Now it's your turn. Complete the Turing Test assessment individually:
-**[Start the Turing Test](https://www.usingandunderstanding.ai/assessments/turing-test)**
+**Run the Turing Test assessment** (`assessments/turing-test/`, as an oral exam or on paper)
 This is a real conversational assessment — your first one for this course.
 - **Be genuine.**
 - **Take your time.** About 20 minutes is typical.
@@ -91,7 +91,7 @@ Now that you've experienced a conversational assessment, we'd like your honest f
 
 The assessment system you just used is one form of multi-agent AI communication: structured, purpose-built. What happens when agent communication is less structured?
 
-**Find a new partner** and enter each other's codes below.
+**Find a new partner**.
 
 **Role — partner 1:**
 

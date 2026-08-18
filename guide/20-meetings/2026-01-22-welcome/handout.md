@@ -10,7 +10,7 @@ Name: ______________________________
 
 ## Before class
 
-### Welcome to CS 199 UAI
+### Welcome to the course
 
 ## After
 

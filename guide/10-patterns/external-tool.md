@@ -5,10 +5,10 @@ covers:
   - replit-promo-code
 ---
 
+_What this chapter describes about the original -- the vendor, the promo code, and what happened without them -- is observed. The procedure below is a design: it is how to run the lab on a tool that is not the original's, and nobody has done that. The tool comparison is current as of writing and will go stale; check it yourself. See [the README](README.md) in this directory._
+
 ## What the software was doing
 
-
-_This chapter is a decision rather than a procedure, so it has no untested paper version. What it describes about the original -- the vendor, the promo code, and what happened without them -- is observed. The tool comparison is current as of writing and will go stale; check it yourself. See [the README](README.md) in this directory._
 One lab sends students to a third-party AI site builder, and the course website
 showed enrolled students a promo code that made the paid tier free. That code
 came from a per-institution arrangement. It cannot be handed on, and neither can
@@ -79,6 +79,8 @@ You also lose the guarantee that the tool behaves the way the guide describes.
 The facilitation notes were written against one vendor in one semester.
 
 ## What you gain
+
+_Predictions, not observations. The lab has never been run on a second tool; these are what the substitution is designed to buy you._
 
 Independence from a vendor relationship you do not have. The original lab was
 one business decision away from breaking, and an adopter inherits that risk

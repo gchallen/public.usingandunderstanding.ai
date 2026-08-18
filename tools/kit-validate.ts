@@ -24,7 +24,9 @@ export interface KitProblem {
     | "missing-pattern-chapter"
     | "slug-mismatch"
     | "no-feedback-stage"
-    | "unknown-dependency";
+    | "unknown-dependency"
+    | "undeclared-back-reference"
+    | "unlinked-reading";
   message: string;
 }
 
@@ -65,6 +67,48 @@ function* walk(meeting: MeetingDefinition): Generator<Record<string, unknown>> {
   yield* visit(meeting.outro ?? []);
 }
 
+/**
+ * Phrases that tell students the class was somewhere before. An audit found
+ * thirteen of these across eight meetings, nine of them in prose students read,
+ * and every one passed validation because the only dependency check was that a
+ * declared slug resolves. The field exists to make reordering safe, and a
+ * meeting that refers backward without declaring it is the exact case it was
+ * added for.
+ *
+ * Forward-looking sentences use the same words ("on Tuesday we'll explore"), so
+ * the patterns require a past-tense subject.
+ */
+const LOOKS_BACKWARD =
+  /\b(?:last (?:week|Tuesday|Thursday|time)|previous session|earlier in the (?:semester|course))\b|\b(?:on|since) (?:Monday|Tuesday|Wednesday|Thursday|Friday) (?:you|we) (?:saw|explored|built|trained|used|ranked|discussed|read)\b|\byou(?:'ve| have) (?:seen|explored|already)\b|\byou already know\b/i;
+
+/**
+ * Prose a student reads, where an unexplained back-reference actually lands.
+ *
+ * Instructor-only content is a block *type*, not an `instructorOnly` flag on a
+ * block, so the original filter here matched nothing and the walker descended
+ * into instructor-only wrappers anyway. A facilitation note mentioning last
+ * week got a hard refusal that called it student-facing, which is worse than no
+ * check: it is a check that lies about what it found.
+ */
+function studentProse(meeting: MeetingDefinition): string {
+  const parts: string[] = [];
+  const visit = (blocks: unknown[]): void => {
+    for (const block of (blocks ?? []) as Record<string, unknown>[]) {
+      if (block.type === "instructor-only") continue;
+      if (typeof block.content === "string") parts.push(block.content);
+      else if (Array.isArray(block.content)) visit(block.content);
+    }
+  };
+  visit(meeting.intro ?? []);
+  for (const stage of meeting.activity?.stages ?? []) {
+    // facilitationNotes and transition are instructor-side by definition.
+    visit(stage.content ?? []);
+    visit(stage.group?.content ?? []);
+  }
+  visit(meeting.outro ?? []);
+  return parts.join("\n");
+}
+
 /** True when the meeting runs an activity, which is what the feedback rule is about. */
 function hasStages(meeting: MeetingDefinition): boolean {
   return (meeting.activity?.stages?.length ?? 0) > 0;
@@ -75,6 +119,33 @@ function endsWithFeedback(meeting: MeetingDefinition): boolean {
   const last = stages[stages.length - 1];
   if (!last) return false;
   return (last.content ?? []).some((b) => (b as { type?: string }).type === "feedback");
+}
+
+/** Any string field in the meeting, so prose checks do not depend on block shape. */
+function allProse(meeting: MeetingDefinition): string {
+  const parts: string[] = [];
+  for (const block of walk(meeting)) {
+    for (const value of Object.values(block)) {
+      if (typeof value === "string") parts.push(value);
+    }
+  }
+  return parts.join("\n");
+}
+
+function hasReadingBlock(meeting: MeetingDefinition): boolean {
+  for (const block of walk(meeting)) if (block.type === "reading-link") return true;
+  return false;
+}
+
+function linksToAReading(meeting: MeetingDefinition): boolean {
+  return /\]\(\/readings\//.test(allProse(meeting));
+}
+
+/** Prose that assigns something to read or watch without linking it. */
+function namesAReading(meeting: MeetingDefinition): boolean {
+  return /\b(?:the reading|the article|the documentary|annotated transcript|before today's discussion|complete the reading)\b/i.test(
+    allProse(meeting)
+  );
 }
 
 export function validateForKit(
@@ -132,6 +203,28 @@ export function validateForKit(
       say(
         "unknown-dependency",
         `dependsOn names "${dep}", which is not a meeting in this kit. Either the slug is wrong or the meeting it refers back to was not shipped.`
+      );
+    }
+  }
+
+  // A reading named in prose without a markdown link. The index derives its
+  // Reading column by looking for a link, so an edit that drops one silently
+  // flips a meeting to "assigns no reading" and the build still exits 0. The
+  // AlphaGo meeting is the only one that assigns its reading this way, and its
+  // column is right only because its prose happens to carry the link.
+  if (!hasReadingBlock(meeting) && !linksToAReading(meeting) && namesAReading(meeting)) {
+    say(
+      "unlinked-reading",
+      "student prose names a reading but does not link to it, so the index will say this meeting assigns none. Link it, or the column an adopter chooses from is wrong."
+    );
+  }
+
+  if ((meeting.frontmatter.dependsOn ?? []).length === 0) {
+    const match = studentProse(meeting).match(LOOKS_BACKWARD);
+    if (match) {
+      say(
+        "undeclared-back-reference",
+        `student-facing prose says "${match[0]}" but the meeting declares no dependsOn. Name what it refers back to, so someone reordering the semester finds out what they broke.`
       );
     }
   }

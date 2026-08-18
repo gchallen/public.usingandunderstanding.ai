@@ -4,7 +4,7 @@ The original course ran these through a purpose-built system with a second AI wa
 
 The preparation prompts need one more thing: the reading itself, pasted in alongside the prompt. You are already giving students the article, however you do that, so tell them to paste that same text in when the prompt asks for it. This kit does not carry article text, because most of the readings are paywalled and they are not ours to redistribute.
 
-Pasted alone, without the article, a chatbot will hold a fluent and entirely convincing conversation about something nobody has read. The prompts refuse to start until the text appears, which is the guard, but the reason they can refuse is that you supplied the reading in the first place.
+Pasted alone, without the article, a chatbot will hold a fluent and entirely convincing conversation about something nobody has read. Every prompt that has a reading refuses to start until the text appears, which is the guard, but the reason it can refuse is that you supplied the reading in the first place. One prompt has no reading behind it (the final meeting's, which is about the course), so it has no refusal and needs none.
 
 Budget the conversation at twenty-five to forty minutes on top of the reading itself.
 
@@ -12,7 +12,7 @@ This is the middle tier of adoption. If your students have a chatbot, use these 
 
 ## Preparation prompts
 
-`preparations/` holds one prompt per discussion meeting. Each is a guided conversation about an assigned reading, done before class.
+`preparations/` holds ten prompts, one for each meeting that ran a preparation conversation. Nine of those assign a reading and the prompt is a guided conversation about it; the tenth is the final meeting's, which is about the course rather than an article. Nine is also fewer than the fifteen meetings the index marks `Discussion`, because `Discussion` is that column's fallback as well as its reading-based kind.
 
 **To use one:** give the student the prompt body and the reading. They paste both into a chatbot and work through the conversation until they can discuss every topic listed.
 
@@ -26,7 +26,7 @@ This is the middle tier of adoption. If your students have a chatbot, use these 
 
 ## Group discussion prompts
 
-`group-chats/` holds one prompt per in-class discussion. These facilitate a small group rather than an individual.
+`group-chats/` holds fourteen prompts for the thirteen in-class discussions that used one. These facilitate a small group rather than an individual. The extra is `discuss-emergence`, written and never used; it ships because it is a good example of the form, not because a meeting calls for it.
 
 **To use one:** one student in each group opens a chatbot, pastes the prompt, and the group talks to it together. Two or three students per group.
 
@@ -34,7 +34,9 @@ Read the prompt before assigning it. Most of them instruct the AI to push studen
 
 **What the objectives are for.** The `objectives` block lists what the discussion should reach, with criteria written as observable statements. Print them as a checklist even if you use the chatbot—it gives the group something to steer by.
 
-**What you lose.** The original ran a second AI that watched the transcript, tracked who was talking, and told the facilitator when to intervene. In particular it enforced participation balance: no student above sixty percent of the messages. A single chatbot will not do that. Watch for it yourself, or use the rotating chair role from the Structured Role Discussion pattern, which solves the same problem with a person.
+**What you lose.** The original ran a second AI that watched the transcript alongside the facilitator and told the instructor when to intervene. A single chatbot has no second observer, so nothing reaches you while the discussion is happening.
+
+The sixty percent participation rule is not part of that loss. Every prompt here carries it as an objective and instructs the model to keep a rough count per name and put a direct question to whoever has said least, so a plain chatbot running the shipped prompt does the same thing the original did. What neither version can do is verify it: the group types from one keyboard and names are self-reported, and the prompts say outright that the count is a prompt to check in rather than a record that participation was balanced. Watch for it yourself, or use the rotating chair role from the Structured Role Discussion pattern, which solves the same problem with a person.
 
 ## Adapting a prompt
 
@@ -73,9 +75,13 @@ criterion met after the model said it first has measured nothing.
 not read: they hand your own sentence back with "yeah, exactly". The prompt is
 told not to accept it and to ask for something it has not said.
 
-**The certification rule.** Never tell a student they are prepared unless they
-told you something you had not told them first. One sentence, and it is the
-whole test. If you rewrite everything else, keep this.
+**The certification rule.** Never tell a student they are prepared on the
+strength of things they could have read off the screen. Ask one question the
+pasted text does not answer, and certify on that. An earlier version of this rule
+tested whether the student had said something the model had not said first, which
+a student defeats by scrolling up. Tying it to the article instead is what makes
+it a test of having read rather than of having the tab open. If you rewrite
+everything else, keep this.
 
 **The topics and criteria.** Observable statements, not topics to cover. They
 are the definition of done for the conversation, the study guide if you drop the

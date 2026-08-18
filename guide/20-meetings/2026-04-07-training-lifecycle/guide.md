@@ -13,20 +13,20 @@ Hands-on exploration of the AI training lifecycle: pretraining, instruction tuni
 - Stage 5 onwards uses new partners (question generation and investigation)
 - The curated examples are provided as markdown. Students read and discuss, they don't run interactive tools.
 - The ranking exercise is designed to produce disagreement. That's the point.
-- the cards get sorted at the front, stacking near-duplicates
+- The cards get sorted at the front, stacking near-duplicates
 
 **Pacing:**
-| # | Stage | Duration | Cumulative |
-|---|-------|----------|------------|
-| 1 | Explore: Match the Training Stage | 10m | 10m |
-| 2 | Discussion: What Did You Notice? | 10m | 20m |
-| 3 | Explore: Be the Preference Rater | 10m | 30m |
-| 4 | Discussion: What Is "Good" AI? | 10m | 40m |
-| 5 | Generate Questions | 10m | 50m |
-| 6 | Question Review | 5m | 55m |
-| 7 | Investigate | 10m | 65m |
-| 8 | Share Out | 5m | 70m |
-| 9 | Feedback | 5m | 75m |
+| Stage | Duration | Cumulative |
+|-------|----------|------------|
+| Explore: Match the Training Stage | 10m | 10m |
+| Discussion: What Did You Notice? | 10m | 20m |
+| Explore: Be the Preference Rater | 10m | 30m |
+| Discussion: What Is 'Good' AI? | 10m | 40m |
+| Generate Questions | 10m | 50m |
+| Question Review | 5m | 55m |
+| Investigate | 10m | 65m |
+| Share Out | 5m | 70m |
+| Feedback | 5m | 75m |
 
 **Tips:**
 - During Stage 1, some pairs will match all responses quickly. Others will struggle to distinguish instruction-tuned from RLHF'd. Both are fine; the discussion in Stage 2 resolves it. If students fixate on the base model being "dumb," push them past that: it's not dumb, it's trained for a different task.
@@ -218,7 +218,7 @@ _Partners investigate the selected question_
 
 > **Facilitation notes**
 >
-> Students investigate with the same partner from the question generation stage. They should reason from what they observed, not just look up definitions. their written answer captures their thinking. During share-out, look for groups that arrived at different conclusions.
+> Students investigate with the same partner from the question generation stage. They should reason from what they observed, not just look up definitions. Their written answer captures their thinking. During share-out, look for groups that arrived at different conclusions.
 
 **Grouping:** 2 per group
 

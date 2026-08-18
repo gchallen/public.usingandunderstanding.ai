@@ -32,7 +32,7 @@ This is part of attendance for today's meeting.`,
 
 ## Today's Plan
 
-On Monday you explored how AI represents meaning as geometry, with words becoming points in a space shaped entirely by training data. Today we ask a different question: what does it cost to produce that training data and the infrastructure to process it?
+On Tuesday you explored how AI represents meaning as geometry, with words becoming points in a space shaped entirely by training data. Today we ask a different question: what does it cost to produce that training data and the infrastructure to process it?
 
 The costs are bigger and more varied than you might expect. Four rounds of paired discussion, each with a different partner and a different dimension of cost. After each round, we'll hear from a few pairs before moving on.
 
@@ -291,7 +291,7 @@ Geoff will ask a few pairs to share what they discussed. Listen for ideas that c
 
 Four rounds, four kinds of cost: energy and infrastructure, environmental justice and human labor, intellectual property, and governance. The through-line is not that AI is too expensive. It's that the costs are real, they're unequally distributed, and right now almost nobody is deciding how to manage them.
 
-On Monday, you saw that AI represents meaning as geometry shaped by training data. Today you saw what it takes to produce that training data and the infrastructure to process it. The technical and the human sides of AI are inseparable. Pay attention to both as the course continues.`,
+On Tuesday, you saw that AI represents meaning as geometry shaped by training data. Today you saw what it takes to produce that training data and the infrastructure to process it. The technical and the human sides of AI are inseparable. Pay attention to both as the course continues.`,
           },
         ],
       },

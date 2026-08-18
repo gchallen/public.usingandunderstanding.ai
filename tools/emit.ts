@@ -95,8 +95,10 @@ const STUDENT_INSTRUCTIONS: Record<PatternId, string> = {
     "Your instructor will read out the objectives for this discussion. Whoever holds the chair card keeps everyone in, and it rotates when time is called.",
   "reading-ticket":
     "Bring your reading ticket. Swap with a partner, answer what they did not understand if you can, write down what neither of you could resolve, then hand both in.",
-  demos:
-    "Open the tool your instructor names. The originals are hosted at usingandunderstanding.ai/resources.",
+  // The address of the originals used to be here. Most of them need an account
+  // on the original site, so printing it on a student handout sends the room to
+  // a login screen. The Demos chapter tells the instructor where they are.
+  demos: "Open the tool your instructor names.",
   "external-tool": "Your instructor will tell you how to get access.",
 };
 
@@ -167,6 +169,16 @@ function deJargon(markdown: string): string {
       .replace(/\bsame\s+`?groupKey`?/gi, "same group label")
       .replace(/`groupKey`/g, "the group label")
       .replace(/\bgroupKey\b/g, "the group label")
+      // The React component names themselves, which survived in seven
+      // facilitation overviews describing how a meeting is built.
+      .replace(
+        /\b(\d+)\s+GroupActivity blocks? with the same `?group`? key\b/g,
+        "$1 paired rounds sharing one grouping"
+      )
+      .replace(/\s+via GroupActivity\b/g, "")
+      .replace(/\bGroupActivity blocks?\b/g, "paired rounds")
+      .replace(/\bGroupActivity\b/g, "the pairing wrapper")
+      .replace(/\bActivityStages\b/g, "the stage sequence")
   );
 }
 
@@ -190,6 +202,11 @@ function deNameInstructor(markdown: string): string {
       )
       .replace(/\(you still have the promo code from the websites lab\)/g, "")
       .replace(/\[Replit\]\(https:\/\/replit\.com\)/g, "your site builder")
+      // And the bare name, which survived three times in the workshop's
+      // facilitation notes because only the linked form was being rewritten.
+      // The External Tools chapter names the vendor on purpose; a meeting guide
+      // naming it reads as an instruction to use it.
+      .replace(/\bReplit\b/g, "your site builder")
       // Institution-specific example data. Useful as a shape, useless as links.
       .replace(
         /##### Illinois & University Datasets/g,
@@ -201,10 +218,98 @@ function deNameInstructor(markdown: string): string {
       )
       .replace(/\bhere at Illinois\b/gi, "here")
       .replace(/\bat the University of Illinois\b/gi, "at this university")
+      // Week numbers, which map to nothing outside the original schedule and are
+      // wrong even inside it: "Week 4" here means the meeting on 24 February,
+      // which is week six. The assessment exporter strips these; this file, which
+      // produces every guide and handout, had no rule for them at all.
+      .replace(/\s*\(Weeks? \d+(?:\s*(?:&|and)\s*\d+)?\)/g, "")
+      .replace(/\bin Week \d+\b/gi, "earlier in the course")
+      // And literal dates from the original semester, same reason.
+      .replace(
+        /\bon (?:January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}\b/g,
+        "in an earlier meeting"
+      )
+      .replace(
+        /\b(?:the )?final meeting on (?:January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}\b/g,
+        "the final meeting"
+      )
+      // The original's own chat, on a site the adopter has no login for. Two
+      // student handouts sent the room to it, against the README's claim that
+      // everything here works without that site.
+      .replace(
+        /\*\*Tip:\*\* This site has a built-in AI chat at \/chat you can use for the scavenger hunt\. Unlike ChatGPT or other popular chatbots, our chat connects you directly to the AI model without extra features like web search\. That makes it easier to see what the AI actually knows \(and doesn't know\) on its own\./g,
+        "**Tip:** Use whatever chatbot your instructor names. A plain one is better here than a search-augmented one: it is easier to see what the model knows on its own."
+      )
+      .replace(
+        /\*\*Reminder:\*\* You can use the built-in AI chat at \/chat for these challenges\./g,
+        "**Reminder:** Use the chatbot your instructor named for these challenges."
+      )
+      // A course number from one catalogue.
+      .replace(/\bCS 199 UAI\b/g, "the course")
+      // Institution-specific dataset descriptions. The heading above them was
+      // relabelled as examples; the bullets kept naming one university.
+      .replace(/\bat Illinois\b/g, "at this university")
+      .replace(/\bIllinois Open Data\b/g, "State Open Data")
+      // Sentences the card substitution left incoherent. "The first meeting using
+      // the collected cards" is meaningless when cards are the fallback
+      // everywhere, and a stack of index cards does not generate discussion
+      // questions -- that was the website, and the Card Sort chapter is explicit
+      // that reading them yourself is the point.
+      .replace(
+        /This is the first meeting using \*\*the collected cards\*\* — during share-outs, you can see all student responses and generate targeted discussion questions from them\./g,
+        "This is the first meeting where you collect written answers from everyone. Read them during the share-out and pick the ones worth putting to the room."
+      )
+      .replace(/use the collected cards to see student responses/gi, "read the cards")
+      // Half a de-vendoring: the click target was rewritten and the model it
+      // called was left in the same sentence.
+      .replace(
+        /Sort the cards at the front to have GPT aggregate and prioritize the submitted questions\./g,
+        "Sort the cards at the front, stacking near-duplicates, and put the biggest stacks on the board."
+      )
+      .replace(
+        /\bprocess questions immediately when submissions look mostly complete\b/gi,
+        "sort the cards as soon as most of them are in"
+      )
+      // The campus testing centre by its local acronym, in the one meeting that
+      // still described the original's proctoring arrangements.
+      .replace(/\bDiscuss CBTF assessments\b/g, "Discuss how the quizzes will run")
+      // The assessment is in this kit now, so the link to the original site's
+      // copy sends an adopter somewhere they cannot grade from.
+      .replace(
+        /\*\*\[Start the Turing Test\]\(https:\/\/www\.usingandunderstanding\.ai\/assessments\/turing-test\)\*\*/g,
+        "**Run the Turing Test assessment** (`assessments/turing-test/`, as an oral exam or on paper)"
+      )
       .replace(/\bGeoff will\b/g, "Your instructor will")
       .replace(/\bwhen Geoff signals\b/g, "when your instructor signals")
       .replace(/\bGeoff's\b/g, "your instructor's")
       .replace(/\bGeoff\b/g, "your instructor")
+      // The original's own grading policy, asserted to somebody else's students
+      // on a page they photocopy. The assessment chapter says plainly that the
+      // participation scheme does not travel; these two lines shipped it anyway.
+      .replace(/\n?This is part of attendance for today's meeting\.\n?/g, "\n")
+      // "the preparation conversation below" is the website's embedded chat.
+      // On paper there is nothing below but a callout telling them to bring a
+      // ticket, so the sentence pointed at blank space.
+      .replace(
+        /Please complete the preparation conversation below before class\./g,
+        "Come to class having prepared the reading."
+      )
+      // A code-entry field that exists only on the site. On paper a pair just
+      // pairs up.
+      .replace(/\s*and enter each other's codes below to form your team\b/g, " to form your team")
+      .replace(/\s*and enter each other's codes below/g, "")
+      // A name is capitalised wherever it appears; "your instructor" is not, so
+      // a rewrite at the start of a sentence left a paragraph beginning with a
+      // lowercase word. Restore the capital the substitution took away.
+      // Every substitution above swaps a capitalised proper noun or component
+      // name for a lowercase common one, so any of them can land at the start of
+      // a sentence, a line, or a bullet and leave it lowercase. Restoring the
+      // capital once, here, is what stops the next rewrite reintroducing it.
+      .replace(
+        /(^|\n|\n[-*]\s+|[.!?]\s+)(your instructor|your site builder|a guest philosopher|a guest lecturer|the collected cards|their written answer|the group label|paired rounds|the pairing wrapper|the stage sequence|the cards get sorted)\b/g,
+        (_m, lead: string, phrase: string) =>
+          `${lead}${phrase.charAt(0).toUpperCase()}${phrase.slice(1)}`
+      )
   );
 }
 
@@ -338,6 +443,57 @@ function studentCapture(block: ContentBlock, pattern: PatternId): string {
  * construct: student prose ended up rendered inside "Instructor only"
  * blockquotes, and bold labels glued themselves onto the last bullet.
  */
+/**
+ * Replace the hand-written pacing table with one derived from the stages.
+ *
+ * The README says handouts are generated from the meeting definitions and
+ * cannot drift from them. The pacing table was the exception nobody noticed: it
+ * is prose inside `facilitationOverview`, typed once and never updated. Six of
+ * twenty-five guides had drifted, and in every one the row that had gone missing
+ * was the mandatory feedback stage -- so the table an instructor plans the
+ * period from was five minutes short of the plan, in the one direction the rest
+ * of the guide is loudest about.
+ *
+ * Derived rather than validated, because a validator would only tell somebody to
+ * retype it and the retyping is the failure.
+ */
+function derivePacingTable(overview: string, meeting: MeetingDefinition): string {
+  const stages = meeting.activity?.stages ?? [];
+  if (stages.length === 0) return overview;
+  // The block runs from the bolded label to the end of the markdown table.
+  // Two shapes broke the first version of this. One meeting annotates the label
+  // -- "**Pacing:** (trimmed from 90m to 65m ...)" -- so the rest of that line
+  // has to be allowed. And one meeting's overview *ends* with the table, so
+  // after trimming there is no trailing newline and the last row was left
+  // behind: a stray four-column row contradicting the derived one directly
+  // above it.
+  const table = /\*\*Pacing:?\*\*[^\n]*\n(?:\|[^\n]*(?:\n|$))+/;
+  if (!table.test(overview)) return overview;
+
+  let cumulative = 0;
+  const rows = stages.map((s) => {
+    const minutes = Number.parseInt(s.estimatedTime ?? "", 10);
+    if (!Number.isNaN(minutes)) cumulative += minutes;
+    return `| ${s.label} | ${s.estimatedTime ?? "--"} | ${
+      Number.isNaN(minutes) ? "--" : `${cumulative}m`
+    } |`;
+  });
+
+  // Keep whatever the author wrote after the label. It is usually a note about
+  // why the plan was trimmed, which is worth more than the label alone.
+  const note = overview.match(/\*\*Pacing:?\*\*([^\n]*)/)?.[1]?.trim() ?? "";
+  return overview.replace(
+    table,
+    [
+      `**Pacing:**${note ? ` ${note}` : ""}`,
+      "| Stage | Duration | Cumulative |",
+      "|-------|----------|------------|",
+      ...rows,
+      "",
+    ].join("\n")
+  );
+}
+
 function emitBlockSpaced(block: ContentBlock, ctx: EmitContext): string[] {
   const out = emitBlock(block, ctx);
   if (out.length === 0) return out;
@@ -578,7 +734,10 @@ export function emitMeeting(
     // Most overviews open with their own heading, so adding a wrapper produced a
     // duplicated, empty "Facilitation overview" as the first thing in all 24
     // guides. Only add one when the content does not bring its own.
-    const overview = deNameInstructor(meeting.facilitationOverview.trim());
+    const overview = derivePacingTable(
+      deNameInstructor(meeting.facilitationOverview.trim()),
+      meeting
+    );
     out.push(
       ...(overview.startsWith("#") ? [] : ["## Facilitation overview", ""]),
       overview,

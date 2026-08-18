@@ -9,7 +9,7 @@ Pair discussion of how AI is changing work, who benefits, and what should be don
 **Philosophy:** Four rounds of paired discussion exploring AI's impact on work from personal experience to policy. The arc moves from concrete (what did you experience?) to analytical (who survives?) to values-based (who decides?). Tuesday's data analysis lab gives students direct experience to draw on. Share-outs are substantial (10 min each) to surface disagreements and connect themes.
 
 **Logistics:**
-- Four discussion rounds with new partners each time (4 GroupActivity blocks with the same `group` key)
+- Four discussion rounds with new partners each time (4 paired rounds sharing one grouping)
 - Each round has a 10-minute discussion followed by a 10-minute share-out
 - No roles. One partner should capture key points in their written answer each round
 - Rounds 2 and 4 include agent-guided interaction
@@ -26,6 +26,7 @@ Pair discussion of how AI is changing work, who benefits, and what should be don
 | Round 3: Share Out | 10m | 60m |
 | Round 4: Who Decides? | 10m | 70m |
 | Round 4: Share Out | 10m | 80m |
+| Feedback | 5m | 85m |
 
 **Tips:**
 - Round 1 is the warmup. Students should be drawing on Tuesday's lab experience. If they haven't used AI in other contexts, push them to reflect on the data analysis lab specifically.
@@ -50,8 +51,7 @@ You should **read all three articles** before today's discussion:
 
 - Reading: [Can A.I. Be Pro-Worker?](../../../readings/can-a-i-be-pro-worker-newyorker-e782.md) · The New Yorker
 
-Please complete the preparation conversation below before class.
-This is part of attendance for today's meeting.
+Come to class having prepared the reading.
 
 > **On paper: Reading Ticket.** The topic criteria are already a study guide. Print them, collect at the door, read them before class. Five minutes of pairs first recovers some of what the one-to-one AI conversation was doing.
 >
@@ -125,7 +125,7 @@ Lowrey offers a framework: are you a horse (permanently displaced by a better te
 
 **Discuss with your partner:** Can both things be true: workers happier AND expendable? Who in Thompson's piece is a "horse" and who is "coal"? What determines which?
 
-> **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
+> **On paper: Structured Role Discussion.** The facilitator was told to encourage students to talk to each other rather than type at it, and to push them off the keyboard. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
 >
@@ -201,7 +201,7 @@ Thompson's Block employees had no say in Dorsey's decision to fire them. Lowrey 
 
 **Discuss with your partner:** Who should decide how AI is deployed in workplaces? The companies building it? The workers affected? Government regulators? What would "pro-worker AI" look like on this campus, in your major, or in a campus job?
 
-> **On paper: Structured Role Discussion.** The facilitator's own instructions say its goal is getting students talking to each other. Print the objectives as a checklist and rotate a chair.
+> **On paper: Structured Role Discussion.** The facilitator was told to encourage students to talk to each other rather than type at it, and to push them off the keyboard. Print the objectives as a checklist and rotate a chair.
 >
 > _Replaces the `group-chat` step. See the Structured Role Discussion chapter for the full procedure._
 >

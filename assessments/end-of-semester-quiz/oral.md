@@ -1,10 +1,22 @@
 # End-of-Semester Quiz — oral exam
 
+_The AI-conversation original ran all semester. Neither the oral nor the written version below has been run with students: they are the same rubric in a form a person can administer, and their timings are derived rather than observed. See [the README](../README.md)._
+
 A reflective end-of-semester synthesis on what you've learned, done, and concluded about AI this semester.
+
+## Before you use this
+
+**These appear only in the notes to you**, as illustrations of the kind of answer that counts. Read them that way rather than as a list of what your students should say:
+
+- the Embedding Explorer (a login-gated tool from the original site)
+- the Digit Network (a login-gated tool from the original site)
+- Bolt (a tool the original course used)
+- v0.dev (a tool the original course used)
+- Claude Artifacts (a tool the original course used)
 
 ## How to run it
 
-One student at a time. Budget about five minutes per section, so roughly 25 minutes each; the original allowed a student 50 minutes with the AI, which is not the same thing. Multiply by your class size before you commit to this: it is the expensive option and it is the better one.
+One student at a time. Allow 5 minutes per section, so about **25 minutes each**. The original gave a student 50 minutes with the AI, which is not the same number and not comparable: software can ask fifteen follow-ups without getting tired. Multiply by your class size before you commit to this. It is the expensive option and it is the better one.
 
 You are doing what the AI interviewer did: ask an opening question, listen, and follow up only where the student has not already covered something.
 
@@ -23,14 +35,16 @@ Ask open first and specific only as needed. If you find yourself naming the conc
 
 **What you are looking for:** Student names a specific concept about how AI works and explains it in their own words
 
-**Open with something like:** tell me what you know about this.
+**Open with something like:** Name a specific concept about how AI works.
+
+**Then, only where they have not got there on their own, get them to:** explain it in their own words.
 
 **Criteria**
 
 - Identifies a specific concept (not a vague generality like "AI is complicated")
 - Explains the concept accurately enough to show real understanding, even if imprecise
 
-<details><summary>Background, if you need it</summary>
+<details><summary>Background from the original course, if you need it</summary>
 
 This is a gentle, reflective factual portion. The goal is for the student to surface
 ONE concept they took away from the semester about how AI actually works, and
@@ -40,12 +54,12 @@ that the student picked up something real and can speak to it.
 Likely concepts students will draw on (any of these or others are fine):
 
 - Next-token prediction: AI predicts the next word/token based on patterns learned
-  from training data (Karpathy podcast, Week 5).
+  from training data (Karpathy podcast).
 - Embeddings / geometry of meaning: words become vectors; semantically similar
-  words cluster in high-dimensional space (Embedding Explorer, Week 6).
+  words cluster in high-dimensional space (Embedding Explorer).
 - Training process: networks start with random weights and learn by being shown
   examples; connections strengthen and weaken; the network goes from random
-  guessing to high accuracy (Digit Network, Week 4).
+  guessing to high accuracy (Digit Network).
 - Loss / optimization: networks improve by measuring how wrong they are and
   adjusting weights to reduce that error.
 - Pattern matching, not reasoning: AI generates plausible-sounding output without
@@ -86,14 +100,16 @@ technical precision.
 
 **What you are looking for:** Student describes a specific AI activity from the semester and reflects on why they expect to keep using or adapting it
 
-**Open with something like:** what do you think, and why? Then push: what is the strongest argument against your position?
+**Open with something like:** Describe a specific AI activity from the semester.
+
+**Then, only where they have not got there on their own, get them to:** reflect on why they expect to keep using or adapting it.
 
 **Criteria**
 
 - Describes a specific, concrete activity (a real task they did, not just "I used ChatGPT")
 - Reflects on what made it useful and how they'd carry it forward
 
-<details><summary>Background, if you need it</summary>
+<details><summary>Background from the original course, if you need it</summary>
 
 This is an experiential reflection. The student should describe something they
 actually did with AI this semester — in or out of class — and then say something
@@ -101,12 +117,10 @@ about why they expect to keep using or adapting that approach in the future.
 
 Likely activities students will draw on:
 
-- Building a website through conversation (Bolt.new, v0.dev, Claude Artifacts —
-  Week 8 lab).
-- Creative media generation (DALL-E, Midjourney, Suno, Pika — Week 2 lab).
-- Data analysis and visualization with AI as collaborator (Week 7 lab).
-- Study guides, summaries, or research help (Weeks 5 & 11 labs).
-- Mobile app prototyping (Week 12 lab).
+- Building a website through conversation (Bolt.new, v0.dev, Claude Artifacts, from one of the labs).
+- Creative media generation (DALL-E, Midjourney, Suno, Pika, from one of the labs).
+- Data analysis and visualization with AI as collaborator (one of the labs).
+- Study guides, summaries, or research help (two of the labs).
 - Brainstorming, outlining, drafting, or feedback on writing.
 - Coding assistance, even if not a CS student.
 - Personal uses outside class (planning, recipes, language practice, etc. — also
@@ -144,14 +158,14 @@ whether the use was "appropriate" — the question is what was useful.
 
 **What you are looking for:** Student articulates a forward-looking practice or boundary for AI use that supports their own goals, growth, or well-being
 
-**Open with something like:** what do you think, and why? Then push: what is the strongest argument against your position?
+**Open with something like:** Articulate a forward-looking practice or boundary for AI use that supports your own goals, growth, or well-being.
 
 **Criteria**
 
 - Names a specific practice, boundary, or principle (not just "I'll be careful")
 - Explains why — what value or risk that practice serves
 
-<details><summary>Background, if you need it</summary>
+<details><summary>Background from the original course, if you need it</summary>
 
 This portion mirrors the final-video assignment students are asked to record by
 May 5: "Describing how you plan to relate to AI in the future in a way that best
@@ -159,7 +173,7 @@ supports your own goals and future aspirations." The aim here is gentle and
 affirming — students should feel invited to think out loud about how they want
 AI to fit into their lives.
 
-Likely framings students will draw on (Week 14 / final video themes):
+Likely framings students will draw on (final video themes):
 
 - Skill atrophy: not outsourcing things they want to learn or grow at.
 - Intentionality: deciding when to use AI vs. when to do it themselves.
@@ -204,14 +218,16 @@ possible." The goal is for them to articulate their own stance with specificity.
 
 **What you are looking for:** Student names a specific concern about AI and explains the stakes or mechanism behind it
 
-**Open with something like:** what do you think, and why? Then push: what is the strongest argument against your position?
+**Open with something like:** Name a specific concern about AI.
+
+**Then, only where they have not got there on their own, get them to:** explain the stakes or mechanism behind it.
 
 **Criteria**
 
 - Names a specific concern (not generic "AI is scary" or "AI is bad")
 - Explains why it concerns them — the mechanism, the harm, or who is affected
 
-<details><summary>Background, if you need it</summary>
+<details><summary>Background from the original course, if you need it</summary>
 
 This is a gentle reflection, not an argumentation portion. The student names ONE
 concern they have about AI and explains why it concerns them. Both course-covered
@@ -263,14 +279,14 @@ defend their concern — only to name and explain it. One gentle follow-up at mo
 
 **What you are looking for:** Student names a specific belief about AI they held entering the course and describes how (or whether) it has shifted, and why
 
-**Open with something like:** what do you think, and why? Then push: what is the strongest argument against your position?
+**Open with something like:** Name a specific belief about AI you held entering the course and describe how (or whether) it has shifted, and why.
 
 **Criteria**
 
 - Names a specific prior belief (not "I didn't know much about AI")
 - Describes what shifted it — a course experience, reading, conversation, or activity
 
-<details><summary>Background, if you need it</summary>
+<details><summary>Background from the original course, if you need it</summary>
 
 This is a synthesis portion that asks students to look at the arc of their own
 thinking across the semester. It works at multiple levels — concrete ("I used to
@@ -323,6 +339,62 @@ mundane, or more profound is all valid. Only nudge for specificity if the studen
 stays at the level of "my mind changed about AI" without naming what.
 ```
 
+## Turning criteria into a grade
+
+Grade each section first, then the whole assessment.
+
+**Per section**
+
+Count the criteria you marked met, and the ones the student did not reach at all. Take the first line that applies:
+
+- Every criterion met, **and** the student showed depth or nuance you did not prompt for → top grade.
+- Every criterion met, but nothing beyond an adequate answer → second grade.
+- More than half met and none missed entirely → second grade.
+- Most criteria not reached at all → lowest.
+- Anything else — exactly half met, fewer than half met, or one criterion missed entirely → second-lowest.
+
+That last line is the catch-all, and it is there because the obvious version of this rule had a hole. With three criteria you can write "fewer than half" and "most not reached" and feel the ground is covered. With two criteria, one met and one missed, neither fires: one of two is not fewer than half, and one of two is not most. That is the commonest outcome on a two-criterion section, and an examiner working from the earlier wording had nothing to apply.
+
+**Overall**
+
+- The overall grade is the grade of the student's **weakest** section. Not an average, and not a judgment call. "At or near the lower one" used to stand here, and the slack in those three words was a whole grade wide: it let a fluent bluffer who was strong in one section out-rank a quieter student who had actually done the reading, and left the marker nothing to say to an appeal.
+- A partly-met criterion is a gap, not a success. Do not round it up.
+- The top grade is rare. It needs original thinking, nuance nobody asked for, or a connection you did not suggest.
+- On opinion sections, grade the reasoning and the engagement, not the position. Agreeing with a counterargument, or noting it in a sentence, is not engaging with it: the student has to push back, qualify, or develop.
+
+This is the rule the original evaluator used, stated in full. It is what makes a grade something you can show a student rather than something you assert.
+
 ## Recording the result
 
-One grade for the whole assessment, plus a note on which criteria needed prompting. The note is worth more than the grade when you sit down to plan the next session: it tells you what the room did not have.
+One grade for the whole assessment, plus the note on which criteria needed prompting. The note feeds the top-grade test above, and it tells you what the room did not have when you plan the next session.
+
+Fill a record sheet per student while you go. Reconstructing it afterward does not work, and an assessment you cannot show is one you cannot defend.
+
+---
+
+## Record sheet
+
+**Student:** ______________________  **Date:** ____________  **Assessment:** End-of-Semester Quiz
+
+| Section | Criterion | Met | Partly | Not reached | Questions I had to ask |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Identifies a specific concept (not a vague generality like "AI is complicated") |  |  |  |  |
+| 1 | Explains the concept accurately enough to show real understanding, even if imprecise |  |  |  |  |
+| 2 | Describes a specific, concrete activity (a real task they did, not just "I used ChatGPT") |  |  |  |  |
+| 2 | Reflects on what made it useful and how they'd carry it forward |  |  |  |  |
+| 3 | Names a specific practice, boundary, or principle (not just "I'll be careful") |  |  |  |  |
+| 3 | Explains why — what value or risk that practice serves |  |  |  |  |
+| 4 | Names a specific concern (not generic "AI is scary" or "AI is bad") |  |  |  |  |
+| 4 | Explains why it concerns them — the mechanism, the harm, or who is affected |  |  |  |  |
+| 5 | Names a specific prior belief (not "I didn't know much about AI") |  |  |  |  |
+| 5 | Describes what shifted it — a course experience, reading, conversation, or activity |  |  |  |  |
+
+**Anything unprompted worth noting** (this is the top-grade test):
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Section grades:** ______  **Overall (= the weakest section):** ______

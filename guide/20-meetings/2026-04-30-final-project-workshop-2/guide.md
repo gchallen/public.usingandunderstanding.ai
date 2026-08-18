@@ -15,18 +15,18 @@ Finish your final project and show it to your classmates.
 - Demo groups are size 3 via the group label — stable within the stage, paired automatically
 
 **Pacing:**
-| # | Stage | Duration | Cumulative |
-|---|-------|----------|------------|
-| 1 | Keep Building | 55m | 55m |
-| 2 | Show Your Neighbor | 15m | 70m |
-| 3 | Feedback | 5m | 75m |
+| Stage | Duration | Cumulative |
+|-------|----------|------------|
+| Keep Building | 55m | 55m |
+| Show Your Neighbor | 15m | 70m |
+| Feedback | 5m | 75m |
 
 **Tips:**
 - In the build stage, walk the room. Same failure modes as last week: tool paralysis, fighting the AI on details, silent struggle. When a student is stuck, ask "what are you trying to make it do?" and help them re-describe the whole thing from scratch.
 - If a student lost their prior project link, offer it from the dashboard, but also remind them that restarting from a fresh description is often faster than fighting a stale chat.
 - At roughly the 50-minute mark, give a two-minute warning so students can get to a showable state.
 - In the demo stage, each person in a group of 3 gets about 4-5 minutes including questions. Float between groups. If a group has a quiet demo-er, prompt them: "Show us what it does." If a group finishes early, push: "What's one thing you'd add if you had another hour?"
-- Flag one or two memorable projects to call out in the final meeting on May 5. This is a soft connector, not a formal showcase.
+- Flag one or two memorable projects to call out in the final meeting in an earlier meeting. This is a soft connector, not a formal showcase.
 - Remind students the final project is 10% of the grade, graded on completion not polish.
 
 ---
@@ -80,7 +80,7 @@ _Demo your project to your group_
 
 > **Facilitation notes**
 >
-> Groups of 3 means each person gets roughly 4-5 minutes including questions. Float between groups, prompt shy demo-ers with "show us what it does," and note one or two memorable projects to call out in the final meeting on May 5.
+> Groups of 3 means each person gets roughly 4-5 minutes including questions. Float between groups, prompt shy demo-ers with "show us what it does," and note one or two memorable projects to call out in the final meeting in an earlier meeting.
 > 
 > This is celebration and exposure, not evaluation. No submission, no rubric, no slides. Just: here's what I made, here's what was hard, here's what surprised me.
 

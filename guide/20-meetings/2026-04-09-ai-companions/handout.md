@@ -24,8 +24,7 @@ You should **read all four articles** before today's discussion:
 
 - Reading: [A.I. Bots Can Act as Personal Digital Assistants, but There Are Serious Risks](../../../readings/a-i-bots-can-act-as-personal-digital-assistants-but-there-are-serious-risks-nytimes-3ee3.md) · The New York Times
 
-Please complete the preparation conversation below before class.
-This is part of attendance for today's meeting.
+Come to class having prepared the reading.
 
 > **Reading Ticket.** Bring your reading ticket. Swap with a partner, answer what they did not understand if you can, write down what neither of you could resolve, then hand both in.
 

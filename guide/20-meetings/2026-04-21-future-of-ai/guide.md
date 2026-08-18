@@ -14,15 +14,15 @@ Exploring where AI is heading beyond 'just make it bigger': mixture of experts, 
 - Share-outs are instructor-led: ask 2-3 pairs to share, then bridge to the next topic
 
 **Pacing:** (trimmed from 90m to 65m for shorter class window, leaves 5m buffer)
-| # | Stage | Duration | Cumulative |
-|---|-------|----------|------------|
-| 1 | Round 1: The Mixture of Experts Bet | 10m | 10m |
-| 2 | Round 1: Share Out | 10m | 20m |
-| 3 | Round 2: AI in Your Pocket | 10m | 30m |
-| 4 | Round 2: Share Out | 10m | 40m |
-| 5 | Round 3: The Specialist vs. the Generalist | 10m | 50m |
-| 6 | Round 3: Share Out | 10m | 60m |
-| 7 | Feedback | 5m | 65m |
+| Stage | Duration | Cumulative |
+|-------|----------|------------|
+| Round 1: The Mixture of Experts Bet | 10m | 10m |
+| Round 1: Share Out | 10m | 20m |
+| Round 2: AI in Your Pocket | 10m | 30m |
+| Round 2: Share Out | 10m | 40m |
+| Round 3: The Specialist vs. the Generalist | 10m | 50m |
+| Round 3: Share Out | 10m | 60m |
+| Feedback | 5m | 65m |
 
 **Tips:**
 - Round 1 (MoE) is the most technical. The discussion prompt provides enough context, but if students seem lost, the ER doctor / patent lawyer / pastry chef analogy works well. The point is not that students master MoE architecture but that they grasp the principle: organization vs. brute scale.

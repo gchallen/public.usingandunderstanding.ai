@@ -20,9 +20,7 @@ Please complete the reading before class:`,
     { type: "reading-link", slug: "understanding-media-ch1", newTab: true },
     {
       type: "markdown",
-      content: `Also, please review the one-page handout on Luddism from the previous session.
-
-This will be a device-free meeting.
+      content: `This will be a device-free meeting.
 You do not need to bring a laptop, and please put your phone away during the discussion.`,
     },
     { type: "preparation-chat", slug: "understanding-media-ch1" },

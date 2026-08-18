@@ -46,7 +46,7 @@ This is part of attendance for today's meeting.`,
 
 ## Today's Plan
 
-On Tuesday, you built a digit-recognition network from simple artificial neurons — and it worked. Today we'll explore *why* it worked, and what happens when you scale that same idea up by a factor of millions. Four rounds of paired discussion, each with a different partner and a different question.
+On Tuesday, you trained a digit-recognition network built from simple artificial neurons — and it worked. Today we'll explore *why* it worked, and what happens when you scale that same idea up by a factor of millions. Four rounds of paired discussion, each with a different partner and a different question.
 
 ---`,
     },
@@ -142,7 +142,7 @@ Geoff will ask a few pairs to share what they discussed. Listen for ideas that c
 
 "Tuesday you explored artificial neurons — simple units that multiply inputs by weights and apply an activation function. Here's something we didn't mention: researchers at Hebrew University tried to figure out how complex a *real* biological neuron is. They trained artificial neural networks to mimic a single biological neuron's behavior and found that it takes a deep network of about **1,000 artificial neurons** — five to eight layers deep — to approximate what **one** biological neuron does. The lead researcher said: 'I thought it would be simpler and smaller.' The complexity comes from the branching tree-like structures called dendrites that receive incoming signals."
 
-"So the building blocks of AI are vastly simpler than the building blocks of brains. The digit network you explored Tuesday had about 13,000 artificial neurons. A single cubic millimeter of brain tissue contains roughly 50,000 biological neurons — each one as complex as a 1,000-node deep network."
+"So the building blocks of AI are vastly simpler than the building blocks of brains. The digit network you explored Tuesday had a few hundred artificial neurons, joined by about 13,000 connections. A single cubic millimeter of brain tissue contains roughly 50,000 biological neurons — each one as complex as a 1,000-node deep network."
 
 Source: ["How Computationally Complex Is a Single Neuron?"](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/) — Quanta Magazine, 2021
 
@@ -160,7 +160,7 @@ Let pairs chew on this. The interesting tension: if biological neurons are so mu
 
 Geoff just shared a finding that may change how you think about Tuesday's exploration: it takes about **1,000 artificial neurons** to approximate what a **single biological neuron** does. The artificial neurons you explored on Tuesday are radically simpler than their biological counterparts.
 
-Your digit network had ~13,000 artificial neurons. A single cubic millimeter of brain tissue has ~50,000 biological neurons, each one as complex as a 1,000-node deep network. The human brain has roughly 86 billion of them.
+Your digit network had a few hundred artificial neurons, joined by about 13,000 connections. A single cubic millimeter of brain tissue has ~50,000 biological neurons, each one as complex as a 1,000-node deep network. The human brain has roughly 86 billion of them.
 
 **Discuss with your partner:** Does this change how you think about what you built on Tuesday? If AI neurons are so much simpler than biological ones, why does AI work at all? What does this gap mean for the analogy between brains and neural networks?`,
             },

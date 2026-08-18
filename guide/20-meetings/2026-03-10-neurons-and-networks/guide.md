@@ -12,22 +12,22 @@ Hands-on exploration of artificial neurons and neural networks through interacti
 - Stages 1-2 use Partner A (exploration)
 - Stage 6 uses Partner B (investigation)
 - Stage 7 uses Partner C (explain & learn)
-- the cards get sorted at the front, stacking near-duplicates
+- The cards get sorted at the front, stacking near-duplicates
 - You select which question groups investigate — pick one that's explorable with the demos
 
 **Pacing:**
-| # | Stage | Duration | Cumulative |
-|---|-------|----------|------------|
-| 1 | Explore: Single Neuron | 10m | 10m |
-| 2 | Explore: Digit Network | 15m | 25m |
-| 3 | Discussion: What Did You Notice? | 5m | 30m |
-| 4 | Generate Questions | 5m | 35m |
-| 5 | Question Review | 5m | 40m |
-| 6 | Investigate | 12m | 52m |
-| 7 | Explain & Learn | 12m | 64m |
-| 8 | Share Out | 8m | 72m |
-| 9 | Wrap-Up | 3m | 75m |
-| 10 | Feedback | 5m | 80m |
+| Stage | Duration | Cumulative |
+|-------|----------|------------|
+| Explore: Single Neuron | 10m | 10m |
+| Explore: Digit Network | 15m | 25m |
+| Discussion: What Did You Notice? | 5m | 30m |
+| Generate Questions | 5m | 35m |
+| Question Review | 5m | 40m |
+| Investigate | 12m | 52m |
+| Explain & Learn | 12m | 64m |
+| Share Out | 8m | 72m |
+| Wrap-Up | 3m | 75m |
+| Feedback | 5m | 80m |
 
 **Tips:**
 - During exploration stages, circulate and note interesting observations — use these in the discussion stage
@@ -173,7 +173,7 @@ _New partners investigate a question using the demos_
 
 > **Facilitation notes**
 >
-> New partners. Groups choose a question to investigate using the demos. Encourage them to actually experiment — not just discuss abstractly. their written answer captures their findings. During Share Out, look for groups that investigated different questions or arrived at different conclusions about the same question.
+> New partners. Groups choose a question to investigate using the demos. Encourage them to actually experiment — not just discuss abstractly. Their written answer captures their findings. During Share Out, look for groups that investigated different questions or arrived at different conclusions about the same question.
 
 **Grouping:** 2 per group
 
@@ -205,7 +205,7 @@ _New partners explain findings to each other_
 
 > **Facilitation notes**
 >
-> Third partner rotation. Each student explains what they investigated and what they found to someone who investigated something different. This is the jigsaw payoff — students learn from each other's investigations. their written answer captures what they learned from their new partner, not what they already knew.
+> Third partner rotation. Each student explains what they investigated and what they found to someone who investigated something different. This is the jigsaw payoff — students learn from each other's investigations. Their written answer captures what they learned from their new partner, not what they already knew.
 
 **Grouping:** 2 per group
 

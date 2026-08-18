@@ -28,7 +28,7 @@ First day introductions through AI-themed discussions
 
 ## Before class
 
-### Welcome to CS 199 UAI
+### Welcome to the course
 
 ## After
 
@@ -101,7 +101,7 @@ After the rounds, we'll briefly cover:
 > - **AI is part of course operations** - this is an experiment
 > - **Ethical complexity acknowledged** - using these tools isn't neutral
 >
-> **Discuss CBTF assessments**: Explain the conversational assessment approach we'll be using for quizzes. Students will want to know how this works and what to expect.
+> **Discuss how the quizzes will run**: Explain the conversational assessment approach we'll be using for quizzes. Students will want to know how this works and what to expect.
 >
 
 ---
