@@ -16,11 +16,12 @@ Before adapting anything, find out:
 
 1. **How long is the period?** The original is 75 minutes. Most stage plans assume it.
 2. **How many students?** The original had 25. Above 40, the collection patterns change shape and you should say so.
-3. **What AI access do students have?** Confirm they have some. See *How an activity can run* below.
-4. **Which readings can they actually get?** Most originals are paywalled. Assume they will substitute.
-5. **What are they teaching toward?** This is an elective with no downstream course depending on it. If theirs has prerequisites attached, the assessment story changes completely.
+3. **Can students move?** Fixed seats in rows, movable tables, or open floor. This matters more than class size and the original never had to ask it: several meetings are built on partner rotation, and a lecture hall with bolted seats cannot run one. In fixed seating, pair with a neighbour and keep the same pair all session, turn a row into a group of four by having the front pair turn around, and drop the Gallery Walk entirely -- half the room cannot circulate. Say which round you are cutting to buy the time back.
+4. **What AI access do students have?** Confirm they have some. See *How an activity can run* below.
+5. **Which readings can they actually get?** Most originals are paywalled. Assume they will substitute.
+6. **What are they teaching toward?** This is an elective with no downstream course depending on it. If theirs has prerequisites attached, the assessment story changes completely.
 
-Do not start editing until you know 1, 2, and 3.
+Do not start editing until you know 1, 2, 3, and 4.
 
 ## What teaching this requires
 

@@ -42,3 +42,7 @@ Every piece of work gets seen by ten or twelve people rather than four getting p
 The maker is standing next to their work and can answer questions. A projected grid cannot do that.
 
 And students talk to each other about what they made, which is the actual goal and which the grid was only approximating.
+
+## If the room does not allow it
+
+This pattern needs students on their feet. In a lecture hall with fixed seats it does not work, and no amount of adapting saves it. Substitute: the artifacts go up on the projector one at a time, the maker narrates for sixty seconds, and the rest of the room fills in the same gallery log. You lose the walking and the parallelism, which is most of what the pattern was for, and you spend the time serially instead. Budget ninety seconds per artifact and cut the number shown rather than the time each gets.

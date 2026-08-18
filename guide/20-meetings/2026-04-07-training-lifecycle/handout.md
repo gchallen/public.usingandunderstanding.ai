@@ -24,6 +24,8 @@ You'll work with a partner to identify how model behavior changes at each traini
 
 ### Stage 1: Explore: Match the Training Stage
 
+_10m together as a class. Nothing to write._
+
 **Group of 2.** Names: __________  __________  
 
 #### The Three Training Stages
@@ -44,7 +46,11 @@ The tool below generates a real response from each training stage for the same p
 
 ### Stage 2: Discussion: What Did You Notice?
 
+_10m together as a class. Nothing to write._
+
 ### Stage 3: Explore: Be the Preference Rater
+
+_10m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 
@@ -58,7 +64,11 @@ Now it's your turn. The tool below generates two responses to the same prompt, e
 
 ### Stage 4: Discussion: What Is 'Good' AI?
 
+_10m together as a class. Nothing to write._
+
 ### Stage 5: Generate Questions
+
+_10m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 
@@ -104,6 +114,8 @@ Enter at least 3 questions below.
 
 ### Stage 7: Investigate
 
+_10m together as a class. Nothing to write._
+
 **Group of 2.** Names: __________  __________  
 
 > **Card Sort.** Write each idea on its own card, with your name in the corner. Hand them forward.
@@ -135,6 +147,8 @@ Discuss this question with your partner. Use what you observed in the examples a
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Stage 8: Share Out
+
+_5m together as a class. Nothing to write._
 
 ### Stage 9: Feedback
 

@@ -34,6 +34,8 @@ The conversations in Rounds 2 and 3 are agent-guided so the feedback gets captur
 
 ### Stage 1: Round 1: What Changed in You?
 
+_10m together as a class. Nothing to write._
+
 **Group of 2.** Names: __________  __________  
 
 #### What Changed in You?
@@ -63,6 +65,8 @@ Then go forward, not backward. **What does flourishing alongside AI actually loo
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: What This Course Got Right
+
+_10m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 
@@ -97,6 +101,8 @@ Then push to the bet underneath: *what about the design* made it work? That is t
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 5: Round 3: What Should Change
+
+_10m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 

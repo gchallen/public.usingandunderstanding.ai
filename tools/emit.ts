@@ -338,6 +338,21 @@ function emitStage(stage: StageDefinition, index: number, ctx: EmitContext): str
   const stageCtx: EmitContext = { ...ctx, headingBase: 4, stageLabel: stage.label };
   out.push(`### Stage ${index + 1}: ${stage.label}`, "");
 
+  // A stage whose blocks are all instructor-only leaves the student a heading
+  // with nothing under it, which reads as a page that failed to print. Say what
+  // happens instead: the stage is real, it just is not written work.
+  const studentSees =
+    ctx.variant === "student" &&
+    stage.content.some(
+      (b) => handlingFor(b.type).kind === "substitute" || b.type !== "instructor-only"
+    );
+  if (ctx.variant === "student" && !studentSees) {
+    out.push(
+      `_${stage.estimatedTime ?? "A few minutes"} together as a class. Nothing to write._`,
+      ""
+    );
+  }
+
   // Only report what was actually measured. A stage start is trustworthy only
   // where a partnering step gated it, forcing the instructor to advance before
   // students could begin; elsewhere discussion started first and the timestamp

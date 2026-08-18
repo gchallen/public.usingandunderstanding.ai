@@ -39,6 +39,8 @@ On Tuesday you used AI to analyze data, create visualizations, and discover insi
 
 ### Stage 1: Round 1: Your Own Experience
 
+_10m together as a class. Nothing to write._
+
 **Group of 2.** Names: __________  __________  
 
 #### Your Own Experience
@@ -64,6 +66,8 @@ On Tuesday you used AI to analyze data, create visualizations, and present findi
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 3: Round 2: What's Actually Happening
+
+_10m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 
@@ -97,6 +101,8 @@ Your instructor will ask a few pairs to share what they discussed. Listen for id
 
 ### Stage 5: Round 3: Horse or Coal?
 
+_10m together as a class. Nothing to write._
+
 **Group of 2.** Names: __________  __________  
 
 #### Horse or Coal?
@@ -122,6 +128,8 @@ Lowrey's framework: horses were replaced by tractors and never adapted. Coal was
 Your instructor will ask a few pairs to share what they discussed. Listen for ideas that challenge or extend your own thinking.
 
 ### Stage 7: Round 4: Who Decides?
+
+_10m together as a class. Nothing to write._
 
 **Group of 2.** Names: __________  __________  
 

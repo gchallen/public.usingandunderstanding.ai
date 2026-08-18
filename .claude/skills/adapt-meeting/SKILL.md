@@ -1,17 +1,19 @@
 ---
 name: adapt-meeting
-description: Adapt one of the course meetings to a different classroom — period length, class size, AI access, and available readings. Use when someone wants to teach a meeting from this repo but their context differs from the original, or asks to shorten, lengthen, or resize an activity.
+description: Adapt one of the course meetings to a different classroom — period length, room layout, class size, AI access, and available readings. Use when someone wants to teach a meeting from this repo but their context differs from the original, or asks to shorten, lengthen, or resize an activity.
 ---
 
 # Adapting a meeting
 
 The meetings here were built for a 75-minute period, about 25 students, no prerequisites, and a custom website. Change any of those and the plan needs rework, not just trimming.
 
-Do not start editing until you have answers to the four questions below. Ask them together, in one message, and offer the original's values as the default so the instructor can accept quickly.
+Do not start editing until you have answers to the five questions below. Ask them together, in one message, and offer the original's values as the default so the instructor can accept quickly.
 
 ## 1. Ask
 
 **Period length.** The original is 75 minutes and the plans total about 80, so they already overrun. If theirs is shorter, you are cutting stages, not compressing them.
+
+**Room layout.** Fixed seats in rows, movable tables, or open floor. Ask this first; it constrains more than class size does and the original never had to ask it, because it had one room. Several meetings are built on partner rotation between stages, which bolted seating cannot run. In fixed seats: pair with a neighbour and keep that pair, make a four by having the front pair turn around, and drop the Gallery Walk, which needs students circulating. Say which round you cut to buy back the time.
 
 **Class size.** Around 25. Collection patterns change above 40: card sorting stops being feasible in the time available, and you should move to a sampling approach — collect from every student, sort only a subset, and say so out loud.
 

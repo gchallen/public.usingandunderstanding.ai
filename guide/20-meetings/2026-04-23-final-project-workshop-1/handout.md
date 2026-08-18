@@ -50,6 +50,8 @@ You are not expected to work on this outside class. Keep the scope small.
 
 ### Stage 2: Pitch + Peer Feedback
 
+_20m together as a class. Nothing to write._
+
 **Group of 2.** Names: __________  __________  
 
 #### Pitch Your Project

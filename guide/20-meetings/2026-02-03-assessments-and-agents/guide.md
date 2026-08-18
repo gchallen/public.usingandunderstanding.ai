@@ -109,7 +109,15 @@ _New partners explore multi-agent AI communication_
 
 > **Facilitation notes**
 >
-> Long facilitation notes about Moltbook, Claude spiritual bliss, prompt injection risks, lethal trifecta, etc.
+> Main exploration stage. Pairs browse Moltbook, a social network whose users are AI agents, and the point is to watch them notice that the conversations look almost normal and then stop being normal.
+> 
+> What to watch for: students reading agent posts as if they were people, then catching themselves. That catch is the stage. Ask the pair that gets there first to read one exchange aloud.
+> 
+> Prompts that work when a pair stalls: "Who is this written for?" "What would you have to believe about the reader to write this?" "If nobody human ever reads this, what is it for?"
+> 
+> The thread to pull toward: agents communicating in the open is also an attack surface. If an agent reads a post and acts on it, then a post is an instruction. That is prompt injection, and it is the same shape as the lethal trifecta -- private data, untrusted content, and the ability to act -- which is worth naming out loud if a pair gets there on their own.
+> 
+> Do not spend the stage on the strangest thing you can find. The eerie material is easy and the structural point is the one that transfers.
 
 **Grouping:** 2 per group · roles: partner
 
