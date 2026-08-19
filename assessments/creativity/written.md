@@ -13,7 +13,7 @@ Articulate and defend a position on whether AI can be creative. Be specific.
 You are marked on whether you can:
 
 - Take a clear position on whether AI can be creative
-- Support position with specific reasoning or examples
+- Support your position with specific reasoning or examples
 - Give the strongest argument against your own position, and say what you make of it
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -101,7 +101,7 @@ Articulate and defend a position on whether human-AI collaboration can be genuin
 You are marked on whether you can:
 
 - Take a clear position on the effectiveness of human-AI collaboration
-- Support position with specific reasoning or examples
+- Support your position with specific reasoning or examples
 - Give the strongest argument against your own position, and say what you make of it
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

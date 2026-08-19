@@ -467,7 +467,12 @@ function derivePacingTable(overview: string, meeting: MeetingDefinition): string
   // after trimming there is no trailing newline and the last row was left
   // behind: a stray four-column row contradicting the derived one directly
   // above it.
-  const table = /\*\*Pacing:?\*\*[^\n]*\n(?:\|[^\n]*(?:\n|$))+/;
+  // Blank lines between the label and the table are allowed, and the match is
+  // global. Requiring the table on the very next line meant one blank line --
+  // which changes nothing about how the markdown renders -- silently returned
+  // the hand-written table, shipping a guide whose total was 25 minutes adrift
+  // from the index with the mandatory feedback stage missing.
+  const table = /\*\*Pacing:?\*\*[^\n]*\n(?:[ \t]*\n)*(?:\|[^\n]*(?:\n|$))+/g;
   if (!table.test(overview)) return overview;
 
   let cumulative = 0;

@@ -35,7 +35,7 @@ Ask open first and specific only as needed. If you find yourself naming the conc
 
 **Open with something like:** Name a specific concept about how AI works.
 
-**Then, only where they have not got there on their own, get them to:** explain it in their own words; engage with a follow-up that pushes their understanding.
+**Then, only where they have not got there on their own, get them to:** explain it in their own words.
 
 **Criteria**
 

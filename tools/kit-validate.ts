@@ -26,7 +26,8 @@ export interface KitProblem {
     | "no-feedback-stage"
     | "unknown-dependency"
     | "undeclared-back-reference"
-    | "unlinked-reading";
+    | "unlinked-reading"
+    | "thin-criterion";
   message: string;
 }
 
@@ -99,6 +100,8 @@ function studentProse(meeting: MeetingDefinition): string {
       else if (Array.isArray(block.content)) visit(block.content);
     }
   };
+  // The summary and every feedback prompt print to the student handout too.
+  if (typeof meeting.frontmatter.summary === "string") parts.push(meeting.frontmatter.summary);
   visit(meeting.intro ?? []);
   for (const stage of meeting.activity?.stages ?? []) {
     // facilitationNotes and transition are instructor-side by definition.
@@ -106,6 +109,9 @@ function studentProse(meeting: MeetingDefinition): string {
     visit(stage.group?.content ?? []);
   }
   visit(meeting.outro ?? []);
+  for (const block of walk(meeting)) {
+    if (block.type === "feedback" && typeof block.prompt === "string") parts.push(block.prompt);
+  }
   return parts.join("\n");
 }
 
@@ -121,30 +127,34 @@ function endsWithFeedback(meeting: MeetingDefinition): boolean {
   return (last.content ?? []).some((b) => (b as { type?: string }).type === "feedback");
 }
 
-/** Any string field in the meeting, so prose checks do not depend on block shape. */
-function allProse(meeting: MeetingDefinition): string {
-  const parts: string[] = [];
-  for (const block of walk(meeting)) {
-    for (const value of Object.values(block)) {
-      if (typeof value === "string") parts.push(value);
-    }
-  }
-  return parts.join("\n");
-}
-
 function hasReadingBlock(meeting: MeetingDefinition): boolean {
   for (const block of walk(meeting)) if (block.type === "reading-link") return true;
   return false;
 }
 
+/**
+ * Student-facing only, both halves.
+ *
+ * The first version of this read every string on every block, which meant an
+ * expected-response prompt that prints only to the instructor guide could
+ * trigger a refusal saying "student prose names a reading", and a link inside
+ * an instructor-only block could suppress a real student-facing violation.
+ * That is the same mistake the back-reference check made and had fixed.
+ */
 function linksToAReading(meeting: MeetingDefinition): boolean {
-  return /\]\(\/readings\//.test(allProse(meeting));
+  return /\]\(\/readings\//.test(studentProse(meeting));
 }
 
-/** Prose that assigns something to read or watch without linking it. */
+/**
+ * Prose that assigns something to read or watch without linking it.
+ *
+ * "before today's discussion" used to be one of these. It is a scheduling
+ * phrase that names no reading, and it refused a build over "Charge your laptop
+ * before today's discussion."
+ */
 function namesAReading(meeting: MeetingDefinition): boolean {
-  return /\b(?:the reading|the article|the documentary|annotated transcript|before today's discussion|complete the reading)\b/i.test(
-    allProse(meeting)
+  return /\b(?:the reading|the article|the documentary|the annotated transcript|complete the reading|assigned reading)\b/i.test(
+    studentProse(meeting)
   );
 }
 

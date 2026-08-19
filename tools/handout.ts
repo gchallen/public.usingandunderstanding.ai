@@ -2,12 +2,12 @@
 /** Regenerate instructor guides and student handouts from the meeting definitions. */
 import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from "fs";
 import { basename, dirname, join, resolve } from "path";
-import { $ } from "bun";
 import type { MeetingDefinition } from "../content/types";
 import {
   assessmentToOralExam,
   assessmentToWrittenExam,
   buildAssessmentIndex,
+  thinCriteria,
 } from "./assessment-export";
 import { emitMeeting, type StageTiming } from "./emit";
 import { formatProblems, validateForKit } from "./kit-validate";
@@ -52,6 +52,15 @@ for (const file of readdirSync(join(ROOT, "readings"))) {
   shipped.set(basename(file, ".md"), { title, source });
 }
 
+// The assessments, from the same sources, so editing a criterion and running
+// this once updates the oral script, the paper, and the marking scheme together.
+const assessmentsDir = join(ROOT, "content/assessments");
+const assessmentFiles = existsSync(assessmentsDir)
+  ? readdirSync(assessmentsDir)
+      .filter((f) => f.endsWith(".md"))
+      .sort()
+  : [];
+
 const problems = [];
 for (const slug of slugs) {
   const meeting = (await import(join(meetingsDir, `${slug}.ts`))).default;
@@ -68,24 +77,32 @@ for (const slug of slugs) {
         const handling = handlingFor(blockType as Parameters<typeof handlingFor>[0]);
         return handling?.kind === "substitute" ? handling.pattern : null;
       },
-      new Set(slugs)
+      // Every meeting, not just the requested ones. Gating this on `slugs`
+      // meant `bun run handout <slug>` refused on all 11 meetings that
+      // declare a dependency, claiming the meeting they depend on "is not a
+      // meeting in this kit" while it sat in the same directory.
+      new Set(allSlugs)
     )
   );
+}
+
+// The assessments validate here too, before anything is written. Collecting
+// these after the refusal check meant the guard existed and never ran.
+for (const file of assessmentFiles) {
+  const raw = readFileSync(join(assessmentsDir, file), "utf-8");
+  for (const thin of thinCriteria(raw)) {
+    problems.push({
+      slug: basename(file, ".md"),
+      kind: "thin-criterion",
+      message: `"${thin.criterion}" says nothing to a student once its answer-bearing parenthetical is removed. Add a student-facing wording to STUDENT_WORDING in assessment-export.ts.`,
+    });
+  }
 }
 
 if (problems.length > 0) {
   console.error(`\nRefusing to generate. ${problems.length} problem(s):\n${formatProblems(problems)}\n`);
   process.exit(1);
 }
-
-// The assessments, from the same sources, so editing a criterion and running
-// this once updates the oral script, the paper, and the marking scheme together.
-const assessmentsDir = join(ROOT, "content/assessments");
-const assessmentFiles = existsSync(assessmentsDir)
-  ? readdirSync(assessmentsDir)
-      .filter((f) => f.endsWith(".md"))
-      .sort()
-  : [];
 
 // Emit everything before writing anything. The write loop used to be
 // unguarded, so a crash partway through left half the tree regenerated and half
@@ -182,8 +199,8 @@ try {
 }
 
 for (const slug of slugs) console.log(`  ${slug}`);
-if (requested.length === 0) {
-  console.log("  index");
-  if (assessmentFiles.length > 0) console.log(`  ${assessmentFiles.length} assessments`);
-}
-console.log(`${slugs.length} meetings regenerated`);
+// Both indexes and every assessment are rewritten on every run, including a
+// single-slug one. Reporting them only on a full run understated what changed.
+console.log("  index");
+if (assessmentFiles.length > 0) console.log(`  ${assessmentFiles.length} assessments`);
+console.log(`${slugs.length} meeting${slugs.length === 1 ? "" : "s"} regenerated`);

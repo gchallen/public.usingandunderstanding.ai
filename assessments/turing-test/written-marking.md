@@ -6,6 +6,12 @@ _The AI-conversation original ran all semester. Neither the oral nor the written
 
 **Partly met still exists.** What it cannot mean here is "got there only after I asked", which is most of what it meant in the original. On paper it means an answer that gestures at the criterion without landing it: names the thing but says nothing about it, or asserts what the criterion asks you to explain. The rubrics below keep that level and you should use it.
 
+**Criteria the student's page words differently.** These carried their answer inside a parenthetical, so the paper asks for the same thing without naming it. Mark against the original wording below; the student was asked this:
+
+- *Explains the basic setup (interrogator, two players, text-based communication)* → **Explain the setup: who takes part, and how they communicate**
+- *Understands the purpose (testing machine intelligence / imitation)* → **Say what the test is for, and what it is meant to show**
+- *Can describe what passing means (indistinguishable from human)* → **Say what has to happen for the machine to pass**
+
 **Criteria the paper asks for differently.** These needed somebody in the room, so the student's page asks for the nearest thing a person can do alone:
 
 - *Engages thoughtfully with counterarguments when challenged* → **Give the strongest argument against your own position, and say what you make of it**

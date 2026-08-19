@@ -156,7 +156,7 @@ You are marked on whether you can:
 
 ## 5. A Belief That Shifted
 
-Name a specific belief about AI you held entering the course and describe how (or whether) it has shifted, and why.
+Name a specific belief about AI you held entering the course and describe how (or whether) it has shifted, why.
 
 You are marked on whether you can:
 

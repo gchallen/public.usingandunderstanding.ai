@@ -279,7 +279,9 @@ defend their concern — only to name and explain it. One gentle follow-up at mo
 
 **What you are looking for:** Student names a specific belief about AI they held entering the course and describes how (or whether) it has shifted, and why
 
-**Open with something like:** Name a specific belief about AI you held entering the course and describe how (or whether) it has shifted, and why.
+**Open with something like:** Name a specific belief about AI you held entering the course.
+
+**Then, only where they have not got there on their own, get them to:** describe how (or whether) it has shifted, why.
 
 **Criteria**
 

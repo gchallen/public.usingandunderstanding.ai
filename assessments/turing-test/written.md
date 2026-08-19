@@ -13,8 +13,8 @@ Explain the Turing test. Be specific.
 You are marked on whether you can:
 
 - Explain the setup: who takes part, and how they communicate
-- Explain what Turing was trying to replace, and why
-- Say what the interrogator has to be unable to do
+- Say what the test is for, and what it is meant to show
+- Say what has to happen for the machine to pass
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

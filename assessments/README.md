@@ -84,11 +84,12 @@ in step by hand is how one of them ends up wrong.
 
 ## Before you use any of these
 
-Two of these name tools from the original course that your students cannot
-reach. Where that happens, the oral script and the marking scheme open with a
-*Before you use this* section, and the student paper opens with a box telling
-you not to photocopy it until you have replaced them. The other three carry no
-such section, because they need none.
+Three of these name things from the original course that your
+students cannot reach. Where that happens, the oral script and the marking
+scheme open with a *Before you use this* section. Where the reference sits in a
+question rather than in the notes to you, the student paper also opens with a box
+telling you not to photocopy it until you have replaced them: one of them.
+The other two carry no such section, because they need none.
 
 The assessment chapter in [the guide](../guide/00-front-matter/03-assessment.md)
 covers what the rest of the grade was, and why most of it was participation.

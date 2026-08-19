@@ -39,6 +39,6 @@ Put the round you are least attached to last, and say at the start that you may 
 
 Budget four to five minutes per collection point for the paper version. A collection point is a moment where you take work from every student, which on paper means cards handed forward. Showing it back is not a second one, so a stage that submits and a stage that displays count once between them.
 
-Counted that way, four of the twenty-five meetings have three: both scavenger hunts' second halves, Does AI Understand, and the websites lab. None has more than three. Three collection points is twelve to fifteen minutes of card handling the original did not need, which those meetings do not have spare, so decide in advance which round comes out.
+Counted that way, four of the twenty-five meetings have three: the second Scavenger Hunt, the Creative Media Lab, Does AI Understand, and the websites lab. None has more than three. Three collection points is twelve to fifteen minutes of card handling the original did not need, which those meetings do not have spare, so decide in advance which round comes out.
 
 And if you instrument your own course, gate the stages you want to measure. A stage that requires an action from students before they can begin will tell you the truth about how long it took. One that doesn't will tell you when you remembered to click.

@@ -175,12 +175,18 @@ function imperative(text: string): string {
 
 /** The pronoun half, for text a student reads rather than text about a student. */
 function youify(text: string): string {
-  return text
-    .replace(/\bthemselves\b/g, "yourself")
-    .replace(/\bthey'(d|ll|ve|re)\b/gi, "you'$1")
-    .replace(/\btheir\b/gi, "your")
-    .replace(/\bthey\b/gi, "you")
-    .replace(/\bthem\b/gi, "you");
+  return (
+    text
+      // "Supports position with specific reasoning" carries no pronoun, so the
+      // swaps below have nothing to convert and it reads clipped to a student.
+      .replace(/\bSupports? position\b/g, "Support your position")
+      .replace(/\bsupports? position\b/g, "support your position")
+      .replace(/\bthemselves\b/g, "yourself")
+      .replace(/\bthey'(d|ll|ve|re)\b/gi, "you'$1")
+      .replace(/\btheir\b/gi, "your")
+      .replace(/\bthey\b/gi, "you")
+      .replace(/\bthem\b/gi, "you")
+  );
 }
 
 function secondPerson(text: string): string {
@@ -258,8 +264,14 @@ function paperEquivalent(criterion: string): string | null {
  */
 const STUDENT_WORDING: Record<string, string> = {
   "Explains the basic setup": "Explain the setup: who takes part, and how they communicate",
-  "Understands the purpose": "Explain what Turing was trying to replace, and why",
-  "Can describe what passing means": "Say what the interrogator has to be unable to do",
+  // "Explain what Turing was trying to replace, and why" asked a different
+  // question from the one it is marked against: a student could answer it
+  // correctly, say nothing about testing intelligence through imitation, and
+  // the marker had no instruction to accept that.
+  "Understands the purpose": "Say what the test is for, and what it is meant to show",
+  // The previous wording, "say what the interrogator has to be unable to do",
+  // handed over the frame and left the student one verb to supply.
+  "Can describe what passing means": "Say what has to happen for the machine to pass",
 };
 
 /**
@@ -669,7 +681,10 @@ function splitTask(task: string): { open: string; then: string[] } {
     const first = part.split(" ")[0]?.toLowerCase() ?? "";
     // Only a clause that starts with an instruction is a follow-up. "and why"
     // is part of the sentence, not a second question.
+    // A trailing fragment like "and why" belongs to the clause before it, so
+    // glue it back on rather than abandoning a split that had worked.
     if (VERBS.has(first)) then.push(part);
+    else if (then.length > 0) then[then.length - 1] += `, ${part}`;
     else return { open: task, then: [] };
   }
   return { open, then };
@@ -715,7 +730,11 @@ function openingQuestion(p: Portion): string[] {
   // same instruction twice in a row.
   const alreadyAsks = question.then.some((c) => /counter-?argument|objection/i.test(c));
   const later = [
-    ...question.then.map((c) => c.charAt(0).toLowerCase() + c.slice(1)),
+    // The examiner *is* the follow-up, so "engage with a follow-up" is not
+    // something to get out of a student. The paper already dropped these.
+    ...question.then
+      .filter((c) => !/follow-?up/i.test(c))
+      .map((c) => c.charAt(0).toLowerCase() + c.slice(1)),
     ...(wantsPushback && !alreadyAsks
       ? ["say what the strongest thing someone could say against that is, and what they make of it"]
       : []),
@@ -819,6 +838,17 @@ export function assessmentToWrittenExam(raw: string): { paper: string; marking: 
   const scrubbedTable = (a.gradingScale ?? []).some(
     (g) => scrubGradeForPaper(g.description) !== g.description
   );
+  // Criteria whose student-facing wording was hand-written. The marker needs to
+  // know the student was asked something else, and the scheme said nothing.
+  const reworded: [string, string][] = [];
+  for (const p of portions) {
+    for (const c of p.criteria ?? []) {
+      if (NEEDS_AN_INTERVIEWER.test(c)) continue;
+      const stripped = withoutTheAnswer(withoutTheInterviewer(c)).trim();
+      const hand = STUDENT_WORDING[stripped];
+      if (hand) reworded.push([c, hand]);
+    }
+  }
   const substituted = interviewerBound.filter((c) => paperEquivalent(c) !== null);
   const dropped = interviewerBound.filter((c) => paperEquivalent(c) === null);
 
@@ -831,6 +861,14 @@ export function assessmentToWrittenExam(raw: string): { paper: string; marking: 
     "",
     '**Partly met still exists.** What it cannot mean here is "got there only after I asked", which is most of what it meant in the original. On paper it means an answer that gestures at the criterion without landing it: names the thing but says nothing about it, or asserts what the criterion asks you to explain. The rubrics below keep that level and you should use it.',
     "",
+    ...(reworded.length
+      ? [
+          "**Criteria the student's page words differently.** These carried their answer inside a parenthetical, so the paper asks for the same thing without naming it. Mark against the original wording below; the student was asked this:",
+          "",
+          ...reworded.map(([original, asked]) => `- *${original}* → **${asked}**`),
+          "",
+        ]
+      : []),
     ...(substituted.length
       ? [
           "**Criteria the paper asks for differently.** These needed somebody in the room, so the student's page asks for the nearest thing a person can do alone:",
@@ -992,7 +1030,27 @@ export function assessmentSummary(raw: string): {
  * drift the rest of the kit exists to prevent, in the file that advertises the
  * guarantee.
  */
+const NUMBER_WORDS = ["none", "one", "two", "three", "four", "five", "six", "seven", "eight"];
+const spellOut = (n: number): string => NUMBER_WORDS[n] ?? String(n);
+const capitalize = (s: string): string => s.charAt(0).toUpperCase() + s.slice(1);
+
 export function buildAssessmentIndex(entries: { slug: string; raw: string }[]): string {
+  // Counted, not asserted. These were hardcoded and had the two numbers the
+  // wrong way round, in the file whose whole subject is that this index is
+  // derived rather than typed.
+  const withNotice = entries.filter(
+    ({ raw }) => adaptationNotice(frontmatter(raw)).length > 0
+  ).length;
+  const withBox = entries.filter(({ raw }) => {
+    const a = frontmatter(raw);
+    return (
+      findCourseSpecific(
+        (a.portions ?? [])
+          .map((p) => `${p.title} ${p.goal ?? ""} ${(p.criteria ?? []).join(" ")}`)
+          .join(" ")
+      ).length > 0
+    );
+  }).length;
   const rows = entries.map(({ slug, raw }) => {
     const s = assessmentSummary(raw);
     return `| ${s.title} | ${s.category === "proctored" ? "graded" : "practice"} | ${
@@ -1084,11 +1142,12 @@ export function buildAssessmentIndex(entries: { slug: string; raw: string }[]): 
     "",
     "## Before you use any of these",
     "",
-    "Two of these name tools from the original course that your students cannot",
-    "reach. Where that happens, the oral script and the marking scheme open with a",
-    "*Before you use this* section, and the student paper opens with a box telling",
-    "you not to photocopy it until you have replaced them. The other three carry no",
-    "such section, because they need none.",
+    `${capitalize(spellOut(withNotice))} of these name things from the original course that your`,
+    "students cannot reach. Where that happens, the oral script and the marking",
+    "scheme open with a *Before you use this* section. Where the reference sits in a",
+    "question rather than in the notes to you, the student paper also opens with a box",
+    `telling you not to photocopy it until you have replaced them: ${spellOut(withBox)} of them.`,
+    `The other ${spellOut(entries.length - withNotice)} carry no such section, because they need none.`,
     "",
     "The assessment chapter in [the guide](../guide/00-front-matter/03-assessment.md)",
     "covers what the rest of the grade was, and why most of it was participation.",
